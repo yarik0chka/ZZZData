@@ -1,0 +1,22 @@
+[
+  {
+    "DamageHitTypeID": 0,
+    "Name": "HitType_None",
+    "Icon": "UI/Sprite/A1DynamicLoad/IconRoleCharacter/Packer/IconRoleCha01.png"
+  },
+  {
+    "DamageHitTypeID": 101,
+    "Name": "HitType_Cut",
+    "Icon": "UI/Sprite/A1DynamicLoad/IconDungeonBuff/UnPacker/IconDungeonBuffCut.png"
+  },
+  {
+    "DamageHitTypeID": 102,
+    "Name": "HitType_Punch",
+    "Icon": "UI/Sprite/A1DynamicLoad/IconDungeonBuff/UnPacker/IconDungeonBuffPunch.png"
+  },
+  {
+    "DamageHitTypeID": 103,
+    "Name": "HitType_Pierce",
+    "Icon": "UI/Sprite/A1DynamicLoad/IconDungeonBuff/UnPacker/IconDungeonBuffPierce.png"
+  }
+]

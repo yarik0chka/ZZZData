@@ -1,0 +1,8 @@
+[
+  { "RandPropertyLv": 1, "RandPropertyLvRate": 0, "RandWeightRate": 10000 },
+  { "RandPropertyLv": 2, "RandPropertyLvRate": 5000, "RandWeightRate": 5000 },
+  { "RandPropertyLv": 3, "RandPropertyLvRate": 10000, "RandWeightRate": 2500 },
+  { "RandPropertyLv": 4, "RandPropertyLvRate": 15000, "RandWeightRate": 1250 },
+  { "RandPropertyLv": 5, "RandPropertyLvRate": 20000, "RandWeightRate": 625 },
+  { "RandPropertyLv": 6, "RandPropertyLvRate": 25000, "RandWeightRate": 0 }
+]

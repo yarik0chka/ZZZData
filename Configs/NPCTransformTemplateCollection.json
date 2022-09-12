@@ -1,0 +1,4422 @@
+[
+  {
+    "ID": "Street_Teleport_ToGrocery",
+    "PositionX": -16.73,
+    "PositionY": 0.3,
+    "PositionZ": -5.624,
+    "RotationX": 0,
+    "RotationY": 180,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Teleport_ToRamenStore",
+    "PositionX": 5.41,
+    "PositionY": 0.32,
+    "PositionZ": -1.36,
+    "RotationX": 0,
+    "RotationY": 0,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Teleport_ToAudioVideoStore",
+    "PositionX": 18.23,
+    "PositionY": 0.36,
+    "PositionZ": -9.16,
+    "RotationX": 0,
+    "RotationY": 180,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_PlayerPos_Default",
+    "PositionX": 29.125,
+    "PositionY": 0,
+    "PositionZ": -4.375,
+    "RotationX": 0,
+    "RotationY": 270,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_PlayerPos_FromWorkshop",
+    "PositionX": 17.541,
+    "PositionY": 0.34003,
+    "PositionZ": 5.481,
+    "RotationX": 0,
+    "RotationY": 193.27106,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_PlayerPos_FromGarage",
+    "PositionX": 12.89,
+    "PositionY": 0.34,
+    "PositionZ": 10.71725,
+    "RotationX": 0,
+    "RotationY": 179.08109,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_PlayerPos_FromGrocery",
+    "PositionX": -17.177,
+    "PositionY": 0,
+    "PositionZ": 0,
+    "RotationX": 0,
+    "RotationY": 0,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_NPCPos_ToWorkshop",
+    "PositionX": 18.243,
+    "PositionY": 0.557,
+    "PositionZ": 8.079,
+    "RotationX": 0,
+    "RotationY": 209.99998,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_NPCPos_Smithy",
+    "PositionX": 18.208,
+    "PositionY": 0.95,
+    "PositionZ": -12.138,
+    "RotationX": 0,
+    "RotationY": 180,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_NPCPos_ToGarage",
+    "PositionX": 12.83,
+    "PositionY": 0.39287,
+    "PositionZ": 14.673,
+    "RotationX": 0,
+    "RotationY": 180,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_NPCPos_Test",
+    "PositionX": 0.75,
+    "PositionY": 0.31757,
+    "PositionZ": -4.5,
+    "RotationX": 0,
+    "RotationY": 90,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_NPCPos_Quest",
+    "PositionX": 7.875,
+    "PositionY": 0.5,
+    "PositionZ": -2.125,
+    "RotationX": 0,
+    "RotationY": 185,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_NPCPos_RamenStore",
+    "PositionX": 5.678,
+    "PositionY": 0.9,
+    "PositionZ": 1.753,
+    "RotationX": 0,
+    "RotationY": 185,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_NPCPos_TestS",
+    "PositionX": 6.761,
+    "PositionY": 0.3,
+    "PositionZ": -2.028,
+    "RotationX": 0,
+    "RotationY": 185,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_NPCPos_TestL",
+    "PositionX": 9.04,
+    "PositionY": 0.5,
+    "PositionZ": -2.227,
+    "RotationX": 0,
+    "RotationY": 185,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_NPCPos_Billy_Quest10020005",
+    "PositionX": 37.245,
+    "PositionY": 0.35,
+    "PositionZ": -1.786,
+    "RotationX": 0,
+    "RotationY": 0,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_NPCPos_Anbi_Quest10020005",
+    "PositionX": -22.37,
+    "PositionY": 0.36,
+    "PositionZ": -7.05,
+    "RotationX": 0,
+    "RotationY": 180,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_NPCPos_Car_Quest10020005",
+    "PositionX": 37.43,
+    "PositionY": 0.75,
+    "PositionZ": 3.26,
+    "RotationX": 0,
+    "RotationY": 270,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_NPCPos_Temp_Quest10020005",
+    "PositionX": 20.275,
+    "PositionY": 0.35,
+    "PositionZ": -10.2,
+    "RotationX": 0,
+    "RotationY": 326.98425,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_NPCPos_Billy_Quest10020006",
+    "PositionX": -28.05087,
+    "PositionY": 0.5,
+    "PositionZ": -4.7,
+    "RotationX": 0,
+    "RotationY": 52.99999,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_NPCPos_Anbi_Quest10020006",
+    "PositionX": -26.5,
+    "PositionY": 0.5,
+    "PositionZ": -5.98,
+    "RotationX": 0,
+    "RotationY": 0,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_NPCPos_Nocha_Quest10020008",
+    "PositionX": -1.042,
+    "PositionY": 0.393,
+    "PositionZ": -3.014,
+    "RotationX": 0,
+    "RotationY": 90,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_NPCPos_Temp_Quest10020015",
+    "PositionX": 19.36,
+    "PositionY": 0.393,
+    "PositionZ": 1.37,
+    "RotationX": 0,
+    "RotationY": 29.52794,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_NPCPos_Bangboo_Quest10020018",
+    "PositionX": 11.3,
+    "PositionY": 0.393,
+    "PositionZ": -0.25,
+    "RotationX": 0,
+    "RotationY": 180,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_NPCPos_Temp_Quest10020020",
+    "PositionX": -9.17,
+    "PositionY": 0.393,
+    "PositionZ": -10.86,
+    "RotationX": 0,
+    "RotationY": 0,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_NPCPos_Temp_Quest10020021",
+    "PositionX": 6.67203,
+    "PositionY": 0.393,
+    "PositionZ": -8.174,
+    "RotationX": 0,
+    "RotationY": 84.99999,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_NPCPos_BangbooA_Quest10020006",
+    "PositionX": -16.869,
+    "PositionY": 0.729,
+    "PositionZ": -8.124,
+    "RotationX": 0,
+    "RotationY": 0,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_NPCPos_BangbooB_Quest10020006",
+    "PositionX": -17.556,
+    "PositionY": 0.729,
+    "PositionZ": -8.124,
+    "RotationX": 0,
+    "RotationY": 0,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_NPCPos_BangbooC_Quest10020006",
+    "PositionX": -16.186,
+    "PositionY": 0.729,
+    "PositionZ": -8.097,
+    "RotationX": 0,
+    "RotationY": 0,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_CameraPos_Grocery",
+    "PositionX": -16.866,
+    "PositionY": 0.98,
+    "PositionZ": -1.508,
+    "RotationX": 0,
+    "RotationY": 180,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_CameraPos_RamenStore",
+    "PositionX": 2.48,
+    "PositionY": 2.45,
+    "PositionZ": -2.52,
+    "RotationX": 10.60003,
+    "RotationY": 45.5,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_CameraPos_RamenStore_PC",
+    "PositionX": 2.67,
+    "PositionY": 2.4,
+    "PositionZ": -2.29,
+    "RotationX": 10.8,
+    "RotationY": 44,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_CameraPos_Workshop",
+    "PositionX": 18.71,
+    "PositionY": 0.91,
+    "PositionZ": -9.14,
+    "RotationX": 10.60001,
+    "RotationY": 180,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "TriggerPos_1",
+    "PositionX": 35.5,
+    "PositionY": 0.31757,
+    "PositionZ": -4.5,
+    "RotationX": 0,
+    "RotationY": 270,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_NPCPos_Grocery",
+    "PositionX": -18.928,
+    "PositionY": 0.95,
+    "PositionZ": -9.358,
+    "RotationX": 0,
+    "RotationY": 324.60001,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_NPCPos_TestBear",
+    "PositionX": 10.929,
+    "PositionY": 0.5,
+    "PositionZ": -2.392,
+    "RotationX": 0,
+    "RotationY": 185,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_PlayerPos_FromGarage2",
+    "PositionX": 4.15,
+    "PositionY": 0,
+    "PositionZ": 19.17,
+    "RotationX": 0,
+    "RotationY": 270,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_NPCPos_ToGarage2",
+    "PositionX": 8.618,
+    "PositionY": 0.39287,
+    "PositionZ": 19.235,
+    "RotationX": 0,
+    "RotationY": 270,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_A1",
+    "PositionX": 6.168,
+    "PositionY": 0.35,
+    "PositionZ": 0.017,
+    "RotationX": 0,
+    "RotationY": 0,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_A2",
+    "PositionX": 7,
+    "PositionY": 0.48,
+    "PositionZ": -0.027,
+    "RotationX": 0,
+    "RotationY": 0,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_B1",
+    "PositionX": 14.832,
+    "PositionY": 0.35,
+    "PositionZ": 1.667,
+    "RotationX": 0,
+    "RotationY": 169.99998,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_B2",
+    "PositionX": 15.41,
+    "PositionY": 0.35,
+    "PositionZ": 1.09,
+    "RotationX": 0,
+    "RotationY": 240,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_C1",
+    "PositionX": -27.068,
+    "PositionY": 0.35,
+    "PositionZ": 5.609,
+    "RotationX": 0,
+    "RotationY": 230.92207,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_C2",
+    "PositionX": -26.701,
+    "PositionY": 0.35,
+    "PositionZ": 6.222,
+    "RotationX": 0,
+    "RotationY": 298.08884,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_D1",
+    "PositionX": -12.857,
+    "PositionY": 0.35,
+    "PositionZ": -11.668,
+    "RotationX": 0,
+    "RotationY": 32.81414,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_D2",
+    "PositionX": -12.635,
+    "PositionY": 0.35,
+    "PositionZ": -10.965,
+    "RotationX": 0,
+    "RotationY": 189.98178,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_ObjectPos_08",
+    "PositionX": -14.573,
+    "PositionY": -0.013,
+    "PositionZ": -12.512,
+    "RotationX": 0,
+    "RotationY": 0,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_ObjectPos_10",
+    "PositionX": -14.303,
+    "PositionY": 1.375,
+    "PositionZ": -11.119,
+    "RotationX": 0,
+    "RotationY": 0,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_ObjectPos_09",
+    "PositionX": -13.948,
+    "PositionY": 0.092,
+    "PositionZ": -18.786,
+    "RotationX": 0,
+    "RotationY": 0,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_09",
+    "PositionX": -5.95,
+    "PositionY": 0.35,
+    "PositionZ": 11.106,
+    "RotationX": 0,
+    "RotationY": 32.66373,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_10",
+    "PositionX": -5.734,
+    "PositionY": 0.35,
+    "PositionZ": 12.094,
+    "RotationX": 0,
+    "RotationY": 176.94084,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_11",
+    "PositionX": 2.162,
+    "PositionY": 0.4,
+    "PositionZ": -9.208,
+    "RotationX": 0,
+    "RotationY": 86.23466,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_12",
+    "PositionX": 2.898,
+    "PositionY": 0.4,
+    "PositionZ": -9.705,
+    "RotationX": 0,
+    "RotationY": 344.81543,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_13",
+    "PositionX": 16.917,
+    "PositionY": 0.35,
+    "PositionZ": -10.73,
+    "RotationX": 0,
+    "RotationY": 196.76297,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_14",
+    "PositionX": 16.337,
+    "PositionY": 0.35,
+    "PositionZ": -10.233,
+    "RotationX": 0,
+    "RotationY": 150,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_15",
+    "PositionX": 21.459,
+    "PositionY": 0.36,
+    "PositionZ": -8.39,
+    "RotationX": 0,
+    "RotationY": 231.98558,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_16",
+    "PositionX": 20.742,
+    "PositionY": 0.35,
+    "PositionZ": -8.932,
+    "RotationX": 0,
+    "RotationY": 48.55833,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_17",
+    "PositionX": 15.15,
+    "PositionY": 0.35,
+    "PositionZ": 7.51,
+    "RotationX": 0,
+    "RotationY": 212.18704,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_18",
+    "PositionX": 14.808,
+    "PositionY": 0.35,
+    "PositionZ": 6.799,
+    "RotationX": 0,
+    "RotationY": 29.95915,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_19",
+    "PositionX": -9.383,
+    "PositionY": 0.35,
+    "PositionZ": -0.624,
+    "RotationX": 0,
+    "RotationY": 261.22681,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_20",
+    "PositionX": -10.141,
+    "PositionY": 0.35,
+    "PositionZ": -1.371,
+    "RotationX": 0,
+    "RotationY": 64.0559,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_21",
+    "PositionX": -17.508,
+    "PositionY": 0.35,
+    "PositionZ": -0.558,
+    "RotationX": 0,
+    "RotationY": 339.64786,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_22",
+    "PositionX": -17.19,
+    "PositionY": 0.35,
+    "PositionZ": 0.057,
+    "RotationX": 0,
+    "RotationY": 286.36243,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_23",
+    "PositionX": -11.63,
+    "PositionY": 0.35,
+    "PositionZ": -18.32,
+    "RotationX": 0,
+    "RotationY": 291.77817,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_24",
+    "PositionX": -12.63,
+    "PositionY": 0.35,
+    "PositionZ": -18.43,
+    "RotationX": 0,
+    "RotationY": 27.8,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_25",
+    "PositionX": -11.539,
+    "PositionY": 0.35,
+    "PositionZ": -17.535,
+    "RotationX": 0,
+    "RotationY": 234.79996,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_26",
+    "PositionX": -13.04,
+    "PositionY": 0.35,
+    "PositionZ": -18.03,
+    "RotationX": 0,
+    "RotationY": 66.79999,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_27",
+    "PositionX": -26.85,
+    "PositionY": 0.569,
+    "PositionZ": 12.797,
+    "RotationX": 0,
+    "RotationY": 20.89114,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_28",
+    "PositionX": -27.431,
+    "PositionY": 0.38,
+    "PositionZ": 13.319,
+    "RotationX": 0,
+    "RotationY": 223.54056,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_29",
+    "PositionX": 22.296,
+    "PositionY": 0.35,
+    "PositionZ": -8.766,
+    "RotationX": 0,
+    "RotationY": 151.64432,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_30",
+    "PositionX": 22.839,
+    "PositionY": 0.528,
+    "PositionZ": -9.841,
+    "RotationX": 0,
+    "RotationY": 332.39041,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_31",
+    "PositionX": -34.693,
+    "PositionY": 0.373,
+    "PositionZ": 12.751,
+    "RotationX": 0,
+    "RotationY": 324.8782,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_32",
+    "PositionX": -35.538,
+    "PositionY": 0.3793,
+    "PositionZ": 13.14,
+    "RotationX": 0,
+    "RotationY": 116.70426,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_NPCPos_Quest10020151",
+    "PositionX": -4.574,
+    "PositionY": 0.3346,
+    "PositionZ": 1.6568,
+    "RotationX": 0,
+    "RotationY": 10.32042,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_NPCPos_Quest10020152",
+    "PositionX": 14.23,
+    "PositionY": 0.35,
+    "PositionZ": -9.95,
+    "RotationX": 0,
+    "RotationY": 0,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_NPCPos_Quest10020153",
+    "PositionX": 11.12,
+    "PositionY": 0.4,
+    "PositionZ": -8.17,
+    "RotationX": 0,
+    "RotationY": 0,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_NPCPos_Quest10020154",
+    "PositionX": 24.721,
+    "PositionY": 0.348,
+    "PositionZ": 4.248,
+    "RotationX": 0,
+    "RotationY": 289.53577,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_NPCPos_Quest10020155",
+    "PositionX": -1.79,
+    "PositionY": 0.395,
+    "PositionZ": -21.504,
+    "RotationX": 0,
+    "RotationY": 321.61935,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_NPCPos_Quest10020156",
+    "PositionX": 27.16,
+    "PositionY": 0.35,
+    "PositionZ": -1.49,
+    "RotationX": 0,
+    "RotationY": 190,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_NPCPos_Quest10020157",
+    "PositionX": 3.28,
+    "PositionY": 0.35,
+    "PositionZ": 1.465,
+    "RotationX": 0,
+    "RotationY": 90,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_NPCPos_Quest10020158",
+    "PositionX": 1.35,
+    "PositionY": 0.4,
+    "PositionZ": -1.38,
+    "RotationX": 0,
+    "RotationY": 180,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_33",
+    "PositionX": -26.297,
+    "PositionY": 0.35,
+    "PositionZ": -8.271,
+    "RotationX": 0,
+    "RotationY": 123.11625,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_34",
+    "PositionX": -25.442,
+    "PositionY": 0.35,
+    "PositionZ": -8.919,
+    "RotationX": 0,
+    "RotationY": 318.86185,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_35",
+    "PositionX": 10.662,
+    "PositionY": 0.37,
+    "PositionZ": 1.331,
+    "RotationX": 0,
+    "RotationY": 233.42654,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_36",
+    "PositionX": 10.038,
+    "PositionY": 0.36,
+    "PositionZ": 1.146,
+    "RotationX": 0,
+    "RotationY": 193.91667,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_37",
+    "PositionX": 1.222,
+    "PositionY": 0.35,
+    "PositionZ": 17.124,
+    "RotationX": 0,
+    "RotationY": 73.19746,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_38",
+    "PositionX": 2.177,
+    "PositionY": 0.35,
+    "PositionZ": 17.239,
+    "RotationX": 0,
+    "RotationY": 295.93552,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_39",
+    "PositionX": -7.65,
+    "PositionY": 0.35,
+    "PositionZ": -11.34,
+    "RotationX": 0,
+    "RotationY": 317.07599,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_40",
+    "PositionX": -8.56,
+    "PositionY": 0.35,
+    "PositionZ": -10.89,
+    "RotationX": 0,
+    "RotationY": 62.40825,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_41",
+    "PositionX": -21.485,
+    "PositionY": 0.35,
+    "PositionZ": -7.556,
+    "RotationX": 0,
+    "RotationY": 231.75189,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_42",
+    "PositionX": -22.217,
+    "PositionY": 0.36,
+    "PositionZ": -7.046,
+    "RotationX": 0,
+    "RotationY": 135.27699,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_43",
+    "PositionX": -26.552,
+    "PositionY": 0.355,
+    "PositionZ": 0.922,
+    "RotationX": 0,
+    "RotationY": 329.71353,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_44",
+    "PositionX": -26.563,
+    "PositionY": 0.36,
+    "PositionZ": 1.809,
+    "RotationX": 0,
+    "RotationY": 203.36967,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_45",
+    "PositionX": -29.2,
+    "PositionY": 0.39,
+    "PositionZ": -5.888,
+    "RotationX": 0,
+    "RotationY": 61.42846,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_46",
+    "PositionX": -14.932,
+    "PositionY": 0.35,
+    "PositionZ": -29.664,
+    "RotationX": 0,
+    "RotationY": 79.99999,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_47",
+    "PositionX": 11.51,
+    "PositionY": 0.35,
+    "PositionZ": -13.93,
+    "RotationX": 0,
+    "RotationY": 209.63834,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_48",
+    "PositionX": -22.751,
+    "PositionY": 0.36,
+    "PositionZ": -7.545,
+    "RotationX": 0,
+    "RotationY": 109.76276,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_49",
+    "PositionX": 2.386,
+    "PositionY": 0.4,
+    "PositionZ": -9.954,
+    "RotationX": 0,
+    "RotationY": 19.77401,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_50",
+    "PositionX": 3.13,
+    "PositionY": 0.4,
+    "PositionZ": -9.31,
+    "RotationX": 0,
+    "RotationY": 245.81375,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_51",
+    "PositionX": -2.53,
+    "PositionY": 0.35,
+    "PositionZ": -29.03,
+    "RotationX": 0,
+    "RotationY": 20.00001,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_ObjectPos_11",
+    "PositionX": -6.0202,
+    "PositionY": 1.62,
+    "PositionZ": -36.027,
+    "RotationX": 0,
+    "RotationY": 0,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_52",
+    "PositionX": -1.89,
+    "PositionY": 0.35,
+    "PositionZ": -29.04,
+    "RotationX": 0,
+    "RotationY": 330,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_53",
+    "PositionX": -5.976,
+    "PositionY": 0.35,
+    "PositionZ": -1.683,
+    "RotationX": 0,
+    "RotationY": 295.77307,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_54",
+    "PositionX": -6.768,
+    "PositionY": 0.35,
+    "PositionZ": -1.331,
+    "RotationX": 0,
+    "RotationY": 119.76264,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_55",
+    "PositionX": 2.566,
+    "PositionY": 0.35,
+    "PositionZ": -1.384,
+    "RotationX": 0,
+    "RotationY": 65.57031,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_56",
+    "PositionX": 3.203,
+    "PositionY": 0.35,
+    "PositionZ": -1.407,
+    "RotationX": 0,
+    "RotationY": 340.54376,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_57",
+    "PositionX": -19.31,
+    "PositionY": 0.35,
+    "PositionZ": -7.24,
+    "RotationX": 0,
+    "RotationY": 50,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_58",
+    "PositionX": -18.45,
+    "PositionY": 0.35,
+    "PositionZ": -6.99,
+    "RotationX": 0,
+    "RotationY": 270,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_59",
+    "PositionX": -2.315,
+    "PositionY": 0.35,
+    "PositionZ": -25.478,
+    "RotationX": 0,
+    "RotationY": 240,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_60",
+    "PositionX": -2.538,
+    "PositionY": 0.35,
+    "PositionZ": -26.063,
+    "RotationX": 0,
+    "RotationY": 20.00001,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_61",
+    "PositionX": -4.613,
+    "PositionY": 0.3373,
+    "PositionZ": 0.009,
+    "RotationX": 0,
+    "RotationY": 171.87192,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_62",
+    "PositionX": -4.637,
+    "PositionY": 0.357,
+    "PositionZ": 1.647,
+    "RotationX": 0,
+    "RotationY": 184.25121,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_63",
+    "PositionX": 16.305,
+    "PositionY": 0.35,
+    "PositionZ": -10.866,
+    "RotationX": 0,
+    "RotationY": 69.14664,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_64",
+    "PositionX": 17,
+    "PositionY": 0.35,
+    "PositionZ": -10.3,
+    "RotationX": 0,
+    "RotationY": 212.32573,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_65",
+    "PositionX": 9.307,
+    "PositionY": 0.38,
+    "PositionZ": -28.054,
+    "RotationX": 0,
+    "RotationY": 205.75116,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_66",
+    "PositionX": 9.613,
+    "PositionY": 0.38,
+    "PositionZ": -29.102,
+    "RotationX": 0,
+    "RotationY": 332.5571,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_67",
+    "PositionX": -7.099,
+    "PositionY": 0.4991,
+    "PositionZ": 11.649,
+    "RotationX": 0,
+    "RotationY": 63.06116,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_68",
+    "PositionX": -6.042,
+    "PositionY": 0.35,
+    "PositionZ": 12.561,
+    "RotationX": 0,
+    "RotationY": 227.34982,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_69",
+    "PositionX": 22.433,
+    "PositionY": 0.35,
+    "PositionZ": 6.054,
+    "RotationX": 0,
+    "RotationY": 317.61322,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_70",
+    "PositionX": -19.002,
+    "PositionY": 0.35,
+    "PositionZ": -1.416,
+    "RotationX": 0,
+    "RotationY": 154.39163,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_71",
+    "PositionX": -25.812,
+    "PositionY": 0.71,
+    "PositionZ": 15.861,
+    "RotationX": 0,
+    "RotationY": 317.13211,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_ObjectPos_06",
+    "PositionX": -26.43,
+    "PositionY": 1.8,
+    "PositionZ": 16.614,
+    "RotationX": 0,
+    "RotationY": 0,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_ObjectPos_07",
+    "PositionX": -24.915,
+    "PositionY": 0.996,
+    "PositionZ": 12.736,
+    "RotationX": 0,
+    "RotationY": 0,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_72",
+    "PositionX": 32.834,
+    "PositionY": 0.35,
+    "PositionZ": -7.017,
+    "RotationX": 0,
+    "RotationY": 325.03073,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_73",
+    "PositionX": -7.586,
+    "PositionY": 0.4,
+    "PositionZ": -0.346,
+    "RotationX": 0,
+    "RotationY": 136.72357,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_74",
+    "PositionX": -26.168,
+    "PositionY": 0.5651,
+    "PositionZ": 12.814,
+    "RotationX": 0,
+    "RotationY": 205.99687,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_ObjectPos_05",
+    "PositionX": -26.783,
+    "PositionY": 1.263,
+    "PositionZ": 10.008,
+    "RotationX": 0,
+    "RotationY": 110,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_75",
+    "PositionX": -26.378,
+    "PositionY": 0.35,
+    "PositionZ": 6.141,
+    "RotationX": 0,
+    "RotationY": 288.5228,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_76",
+    "PositionX": -6.893,
+    "PositionY": 0.64,
+    "PositionZ": 15.257,
+    "RotationX": 0,
+    "RotationY": 50.22827,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_77",
+    "PositionX": -11.306,
+    "PositionY": 0.35,
+    "PositionZ": -9.496,
+    "RotationX": 0,
+    "RotationY": 119.16231,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_78",
+    "PositionX": -32.834,
+    "PositionY": 0.35,
+    "PositionZ": -2.719,
+    "RotationX": 0,
+    "RotationY": 50,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_ObjectPos_02",
+    "PositionX": -35.7,
+    "PositionY": 1.556,
+    "PositionZ": -6.62,
+    "RotationX": 0,
+    "RotationY": 0,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_79",
+    "PositionX": -35.854,
+    "PositionY": 0.38,
+    "PositionZ": 4.449,
+    "RotationX": 0,
+    "RotationY": 330,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_80",
+    "PositionX": -0.168,
+    "PositionY": 0.388,
+    "PositionZ": 21.145,
+    "RotationX": 0,
+    "RotationY": 247.54602,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_ObjectPos_13",
+    "PositionX": 1.141,
+    "PositionY": 0.836,
+    "PositionZ": 15.84,
+    "RotationX": 0,
+    "RotationY": 0,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_81",
+    "PositionX": 9.372,
+    "PositionY": 0.36,
+    "PositionZ": -8.746,
+    "RotationX": 0,
+    "RotationY": 319.89386,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_NPCPos_Quest10020118",
+    "PositionX": 0.46,
+    "PositionY": 0.4,
+    "PositionZ": 16.07,
+    "RotationX": 0,
+    "RotationY": 132.127,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_NPCPos_Joe",
+    "PositionX": 14.487,
+    "PositionY": 0.344,
+    "PositionZ": 7.658,
+    "RotationX": 0,
+    "RotationY": 117.47181,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_82",
+    "PositionX": 1.345,
+    "PositionY": 0.35,
+    "PositionZ": -29.269,
+    "RotationX": 0,
+    "RotationY": 318.21954,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_83",
+    "PositionX": -29.28,
+    "PositionY": 0.36,
+    "PositionZ": -6.019,
+    "RotationX": 0,
+    "RotationY": 92.8725,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_84",
+    "PositionX": -20.485,
+    "PositionY": 0.35,
+    "PositionZ": -8.332,
+    "RotationX": 0,
+    "RotationY": 218.35194,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_85",
+    "PositionX": 11.059,
+    "PositionY": 0.35,
+    "PositionZ": 5.281,
+    "RotationX": 0,
+    "RotationY": 120.00001,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_86",
+    "PositionX": 12.09,
+    "PositionY": 0.36,
+    "PositionZ": -5.24,
+    "RotationX": 0,
+    "RotationY": 320,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_87",
+    "PositionX": 12.09,
+    "PositionY": 0.36,
+    "PositionZ": -5.24,
+    "RotationX": 0,
+    "RotationY": 320,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_88",
+    "PositionX": 12.09,
+    "PositionY": 0.36,
+    "PositionZ": -5.24,
+    "RotationX": 0,
+    "RotationY": 320,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_89",
+    "PositionX": 12.743,
+    "PositionY": 0.35,
+    "PositionZ": -10.13,
+    "RotationX": 0,
+    "RotationY": 52.06183,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_90",
+    "PositionX": -26.65,
+    "PositionY": 0.36,
+    "PositionZ": 6.866,
+    "RotationX": 0,
+    "RotationY": 260,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_91",
+    "PositionX": -13.317,
+    "PositionY": 0.35,
+    "PositionZ": -1.324,
+    "RotationX": 0,
+    "RotationY": 154.53731,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_92",
+    "PositionX": 7.02,
+    "PositionY": 0.33,
+    "PositionZ": 0.0589,
+    "RotationX": 0,
+    "RotationY": 0,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_93",
+    "PositionX": 12.09,
+    "PositionY": 0.36,
+    "PositionZ": -5.24,
+    "RotationX": 0,
+    "RotationY": 320,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_94",
+    "PositionX": 24.156,
+    "PositionY": 0.36,
+    "PositionZ": -0.589,
+    "RotationX": 0,
+    "RotationY": 258.23029,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_95",
+    "PositionX": -8.074,
+    "PositionY": 0.35,
+    "PositionZ": -11.114,
+    "RotationX": 0,
+    "RotationY": 321.74228,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_96",
+    "PositionX": 32.996,
+    "PositionY": 0.35,
+    "PositionZ": -7.036,
+    "RotationX": 0,
+    "RotationY": 298.86584,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_97",
+    "PositionX": -2.633,
+    "PositionY": 0.35,
+    "PositionZ": -25.815,
+    "RotationX": 0,
+    "RotationY": 294.18304,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_98",
+    "PositionX": -14.06,
+    "PositionY": 0.36,
+    "PositionZ": -7.276,
+    "RotationX": 0,
+    "RotationY": 289.05328,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_99",
+    "PositionX": -26.389,
+    "PositionY": 0.356,
+    "PositionZ": 7.356,
+    "RotationX": 0,
+    "RotationY": 257.54462,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_100",
+    "PositionX": 28.999,
+    "PositionY": 0.36,
+    "PositionZ": -7.249,
+    "RotationX": 0,
+    "RotationY": 36.28022,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_101",
+    "PositionX": 4.87,
+    "PositionY": 0.36,
+    "PositionZ": -29.65,
+    "RotationX": 0,
+    "RotationY": 180,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_102",
+    "PositionX": -26.387,
+    "PositionY": 0.35,
+    "PositionZ": 7.338,
+    "RotationX": 0,
+    "RotationY": 249.63678,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_103",
+    "PositionX": 12.09,
+    "PositionY": 0.31,
+    "PositionZ": -5.24,
+    "RotationX": 0,
+    "RotationY": 320,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_104",
+    "PositionX": 14.6,
+    "PositionY": 0.36,
+    "PositionZ": 8.1,
+    "RotationX": 0,
+    "RotationY": 210,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_105",
+    "PositionX": 2.127,
+    "PositionY": 0.4,
+    "PositionZ": -9.184,
+    "RotationX": 0,
+    "RotationY": 33.36407,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_106",
+    "PositionX": 12.09,
+    "PositionY": 0.36,
+    "PositionZ": -5.24,
+    "RotationX": 0,
+    "RotationY": 320,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_107",
+    "PositionX": 3.32,
+    "PositionY": 0.48,
+    "PositionZ": 1.472,
+    "RotationX": 0,
+    "RotationY": 90,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_108",
+    "PositionX": 12.09,
+    "PositionY": 0.36,
+    "PositionZ": -5.24,
+    "RotationX": 0,
+    "RotationY": 320,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_109",
+    "PositionX": -26.7,
+    "PositionY": 0.36,
+    "PositionZ": 7.295,
+    "RotationX": 0,
+    "RotationY": 260,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_110",
+    "PositionX": 12.09,
+    "PositionY": 0.36,
+    "PositionZ": -5.24,
+    "RotationX": 0,
+    "RotationY": 320,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_111",
+    "PositionX": -14.558,
+    "PositionY": 0.35,
+    "PositionZ": -8.069,
+    "RotationX": 0,
+    "RotationY": 288.58353,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_112",
+    "PositionX": -4.577,
+    "PositionY": 0.353,
+    "PositionZ": 1.663,
+    "RotationX": 0,
+    "RotationY": 194.16655,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_113",
+    "PositionX": 11.049,
+    "PositionY": 0.35,
+    "PositionZ": 5.16,
+    "RotationX": 0,
+    "RotationY": 115.38074,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_114",
+    "PositionX": 12.09,
+    "PositionY": 0.36,
+    "PositionZ": -5.24,
+    "RotationX": 0,
+    "RotationY": 320,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_NPCPos_Xiute",
+    "PositionX": 15.328,
+    "PositionY": 0.347,
+    "PositionZ": 7.214,
+    "RotationX": 0,
+    "RotationY": 298.45078,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_NPCPos_No11_01",
+    "PositionX": 5.784,
+    "PositionY": 0.35,
+    "PositionZ": -35.839,
+    "RotationX": 0,
+    "RotationY": 240,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_NPCPos_Keli_01",
+    "PositionX": 5.12,
+    "PositionY": 0.36,
+    "PositionZ": -36.21,
+    "RotationX": 0,
+    "RotationY": 50,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_NPCPos_No11_01End",
+    "PositionX": 6.64,
+    "PositionY": 0.35,
+    "PositionZ": -35.06,
+    "RotationX": 0,
+    "RotationY": 10,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_501",
+    "PositionX": -26.61,
+    "PositionY": 0.69,
+    "PositionZ": 16.044,
+    "RotationX": 0,
+    "RotationY": 28.75916,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_502",
+    "PositionX": -22.804,
+    "PositionY": 0.36,
+    "PositionZ": -7.391,
+    "RotationX": 0,
+    "RotationY": 60.44901,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_503",
+    "PositionX": -22.058,
+    "PositionY": 0.36,
+    "PositionZ": -7.339,
+    "RotationX": 0,
+    "RotationY": 324.42499,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_115",
+    "PositionX": 3.28,
+    "PositionY": 0.4537,
+    "PositionZ": 1.464,
+    "RotationX": 0,
+    "RotationY": 90,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_116",
+    "PositionX": 8.16,
+    "PositionY": 0.48,
+    "PositionZ": 2.362,
+    "RotationX": 0,
+    "RotationY": 270,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_117",
+    "PositionX": -4.593,
+    "PositionY": 0.351,
+    "PositionZ": 0.1033,
+    "RotationX": 0,
+    "RotationY": 343.36163,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_118",
+    "PositionX": -4.43,
+    "PositionY": 0.49,
+    "PositionZ": 1.48,
+    "RotationX": 0,
+    "RotationY": 180,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_119",
+    "PositionX": -25.591,
+    "PositionY": 0.35,
+    "PositionZ": -6.895,
+    "RotationX": 0,
+    "RotationY": 315.20914,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_120",
+    "PositionX": -4.667,
+    "PositionY": 0.337,
+    "PositionZ": 1.677,
+    "RotationX": 0,
+    "RotationY": 345.07632,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_NPCPos_Bangboo_Quest10020188",
+    "PositionX": 2.652,
+    "PositionY": 0.344,
+    "PositionZ": -0.622,
+    "RotationX": 0,
+    "RotationY": 74.99999,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_NPCPos_Bangboo_Quest10020196",
+    "PositionX": -3.648,
+    "PositionY": 0.353,
+    "PositionZ": -17.817,
+    "RotationX": 0,
+    "RotationY": 220.05724,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_NPCPos_Bangboo_Quest10020140",
+    "PositionX": 21.47,
+    "PositionY": 0.344,
+    "PositionZ": 5.908,
+    "RotationX": 0,
+    "RotationY": 0,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_121",
+    "PositionX": -35.256,
+    "PositionY": 0.41,
+    "PositionZ": 13.372,
+    "RotationX": 0,
+    "RotationY": 150.83507,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_122",
+    "PositionX": -34.693,
+    "PositionY": 0.373,
+    "PositionZ": 12.751,
+    "RotationX": 0,
+    "RotationY": 324.8782,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_NPCPos_No11_02",
+    "PositionX": -1.8,
+    "PositionY": 0.345,
+    "PositionZ": -29.986,
+    "RotationX": 0,
+    "RotationY": 310,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_NPCPos_Keli_02",
+    "PositionX": -2.26,
+    "PositionY": 0.36,
+    "PositionZ": -29.6,
+    "RotationX": 0,
+    "RotationY": 150,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_NPCPos_Keli_02End",
+    "PositionX": 0.11,
+    "PositionY": 0.315,
+    "PositionZ": -29.62,
+    "RotationX": 0,
+    "RotationY": 79.99999,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_NPCPos_Quest10020155_02",
+    "PositionX": -1.763,
+    "PositionY": 0.8425,
+    "PositionZ": -21.017,
+    "RotationX": 0,
+    "RotationY": 237.17775,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_NPCPos_No11_03End",
+    "PositionX": 14.81,
+    "PositionY": 0.349,
+    "PositionZ": 0.54,
+    "RotationX": 0,
+    "RotationY": 120.00001,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_NPCPos_Keli_03End",
+    "PositionX": 15.38,
+    "PositionY": 0.359,
+    "PositionZ": -0.28,
+    "RotationX": 0,
+    "RotationY": 20.00001,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_NPCPos_Woof",
+    "PositionX": 11.26,
+    "PositionY": 1.15,
+    "PositionZ": -10.188,
+    "RotationX": 0,
+    "RotationY": 0,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_ObjectPos_Newsstand",
+    "PositionX": 11.08,
+    "PositionY": 1.15,
+    "PositionZ": -9.372,
+    "RotationX": 0,
+    "RotationY": 0,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_123",
+    "PositionX": 4.504,
+    "PositionY": 0.329,
+    "PositionZ": -0.0001,
+    "RotationX": 0,
+    "RotationY": 0,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_124",
+    "PositionX": 8.166,
+    "PositionY": 0.329,
+    "PositionZ": 1.463,
+    "RotationX": 0,
+    "RotationY": 270,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_125",
+    "PositionX": 5.36,
+    "PositionY": 0.35,
+    "PositionZ": -0.01,
+    "RotationX": 0,
+    "RotationY": 0,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_126",
+    "PositionX": 3.358,
+    "PositionY": 0.333,
+    "PositionZ": 1.456,
+    "RotationX": 0,
+    "RotationY": 90,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_127",
+    "PositionX": 8.212,
+    "PositionY": 0.452,
+    "PositionZ": 1.48,
+    "RotationX": 0,
+    "RotationY": 270,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_NPCPos_Schroeder",
+    "PositionX": 1.752,
+    "PositionY": 0.342,
+    "PositionZ": -1.479,
+    "RotationX": 0,
+    "RotationY": 55.99999,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_128",
+    "PositionX": 5.38,
+    "PositionY": 0.334,
+    "PositionZ": 0.064,
+    "RotationX": 0,
+    "RotationY": 0,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_129",
+    "PositionX": 3.287,
+    "PositionY": 0.35,
+    "PositionZ": 1.452,
+    "RotationX": 0,
+    "RotationY": 90,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_130",
+    "PositionX": -22.633,
+    "PositionY": 0.35,
+    "PositionZ": -7.275,
+    "RotationX": 0,
+    "RotationY": 53.62085,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_131",
+    "PositionX": 8.232,
+    "PositionY": 0.35,
+    "PositionZ": 2.374,
+    "RotationX": 0,
+    "RotationY": 270,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_132",
+    "PositionX": 10.17,
+    "PositionY": 0.35,
+    "PositionZ": 2.07,
+    "RotationX": 0,
+    "RotationY": 163.21513,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_139",
+    "PositionX": -26.414,
+    "PositionY": 0.71,
+    "PositionZ": 15.934,
+    "RotationX": 0,
+    "RotationY": 336.39316,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_140",
+    "PositionX": -27.703,
+    "PositionY": 0.593,
+    "PositionZ": 15.938,
+    "RotationX": 0,
+    "RotationY": 55.93431,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_141",
+    "PositionX": 10.968,
+    "PositionY": 0.4,
+    "PositionZ": 6.067,
+    "RotationX": 0,
+    "RotationY": 120.00001,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_142",
+    "PositionX": 11.058,
+    "PositionY": 0.35,
+    "PositionZ": 4.379,
+    "RotationX": 0,
+    "RotationY": 117.98868,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_143",
+    "PositionX": 10.678,
+    "PositionY": 0.36,
+    "PositionZ": -13.711,
+    "RotationX": 0,
+    "RotationY": 216.67374,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_144",
+    "PositionX": -13.401,
+    "PositionY": 0.35,
+    "PositionZ": -12.446,
+    "RotationX": 0,
+    "RotationY": 333.78751,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_145",
+    "PositionX": 40.108,
+    "PositionY": 0.353,
+    "PositionZ": -0.147,
+    "RotationX": 0,
+    "RotationY": 154.59579,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_ObjectPos_12",
+    "PositionX": 43.325,
+    "PositionY": -0.015,
+    "PositionZ": -4.342,
+    "RotationX": 0,
+    "RotationY": 90,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_146",
+    "PositionX": 40.73,
+    "PositionY": 0.3506,
+    "PositionZ": -0.68,
+    "RotationX": 0,
+    "RotationY": 314.69949,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_147",
+    "PositionX": 2.594,
+    "PositionY": 0.35,
+    "PositionZ": -7.269,
+    "RotationX": 0,
+    "RotationY": 88.00859,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_148",
+    "PositionX": 3.52,
+    "PositionY": 0.4,
+    "PositionZ": -7.453,
+    "RotationX": 0,
+    "RotationY": 303.92548,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_149",
+    "PositionX": 4.667,
+    "PositionY": 0.4,
+    "PositionZ": -10.8,
+    "RotationX": 0,
+    "RotationY": 221.15468,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_ObjectPos_04",
+    "PositionX": 0.763,
+    "PositionY": 1.038,
+    "PositionZ": -9.181,
+    "RotationX": 0,
+    "RotationY": 0,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_150",
+    "PositionX": 12.273,
+    "PositionY": 0.359,
+    "PositionZ": -8.928,
+    "RotationX": 0,
+    "RotationY": 238.31017,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_NPCPos_Woof2",
+    "PositionX": 11.26,
+    "PositionY": 1.15,
+    "PositionZ": -10.188,
+    "RotationX": 0,
+    "RotationY": 0,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_NPCPos_Woof3",
+    "PositionX": 11.26,
+    "PositionY": 1.15,
+    "PositionZ": -10.188,
+    "RotationX": 0,
+    "RotationY": 0,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_507",
+    "PositionX": -26.592,
+    "PositionY": 0.36,
+    "PositionZ": -9.141,
+    "RotationX": 0,
+    "RotationY": 331.79459,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_508",
+    "PositionX": -27.964,
+    "PositionY": 0.35,
+    "PositionZ": 9.704,
+    "RotationX": 0,
+    "RotationY": 276.12378,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_509",
+    "PositionX": 5.012,
+    "PositionY": 0.35,
+    "PositionZ": -7.226,
+    "RotationX": 0,
+    "RotationY": 36.47496,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_510",
+    "PositionX": -7.145,
+    "PositionY": 0.363,
+    "PositionZ": 4.026,
+    "RotationX": 0,
+    "RotationY": 270,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_511",
+    "PositionX": 4.493,
+    "PositionY": 0.36,
+    "PositionZ": -35.899,
+    "RotationX": 0,
+    "RotationY": 20.00001,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_512",
+    "PositionX": -4.592,
+    "PositionY": 0.355,
+    "PositionZ": 0.073,
+    "RotationX": 0,
+    "RotationY": 343.46274,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_513",
+    "PositionX": 2.122,
+    "PositionY": 0.4,
+    "PositionZ": -10.398,
+    "RotationX": 0,
+    "RotationY": 32.57107,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_514",
+    "PositionX": 2.891,
+    "PositionY": 0.4,
+    "PositionZ": -10.705,
+    "RotationX": 0,
+    "RotationY": 0,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_515",
+    "PositionX": 14.095,
+    "PositionY": 0.36,
+    "PositionZ": -14.156,
+    "RotationX": 0,
+    "RotationY": 22.06978,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_516",
+    "PositionX": 15.321,
+    "PositionY": 0.35,
+    "PositionZ": 7.58,
+    "RotationX": 0,
+    "RotationY": 123.66821,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_517",
+    "PositionX": -4.305,
+    "PositionY": 0.4,
+    "PositionZ": -7.595,
+    "RotationX": 0,
+    "RotationY": 125.55424,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_518",
+    "PositionX": -1.701,
+    "PositionY": 0.4,
+    "PositionZ": -23.751,
+    "RotationX": 0,
+    "RotationY": 310,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_519",
+    "PositionX": -19.162,
+    "PositionY": 0.36,
+    "PositionZ": -8.18,
+    "RotationX": 0,
+    "RotationY": 37.20817,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_ObjectPos_03",
+    "PositionX": -21.194,
+    "PositionY": 0.171,
+    "PositionZ": -9.311,
+    "RotationX": 0,
+    "RotationY": 0,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_520",
+    "PositionX": -3.812,
+    "PositionY": 0.347,
+    "PositionZ": -17.462,
+    "RotationX": 0,
+    "RotationY": 247.24823,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_NPCPos_Susie",
+    "PositionX": -25.671,
+    "PositionY": 0.6214,
+    "PositionZ": 14.104,
+    "RotationX": 0,
+    "RotationY": 268.89499,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_NPCPos_TinMaster01",
+    "PositionX": -10.191,
+    "PositionY": 0.36,
+    "PositionZ": -1.46,
+    "RotationX": 0,
+    "RotationY": 345.65805,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_NPCPos_TinMaster02",
+    "PositionX": -6.288,
+    "PositionY": 0.3505,
+    "PositionZ": -7.195,
+    "RotationX": 0,
+    "RotationY": 321.44672,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_NPCPos_Gate",
+    "PositionX": 7.03,
+    "PositionY": 0.35,
+    "PositionZ": 0.017,
+    "RotationX": 0,
+    "RotationY": 0,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_NPCPos_Ben",
+    "PositionX": 2.233,
+    "PositionY": 0.36,
+    "PositionZ": 2.478,
+    "RotationX": 0,
+    "RotationY": 133.82996,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_PlayerPos_FromRamen",
+    "PositionX": 6.074,
+    "PositionY": 0,
+    "PositionZ": -0.758,
+    "RotationX": 0,
+    "RotationY": 0,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_NPCPos_Anton",
+    "PositionX": -34.865,
+    "PositionY": 0.396,
+    "PositionZ": 13.443,
+    "RotationX": 0,
+    "RotationY": 142.69867,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_NPCPos_OokumaMari",
+    "PositionX": 11.921,
+    "PositionY": 0.347,
+    "PositionZ": -8.374,
+    "RotationX": 0,
+    "RotationY": 219.14148,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_151",
+    "PositionX": -4.573,
+    "PositionY": 0.34,
+    "PositionZ": 0.044,
+    "RotationX": 0,
+    "RotationY": 168.11601,
+    "RotationZ": 1,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_152",
+    "PositionX": 9.423,
+    "PositionY": 0.352,
+    "PositionZ": -32.084,
+    "RotationX": 0,
+    "RotationY": 339.92599,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_153",
+    "PositionX": -26.66462,
+    "PositionY": 0.3402,
+    "PositionZ": 7.56905,
+    "RotationX": 359.60715,
+    "RotationY": 269.99854,
+    "RotationZ": 0.65592,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_NPCPos_Anbi02",
+    "PositionX": -22.5,
+    "PositionY": 0.36,
+    "PositionZ": 0.573,
+    "RotationX": 0,
+    "RotationY": 163.69124,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_NPCPos_Enzo",
+    "PositionX": 27.243,
+    "PositionY": 0.35,
+    "PositionZ": -1.528,
+    "RotationX": 0,
+    "RotationY": 229.92622,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_NPCPos_OokumaMari02",
+    "PositionX": 3.281,
+    "PositionY": 0.3965,
+    "PositionZ": -10.212,
+    "RotationX": 0,
+    "RotationY": 31.35417,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_NPCPos_Billy02",
+    "PositionX": -13.986,
+    "PositionY": 0.36,
+    "PositionZ": -7.091,
+    "RotationX": 0,
+    "RotationY": 113.60025,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_NPCPos_Tsubaki",
+    "PositionX": 10.39,
+    "PositionY": 0.35,
+    "PositionZ": -8.91,
+    "RotationX": 0,
+    "RotationY": 137.00946,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_NPCPos_Anton02",
+    "PositionX": 26.712,
+    "PositionY": 0.35,
+    "PositionZ": -6.986,
+    "RotationX": 0,
+    "RotationY": 305.87402,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_NPCPos_Nocha02",
+    "PositionX": 9.577,
+    "PositionY": 0.348,
+    "PositionZ": -7.368,
+    "RotationX": 0,
+    "RotationY": 151.92999,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_NPCPos_Tsubaki02",
+    "PositionX": -18.173,
+    "PositionY": 0.35,
+    "PositionZ": -6.936,
+    "RotationX": 0,
+    "RotationY": 133.66385,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_NPCPos_OokumaMari04",
+    "PositionX": -25.138,
+    "PositionY": 0.7161,
+    "PositionZ": 16.08,
+    "RotationX": 0,
+    "RotationY": 326.39648,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_NPCPos_Ben02",
+    "PositionX": 20.665,
+    "PositionY": 0.35,
+    "PositionZ": -10.565,
+    "RotationX": 0,
+    "RotationY": 251.54306,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_NPCPos_OokumaMari03",
+    "PositionX": -22.553,
+    "PositionY": 0.36,
+    "PositionZ": -0.064,
+    "RotationX": 0,
+    "RotationY": 159.34224,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_NPCPos_Ben03",
+    "PositionX": -21.869,
+    "PositionY": 0.35,
+    "PositionZ": 0.596,
+    "RotationX": 0,
+    "RotationY": 192.34038,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_NPCPos_Billy03",
+    "PositionX": 22.297,
+    "PositionY": 0.36,
+    "PositionZ": 5.854,
+    "RotationX": 0,
+    "RotationY": 340.17264,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_NPCPos_Nocha03",
+    "PositionX": 6.929,
+    "PositionY": 0.395,
+    "PositionZ": -1.278,
+    "RotationX": 0,
+    "RotationY": 342.26456,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_NPCPos_Tsubaki03",
+    "PositionX": 7.076,
+    "PositionY": 0.35,
+    "PositionZ": -0.706,
+    "RotationX": 0,
+    "RotationY": 312.97723,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_NPCPos_Anbi03",
+    "PositionX": 10.312,
+    "PositionY": 0.35,
+    "PositionZ": 2.109,
+    "RotationX": 0,
+    "RotationY": 240.46249,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_NPCPos_Ben04",
+    "PositionX": -32.609,
+    "PositionY": 0.342,
+    "PositionZ": -8.256,
+    "RotationX": 0,
+    "RotationY": 67.92832,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_NPCPos_OokumaMari05",
+    "PositionX": -1.27,
+    "PositionY": 0.3492,
+    "PositionZ": -29.178,
+    "RotationX": 0,
+    "RotationY": 305.29065,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_NPCPos_Anton03",
+    "PositionX": -2.058,
+    "PositionY": 0.35,
+    "PositionZ": -28.686,
+    "RotationX": 0,
+    "RotationY": 125.14816,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_NPCPos_Nocha04",
+    "PositionX": -22.595,
+    "PositionY": 0.395,
+    "PositionZ": -7.348,
+    "RotationX": 0,
+    "RotationY": 125.5207,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_NPCPos_Billy04",
+    "PositionX": -3.506,
+    "PositionY": 0.36,
+    "PositionZ": -17.778,
+    "RotationX": 0,
+    "RotationY": 251.33165,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_NPCPos_Anbi04",
+    "PositionX": -4.261,
+    "PositionY": 0.35,
+    "PositionZ": -17.505,
+    "RotationX": 0,
+    "RotationY": 264.7402,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_NPCPos_Schroeder02",
+    "PositionX": -5.053,
+    "PositionY": 0.342,
+    "PositionZ": 4.863,
+    "RotationX": 0,
+    "RotationY": 70.83122,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_NPCPos_Schroeder03",
+    "PositionX": 3.253,
+    "PositionY": 0.323,
+    "PositionZ": 1.458,
+    "RotationX": 0,
+    "RotationY": 92.53754,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_521",
+    "PositionX": -32.515,
+    "PositionY": 2.3,
+    "PositionZ": 30.558,
+    "RotationX": 0,
+    "RotationY": 75.47579,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_522",
+    "PositionX": -29.71,
+    "PositionY": 2.3,
+    "PositionZ": 29.43,
+    "RotationX": 0,
+    "RotationY": 209.83707,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_523",
+    "PositionX": -30.529,
+    "PositionY": 2.3,
+    "PositionZ": 28.95,
+    "RotationX": 0,
+    "RotationY": 55.32315,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_524",
+    "PositionX": -26.636,
+    "PositionY": 0.368,
+    "PositionZ": 7.484,
+    "RotationX": 0,
+    "RotationY": 250.28363,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_525",
+    "PositionX": 21.991,
+    "PositionY": 0.35,
+    "PositionZ": -1.218,
+    "RotationX": 0,
+    "RotationY": 245.47432,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_526",
+    "PositionX": -27.72,
+    "PositionY": 0.35,
+    "PositionZ": 12.558,
+    "RotationX": 0,
+    "RotationY": 70,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_527",
+    "PositionX": -2.147,
+    "PositionY": 0.35,
+    "PositionZ": -23.641,
+    "RotationX": 0,
+    "RotationY": 290,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_528",
+    "PositionX": -3.553,
+    "PositionY": 0.395,
+    "PositionZ": -18.033,
+    "RotationX": 0,
+    "RotationY": 155.24419,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_529",
+    "PositionX": -2.866,
+    "PositionY": 0.395,
+    "PositionZ": -19.195,
+    "RotationX": 0,
+    "RotationY": 327.30453,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_530",
+    "PositionX": 2.248,
+    "PositionY": 0.35,
+    "PositionZ": 17.375,
+    "RotationX": 0,
+    "RotationY": 240,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_531",
+    "PositionX": -30.195,
+    "PositionY": 2.3,
+    "PositionZ": 29.303,
+    "RotationX": 0,
+    "RotationY": 316.19141,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_532",
+    "PositionX": -15.625,
+    "PositionY": 0.35,
+    "PositionZ": -6.819,
+    "RotationX": 0,
+    "RotationY": 195.36263,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_533",
+    "PositionX": -2.562,
+    "PositionY": 0.35,
+    "PositionZ": -23.881,
+    "RotationX": 0,
+    "RotationY": 312.95004,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_534",
+    "PositionX": -12.646,
+    "PositionY": 0.35,
+    "PositionZ": -18.012,
+    "RotationX": 0,
+    "RotationY": 255.57466,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_535",
+    "PositionX": -13.387,
+    "PositionY": 0.35,
+    "PositionZ": -16.812,
+    "RotationX": 0,
+    "RotationY": 152.59938,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_NPCPos_Shepherd02",
+    "PositionX": -4.574,
+    "PositionY": 0.3346,
+    "PositionZ": 1.6568,
+    "RotationX": 0,
+    "RotationY": 10.32042,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_NPCPos_No11_04",
+    "PositionX": 10.123,
+    "PositionY": 0.356,
+    "PositionZ": 1.745,
+    "RotationX": 0,
+    "RotationY": 142,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_NPCPos_PAFUMEI",
+    "PositionX": 15.973,
+    "PositionY": 0.35,
+    "PositionZ": 7.416,
+    "RotationX": 0,
+    "RotationY": 334.46896,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_NPCPos_MEIKE",
+    "PositionX": 15.483,
+    "PositionY": 0.35,
+    "PositionZ": 7.766,
+    "RotationX": 0,
+    "RotationY": 120.00001,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Street_Passerby_536",
+    "PositionX": 3.952,
+    "PositionY": 0.4,
+    "PositionZ": -11.297,
+    "RotationX": 0,
+    "RotationY": 48.38462,
+    "RotationZ": 0,
+    "Selection": 1
+  },
+  {
+    "ID": "Garage_PlayerPos_Default",
+    "PositionX": 19.05,
+    "PositionY": 0.42063,
+    "PositionZ": 21.43,
+    "RotationX": 0,
+    "RotationY": 0,
+    "RotationZ": 0,
+    "Selection": 3
+  },
+  {
+    "ID": "Garage_PlayerPos_FromWorkshop",
+    "PositionX": 19.05,
+    "PositionY": 0.42063,
+    "PositionZ": 22.744,
+    "RotationX": 0,
+    "RotationY": 0,
+    "RotationZ": 0,
+    "Selection": 3
+  },
+  {
+    "ID": "Garage_PlayerPos_FromStreet",
+    "PositionX": 12.79,
+    "PositionY": 0.42063,
+    "PositionZ": 18.82,
+    "RotationX": 0,
+    "RotationY": 0,
+    "RotationZ": 0,
+    "Selection": 3
+  },
+  {
+    "ID": "Garage_PlayerPos_Quest10020003",
+    "PositionX": 20.701,
+    "PositionY": 0.42063,
+    "PositionZ": 29.794,
+    "RotationX": 0,
+    "RotationY": 220,
+    "RotationZ": 0,
+    "Selection": 3
+  },
+  {
+    "ID": "Garage_NPCPos_ToWorkshop",
+    "PositionX": 19.13,
+    "PositionY": 0.25,
+    "PositionZ": 19.663,
+    "RotationX": 0,
+    "RotationY": 0,
+    "RotationZ": 0,
+    "Selection": 3
+  },
+  {
+    "ID": "Garage_NPCPos_ToStreet",
+    "PositionX": 12.836,
+    "PositionY": 0.476,
+    "PositionZ": 15.002,
+    "RotationX": 0,
+    "RotationY": 0,
+    "RotationZ": 0,
+    "Selection": 3
+  },
+  {
+    "ID": "Garage_NPCPos_Nocha_Quest10020003",
+    "PositionX": 17.614,
+    "PositionY": 0.35,
+    "PositionZ": 30.44,
+    "RotationX": 0,
+    "RotationY": 136.39999,
+    "RotationZ": 0,
+    "Selection": 3
+  },
+  {
+    "ID": "Garage_NPCPos_Billy_Quest10020003",
+    "PositionX": 15.226,
+    "PositionY": 0.32,
+    "PositionZ": 27.58,
+    "RotationX": 0,
+    "RotationY": 82.8,
+    "RotationZ": 0,
+    "Selection": 3
+  },
+  {
+    "ID": "Garage_NPCPos_Anbi_Quest10020003",
+    "PositionX": 15.319,
+    "PositionY": 0.32,
+    "PositionZ": 28.817,
+    "RotationX": 0,
+    "RotationY": 94.7,
+    "RotationZ": 0,
+    "Selection": 3
+  },
+  {
+    "ID": "Garage_NPCPos_Nocha_Quest10020012",
+    "PositionX": 17.39999,
+    "PositionY": 0.34,
+    "PositionZ": 27.69,
+    "RotationX": 0,
+    "RotationY": 158.30615,
+    "RotationZ": 0,
+    "Selection": 3
+  },
+  {
+    "ID": "Garage_NPCPos_Billy_Quest10020012",
+    "PositionX": 18.56,
+    "PositionY": 0.31,
+    "PositionZ": 32.58,
+    "RotationX": 0,
+    "RotationY": 250,
+    "RotationZ": 0,
+    "Selection": 3
+  },
+  {
+    "ID": "Garage_NPCPos_Anbi_Quest10020012",
+    "PositionX": 18.58,
+    "PositionY": 0.31,
+    "PositionZ": 31.46,
+    "RotationX": 0,
+    "RotationY": 320,
+    "RotationZ": 0,
+    "Selection": 3
+  },
+  {
+    "ID": "ItemPos_1",
+    "PositionX": 17,
+    "PositionY": 0.42063,
+    "PositionZ": 24.5,
+    "RotationX": 0,
+    "RotationY": 0,
+    "RotationZ": 0,
+    "Selection": 3
+  },
+  {
+    "ID": "ItemPos_2",
+    "PositionX": 18,
+    "PositionY": 0.42063,
+    "PositionZ": 24.5,
+    "RotationX": 0,
+    "RotationY": 0,
+    "RotationZ": 0,
+    "Selection": 3
+  },
+  {
+    "ID": "ItemPos_3",
+    "PositionX": 19,
+    "PositionY": 0.42063,
+    "PositionZ": 24.5,
+    "RotationX": 0,
+    "RotationY": 0,
+    "RotationZ": 0,
+    "Selection": 3
+  },
+  {
+    "ID": "ItemPos_4",
+    "PositionX": 20,
+    "PositionY": 0.42063,
+    "PositionZ": 24.5,
+    "RotationX": 0,
+    "RotationY": 0,
+    "RotationZ": 0,
+    "Selection": 3
+  },
+  {
+    "ID": "ItemPos_5",
+    "PositionX": 21,
+    "PositionY": 0.42063,
+    "PositionZ": 24.5,
+    "RotationX": 0,
+    "RotationY": 0,
+    "RotationZ": 0,
+    "Selection": 3
+  },
+  {
+    "ID": "Garage_PlayerPos_FromStreet2",
+    "PositionX": 11.254,
+    "PositionY": 0.42063,
+    "PositionZ": 19.31,
+    "RotationX": 0,
+    "RotationY": 90,
+    "RotationZ": 0,
+    "Selection": 3
+  },
+  {
+    "ID": "Garage_NPCPos_ToStreet2",
+    "PositionX": 8.785,
+    "PositionY": 0.42063,
+    "PositionZ": 19.238,
+    "RotationX": 0,
+    "RotationY": 270,
+    "RotationZ": 0,
+    "Selection": 3
+  },
+  {
+    "ID": "Garage_PlayerPos_Quest10020010",
+    "PositionX": 19.81,
+    "PositionY": 0.42063,
+    "PositionZ": 27.32,
+    "RotationX": 0,
+    "RotationY": 0,
+    "RotationZ": 0,
+    "Selection": 3
+  },
+  {
+    "ID": "Garage_Object_Car_01",
+    "PositionX": 16.19,
+    "PositionY": 0.29,
+    "PositionZ": 31.46,
+    "RotationX": 0,
+    "RotationY": 135.89999,
+    "RotationZ": 0,
+    "Selection": 3
+  },
+  {
+    "ID": "Garage_ObjectPos_14",
+    "PositionX": 23.874,
+    "PositionY": 0.86,
+    "PositionZ": 31.988,
+    "RotationX": 0,
+    "RotationY": 0,
+    "RotationZ": 0,
+    "Selection": 3
+  },
+  {
+    "ID": "Garage_ObjectPos_15",
+    "PositionX": 22.254,
+    "PositionY": 0.82,
+    "PositionZ": 22.982,
+    "RotationX": 0,
+    "RotationY": 0,
+    "RotationZ": 0,
+    "Selection": 3
+  },
+  {
+    "ID": "Garage_ObjectPos_16",
+    "PositionX": 31.804,
+    "PositionY": 0.42063,
+    "PositionZ": 28.509,
+    "RotationX": 0,
+    "RotationY": 0,
+    "RotationZ": 0,
+    "Selection": 3
+  },
+  {
+    "ID": "Garage_ObjectPos_17",
+    "PositionX": 29.128,
+    "PositionY": 0.25,
+    "PositionZ": 22.05,
+    "RotationX": 0,
+    "RotationY": 0,
+    "RotationZ": 0,
+    "Selection": 3
+  },
+  {
+    "ID": "Garage_ObjectPos_18",
+    "PositionX": 29.941,
+    "PositionY": 0,
+    "PositionZ": 32.857,
+    "RotationX": 0,
+    "RotationY": 0,
+    "RotationZ": 0,
+    "Selection": 3
+  },
+  {
+    "ID": "Garage_NPCPos_Quest10020024",
+    "PositionX": 18.54,
+    "PositionY": 0.34,
+    "PositionZ": 27.46,
+    "RotationX": 0,
+    "RotationY": 210.79999,
+    "RotationZ": 0,
+    "Selection": 3
+  },
+  {
+    "ID": "Garage_PlayerPos_Quest10020120",
+    "PositionX": 17.75,
+    "PositionY": 0.42063,
+    "PositionZ": 26.39,
+    "RotationX": 0,
+    "RotationY": 30.00001,
+    "RotationZ": 0,
+    "Selection": 3
+  },
+  {
+    "ID": "Garage_NPCPos_No11",
+    "PositionX": 13.818,
+    "PositionY": 0.301,
+    "PositionZ": 26.28,
+    "RotationX": 0,
+    "RotationY": 70.26791,
+    "RotationZ": 0,
+    "Selection": 3
+  },
+  {
+    "ID": "Garage_NPCPos_No11_02",
+    "PositionX": 29.598,
+    "PositionY": 0.345,
+    "PositionZ": 23.527,
+    "RotationX": 0,
+    "RotationY": 308.61368,
+    "RotationZ": 0,
+    "Selection": 3
+  },
+  {
+    "ID": "Garage_NPCPos_No11_03",
+    "PositionX": 15.599,
+    "PositionY": 0.345,
+    "PositionZ": 20.68,
+    "RotationX": 0,
+    "RotationY": 335.6268,
+    "RotationZ": 0,
+    "Selection": 3
+  },
+  {
+    "ID": "Garage_NPCPos_No11_04",
+    "PositionX": 13.97,
+    "PositionY": 0.3,
+    "PositionZ": 25.64,
+    "RotationX": 0.74837,
+    "RotationY": 128.50786,
+    "RotationZ": 359.98956,
+    "Selection": 3
+  },
+  {
+    "ID": "Garage_NPCPos_Quest10020120",
+    "PositionX": 21.467,
+    "PositionY": 0.3,
+    "PositionZ": 30.233,
+    "RotationX": 0,
+    "RotationY": 206.48201,
+    "RotationZ": 0,
+    "Selection": 3
+  },
+  {
+    "ID": "Garage_PlayerPos_Chat01",
+    "PositionX": 20.545,
+    "PositionY": 0.42063,
+    "PositionZ": 29.194,
+    "RotationX": 0,
+    "RotationY": 43.57,
+    "RotationZ": 0,
+    "Selection": 3
+  },
+  {
+    "ID": "Workshop_PlayerPos_Default",
+    "PositionX": 23.75,
+    "PositionY": 0.58003,
+    "PositionZ": 12.5,
+    "RotationX": 0,
+    "RotationY": 202,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_PlayerPos_FromStreet",
+    "PositionX": 22.598,
+    "PositionY": 0.58003,
+    "PositionZ": 7.611,
+    "RotationX": 0,
+    "RotationY": 30.00001,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_PlayerPos_FromGarage",
+    "PositionX": 22.112,
+    "PositionY": 0.58002,
+    "PositionZ": 14.386,
+    "RotationX": 0,
+    "RotationY": 180,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_PlayerPos_Quest10020003",
+    "PositionX": 23.375,
+    "PositionY": 0.58002,
+    "PositionZ": 11.406,
+    "RotationX": 0,
+    "RotationY": 0,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_PlayerPos_Quest10020013",
+    "PositionX": 29.982,
+    "PositionY": 0.58002,
+    "PositionZ": 15.418,
+    "RotationX": 0,
+    "RotationY": 120.00001,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_PlayerPos_Quest10020011",
+    "PositionX": 29.867,
+    "PositionY": 0.58002,
+    "PositionZ": 11.406,
+    "RotationX": 0,
+    "RotationY": 30,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_PlayerPos_Quest10020012",
+    "PositionX": 29.587,
+    "PositionY": 0.58002,
+    "PositionZ": 11.979,
+    "RotationX": 0,
+    "RotationY": 92.99999,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_PlayerPos_Quest10020001",
+    "PositionX": 30.31,
+    "PositionY": 0.58002,
+    "PositionZ": 11.18,
+    "RotationX": 0,
+    "RotationY": 40,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_PlayerPos_Quest10020028",
+    "PositionX": 30.38,
+    "PositionY": 0.58002,
+    "PositionZ": 12.826,
+    "RotationX": 0,
+    "RotationY": 80,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_PlayerPos_Pos1",
+    "PositionX": 29.44,
+    "PositionY": 0.605,
+    "PositionZ": 15.48,
+    "RotationX": 0,
+    "RotationY": 0,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_PlayerPos_Pos2",
+    "PositionX": 30.729,
+    "PositionY": 0.584,
+    "PositionZ": 15.3,
+    "RotationX": 0,
+    "RotationY": 0,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_NPCPos_ToGarage",
+    "PositionX": 22.093,
+    "PositionY": 0.749,
+    "PositionZ": 16.512,
+    "RotationX": 0,
+    "RotationY": 180,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_NPCPos_ToStreet",
+    "PositionX": 21.529,
+    "PositionY": 0.666,
+    "PositionZ": 5.786,
+    "RotationX": 0,
+    "RotationY": 28.1,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_NPCPos_Hollow",
+    "PositionX": 33.19,
+    "PositionY": 0.86,
+    "PositionZ": 11.482,
+    "RotationX": 0,
+    "RotationY": 270,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_NPCPos_VHS",
+    "PositionX": 28.02,
+    "PositionY": 0.87,
+    "PositionZ": 16.887,
+    "RotationX": 0,
+    "RotationY": 0,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_NPCPos_Gacha",
+    "PositionX": 19.368,
+    "PositionY": 1.41,
+    "PositionZ": 6.382,
+    "RotationX": 0,
+    "RotationY": 270,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_NPCPos_TimeMachine",
+    "PositionX": 30.08,
+    "PositionY": 0.4,
+    "PositionZ": 14.386,
+    "RotationX": 0,
+    "RotationY": 0,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_NPCPos_Test",
+    "PositionX": 28.875,
+    "PositionY": 0.58384,
+    "PositionZ": 9.625,
+    "RotationX": 0,
+    "RotationY": 312.68036,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_NPCPos_SisterLing",
+    "PositionX": 24.476,
+    "PositionY": 0.5998,
+    "PositionZ": 10.557,
+    "RotationX": 0,
+    "RotationY": 313.60257,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_NPCPos_WorkTable",
+    "PositionX": 28.336,
+    "PositionY": 0.75,
+    "PositionZ": 8.292,
+    "RotationX": 0,
+    "RotationY": 44.79997,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_NPCPos_Noca",
+    "PositionX": 22,
+    "PositionY": 0.58003,
+    "PositionZ": 8.5,
+    "RotationX": 0,
+    "RotationY": 50,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "WorkShop_NPCPos_Noca_Quest10020001",
+    "PositionX": 33.372,
+    "PositionY": 0.626,
+    "PositionZ": 14.29,
+    "RotationX": 0,
+    "RotationY": 270,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "WorkShop_NPCPos_Billy_Quest10020003",
+    "PositionX": 22,
+    "PositionY": 0.58003,
+    "PositionZ": 9.5,
+    "RotationX": 0,
+    "RotationY": 125,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "WorkShop_NPCPos_Anbi_Quest10020003",
+    "PositionX": 23,
+    "PositionY": 0.58003,
+    "PositionZ": 9,
+    "RotationX": 0,
+    "RotationY": 295,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "WorkShop_NPCPos_Noca_Quest10020009",
+    "PositionX": 24.14684,
+    "PositionY": 0.58003,
+    "PositionZ": 12.46807,
+    "RotationX": 0,
+    "RotationY": 207.99998,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "WorkShop_NPCPos_Billy_Quest10020009",
+    "PositionX": 24.211,
+    "PositionY": 0.58003,
+    "PositionZ": 10.839,
+    "RotationX": 0,
+    "RotationY": 318.87799,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "WorkShop_NPCPos_Anbi_Quest10020009",
+    "PositionX": 22.779,
+    "PositionY": 0.58384,
+    "PositionZ": 11.511,
+    "RotationX": 0,
+    "RotationY": 103.268,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "WorkShop_NPCPos_Salesman_Quest10020103",
+    "PositionX": 23.46,
+    "PositionY": 0.58003,
+    "PositionZ": 12.533,
+    "RotationX": 0,
+    "RotationY": 206.96613,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "WorkShop_NPCPos_Tsubaki_Quest10020106",
+    "PositionX": 31.594,
+    "PositionY": 0.597,
+    "PositionZ": 15.71,
+    "RotationX": 0,
+    "RotationY": 237.34885,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_NpcPos_Quest10020151",
+    "PositionX": 19.5,
+    "PositionY": 0.58003,
+    "PositionZ": 10.89,
+    "RotationX": 0,
+    "RotationY": 240,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_NpcPos_Quest10020181",
+    "PositionX": 19.674,
+    "PositionY": 0.58003,
+    "PositionZ": 12.272,
+    "RotationX": 0,
+    "RotationY": 4.53792,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_NPCPos_BangbooA_VHS",
+    "PositionX": 25.03,
+    "PositionY": 0.58003,
+    "PositionZ": 6,
+    "RotationX": 0,
+    "RotationY": 280,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_NPCPos_guest01_VHS",
+    "PositionX": 19.845,
+    "PositionY": 0.58003,
+    "PositionZ": 8.695,
+    "RotationX": 0,
+    "RotationY": 312.21448,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_NPCPos_guest02_VHS",
+    "PositionX": 19.777,
+    "PositionY": 0.58003,
+    "PositionZ": 10.577,
+    "RotationX": 0,
+    "RotationY": 169.99998,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_NPCPos_guest03_VHS",
+    "PositionX": 19.84,
+    "PositionY": 0.58003,
+    "PositionZ": 15.49,
+    "RotationX": 0,
+    "RotationY": 270,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_NPCPos_guest04_VHS",
+    "PositionX": 19.152,
+    "PositionY": 0.58003,
+    "PositionZ": 7.176,
+    "RotationX": 0,
+    "RotationY": 250,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_NPCPos_guest05_VHS",
+    "PositionX": 19.256,
+    "PositionY": 0.58003,
+    "PositionZ": 11.563,
+    "RotationX": 0,
+    "RotationY": 300,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_NPCPos_guest06_VHS",
+    "PositionX": 19.27,
+    "PositionY": 0.58003,
+    "PositionZ": 14.28,
+    "RotationX": 0,
+    "RotationY": 240,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_NPCPos_Bangboo01_VHS",
+    "PositionX": 21.29,
+    "PositionY": 0.58003,
+    "PositionZ": 13.62,
+    "RotationX": 0,
+    "RotationY": 199.99998,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_NPCPos_Bangboo02_VHS",
+    "PositionX": 21.93,
+    "PositionY": 0.58003,
+    "PositionZ": 11.36,
+    "RotationX": 0,
+    "RotationY": 150,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_NPCPos_Bangboo03_VHS",
+    "PositionX": 21.13,
+    "PositionY": 0.58003,
+    "PositionZ": 9.31,
+    "RotationX": 0,
+    "RotationY": 99.99999,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_NPCPos_Bangboo04_VHS",
+    "PositionX": 20.5,
+    "PositionY": 0.58003,
+    "PositionZ": 10.36,
+    "RotationX": 0,
+    "RotationY": 180,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_NPCPos_Bangboo05_VHS",
+    "PositionX": 22.1,
+    "PositionY": 0.58003,
+    "PositionZ": 9.9,
+    "RotationX": 0,
+    "RotationY": 120.00001,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_CameraPos_Pos1",
+    "PositionX": 30.85,
+    "PositionY": 1.93,
+    "PositionZ": 13,
+    "RotationX": 8,
+    "RotationY": 335,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_CameraPos_Pos2",
+    "PositionX": 29.39,
+    "PositionY": 1.93,
+    "PositionZ": 13.2,
+    "RotationX": 8,
+    "RotationY": 30,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_NPCPos_Telephone",
+    "PositionX": 26.807,
+    "PositionY": 1.008,
+    "PositionZ": 8.432,
+    "RotationX": 0,
+    "RotationY": 270,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_NPCPos_HollowPause",
+    "PositionX": 32.61,
+    "PositionY": 0.59,
+    "PositionZ": 11.58,
+    "RotationX": 0,
+    "RotationY": 90,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_NPCPos_VHSBangboo",
+    "PositionX": 26.098,
+    "PositionY": 1.337,
+    "PositionZ": 9.692,
+    "RotationX": 0,
+    "RotationY": 260,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_PlayerPos_HollowQuest",
+    "PositionX": 32.37027,
+    "PositionY": 0.58384,
+    "PositionZ": 11.5826,
+    "RotationX": 0,
+    "RotationY": 86.69299,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "WorkShop_CameraPos_VHSStore",
+    "PositionX": 22.53,
+    "PositionY": 1.855,
+    "PositionZ": 10.8,
+    "RotationX": 0,
+    "RotationY": 115.38,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_PlayerPos_FromHollow",
+    "PositionX": 32.37027,
+    "PositionY": 0.58384,
+    "PositionZ": 11.5826,
+    "RotationX": 0,
+    "RotationY": 86.69299,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_PlayerPos_FromVHS",
+    "PositionX": 28,
+    "PositionY": 0.58384,
+    "PositionZ": 15.6,
+    "RotationX": 0,
+    "RotationY": 0,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_PlayerPos_VHSStore",
+    "PositionX": 22.758,
+    "PositionY": 0.58384,
+    "PositionZ": 9.921,
+    "RotationX": 0,
+    "RotationY": 86.69299,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_NPCPos_ARole1",
+    "PositionX": 32.5,
+    "PositionY": 0.594,
+    "PositionZ": 15.027,
+    "RotationX": 0,
+    "RotationY": 150,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_NPCPos_ARole2",
+    "PositionX": 31.15,
+    "PositionY": 0.594,
+    "PositionZ": 12.748,
+    "RotationX": 0,
+    "RotationY": 270,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_NPCPos_ARole3",
+    "PositionX": 32.1,
+    "PositionY": 0.594,
+    "PositionZ": 12.55,
+    "RotationX": 0,
+    "RotationY": 120.00001,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_NPCPos_ARole4",
+    "PositionX": 25.555,
+    "PositionY": 0.594,
+    "PositionZ": 6.693,
+    "RotationX": 0,
+    "RotationY": 306.96448,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_NPCPos_ARole5",
+    "PositionX": 28.429,
+    "PositionY": 0.594,
+    "PositionZ": 15.22,
+    "RotationX": 0,
+    "RotationY": 186.60002,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_NPCPos_ARole6",
+    "PositionX": 28.74,
+    "PositionY": 0.594,
+    "PositionZ": 13.821,
+    "RotationX": 0,
+    "RotationY": 131.39603,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "WorkShop_NPCPos_Tsubaki_Quest10020115",
+    "PositionX": 28.903,
+    "PositionY": 0.58003,
+    "PositionZ": 16.034,
+    "RotationX": 0,
+    "RotationY": 154.11002,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_PlayerPos_Quest10020106",
+    "PositionX": 31.701,
+    "PositionY": 0.594,
+    "PositionZ": 13.423,
+    "RotationX": 0,
+    "RotationY": 255,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_PlayerPos_Quest10020115",
+    "PositionX": 30.447,
+    "PositionY": 0.594,
+    "PositionZ": 12.817,
+    "RotationX": 0,
+    "RotationY": 296.12622,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_Teleport_ToWorkshop",
+    "PositionX": 23.69,
+    "PositionY": 0.6,
+    "PositionZ": 9.698,
+    "RotationX": 0,
+    "RotationY": 60,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_NPCPos_ARole7",
+    "PositionX": 27.35,
+    "PositionY": 0.59,
+    "PositionZ": 16,
+    "RotationX": 0,
+    "RotationY": 45,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_NPCPos_ARole8",
+    "PositionX": 29.952,
+    "PositionY": 0.594,
+    "PositionZ": 14.702,
+    "RotationX": 0,
+    "RotationY": 0,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_NPCPos_ARole8F",
+    "PositionX": 30.263,
+    "PositionY": 0.594,
+    "PositionZ": 14.64,
+    "RotationX": 0,
+    "RotationY": 0,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_NPCPos_ARole9",
+    "PositionX": 31.6,
+    "PositionY": 0.594,
+    "PositionZ": 10.85,
+    "RotationX": 0,
+    "RotationY": 307.60001,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_NPCPos_ARole10",
+    "PositionX": 33.19,
+    "PositionY": 0.594,
+    "PositionZ": 15.438,
+    "RotationX": 0,
+    "RotationY": 260,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_NPCPos_ARoleTest",
+    "PositionX": 30.05,
+    "PositionY": 0.594,
+    "PositionZ": 14.858,
+    "RotationX": 0,
+    "RotationY": 0,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_PlayerPos_Quest10020109",
+    "PositionX": 30.628,
+    "PositionY": 0.594,
+    "PositionZ": 11.88,
+    "RotationX": 0,
+    "RotationY": 280,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_PlayerPos_Quest10020113",
+    "PositionX": 30.628,
+    "PositionY": 0.594,
+    "PositionZ": 11.88,
+    "RotationX": 0,
+    "RotationY": 280,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_PlayerPos_Quest10020116",
+    "PositionX": 30.506,
+    "PositionY": 0.594,
+    "PositionZ": 11.88,
+    "RotationX": 0,
+    "RotationY": 90,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_PlayerPos_Quest10020010",
+    "PositionX": 30.208,
+    "PositionY": 0.594,
+    "PositionZ": 12.092,
+    "RotationX": 0,
+    "RotationY": 348.5,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_NPCPos_DrawingRoom",
+    "PositionX": 24.38,
+    "PositionY": 0.594,
+    "PositionZ": 6.223,
+    "RotationX": 0,
+    "RotationY": 353.79999,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_PlayerPos_Quest10020119",
+    "PositionX": 30.892,
+    "PositionY": 0.594,
+    "PositionZ": 10.112,
+    "RotationX": 0,
+    "RotationY": 125.60002,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_NPCPos_ARole11",
+    "PositionX": 31.605,
+    "PositionY": 0.594,
+    "PositionZ": 9.471,
+    "RotationX": 0,
+    "RotationY": 300,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_NPCPos_ARole12",
+    "PositionX": 30.402,
+    "PositionY": 0.6,
+    "PositionZ": 9.8,
+    "RotationX": 0,
+    "RotationY": 44.15999,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_NPCPos_ARole17",
+    "PositionX": 30.645,
+    "PositionY": 0.58,
+    "PositionZ": 15.042,
+    "RotationX": 0,
+    "RotationY": 0,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_NPCPos_ARole16",
+    "PositionX": 28.292,
+    "PositionY": 0.593,
+    "PositionZ": 8.216,
+    "RotationX": 3.08252,
+    "RotationY": 316.2569,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_NPCPos_ARole16F",
+    "PositionX": 25.559,
+    "PositionY": 0.578,
+    "PositionZ": 7.945,
+    "RotationX": 0,
+    "RotationY": 204.72104,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_NPCPos_ARole15",
+    "PositionX": 33.043,
+    "PositionY": 0.6,
+    "PositionZ": 13.442,
+    "RotationX": 0,
+    "RotationY": 0,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_NPCPos_ARole14",
+    "PositionX": 33.043,
+    "PositionY": 0.6,
+    "PositionZ": 13.442,
+    "RotationX": 0,
+    "RotationY": 0,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_NPCPos_ARole13",
+    "PositionX": 33.043,
+    "PositionY": 0.6,
+    "PositionZ": 13.442,
+    "RotationX": 0,
+    "RotationY": 0,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "WorkShop_NPCPos_Tsubaki_Quest10020119",
+    "PositionX": 31.19,
+    "PositionY": 0.59,
+    "PositionZ": 10.23,
+    "RotationX": 0,
+    "RotationY": 289.17999,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_PlayerPos_Quest10020151",
+    "PositionX": 20.396,
+    "PositionY": 0.58003,
+    "PositionZ": 11.186,
+    "RotationX": 0,
+    "RotationY": 270,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_PlayerPos_Quest10020111",
+    "PositionX": 28.9,
+    "PositionY": 0.588,
+    "PositionZ": 13.1,
+    "RotationX": 0,
+    "RotationY": 129.89999,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_NpcPos_VHS31020002",
+    "PositionX": 25.688,
+    "PositionY": 0.58003,
+    "PositionZ": 7.624,
+    "RotationX": 0,
+    "RotationY": 251.93011,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_NpcPos_VHS31020001",
+    "PositionX": 23.12,
+    "PositionY": 0.58003,
+    "PositionZ": 6.209,
+    "RotationX": 0,
+    "RotationY": 29.26875,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_NpcPos_VHS31010001",
+    "PositionX": 21.59,
+    "PositionY": 0.58003,
+    "PositionZ": 15.2,
+    "RotationX": 0,
+    "RotationY": 240,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_NpcPos_Bangboo_Quest10020141",
+    "PositionX": 25.28177,
+    "PositionY": 0.588,
+    "PositionZ": 6.47026,
+    "RotationX": 0,
+    "RotationY": 320.26306,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_NpcPos_Bangboo_Quest10020195",
+    "PositionX": 19.567,
+    "PositionY": 0.588,
+    "PositionZ": 15.244,
+    "RotationX": 0,
+    "RotationY": 120.5,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_NpcPos_VHS31010002",
+    "PositionX": 21.9,
+    "PositionY": 0.58003,
+    "PositionZ": 14.84,
+    "RotationX": 0,
+    "RotationY": 240,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_PlayerPos_VHS31020002",
+    "PositionX": 21.924,
+    "PositionY": 0.58003,
+    "PositionZ": 12.388,
+    "RotationX": 0,
+    "RotationY": 315.51761,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_PlayerPos_VHS31020001",
+    "PositionX": 24,
+    "PositionY": 0.58003,
+    "PositionZ": 9.36,
+    "RotationX": 0,
+    "RotationY": 150,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_PlayerPos_VHS31010001",
+    "PositionX": 21.59,
+    "PositionY": 0.58003,
+    "PositionZ": 14.46,
+    "RotationX": 0,
+    "RotationY": 0,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_PlayerPos_VHS31010002",
+    "PositionX": 21.9,
+    "PositionY": 0.58003,
+    "PositionZ": 14.46,
+    "RotationX": 0,
+    "RotationY": 0,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_NPCPos_No11_03",
+    "PositionX": 25.3,
+    "PositionY": 0.587,
+    "PositionZ": 13.56,
+    "RotationX": 0,
+    "RotationY": 240,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_PlayerPos_Quest10020123",
+    "PositionX": 30.724,
+    "PositionY": 0.594,
+    "PositionZ": 11.259,
+    "RotationX": 0,
+    "RotationY": 125.60002,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "WorkShop_NPCPos_Bangboo_Quest10020106",
+    "PositionX": 32.19,
+    "PositionY": 0.595,
+    "PositionZ": 15.605,
+    "RotationX": 0,
+    "RotationY": 337.73215,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_Passerby_133",
+    "PositionX": 19.237,
+    "PositionY": 0.58003,
+    "PositionZ": 8.191,
+    "RotationX": 0,
+    "RotationY": 290,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_Passerby_134",
+    "PositionX": 19.838,
+    "PositionY": 0.58003,
+    "PositionZ": 10.448,
+    "RotationX": 0,
+    "RotationY": 199.99998,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_Passerby_135",
+    "PositionX": 19.435,
+    "PositionY": 0.58003,
+    "PositionZ": 15.141,
+    "RotationX": 0,
+    "RotationY": 270,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_Passerby_136",
+    "PositionX": 19.403,
+    "PositionY": 0.58003,
+    "PositionZ": 7.347,
+    "RotationX": 0,
+    "RotationY": 260,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_Passerby_137",
+    "PositionX": 19.292,
+    "PositionY": 0.58003,
+    "PositionZ": 11.969,
+    "RotationX": 0,
+    "RotationY": 270,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_Passerby_138",
+    "PositionX": 20.347,
+    "PositionY": 0.58003,
+    "PositionZ": 15.573,
+    "RotationX": 0,
+    "RotationY": 340,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_PlayerPos_HollowPause",
+    "PositionX": 31.23,
+    "PositionY": 0.584,
+    "PositionZ": 13.08,
+    "RotationX": 0,
+    "RotationY": 118,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_NPCPos_ARole17F",
+    "PositionX": 31,
+    "PositionY": 0.58,
+    "PositionZ": 15.15,
+    "RotationX": 0,
+    "RotationY": 311,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_NpcPos_VHS31020001End",
+    "PositionX": 24.626,
+    "PositionY": 0.58003,
+    "PositionZ": 8.681,
+    "RotationX": 0,
+    "RotationY": 311.76859,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_NpcPos_VHS31020002_02",
+    "PositionX": 25.503,
+    "PositionY": 0.58003,
+    "PositionZ": 7.032,
+    "RotationX": 0,
+    "RotationY": 306.8797,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_NpcPos_VHS31020002End",
+    "PositionX": 21.218,
+    "PositionY": 0.58003,
+    "PositionZ": 12.853,
+    "RotationX": 0,
+    "RotationY": 126.61777,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_NpcPos_VHS31020002_02End",
+    "PositionX": 21.66,
+    "PositionY": 0.58003,
+    "PositionZ": 13.136,
+    "RotationX": 0,
+    "RotationY": 152.39877,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_NPCPos_ARole18",
+    "PositionX": 31.802,
+    "PositionY": 0.594,
+    "PositionZ": 14.909,
+    "RotationX": 0,
+    "RotationY": 283.90863,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Workshop_PlayerPos_ARole18",
+    "PositionX": 28.258,
+    "PositionY": 0.594,
+    "PositionZ": 15.121,
+    "RotationX": 0,
+    "RotationY": 81.46976,
+    "RotationZ": 0,
+    "Selection": 2
+  },
+  {
+    "ID": "Borderlands",
+    "PositionX": 0,
+    "PositionY": 0,
+    "PositionZ": 0,
+    "RotationX": 0,
+    "RotationY": 0,
+    "RotationZ": 0,
+    "Selection": 0
+  }
+]

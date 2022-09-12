@@ -1,0 +1,8 @@
+[
+  { "WeightType": 0, "DefaultValue": 1 },
+  { "WeightType": 1, "DefaultValue": 1000 },
+  { "WeightType": 2, "DefaultValue": 1500 },
+  { "WeightType": 3, "DefaultValue": 1000 },
+  { "WeightType": 4, "DefaultValue": 1000 },
+  { "WeightType": 5, "DefaultValue": 0 }
+]

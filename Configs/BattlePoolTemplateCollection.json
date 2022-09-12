@@ -1,0 +1,440 @@
+[
+  { "BattlePoolID": 100, "TypeID": 10, "BattleIDss": [30111001] },
+  { "BattlePoolID": 100, "TypeID": 11, "BattleIDss": [30112003] },
+  { "BattlePoolID": 100, "TypeID": 12, "BattleIDss": [30112008] },
+  { "BattlePoolID": 100, "TypeID": 20, "BattleIDss": [30121021] },
+  { "BattlePoolID": 100, "TypeID": 21, "BattleIDss": [30122006] },
+  { "BattlePoolID": 100, "TypeID": 22, "BattleIDss": [30123031] },
+  { "BattlePoolID": 100, "TypeID": 23, "BattleIDss": [30122006] },
+  { "BattlePoolID": 100, "TypeID": 24, "BattleIDss": [30122006] },
+  { "BattlePoolID": 100, "TypeID": 30, "BattleIDss": [30121021] },
+  { "BattlePoolID": 100, "TypeID": 31, "BattleIDss": [30141006, 30141010] },
+  { "BattlePoolID": 100, "TypeID": 32, "BattleIDss": [30141008, 30141009] },
+  { "BattlePoolID": 100, "TypeID": 33, "BattleIDss": [30141007] },
+  { "BattlePoolID": 100, "TypeID": 40, "BattleIDss": [30131002] },
+  { "BattlePoolID": 100, "TypeID": 41, "BattleIDss": [30131011] },
+  { "BattlePoolID": 100, "TypeID": 42, "BattleIDss": [30132003] },
+  { "BattlePoolID": 100, "TypeID": 50, "BattleIDss": [30131002] },
+  { "BattlePoolID": 100, "TypeID": 51, "BattleIDss": [30131011] },
+  { "BattlePoolID": 100, "TypeID": 52, "BattleIDss": [30132003] },
+  { "BattlePoolID": 100, "TypeID": 60, "BattleIDss": [30131002] },
+  { "BattlePoolID": 100, "TypeID": 61, "BattleIDss": [30131011] },
+  { "BattlePoolID": 100, "TypeID": 62, "BattleIDss": [30132003] },
+  { "BattlePoolID": 100, "TypeID": 70, "BattleIDss": [30121021] },
+  { "BattlePoolID": 100, "TypeID": 71, "BattleIDss": [30122006] },
+  { "BattlePoolID": 100, "TypeID": 72, "BattleIDss": [30123031] },
+  { "BattlePoolID": 100, "TypeID": 81, "BattleIDss": [30121021] },
+  { "BattlePoolID": 100, "TypeID": 82, "BattleIDss": [30122006] },
+  { "BattlePoolID": 100, "TypeID": 83, "BattleIDss": [30123031] },
+  { "BattlePoolID": 100, "TypeID": 92, "BattleIDss": [30131011] },
+  { "BattlePoolID": 100, "TypeID": 93, "BattleIDss": [30132003] },
+  {
+    "BattlePoolID": 1001,
+    "TypeID": 10,
+    "BattleIDss": [30111001, 30111012, 30111002, 30111007]
+  },
+  {
+    "BattlePoolID": 1001,
+    "TypeID": 11,
+    "BattleIDss": [
+      30112003, 30112004, 30112013, 30112008, 30112009, 30112010, 30112015,
+      30112005, 30112006
+    ]
+  },
+  { "BattlePoolID": 1001, "TypeID": 12, "BattleIDss": [30113014] },
+  {
+    "BattlePoolID": 1001,
+    "TypeID": 20,
+    "BattleIDss": [30121012, 30121021, 30121023]
+  },
+  {
+    "BattlePoolID": 1001,
+    "TypeID": 21,
+    "BattleIDss": [
+      30122013, 30122022, 30122001, 30122002, 30122024, 30122025, 30122026,
+      30122014, 30122015, 30122016, 30122027, 30122029, 30122003, 30122030,
+      30122006, 30122019, 30122009, 30123034, 30122035, 30122036, 30122037,
+      30122039
+    ]
+  },
+  {
+    "BattlePoolID": 1001,
+    "TypeID": 22,
+    "BattleIDss": [
+      30123028, 30123004, 30123017, 30123018, 30123031, 30123005, 30123007,
+      30123020, 30123010, 30123011, 30123008, 30123032, 30123033, 30123041,
+      30123038, 30123040
+    ]
+  },
+  {
+    "BattlePoolID": 1001,
+    "TypeID": 30,
+    "BattleIDss": [10301321, 10301322, 10301323, 10301324, 10301325]
+  },
+  { "BattlePoolID": 1001, "TypeID": 40, "BattleIDss": [30131020, 30131005] },
+  {
+    "BattlePoolID": 1001,
+    "TypeID": 41,
+    "BattleIDss": [
+      30132021, 30132022, 30132015, 30132016, 30132006, 30132007, 30132017,
+      30132019, 30132023, 30132029, 30132030, 30132031, 30132032
+    ]
+  },
+  {
+    "BattlePoolID": 1001,
+    "TypeID": 42,
+    "BattleIDss": [30133008, 30133018, 30133024]
+  },
+  { "BattlePoolID": 1001, "TypeID": 50, "BattleIDss": [30131020, 30131005] },
+  {
+    "BattlePoolID": 1001,
+    "TypeID": 51,
+    "BattleIDss": [
+      30132021, 30132022, 30132015, 30132016, 30132006, 30132007, 30132017,
+      30132019, 30132023, 30132029, 30132030, 30132031, 30132032
+    ]
+  },
+  {
+    "BattlePoolID": 1001,
+    "TypeID": 52,
+    "BattleIDss": [30133008, 30133018, 30133024]
+  },
+  {
+    "BattlePoolID": 1001,
+    "TypeID": 60,
+    "BattleIDss": [30131002, 30131011, 30131009, 30131010]
+  },
+  {
+    "BattlePoolID": 1001,
+    "TypeID": 61,
+    "BattleIDss": [
+      30132001, 30132025, 30132003, 30132004, 30132014, 30132012, 30132027
+    ]
+  },
+  {
+    "BattlePoolID": 1001,
+    "TypeID": 62,
+    "BattleIDss": [30133026, 30133013, 30133028]
+  },
+  { "BattlePoolID": 1002, "TypeID": 13, "BattleIDss": [10102020] },
+  { "BattlePoolID": 1002, "TypeID": 14, "BattleIDss": [10102019] },
+  { "BattlePoolID": 1002, "TypeID": 23, "BattleIDss": [10102022] },
+  { "BattlePoolID": 1002, "TypeID": 24, "BattleIDss": [10102021] },
+  {
+    "BattlePoolID": 1002,
+    "TypeID": 10,
+    "BattleIDss": [30111001, 30111012, 30111002, 30111007]
+  },
+  {
+    "BattlePoolID": 1002,
+    "TypeID": 11,
+    "BattleIDss": [
+      30112003, 30112004, 30112013, 30112008, 30112009, 30112010, 30112015,
+      30112005, 30112006
+    ]
+  },
+  { "BattlePoolID": 1002, "TypeID": 12, "BattleIDss": [30113014] },
+  {
+    "BattlePoolID": 1002,
+    "TypeID": 20,
+    "BattleIDss": [30121012, 30121021, 30121023]
+  },
+  {
+    "BattlePoolID": 1002,
+    "TypeID": 21,
+    "BattleIDss": [
+      30122013, 30122022, 30122001, 30122002, 30122024, 30122025, 30122026,
+      30122014, 30122015, 30122016, 30122027, 30122029, 30122003, 30122030,
+      30122006, 30122019, 30122009, 30123034, 30122035, 30122036, 30122037,
+      30122039
+    ]
+  },
+  {
+    "BattlePoolID": 1002,
+    "TypeID": 22,
+    "BattleIDss": [
+      30123028, 30123004, 30123017, 30123018, 30123031, 30123005, 30123007,
+      30123020, 30123010, 30123011, 30123008, 30123032, 30123033, 30123041,
+      30123038, 30123040
+    ]
+  },
+  {
+    "BattlePoolID": 1002,
+    "TypeID": 30,
+    "BattleIDss": [10301321, 10301322, 10301323, 10301324, 10301325]
+  },
+  { "BattlePoolID": 1002, "TypeID": 31, "BattleIDss": [30141006, 30141010] },
+  { "BattlePoolID": 1002, "TypeID": 32, "BattleIDss": [30141008, 30141009] },
+  { "BattlePoolID": 1002, "TypeID": 33, "BattleIDss": [30141007] },
+  { "BattlePoolID": 1002, "TypeID": 34, "BattleIDss": [30141011] },
+  { "BattlePoolID": 1002, "TypeID": 35, "BattleIDss": [30141012, 30141013] },
+  { "BattlePoolID": 1002, "TypeID": 36, "BattleIDss": [30141014] },
+  { "BattlePoolID": 1002, "TypeID": 40, "BattleIDss": [30131020, 30131005] },
+  {
+    "BattlePoolID": 1002,
+    "TypeID": 41,
+    "BattleIDss": [
+      30132021, 30132022, 30132015, 30132016, 30132006, 30132007, 30132017,
+      30132019, 30132023, 30132029, 30132030, 30132031, 30132032
+    ]
+  },
+  {
+    "BattlePoolID": 1002,
+    "TypeID": 42,
+    "BattleIDss": [30133008, 30133018, 30133024]
+  },
+  {
+    "BattlePoolID": 1002,
+    "TypeID": 43,
+    "BattleIDss": [10301220, 10301221, 10301222]
+  },
+  {
+    "BattlePoolID": 1002,
+    "TypeID": 44,
+    "BattleIDss": [10301143, 10301144, 10301145]
+  },
+  { "BattlePoolID": 1002, "TypeID": 50, "BattleIDss": [30131020, 30131005] },
+  {
+    "BattlePoolID": 1002,
+    "TypeID": 51,
+    "BattleIDss": [
+      30132021, 30132022, 30132015, 30132016, 30132006, 30132007, 30132017,
+      30132019, 30132023, 30132029, 30132030, 30132031, 30132032
+    ]
+  },
+  {
+    "BattlePoolID": 1002,
+    "TypeID": 52,
+    "BattleIDss": [30133008, 30133018, 30133024]
+  },
+  {
+    "BattlePoolID": 1002,
+    "TypeID": 60,
+    "BattleIDss": [30131002, 30131011, 30131009, 30131010]
+  },
+  {
+    "BattlePoolID": 1002,
+    "TypeID": 61,
+    "BattleIDss": [
+      30132001, 30132025, 30132003, 30132004, 30132014, 30132012, 30132027
+    ]
+  },
+  {
+    "BattlePoolID": 1002,
+    "TypeID": 62,
+    "BattleIDss": [30133026, 30133013, 30133028]
+  },
+  { "BattlePoolID": 1002, "TypeID": 70, "BattleIDss": [30141001] },
+  { "BattlePoolID": 1002, "TypeID": 71, "BattleIDss": [30141002] },
+  {
+    "BattlePoolID": 1002,
+    "TypeID": 72,
+    "BattleIDss": [30141003, 30141004, 30141005]
+  },
+  { "BattlePoolID": 1002, "TypeID": 81, "BattleIDss": [30123045] },
+  {
+    "BattlePoolID": 1002,
+    "TypeID": 82,
+    "BattleIDss": [30123042, 30123043, 30123044]
+  },
+  { "BattlePoolID": 1002, "TypeID": 83, "BattleIDss": [30123046, 30123047] },
+  { "BattlePoolID": 1002, "TypeID": 92, "BattleIDss": [30132035] },
+  {
+    "BattlePoolID": 1002,
+    "TypeID": 93,
+    "BattleIDss": [30132033, 30132034, 30132036]
+  },
+  { "BattlePoolID": 1002, "TypeID": 100, "BattleIDss": [10102026, 10102027] },
+  { "BattlePoolID": 1002, "TypeID": 101, "BattleIDss": [10102028] },
+  {
+    "BattlePoolID": 1002,
+    "TypeID": 102,
+    "BattleIDss": [10102029, 10102030, 10102031]
+  },
+  { "BattlePoolID": 1002, "TypeID": 103, "BattleIDss": [10102032] },
+  { "BattlePoolID": 1002, "TypeID": 104, "BattleIDss": [10102033, 10102034] },
+  { "BattlePoolID": 1002, "TypeID": 105, "BattleIDss": [10102035] },
+  {
+    "BattlePoolID": 20108,
+    "TypeID": 10,
+    "BattleIDss": [30111001, 30111012, 30111002, 30111007]
+  },
+  {
+    "BattlePoolID": 20108,
+    "TypeID": 11,
+    "BattleIDss": [
+      30112003, 30112004, 30112013, 30112008, 30112009, 30112010, 30112015,
+      30112005, 30112006
+    ]
+  },
+  { "BattlePoolID": 20108, "TypeID": 12, "BattleIDss": [30113014] },
+  {
+    "BattlePoolID": 20108,
+    "TypeID": 20,
+    "BattleIDss": [30121012, 30121021, 30121023]
+  },
+  {
+    "BattlePoolID": 20108,
+    "TypeID": 21,
+    "BattleIDss": [
+      30122013, 30122022, 30122001, 30122002, 30122024, 30122025, 30122026,
+      30122014, 30122015, 30122016, 30122027, 30122029, 30122003, 30122030,
+      30122006, 30122019, 30122009, 30123034, 30122035, 30122036, 30122037,
+      30122039
+    ]
+  },
+  {
+    "BattlePoolID": 20108,
+    "TypeID": 22,
+    "BattleIDss": [
+      30123028, 30123004, 30123017, 30123018, 30123031, 30123005, 30123007,
+      30123020, 30123010, 30123011, 30123008, 30123032, 30123033, 30123041,
+      30123038, 30123040
+    ]
+  },
+  {
+    "BattlePoolID": 20108,
+    "TypeID": 30,
+    "BattleIDss": [10301321, 10301322, 10301323, 10301324, 10301325]
+  },
+  { "BattlePoolID": 20108, "TypeID": 31, "BattleIDss": [10102023] },
+  {
+    "BattlePoolID": 20108,
+    "TypeID": 32,
+    "BattleIDss": [10102024, 30141006, 30141007, 30141008, 30141009, 30141010]
+  },
+  { "BattlePoolID": 20108, "TypeID": 40, "BattleIDss": [30131020, 30131005] },
+  {
+    "BattlePoolID": 20108,
+    "TypeID": 41,
+    "BattleIDss": [
+      30132021, 30132022, 30132015, 30132016, 30132006, 30132007, 30132017,
+      30132019, 30132023, 30132029, 30132030, 30132031, 30132032
+    ]
+  },
+  { "BattlePoolID": 20108, "TypeID": 50, "BattleIDss": [30131020, 30131005] },
+  {
+    "BattlePoolID": 20108,
+    "TypeID": 51,
+    "BattleIDss": [
+      30132021, 30132022, 30132015, 30132016, 30132006, 30132007, 30132017,
+      30132019, 30132023, 30132029, 30132030, 30132031, 30132032
+    ]
+  },
+  {
+    "BattlePoolID": 20108,
+    "TypeID": 61,
+    "BattleIDss": [
+      30132001, 30132025, 30132003, 30132004, 30132014, 30132012, 30132027
+    ]
+  },
+  {
+    "BattlePoolID": 20108,
+    "TypeID": 62,
+    "BattleIDss": [30133026, 30133013, 30133028]
+  },
+  { "BattlePoolID": 20101, "TypeID": 20, "BattleIDss": [30141016] },
+  { "BattlePoolID": 20101, "TypeID": 21, "BattleIDss": [30142001] },
+  { "BattlePoolID": 20101, "TypeID": 22, "BattleIDss": [30143001] },
+  {
+    "BattlePoolID": 10106,
+    "TypeID": 10,
+    "BattleIDss": [30111001, 30111002, 30111007, 30111012]
+  },
+  {
+    "BattlePoolID": 10106,
+    "TypeID": 11,
+    "BattleIDss": [30112004, 30112005, 30112009, 30112013]
+  },
+  { "BattlePoolID": 10106, "TypeID": 12, "BattleIDss": [30113014] },
+  {
+    "BattlePoolID": 20109,
+    "TypeID": 11,
+    "BattleIDss": [
+      30112003, 30112004, 30112013, 30112008, 30112009, 30112010, 30112015,
+      30112005, 30112006
+    ]
+  },
+  {
+    "BattlePoolID": 20109,
+    "TypeID": 22,
+    "BattleIDss": [
+      30123028, 30123004, 30123017, 30123018, 30123031, 30123005, 30123007,
+      30123020, 30123010, 30123011, 30123008, 30123032, 30123033, 30123041,
+      30123038, 30123040
+    ]
+  },
+  {
+    "BattlePoolID": 20109,
+    "TypeID": 21,
+    "BattleIDss": [
+      30122013, 30122022, 30122001, 30122002, 30122024, 30122025, 30122026,
+      30122014, 30122015, 30122016, 30122027, 30122029, 30122003, 30122030,
+      30122006, 30122019, 30122009, 30123034, 30122035, 30122036, 30122037,
+      30122039
+    ]
+  },
+  { "BattlePoolID": 20109, "TypeID": 82, "BattleIDss": [30123043] },
+  {
+    "BattlePoolID": 20106,
+    "TypeID": 10,
+    "BattleIDss": [30111001, 30111012, 30111002, 30111007]
+  },
+  {
+    "BattlePoolID": 20106,
+    "TypeID": 11,
+    "BattleIDss": [
+      30112003, 30112004, 30112013, 30112008, 30112009, 30112010, 30112015,
+      30112005, 30112006
+    ]
+  },
+  { "BattlePoolID": 20106, "TypeID": 12, "BattleIDss": [30113014] },
+  { "BattlePoolID": 20106, "TypeID": 13, "BattleIDss": [10102015] },
+  {
+    "BattlePoolID": 20106,
+    "TypeID": 20,
+    "BattleIDss": [30121012, 30121021, 30121023]
+  },
+  {
+    "BattlePoolID": 20106,
+    "TypeID": 21,
+    "BattleIDss": [
+      30122013, 30122022, 30122001, 30122002, 30122024, 30122025, 30122026,
+      30122014, 30122015, 30122016, 30122027, 30122029, 30122003, 30122030,
+      30122006, 30122019, 30122009, 30123034, 30122035, 30122036, 30122037,
+      30122039
+    ]
+  },
+  {
+    "BattlePoolID": 20106,
+    "TypeID": 22,
+    "BattleIDss": [
+      30123028, 30123004, 30123017, 30123018, 30123031, 30123005, 30123007,
+      30123020, 30123010, 30123011, 30123008, 30123032, 30123033, 30123041,
+      30123038, 30123040
+    ]
+  },
+  { "BattlePoolID": 20106, "TypeID": 23, "BattleIDss": [10102016] },
+  { "BattlePoolID": 20106, "TypeID": 40, "BattleIDss": [10102017] },
+  { "BattlePoolID": 20106, "TypeID": 60, "BattleIDss": [10102018] },
+  {
+    "BattlePoolID": 20206,
+    "TypeID": 21,
+    "BattleIDss": [
+      30122013, 30122022, 30122001, 30122002, 30122024, 30122025, 30122026,
+      30122014, 30122015, 30122016, 30122027, 30122029, 30122003, 30122030,
+      30122006, 30122019, 30122009, 30123034, 30122035, 30122036, 30122037,
+      30122039
+    ]
+  },
+  {
+    "BattlePoolID": 20206,
+    "TypeID": 22,
+    "BattleIDss": [
+      30123028, 30123004, 30123017, 30123018, 30123031, 30123005, 30123007,
+      30123020, 30123010, 30123011, 30123008, 30123032, 30123033, 30123041,
+      30123038, 30123040
+    ]
+  },
+  { "BattlePoolID": 20206, "TypeID": 41, "BattleIDss": [10301221, 10301222] }
+]

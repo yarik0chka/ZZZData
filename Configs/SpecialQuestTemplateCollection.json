@@ -1,0 +1,225 @@
+[
+  {
+    "ID": 10030001,
+    "QuestLists": [10020005, 10010002, 10020016],
+    "AnonymousDesc": "QuestDesc_100200050",
+    "YorozuyaLevel": 2,
+    "YorozuyaRank": 1,
+    "NpcIcon": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconNPCCircle2004.png",
+    "NpcNameText": "SpecialQuestNPCName_0001",
+    "LocationText": "SpecialQuestText_LocationText0001",
+    "EpilogueText": ""
+  },
+  {
+    "ID": 10030002,
+    "QuestLists": [10020006, 10010003, 10020008],
+    "AnonymousDesc": "QuestDesc_100200060",
+    "YorozuyaLevel": 2,
+    "YorozuyaRank": 1,
+    "NpcIcon": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconNPCCircle2019.png",
+    "NpcNameText": "SpecialQuestNPCName_0002",
+    "LocationText": "SpecialQuestText_LocationText0002",
+    "EpilogueText": ""
+  },
+  {
+    "ID": 10030101,
+    "QuestLists": [10020151, 10010112],
+    "AnonymousDesc": "QuestDesc_100201510",
+    "YorozuyaLevel": 4,
+    "YorozuyaRank": 1,
+    "NpcIcon": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconNPCCircle2065.png",
+    "NpcNameText": "SpecialQuestNPCName_0101",
+    "LocationText": "SpecialQuestText_LocationText0101",
+    "EpilogueText": ""
+  },
+  {
+    "ID": 10030102,
+    "QuestLists": [10020152, 10010115, 10020159],
+    "AnonymousDesc": "QuestDesc_100201520",
+    "YorozuyaLevel": 4,
+    "YorozuyaRank": 1,
+    "NpcIcon": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconNPCCircle2016.png",
+    "NpcNameText": "SpecialQuestNPCName_0102",
+    "LocationText": "SpecialQuestText_LocationText0102",
+    "EpilogueText": ""
+  },
+  {
+    "ID": 10030103,
+    "QuestLists": [10020186, 10010101],
+    "AnonymousDesc": "QuestDesc_100201860",
+    "YorozuyaLevel": 4,
+    "YorozuyaRank": 1,
+    "NpcIcon": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconNPCCircle2038.png",
+    "NpcNameText": "SpecialQuestNPCName_0103",
+    "LocationText": "SpecialQuestText_LocationText0103",
+    "EpilogueText": ""
+  },
+  {
+    "ID": 10030104,
+    "QuestLists": [10020154, 10010102],
+    "AnonymousDesc": "QuestDesc_100201540",
+    "YorozuyaLevel": 7,
+    "YorozuyaRank": 1,
+    "NpcIcon": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconNPCCircle2031.png",
+    "NpcNameText": "SpecialQuestNPCName_0104",
+    "LocationText": "SpecialQuestText_LocationText0104",
+    "EpilogueText": ""
+  },
+  {
+    "ID": 10030105,
+    "QuestLists": [10020155, 10010108],
+    "AnonymousDesc": "QuestDesc_100201550",
+    "YorozuyaLevel": 7,
+    "YorozuyaRank": 1,
+    "NpcIcon": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconNPCCircle2035.png",
+    "NpcNameText": "SpecialQuestNPCName_0105",
+    "LocationText": "SpecialQuestText_LocationText0105",
+    "EpilogueText": ""
+  },
+  {
+    "ID": 10030106,
+    "QuestLists": [10020157, 10010110],
+    "AnonymousDesc": "QuestDesc_100201570",
+    "YorozuyaLevel": 7,
+    "YorozuyaRank": 1,
+    "NpcIcon": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconNPCCircle2038.png",
+    "NpcNameText": "SpecialQuestNPCName_0106",
+    "LocationText": "SpecialQuestText_LocationText0106",
+    "EpilogueText": ""
+  },
+  {
+    "ID": 10030107,
+    "QuestLists": [10020181, 10010113, 10020182],
+    "AnonymousDesc": "QuestDesc_100201810",
+    "YorozuyaLevel": 7,
+    "YorozuyaRank": 1,
+    "NpcIcon": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconNPCCircle2066.png",
+    "NpcNameText": "SpecialQuestNPCName_0107",
+    "LocationText": "SpecialQuestText_LocationText0107",
+    "EpilogueText": ""
+  },
+  {
+    "ID": 10030108,
+    "QuestLists": [10020156, 10010103, 10020162],
+    "AnonymousDesc": "QuestDesc_100201560",
+    "YorozuyaLevel": 7,
+    "YorozuyaRank": 1,
+    "NpcIcon": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle05.png",
+    "NpcNameText": "SpecialQuestNPCName_0108",
+    "LocationText": "SpecialQuestText_LocationText0108",
+    "EpilogueText": ""
+  },
+  {
+    "ID": 10030109,
+    "QuestLists": [10020163, 10010204, 10020164],
+    "AnonymousDesc": "QuestDesc_100201630",
+    "YorozuyaLevel": 7,
+    "YorozuyaRank": 1,
+    "NpcIcon": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle05.png",
+    "NpcNameText": "SpecialQuestNPCName_0109",
+    "LocationText": "SpecialQuestText_LocationText0109",
+    "EpilogueText": ""
+  },
+  {
+    "ID": 10030110,
+    "QuestLists": [10020165, 10010203],
+    "AnonymousDesc": "QuestDesc_100201650",
+    "YorozuyaLevel": 7,
+    "YorozuyaRank": 1,
+    "NpcIcon": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle05.png",
+    "NpcNameText": "SpecialQuestNPCName_0110",
+    "LocationText": "SpecialQuestText_LocationText0110",
+    "EpilogueText": ""
+  },
+  {
+    "ID": 10030111,
+    "QuestLists": [10020191, 10010114],
+    "AnonymousDesc": "QuestDesc_100201910",
+    "YorozuyaLevel": 7,
+    "YorozuyaRank": 1,
+    "NpcIcon": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconNPCCircle2035.png",
+    "NpcNameText": "SpecialQuestNPCName_0111",
+    "LocationText": "SpecialQuestText_LocationText0111",
+    "EpilogueText": ""
+  },
+  {
+    "ID": 10030112,
+    "QuestLists": [10020192, 10010207],
+    "AnonymousDesc": "QuestDesc_100201920",
+    "YorozuyaLevel": 7,
+    "YorozuyaRank": 1,
+    "NpcIcon": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconNPCCircle2090.png",
+    "NpcNameText": "SpecialQuestNPCName_0112",
+    "LocationText": "SpecialQuestText_LocationText0112",
+    "EpilogueText": ""
+  },
+  {
+    "ID": 10030113,
+    "QuestLists": [10020183, 10010109],
+    "AnonymousDesc": "QuestDesc_100201830",
+    "YorozuyaLevel": 7,
+    "YorozuyaRank": 1,
+    "NpcIcon": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconNPCCircle2065.png",
+    "NpcNameText": "SpecialQuestNPCName_0113",
+    "LocationText": "SpecialQuestText_LocationText0113",
+    "EpilogueText": ""
+  },
+  {
+    "ID": 10030114,
+    "QuestLists": [
+      10020188, 10020189, 10010117, 10020190, 10020140, 10020141, 10010118,
+      10020195, 10020142, 10020143, 10020144, 10020196
+    ],
+    "AnonymousDesc": "QuestDesc_100201880",
+    "YorozuyaLevel": 8,
+    "YorozuyaRank": 1,
+    "NpcIcon": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconCircleEmpty.png",
+    "NpcNameText": "SpecialQuestNPCName_0114",
+    "LocationText": "SpecialQuestText_LocationText0114",
+    "EpilogueText": ""
+  },
+  {
+    "ID": 10030115,
+    "QuestLists": [10020194, 10020197, 10020198, 10010116, 10020199],
+    "AnonymousDesc": "QuestDesc_100201940",
+    "YorozuyaLevel": 8,
+    "YorozuyaRank": 1,
+    "NpcIcon": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconCircleEmpty.png",
+    "NpcNameText": "SpecialQuestNPCName_0115",
+    "LocationText": "SpecialQuestText_LocationText0115",
+    "EpilogueText": ""
+  },
+  {
+    "ID": 10030116,
+    "QuestLists": [10025100, 10025101, 10025102, 10025103, 10010120],
+    "AnonymousDesc": "QuestDesc_100251000",
+    "YorozuyaLevel": 12,
+    "YorozuyaRank": 1,
+    "NpcIcon": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconNPCCircle2038.png",
+    "NpcNameText": "SpecialQuestNPCName_0116",
+    "LocationText": "SpecialQuestText_LocationText0116",
+    "EpilogueText": ""
+  },
+  {
+    "ID": 10030117,
+    "QuestLists": [10025104, 10025105, 10010121],
+    "AnonymousDesc": "QuestDesc_100251040",
+    "YorozuyaLevel": 12,
+    "YorozuyaRank": 1,
+    "NpcIcon": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle05.png",
+    "NpcNameText": "SpecialQuestNPCName_0117",
+    "LocationText": "SpecialQuestText_LocationText0117",
+    "EpilogueText": ""
+  },
+  {
+    "ID": 10030118,
+    "QuestLists": [10025106, 10025107, 10025108, 10010122, 10025109],
+    "AnonymousDesc": "QuestDesc_100251060",
+    "YorozuyaLevel": 12,
+    "YorozuyaRank": 1,
+    "NpcIcon": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle05.png",
+    "NpcNameText": "SpecialQuestNPCName_0118",
+    "LocationText": "SpecialQuestText_LocationText0118",
+    "EpilogueText": ""
+  }
+]

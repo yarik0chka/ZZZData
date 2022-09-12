@@ -1,0 +1,758 @@
+[
+  {
+    "ID": 1,
+    "MainQuestID": 10010001,
+    "Weight": 30,
+    "RewardID": "10100:10000:20",
+    "RewardPreviewStr": "100:20"
+  },
+  {
+    "ID": 2,
+    "MainQuestID": 10010001,
+    "Weight": 60,
+    "RewardID": "10100:10000:30",
+    "RewardPreviewStr": "100:30"
+  },
+  {
+    "ID": 3,
+    "MainQuestID": 10010001,
+    "Weight": 100,
+    "RewardID": "10100:10000:50",
+    "RewardPreviewStr": "100:50"
+  },
+  {
+    "ID": 4,
+    "MainQuestID": 10010002,
+    "Weight": 30,
+    "RewardID": "10100:10000:20",
+    "RewardPreviewStr": "100:20"
+  },
+  {
+    "ID": 5,
+    "MainQuestID": 10010002,
+    "Weight": 60,
+    "RewardID": "10100:10000:30",
+    "RewardPreviewStr": "100:30"
+  },
+  {
+    "ID": 6,
+    "MainQuestID": 10010002,
+    "Weight": 100,
+    "RewardID": "1102001:10000:18",
+    "RewardPreviewStr": "102001:18"
+  },
+  {
+    "ID": 7,
+    "MainQuestID": 10010003,
+    "Weight": 30,
+    "RewardID": "10100:10000:20",
+    "RewardPreviewStr": "100:20"
+  },
+  {
+    "ID": 8,
+    "MainQuestID": 10010003,
+    "Weight": 60,
+    "RewardID": "10100:10000:30",
+    "RewardPreviewStr": "100:30"
+  },
+  {
+    "ID": 9,
+    "MainQuestID": 10010003,
+    "Weight": 100,
+    "RewardID": "10100:10000:50",
+    "RewardPreviewStr": "100:50"
+  },
+  {
+    "ID": 10,
+    "MainQuestID": 10010004,
+    "Weight": 30,
+    "RewardID": "10100:10000:20",
+    "RewardPreviewStr": "100:20"
+  },
+  {
+    "ID": 11,
+    "MainQuestID": 10010004,
+    "Weight": 60,
+    "RewardID": "10100:10000:30",
+    "RewardPreviewStr": "100:30"
+  },
+  {
+    "ID": 12,
+    "MainQuestID": 10010004,
+    "Weight": 100,
+    "RewardID": "10100:10000:50",
+    "RewardPreviewStr": "100:50"
+  },
+  {
+    "ID": 13,
+    "MainQuestID": 10010005,
+    "Weight": 30,
+    "RewardID": "10100:10000:20",
+    "RewardPreviewStr": "100:20"
+  },
+  {
+    "ID": 14,
+    "MainQuestID": 10010005,
+    "Weight": 60,
+    "RewardID": "10100:10000:30",
+    "RewardPreviewStr": "100:30"
+  },
+  {
+    "ID": 15,
+    "MainQuestID": 10010005,
+    "Weight": 100,
+    "RewardID": "10100:10000:50",
+    "RewardPreviewStr": "100:50"
+  },
+  {
+    "ID": 16,
+    "MainQuestID": 10010106,
+    "Weight": 30,
+    "RewardID": "10100:10000:20",
+    "RewardPreviewStr": "100:20"
+  },
+  {
+    "ID": 17,
+    "MainQuestID": 10010106,
+    "Weight": 60,
+    "RewardID": "10100:10000:30",
+    "RewardPreviewStr": "100:30"
+  },
+  {
+    "ID": 18,
+    "MainQuestID": 10010106,
+    "Weight": 100,
+    "RewardID": "10100:10000:50",
+    "RewardPreviewStr": "100:50"
+  },
+  {
+    "ID": 19,
+    "MainQuestID": 10010107,
+    "Weight": 30,
+    "RewardID": "10100:10000:20",
+    "RewardPreviewStr": "100:20"
+  },
+  {
+    "ID": 20,
+    "MainQuestID": 10010107,
+    "Weight": 60,
+    "RewardID": "10100:10000:30",
+    "RewardPreviewStr": "100:30"
+  },
+  {
+    "ID": 21,
+    "MainQuestID": 10010107,
+    "Weight": 100,
+    "RewardID": "10100:10000:50",
+    "RewardPreviewStr": "100:50"
+  },
+  {
+    "ID": 22,
+    "MainQuestID": 10010103,
+    "Weight": 30,
+    "RewardID": "10100:10000:20",
+    "RewardPreviewStr": "100:20"
+  },
+  {
+    "ID": 23,
+    "MainQuestID": 10010103,
+    "Weight": 60,
+    "RewardID": "10100:10000:30",
+    "RewardPreviewStr": "100:30"
+  },
+  {
+    "ID": 24,
+    "MainQuestID": 10010103,
+    "Weight": 100,
+    "RewardID": "",
+    "RewardPreviewStr": "1000001:1"
+  },
+  {
+    "ID": 25,
+    "MainQuestID": 10010110,
+    "Weight": 30,
+    "RewardID": "10100:10000:20",
+    "RewardPreviewStr": "100:20"
+  },
+  {
+    "ID": 26,
+    "MainQuestID": 10010110,
+    "Weight": 60,
+    "RewardID": "10100:10000:30",
+    "RewardPreviewStr": "100:30"
+  },
+  {
+    "ID": 27,
+    "MainQuestID": 10010110,
+    "Weight": 100,
+    "RewardID": "",
+    "RewardPreviewStr": "1000001:1"
+  },
+  {
+    "ID": 28,
+    "MainQuestID": 10010101,
+    "Weight": 30,
+    "RewardID": "10100:10000:20",
+    "RewardPreviewStr": "100:20"
+  },
+  {
+    "ID": 29,
+    "MainQuestID": 10010101,
+    "Weight": 60,
+    "RewardID": "10100:10000:30",
+    "RewardPreviewStr": "100:30"
+  },
+  {
+    "ID": 30,
+    "MainQuestID": 10010101,
+    "Weight": 100,
+    "RewardID": "",
+    "RewardPreviewStr": "1000002:1"
+  },
+  {
+    "ID": 31,
+    "MainQuestID": 10010108,
+    "Weight": 30,
+    "RewardID": "10100:10000:20",
+    "RewardPreviewStr": "100:20"
+  },
+  {
+    "ID": 32,
+    "MainQuestID": 10010108,
+    "Weight": 60,
+    "RewardID": "10100:10000:30",
+    "RewardPreviewStr": "100:30"
+  },
+  {
+    "ID": 33,
+    "MainQuestID": 10010108,
+    "Weight": 100,
+    "RewardID": "",
+    "RewardPreviewStr": "1000002:1"
+  },
+  {
+    "ID": 34,
+    "MainQuestID": 10010115,
+    "Weight": 30,
+    "RewardID": "10100:10000:20",
+    "RewardPreviewStr": "100:20"
+  },
+  {
+    "ID": 35,
+    "MainQuestID": 10010115,
+    "Weight": 60,
+    "RewardID": "10100:10000:30",
+    "RewardPreviewStr": "100:30"
+  },
+  {
+    "ID": 36,
+    "MainQuestID": 10010115,
+    "Weight": 100,
+    "RewardID": "",
+    "RewardPreviewStr": "1000002:1"
+  },
+  {
+    "ID": 37,
+    "MainQuestID": 10010109,
+    "Weight": 30,
+    "RewardID": "10100:10000:20",
+    "RewardPreviewStr": "100:20"
+  },
+  {
+    "ID": 38,
+    "MainQuestID": 10010109,
+    "Weight": 60,
+    "RewardID": "10100:10000:30",
+    "RewardPreviewStr": "100:30"
+  },
+  {
+    "ID": 39,
+    "MainQuestID": 10010109,
+    "Weight": 100,
+    "RewardID": "",
+    "RewardPreviewStr": "1000000:1"
+  },
+  {
+    "ID": 40,
+    "MainQuestID": 10010102,
+    "Weight": 30,
+    "RewardID": "10100:10000:20",
+    "RewardPreviewStr": "100:20"
+  },
+  {
+    "ID": 41,
+    "MainQuestID": 10010102,
+    "Weight": 60,
+    "RewardID": "10100:10000:30",
+    "RewardPreviewStr": "100:30"
+  },
+  {
+    "ID": 42,
+    "MainQuestID": 10010102,
+    "Weight": 100,
+    "RewardID": "",
+    "RewardPreviewStr": "1000000:1"
+  },
+  {
+    "ID": 43,
+    "MainQuestID": 10010207,
+    "Weight": 30,
+    "RewardID": "10100:10000:20",
+    "RewardPreviewStr": "100:20"
+  },
+  {
+    "ID": 44,
+    "MainQuestID": 10010207,
+    "Weight": 60,
+    "RewardID": "10100:10000:30",
+    "RewardPreviewStr": "100:30"
+  },
+  {
+    "ID": 45,
+    "MainQuestID": 10010207,
+    "Weight": 100,
+    "RewardID": "",
+    "RewardPreviewStr": "1000002:1"
+  },
+  {
+    "ID": 46,
+    "MainQuestID": 10010113,
+    "Weight": 30,
+    "RewardID": "10100:10000:20",
+    "RewardPreviewStr": "100:20"
+  },
+  {
+    "ID": 47,
+    "MainQuestID": 10010113,
+    "Weight": 60,
+    "RewardID": "10100:10000:30",
+    "RewardPreviewStr": "100:30"
+  },
+  {
+    "ID": 48,
+    "MainQuestID": 10010113,
+    "Weight": 100,
+    "RewardID": "",
+    "RewardPreviewStr": "1000001:1"
+  },
+  {
+    "ID": 49,
+    "MainQuestID": 10010204,
+    "Weight": 30,
+    "RewardID": "10100:10000:20",
+    "RewardPreviewStr": "100:20"
+  },
+  {
+    "ID": 50,
+    "MainQuestID": 10010204,
+    "Weight": 60,
+    "RewardID": "10100:10000:30",
+    "RewardPreviewStr": "100:30"
+  },
+  {
+    "ID": 51,
+    "MainQuestID": 10010204,
+    "Weight": 100,
+    "RewardID": "",
+    "RewardPreviewStr": "1000001:1"
+  },
+  {
+    "ID": 52,
+    "MainQuestID": 10010203,
+    "Weight": 30,
+    "RewardID": "10100:10000:20",
+    "RewardPreviewStr": "100:20"
+  },
+  {
+    "ID": 53,
+    "MainQuestID": 10010203,
+    "Weight": 60,
+    "RewardID": "10100:10000:30",
+    "RewardPreviewStr": "100:30"
+  },
+  {
+    "ID": 54,
+    "MainQuestID": 10010203,
+    "Weight": 100,
+    "RewardID": "",
+    "RewardPreviewStr": "1000002:1"
+  },
+  {
+    "ID": 55,
+    "MainQuestID": 10010112,
+    "Weight": 30,
+    "RewardID": "10100:10000:20",
+    "RewardPreviewStr": "100:20"
+  },
+  {
+    "ID": 56,
+    "MainQuestID": 10010112,
+    "Weight": 60,
+    "RewardID": "10100:10000:30",
+    "RewardPreviewStr": "100:30"
+  },
+  {
+    "ID": 57,
+    "MainQuestID": 10010112,
+    "Weight": 100,
+    "RewardID": "",
+    "RewardPreviewStr": "1000001:1"
+  },
+  {
+    "ID": 58,
+    "MainQuestID": 10010114,
+    "Weight": 30,
+    "RewardID": "10100:10000:20",
+    "RewardPreviewStr": "100:20"
+  },
+  {
+    "ID": 59,
+    "MainQuestID": 10010114,
+    "Weight": 60,
+    "RewardID": "10100:10000:30",
+    "RewardPreviewStr": "100:30"
+  },
+  {
+    "ID": 60,
+    "MainQuestID": 10010114,
+    "Weight": 100,
+    "RewardID": "",
+    "RewardPreviewStr": "1000002:1"
+  },
+  {
+    "ID": 61,
+    "MainQuestID": 10010111,
+    "Weight": 30,
+    "RewardID": "10100:10000:20",
+    "RewardPreviewStr": "100:20"
+  },
+  {
+    "ID": 62,
+    "MainQuestID": 10010111,
+    "Weight": 60,
+    "RewardID": "10100:10000:30",
+    "RewardPreviewStr": "100:30"
+  },
+  {
+    "ID": 63,
+    "MainQuestID": 10010111,
+    "Weight": 100,
+    "RewardID": "10100:10000:50",
+    "RewardPreviewStr": "100:50"
+  },
+  {
+    "ID": 64,
+    "MainQuestID": 10010105,
+    "Weight": 30,
+    "RewardID": "10100:10000:20",
+    "RewardPreviewStr": "100:20"
+  },
+  {
+    "ID": 65,
+    "MainQuestID": 10010105,
+    "Weight": 60,
+    "RewardID": "10100:10000:30",
+    "RewardPreviewStr": "100:30"
+  },
+  {
+    "ID": 66,
+    "MainQuestID": 10010105,
+    "Weight": 100,
+    "RewardID": "10100:10000:50",
+    "RewardPreviewStr": "100:50"
+  },
+  {
+    "ID": 67,
+    "MainQuestID": 10010117,
+    "Weight": 30,
+    "RewardID": "10100:10000:20",
+    "RewardPreviewStr": "100:20"
+  },
+  {
+    "ID": 68,
+    "MainQuestID": 10010117,
+    "Weight": 60,
+    "RewardID": "10100:10000:30",
+    "RewardPreviewStr": "100:30"
+  },
+  {
+    "ID": 69,
+    "MainQuestID": 10010117,
+    "Weight": 100,
+    "RewardID": "10100:10000:50",
+    "RewardPreviewStr": "100:50"
+  },
+  {
+    "ID": 70,
+    "MainQuestID": 10010119,
+    "Weight": 30,
+    "RewardID": "10100:10000:20",
+    "RewardPreviewStr": "100:20"
+  },
+  {
+    "ID": 71,
+    "MainQuestID": 10010119,
+    "Weight": 60,
+    "RewardID": "10100:10000:30",
+    "RewardPreviewStr": "100:30"
+  },
+  {
+    "ID": 72,
+    "MainQuestID": 10010119,
+    "Weight": 100,
+    "RewardID": "10100:10000:50",
+    "RewardPreviewStr": "100:50"
+  },
+  {
+    "ID": 73,
+    "MainQuestID": 1990035,
+    "Weight": 30,
+    "RewardID": "10100:10000:20",
+    "RewardPreviewStr": "100:20"
+  },
+  {
+    "ID": 74,
+    "MainQuestID": 1990035,
+    "Weight": 60,
+    "RewardID": "10100:10000:30",
+    "RewardPreviewStr": "100:30"
+  },
+  {
+    "ID": 75,
+    "MainQuestID": 1990035,
+    "Weight": 100,
+    "RewardID": "10100:10000:50",
+    "RewardPreviewStr": "100:50"
+  },
+  {
+    "ID": 76,
+    "MainQuestID": 1990036,
+    "Weight": 30,
+    "RewardID": "10100:10000:20",
+    "RewardPreviewStr": "100:20"
+  },
+  {
+    "ID": 77,
+    "MainQuestID": 1990036,
+    "Weight": 60,
+    "RewardID": "10100:10000:30",
+    "RewardPreviewStr": "100:30"
+  },
+  {
+    "ID": 78,
+    "MainQuestID": 1990036,
+    "Weight": 100,
+    "RewardID": "10100:10000:50",
+    "RewardPreviewStr": "100:50"
+  },
+  {
+    "ID": 79,
+    "MainQuestID": 1990037,
+    "Weight": 30,
+    "RewardID": "10100:10000:20",
+    "RewardPreviewStr": "100:20"
+  },
+  {
+    "ID": 80,
+    "MainQuestID": 1990037,
+    "Weight": 60,
+    "RewardID": "10100:10000:30",
+    "RewardPreviewStr": "100:30"
+  },
+  {
+    "ID": 81,
+    "MainQuestID": 1990037,
+    "Weight": 100,
+    "RewardID": "10100:10000:50",
+    "RewardPreviewStr": "100:50"
+  },
+  {
+    "ID": 82,
+    "MainQuestID": 10010118,
+    "Weight": 30,
+    "RewardID": "10100:10000:20",
+    "RewardPreviewStr": "100:20"
+  },
+  {
+    "ID": 83,
+    "MainQuestID": 10010118,
+    "Weight": 60,
+    "RewardID": "10100:10000:30",
+    "RewardPreviewStr": "100:30"
+  },
+  {
+    "ID": 84,
+    "MainQuestID": 10010118,
+    "Weight": 100,
+    "RewardID": "10100:10000:50",
+    "RewardPreviewStr": "100:50"
+  },
+  {
+    "ID": 85,
+    "MainQuestID": 10010206,
+    "Weight": 30,
+    "RewardID": "10100:10000:20",
+    "RewardPreviewStr": "100:20"
+  },
+  {
+    "ID": 86,
+    "MainQuestID": 10010206,
+    "Weight": 60,
+    "RewardID": "10100:10000:30",
+    "RewardPreviewStr": "100:30"
+  },
+  {
+    "ID": 87,
+    "MainQuestID": 10010206,
+    "Weight": 100,
+    "RewardID": "10100:10000:50",
+    "RewardPreviewStr": "100:50"
+  },
+  {
+    "ID": 88,
+    "MainQuestID": 10010104,
+    "Weight": 30,
+    "RewardID": "10100:10000:20",
+    "RewardPreviewStr": "100:20"
+  },
+  {
+    "ID": 89,
+    "MainQuestID": 10010104,
+    "Weight": 60,
+    "RewardID": "10100:10000:30",
+    "RewardPreviewStr": "100:30"
+  },
+  {
+    "ID": 90,
+    "MainQuestID": 10010104,
+    "Weight": 100,
+    "RewardID": "10100:10000:50",
+    "RewardPreviewStr": "100:50"
+  },
+  {
+    "ID": 91,
+    "MainQuestID": 10010301,
+    "Weight": 30,
+    "RewardID": "10100:10000:20",
+    "RewardPreviewStr": "100:20"
+  },
+  {
+    "ID": 92,
+    "MainQuestID": 10010301,
+    "Weight": 60,
+    "RewardID": "10100:10000:30",
+    "RewardPreviewStr": "100:30"
+  },
+  {
+    "ID": 93,
+    "MainQuestID": 10010301,
+    "Weight": 100,
+    "RewardID": "10100:10000:50",
+    "RewardPreviewStr": "100:50"
+  },
+  {
+    "ID": 94,
+    "MainQuestID": 10010205,
+    "Weight": 30,
+    "RewardID": "10100:10000:20",
+    "RewardPreviewStr": "100:20"
+  },
+  {
+    "ID": 95,
+    "MainQuestID": 10010205,
+    "Weight": 60,
+    "RewardID": "10100:10000:30",
+    "RewardPreviewStr": "100:30"
+  },
+  {
+    "ID": 96,
+    "MainQuestID": 10010205,
+    "Weight": 100,
+    "RewardID": "10100:10000:50",
+    "RewardPreviewStr": "100:50"
+  },
+  {
+    "ID": 97,
+    "MainQuestID": 10010116,
+    "Weight": 30,
+    "RewardID": "10100:10000:20",
+    "RewardPreviewStr": "100:20"
+  },
+  {
+    "ID": 98,
+    "MainQuestID": 10010116,
+    "Weight": 60,
+    "RewardID": "10100:10000:30",
+    "RewardPreviewStr": "100:30"
+  },
+  {
+    "ID": 99,
+    "MainQuestID": 10010116,
+    "Weight": 100,
+    "RewardID": "10100:10000:50",
+    "RewardPreviewStr": "100:50"
+  },
+  {
+    "ID": 100,
+    "MainQuestID": 10010120,
+    "Weight": 30,
+    "RewardID": "10100:10000:20",
+    "RewardPreviewStr": "100:20"
+  },
+  {
+    "ID": 101,
+    "MainQuestID": 10010120,
+    "Weight": 60,
+    "RewardID": "10100:10000:30",
+    "RewardPreviewStr": "100:30"
+  },
+  {
+    "ID": 102,
+    "MainQuestID": 10010120,
+    "Weight": 100,
+    "RewardID": "10100:10000:50",
+    "RewardPreviewStr": "1000001:1"
+  },
+  {
+    "ID": 103,
+    "MainQuestID": 10010121,
+    "Weight": 30,
+    "RewardID": "10100:10000:20",
+    "RewardPreviewStr": "100:20"
+  },
+  {
+    "ID": 104,
+    "MainQuestID": 10010121,
+    "Weight": 60,
+    "RewardID": "10100:10000:30",
+    "RewardPreviewStr": "100:30"
+  },
+  {
+    "ID": 105,
+    "MainQuestID": 10010121,
+    "Weight": 100,
+    "RewardID": "10100:10000:50",
+    "RewardPreviewStr": "1000001:1"
+  },
+  {
+    "ID": 106,
+    "MainQuestID": 10010122,
+    "Weight": 30,
+    "RewardID": "10100:10000:20",
+    "RewardPreviewStr": "100:20"
+  },
+  {
+    "ID": 107,
+    "MainQuestID": 10010122,
+    "Weight": 60,
+    "RewardID": "10100:10000:30",
+    "RewardPreviewStr": "100:30"
+  },
+  {
+    "ID": 108,
+    "MainQuestID": 10010122,
+    "Weight": 100,
+    "RewardID": "10100:10000:50",
+    "RewardPreviewStr": "1000002:1"
+  }
+]

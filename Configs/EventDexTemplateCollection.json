@@ -1,0 +1,10 @@
+[
+  { "ID": 1, "BtnName": "EventCategory_Normal", "BtnOrder": 1 },
+  { "ID": 2, "BtnName": "EventCategory_Battle", "BtnOrder": 2 },
+  { "ID": 3, "BtnName": "EventCategory_Resource", "BtnOrder": 3 },
+  { "ID": 4, "BtnName": "EventCategory_Recover", "BtnOrder": 4 },
+  { "ID": 5, "BtnName": "EventCategory_Trap", "BtnOrder": 5 },
+  { "ID": 6, "BtnName": "EventCategory_Special", "BtnOrder": 6 },
+  { "ID": 7, "BtnName": "EventCategory_Story01", "BtnOrder": 7 },
+  { "ID": 8, "BtnName": "EventCategory_Avartar", "BtnOrder": 8 }
+]

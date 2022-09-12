@@ -1,0 +1,30 @@
+[
+  {
+    "VhsFlowID": 1,
+    "FlowSectionLeft": 0,
+    "FlowSectionRight": 120,
+    "FlowValue": 0,
+    "FlowDesc": "VHSFlowDesc_01"
+  },
+  {
+    "VhsFlowID": 2,
+    "FlowSectionLeft": 121,
+    "FlowSectionRight": 240,
+    "FlowValue": 2500,
+    "FlowDesc": "VHSFlowDesc_02"
+  },
+  {
+    "VhsFlowID": 3,
+    "FlowSectionLeft": 241,
+    "FlowSectionRight": 360,
+    "FlowValue": 5000,
+    "FlowDesc": "VHSFlowDesc_03"
+  },
+  {
+    "VhsFlowID": 4,
+    "FlowSectionLeft": 361,
+    "FlowSectionRight": 99999,
+    "FlowValue": 10000,
+    "FlowDesc": "VHSFlowDesc_04"
+  }
+]

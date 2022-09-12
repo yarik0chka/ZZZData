@@ -1,0 +1,68 @@
+[
+  {
+    "ID": 1,
+    "BtnName": "TarotCard_Genre_Stun",
+    "BtnOrder": 1,
+    "UnlockInfo": "也许可以试试跟乔普大将多沟通"
+  },
+  {
+    "ID": 2,
+    "BtnName": "TarotCard_Genre_Critical",
+    "BtnOrder": 2,
+    "UnlockInfo": "也许可以试试跟乔普大将多沟通"
+  },
+  {
+    "ID": 3,
+    "BtnName": "TarotCard_Genre_Evade",
+    "BtnOrder": 3,
+    "UnlockInfo": "也许可以试试跟乔普大将多沟通"
+  },
+  {
+    "ID": 4,
+    "BtnName": "TarotCard_Genre_Ashes",
+    "BtnOrder": 4,
+    "UnlockInfo": "也许可以试试跟乔普大将多沟通"
+  },
+  {
+    "ID": 5,
+    "BtnName": "TarotCard_Genre_Froze",
+    "BtnOrder": 5,
+    "UnlockInfo": "也许可以试试跟乔普大将多沟通"
+  },
+  {
+    "ID": 6,
+    "BtnName": "TarotCard_Genre_Health",
+    "BtnOrder": 6,
+    "UnlockInfo": "也许可以试试跟乔普大将多沟通"
+  },
+  {
+    "ID": 7,
+    "BtnName": "TarotCard_Genre_Defend",
+    "BtnOrder": 7,
+    "UnlockInfo": "也许可以试试跟乔普大将多沟通"
+  },
+  {
+    "ID": 8,
+    "BtnName": "TarotCard_Genre_Eelctric",
+    "BtnOrder": 8,
+    "UnlockInfo": "也许可以试试跟乔普大将多沟通"
+  },
+  {
+    "ID": 9,
+    "BtnName": "TarotCard_Genre_SP",
+    "BtnOrder": 9,
+    "UnlockInfo": "也许可以试试跟乔普大将多沟通"
+  },
+  {
+    "ID": 10,
+    "BtnName": "TarotCard_Genre_Hollow",
+    "BtnOrder": 10,
+    "UnlockInfo": "也许可以试试跟乔普大将多沟通"
+  },
+  {
+    "ID": 11,
+    "BtnName": "TarotCard_Genre_Common",
+    "BtnOrder": 11,
+    "UnlockInfo": "也许可以试试跟乔普大将多沟通"
+  }
+]

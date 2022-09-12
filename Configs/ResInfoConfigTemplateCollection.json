@@ -1,0 +1,162 @@
+[
+  {
+    "Key": "TestKey_Icon",
+    "ResPath": "UI/Sprite/A1DynamicLoad/ItemIcon/UnPacker/EquipStarUpRare03.png",
+    "Size": 50
+  },
+  {
+    "Key": "Icon_JoyStick",
+    "ResPath": "UI/Sprite/A1DynamicLoad/IconRoleSkillKey/Packer/IconRoleSkillKeyJoyStick.png",
+    "Size": 40
+  },
+  {
+    "Key": "Icon_Normal",
+    "ResPath": "UI/Sprite/A1DynamicLoad/IconRoleSkillKey/Packer/IconRoleSkillKeyNormal.png",
+    "Size": 40
+  },
+  {
+    "Key": "Icon_Evade",
+    "ResPath": "UI/Sprite/A1DynamicLoad/IconRoleSkillKey/Packer/IconRoleSkillKeyEvade.png",
+    "Size": 40
+  },
+  {
+    "Key": "Icon_Special",
+    "ResPath": "UI/Sprite/A1DynamicLoad/IconRoleSkillKey/Packer/IconRoleSkillKeySpecial.png",
+    "Size": 40
+  },
+  {
+    "Key": "Icon_Switch",
+    "ResPath": "UI/Sprite/A1DynamicLoad/IconRoleSkillKey/Packer/IconRoleSkillKeySwitch.png",
+    "Size": 40
+  },
+  {
+    "Key": "Icon_QTE",
+    "ResPath": "UI/Sprite/A1DynamicLoad/IconRoleSkillKey/Packer/IconRoleSkillKeyQTE.png",
+    "Size": 40
+  },
+  {
+    "Key": "Icon_Ultimate",
+    "ResPath": "UI/Sprite/A1DynamicLoad/IconRoleSkillKey/Packer/IconRoleSkillKeyUltimate.png",
+    "Size": 40
+  },
+  {
+    "Key": "Icon_JoyStick_Fairy",
+    "ResPath": "UI/Sprite/A1DynamicLoad/IconRoleSkillKey/Packer/IconRoleSkillKeyJoyStick.png",
+    "Size": 38
+  },
+  {
+    "Key": "Icon_Normal_Fairy",
+    "ResPath": "UI/Sprite/A1DynamicLoad/IconRoleSkillKey/Packer/IconRoleSkillKeyNormal.png",
+    "Size": 38
+  },
+  {
+    "Key": "Icon_Evade_Fairy",
+    "ResPath": "UI/Sprite/A1DynamicLoad/IconRoleSkillKey/Packer/IconRoleSkillKeyEvade.png",
+    "Size": 38
+  },
+  {
+    "Key": "Icon_Special_Fairy",
+    "ResPath": "UI/Sprite/A1DynamicLoad/IconRoleSkillKey/Packer/IconRoleSkillKeySpecial.png",
+    "Size": 38
+  },
+  {
+    "Key": "Icon_Switch_Fairy",
+    "ResPath": "UI/Sprite/A1DynamicLoad/IconRoleSkillKey/Packer/IconRoleSkillKeySwitch.png",
+    "Size": 38
+  },
+  {
+    "Key": "Icon_QTE_Fairy",
+    "ResPath": "UI/Sprite/A1DynamicLoad/IconRoleSkillKey/Packer/IconRoleSkillKeyQTE.png",
+    "Size": 38
+  },
+  {
+    "Key": "Icon_Ultimate_Fairy",
+    "ResPath": "UI/Sprite/A1DynamicLoad/IconRoleSkillKey/Packer/IconRoleSkillKeyUltimate.png",
+    "Size": 38
+  },
+  {
+    "Key": "Icon_IconRoleCircle01",
+    "ResPath": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle01.png",
+    "Size": 40
+  },
+  {
+    "Key": "Icon_IconRoleCircle02",
+    "ResPath": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle02.png",
+    "Size": 40
+  },
+  {
+    "Key": "Icon_IconRoleCircle03",
+    "ResPath": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle03.png",
+    "Size": 40
+  },
+  {
+    "Key": "Icon_IconRoleCircle04",
+    "ResPath": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle04.png",
+    "Size": 40
+  },
+  {
+    "Key": "Icon_IconRoleCircle05",
+    "ResPath": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle05.png",
+    "Size": 40
+  },
+  {
+    "Key": "Icon_IconRoleCircle06",
+    "ResPath": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle06.png",
+    "Size": 40
+  },
+  {
+    "Key": "Icon_IconRoleCircle07",
+    "ResPath": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle07.png",
+    "Size": 40
+  },
+  {
+    "Key": "Icon_IconRoleCircle08",
+    "ResPath": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle08.png",
+    "Size": 40
+  },
+  {
+    "Key": "Icon_IconRoleCircle09",
+    "ResPath": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle09.png",
+    "Size": 40
+  },
+  {
+    "Key": "Icon_IconRoleCircle10",
+    "ResPath": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle10.png",
+    "Size": 40
+  },
+  {
+    "Key": "Icon_IconRoleCircle11",
+    "ResPath": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle11.png",
+    "Size": 40
+  },
+  {
+    "Key": "Icon_IconRoleCircle12",
+    "ResPath": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle12.png",
+    "Size": 40
+  },
+  {
+    "Key": "Icon_IconRoleCircle13",
+    "ResPath": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle13.png",
+    "Size": 40
+  },
+  {
+    "Key": "Icon_IconRoleCircle14",
+    "ResPath": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle14.png",
+    "Size": 40
+  },
+  {
+    "Key": "Icon_Punch",
+    "ResPath": "UI/Sprite/A1DynamicLoad/IconDungeonBuff/UnPacker/IconDungeonBuffPunch.png",
+    "Size": 40
+  },
+  {
+    "Key": "Icon_Cut",
+    "ResPath": "UI/Sprite/A1DynamicLoad/IconDungeonBuff/UnPacker/IconDungeonBuffCut.png",
+    "Size": 40
+  },
+  {
+    "Key": "Icon_Pierce",
+    "ResPath": "UI/Sprite/A1DynamicLoad/IconDungeonBuff/UnPacker/IconDungeonBuffPierce.png",
+    "Size": 40
+  }
+]

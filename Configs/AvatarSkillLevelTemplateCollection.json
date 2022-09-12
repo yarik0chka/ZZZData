@@ -1,0 +1,6542 @@
+[
+  {
+    "ID": 1011001,
+    "AvatarID": 1011,
+    "SkillType": 0,
+    "SkillLevel": 1,
+    "SkillUnLock": 15,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "65536000" },
+      { "ItemID": "131072", "Number": "100110" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1011002,
+    "AvatarID": 1011,
+    "SkillType": 0,
+    "SkillLevel": 2,
+    "SkillUnLock": 25,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "98304000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1011003,
+    "AvatarID": 1011,
+    "SkillType": 0,
+    "SkillLevel": 3,
+    "SkillUnLock": 35,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "131072000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1011004,
+    "AvatarID": 1011,
+    "SkillType": 0,
+    "SkillLevel": 4,
+    "SkillUnLock": 45,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "163840000" },
+      { "ItemID": "131072", "Number": "100130" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1011005,
+    "AvatarID": 1011,
+    "SkillType": 0,
+    "SkillLevel": 5,
+    "SkillUnLock": 55,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "196608000" },
+      { "ItemID": "131072", "Number": "100130" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1011006,
+    "AvatarID": 1011,
+    "SkillType": 0,
+    "SkillLevel": 6,
+    "SkillUnLock": 65,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "229376000" },
+      { "ItemID": "131072", "Number": "100140" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1011007,
+    "AvatarID": 1011,
+    "SkillType": 0,
+    "SkillLevel": 7,
+    "SkillUnLock": 75,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "262144000" },
+      { "ItemID": "131072", "Number": "100140" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1011008,
+    "AvatarID": 1011,
+    "SkillType": 0,
+    "SkillLevel": 8,
+    "SkillUnLock": 85,
+    "SkillMaterials": [],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1011101,
+    "AvatarID": 1011,
+    "SkillType": 1,
+    "SkillLevel": 1,
+    "SkillUnLock": 15,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "65536000" },
+      { "ItemID": "131072", "Number": "100110" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1011102,
+    "AvatarID": 1011,
+    "SkillType": 1,
+    "SkillLevel": 2,
+    "SkillUnLock": 25,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "98304000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1011103,
+    "AvatarID": 1011,
+    "SkillType": 1,
+    "SkillLevel": 3,
+    "SkillUnLock": 35,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "131072000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1011104,
+    "AvatarID": 1011,
+    "SkillType": 1,
+    "SkillLevel": 4,
+    "SkillUnLock": 45,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "163840000" },
+      { "ItemID": "131072", "Number": "100133" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1011105,
+    "AvatarID": 1011,
+    "SkillType": 1,
+    "SkillLevel": 5,
+    "SkillUnLock": 55,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "196608000" },
+      { "ItemID": "131072", "Number": "100133" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1011106,
+    "AvatarID": 1011,
+    "SkillType": 1,
+    "SkillLevel": 6,
+    "SkillUnLock": 65,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "229376000" },
+      { "ItemID": "131072", "Number": "100143" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1011107,
+    "AvatarID": 1011,
+    "SkillType": 1,
+    "SkillLevel": 7,
+    "SkillUnLock": 75,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "262144000" },
+      { "ItemID": "131072", "Number": "100143" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1011108,
+    "AvatarID": 1011,
+    "SkillType": 1,
+    "SkillLevel": 8,
+    "SkillUnLock": 85,
+    "SkillMaterials": [],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1011201,
+    "AvatarID": 1011,
+    "SkillType": 2,
+    "SkillLevel": 1,
+    "SkillUnLock": 15,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "65536000" },
+      { "ItemID": "131072", "Number": "100110" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1011202,
+    "AvatarID": 1011,
+    "SkillType": 2,
+    "SkillLevel": 2,
+    "SkillUnLock": 25,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "98304000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1011203,
+    "AvatarID": 1011,
+    "SkillType": 2,
+    "SkillLevel": 3,
+    "SkillUnLock": 35,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "131072000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1011204,
+    "AvatarID": 1011,
+    "SkillType": 2,
+    "SkillLevel": 4,
+    "SkillUnLock": 45,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "163840000" },
+      { "ItemID": "131072", "Number": "100133" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1011205,
+    "AvatarID": 1011,
+    "SkillType": 2,
+    "SkillLevel": 5,
+    "SkillUnLock": 55,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "196608000" },
+      { "ItemID": "131072", "Number": "100133" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1011206,
+    "AvatarID": 1011,
+    "SkillType": 2,
+    "SkillLevel": 6,
+    "SkillUnLock": 65,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "229376000" },
+      { "ItemID": "131072", "Number": "100143" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1011207,
+    "AvatarID": 1011,
+    "SkillType": 2,
+    "SkillLevel": 7,
+    "SkillUnLock": 75,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "262144000" },
+      { "ItemID": "131072", "Number": "100143" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1011208,
+    "AvatarID": 1011,
+    "SkillType": 2,
+    "SkillLevel": 8,
+    "SkillUnLock": 85,
+    "SkillMaterials": [],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1011301,
+    "AvatarID": 1011,
+    "SkillType": 3,
+    "SkillLevel": 1,
+    "SkillUnLock": 15,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "65536000" },
+      { "ItemID": "131072", "Number": "100110" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1011302,
+    "AvatarID": 1011,
+    "SkillType": 3,
+    "SkillLevel": 2,
+    "SkillUnLock": 25,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "98304000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1011303,
+    "AvatarID": 1011,
+    "SkillType": 3,
+    "SkillLevel": 3,
+    "SkillUnLock": 35,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "131072000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1011304,
+    "AvatarID": 1011,
+    "SkillType": 3,
+    "SkillLevel": 4,
+    "SkillUnLock": 45,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "163840000" },
+      { "ItemID": "131072", "Number": "100133" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1011305,
+    "AvatarID": 1011,
+    "SkillType": 3,
+    "SkillLevel": 5,
+    "SkillUnLock": 55,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "196608000" },
+      { "ItemID": "131072", "Number": "100133" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1011306,
+    "AvatarID": 1011,
+    "SkillType": 3,
+    "SkillLevel": 6,
+    "SkillUnLock": 65,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "229376000" },
+      { "ItemID": "131072", "Number": "100143" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1011307,
+    "AvatarID": 1011,
+    "SkillType": 3,
+    "SkillLevel": 7,
+    "SkillUnLock": 75,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "262144000" },
+      { "ItemID": "131072", "Number": "100143" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1011308,
+    "AvatarID": 1011,
+    "SkillType": 3,
+    "SkillLevel": 8,
+    "SkillUnLock": 85,
+    "SkillMaterials": [],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1011401,
+    "AvatarID": 1011,
+    "SkillType": 4,
+    "SkillLevel": 1,
+    "SkillUnLock": 15,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "65536000" },
+      { "ItemID": "131072", "Number": "100110" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1011402,
+    "AvatarID": 1011,
+    "SkillType": 4,
+    "SkillLevel": 2,
+    "SkillUnLock": 25,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "98304000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1011403,
+    "AvatarID": 1011,
+    "SkillType": 4,
+    "SkillLevel": 3,
+    "SkillUnLock": 35,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "131072000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1011404,
+    "AvatarID": 1011,
+    "SkillType": 4,
+    "SkillLevel": 4,
+    "SkillUnLock": 45,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "163840000" },
+      { "ItemID": "131072", "Number": "100133" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1011405,
+    "AvatarID": 1011,
+    "SkillType": 4,
+    "SkillLevel": 5,
+    "SkillUnLock": 55,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "196608000" },
+      { "ItemID": "131072", "Number": "100133" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1011406,
+    "AvatarID": 1011,
+    "SkillType": 4,
+    "SkillLevel": 6,
+    "SkillUnLock": 65,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "229376000" },
+      { "ItemID": "131072", "Number": "100143" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1011407,
+    "AvatarID": 1011,
+    "SkillType": 4,
+    "SkillLevel": 7,
+    "SkillUnLock": 75,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "262144000" },
+      { "ItemID": "131072", "Number": "100143" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1011408,
+    "AvatarID": 1011,
+    "SkillType": 4,
+    "SkillLevel": 8,
+    "SkillUnLock": 85,
+    "SkillMaterials": [],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1021001,
+    "AvatarID": 1021,
+    "SkillType": 0,
+    "SkillLevel": 1,
+    "SkillUnLock": 15,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "65536000" },
+      { "ItemID": "131072", "Number": "100110" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1021002,
+    "AvatarID": 1021,
+    "SkillType": 0,
+    "SkillLevel": 2,
+    "SkillUnLock": 25,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "98304000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1021003,
+    "AvatarID": 1021,
+    "SkillType": 0,
+    "SkillLevel": 3,
+    "SkillUnLock": 35,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "131072000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1021004,
+    "AvatarID": 1021,
+    "SkillType": 0,
+    "SkillLevel": 4,
+    "SkillUnLock": 45,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "163840000" },
+      { "ItemID": "131072", "Number": "100130" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1021005,
+    "AvatarID": 1021,
+    "SkillType": 0,
+    "SkillLevel": 5,
+    "SkillUnLock": 55,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "196608000" },
+      { "ItemID": "131072", "Number": "100130" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1021006,
+    "AvatarID": 1021,
+    "SkillType": 0,
+    "SkillLevel": 6,
+    "SkillUnLock": 65,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "229376000" },
+      { "ItemID": "131072", "Number": "100140" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1021007,
+    "AvatarID": 1021,
+    "SkillType": 0,
+    "SkillLevel": 7,
+    "SkillUnLock": 75,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "262144000" },
+      { "ItemID": "131072", "Number": "100140" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1021008,
+    "AvatarID": 1021,
+    "SkillType": 0,
+    "SkillLevel": 8,
+    "SkillUnLock": 85,
+    "SkillMaterials": [],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1021101,
+    "AvatarID": 1021,
+    "SkillType": 1,
+    "SkillLevel": 1,
+    "SkillUnLock": 15,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "65536000" },
+      { "ItemID": "131072", "Number": "100110" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1021102,
+    "AvatarID": 1021,
+    "SkillType": 1,
+    "SkillLevel": 2,
+    "SkillUnLock": 25,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "98304000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1021103,
+    "AvatarID": 1021,
+    "SkillType": 1,
+    "SkillLevel": 3,
+    "SkillUnLock": 35,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "131072000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1021104,
+    "AvatarID": 1021,
+    "SkillType": 1,
+    "SkillLevel": 4,
+    "SkillUnLock": 45,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "163840000" },
+      { "ItemID": "131072", "Number": "100130" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1021105,
+    "AvatarID": 1021,
+    "SkillType": 1,
+    "SkillLevel": 5,
+    "SkillUnLock": 55,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "196608000" },
+      { "ItemID": "131072", "Number": "100130" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1021106,
+    "AvatarID": 1021,
+    "SkillType": 1,
+    "SkillLevel": 6,
+    "SkillUnLock": 65,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "229376000" },
+      { "ItemID": "131072", "Number": "100140" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1021107,
+    "AvatarID": 1021,
+    "SkillType": 1,
+    "SkillLevel": 7,
+    "SkillUnLock": 75,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "262144000" },
+      { "ItemID": "131072", "Number": "100140" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1021108,
+    "AvatarID": 1021,
+    "SkillType": 1,
+    "SkillLevel": 8,
+    "SkillUnLock": 85,
+    "SkillMaterials": [],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1021201,
+    "AvatarID": 1021,
+    "SkillType": 2,
+    "SkillLevel": 1,
+    "SkillUnLock": 15,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "65536000" },
+      { "ItemID": "131072", "Number": "100110" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1021202,
+    "AvatarID": 1021,
+    "SkillType": 2,
+    "SkillLevel": 2,
+    "SkillUnLock": 25,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "98304000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1021203,
+    "AvatarID": 1021,
+    "SkillType": 2,
+    "SkillLevel": 3,
+    "SkillUnLock": 35,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "131072000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1021204,
+    "AvatarID": 1021,
+    "SkillType": 2,
+    "SkillLevel": 4,
+    "SkillUnLock": 45,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "163840000" },
+      { "ItemID": "131072", "Number": "100130" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1021205,
+    "AvatarID": 1021,
+    "SkillType": 2,
+    "SkillLevel": 5,
+    "SkillUnLock": 55,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "196608000" },
+      { "ItemID": "131072", "Number": "100130" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1021206,
+    "AvatarID": 1021,
+    "SkillType": 2,
+    "SkillLevel": 6,
+    "SkillUnLock": 65,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "229376000" },
+      { "ItemID": "131072", "Number": "100140" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1021207,
+    "AvatarID": 1021,
+    "SkillType": 2,
+    "SkillLevel": 7,
+    "SkillUnLock": 75,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "262144000" },
+      { "ItemID": "131072", "Number": "100140" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1021208,
+    "AvatarID": 1021,
+    "SkillType": 2,
+    "SkillLevel": 8,
+    "SkillUnLock": 85,
+    "SkillMaterials": [],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1021301,
+    "AvatarID": 1021,
+    "SkillType": 3,
+    "SkillLevel": 1,
+    "SkillUnLock": 15,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "65536000" },
+      { "ItemID": "131072", "Number": "100110" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1021302,
+    "AvatarID": 1021,
+    "SkillType": 3,
+    "SkillLevel": 2,
+    "SkillUnLock": 25,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "98304000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1021303,
+    "AvatarID": 1021,
+    "SkillType": 3,
+    "SkillLevel": 3,
+    "SkillUnLock": 35,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "131072000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1021304,
+    "AvatarID": 1021,
+    "SkillType": 3,
+    "SkillLevel": 4,
+    "SkillUnLock": 45,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "163840000" },
+      { "ItemID": "131072", "Number": "100130" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1021305,
+    "AvatarID": 1021,
+    "SkillType": 3,
+    "SkillLevel": 5,
+    "SkillUnLock": 55,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "196608000" },
+      { "ItemID": "131072", "Number": "100130" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1021306,
+    "AvatarID": 1021,
+    "SkillType": 3,
+    "SkillLevel": 6,
+    "SkillUnLock": 65,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "229376000" },
+      { "ItemID": "131072", "Number": "100140" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1021307,
+    "AvatarID": 1021,
+    "SkillType": 3,
+    "SkillLevel": 7,
+    "SkillUnLock": 75,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "262144000" },
+      { "ItemID": "131072", "Number": "100140" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1021308,
+    "AvatarID": 1021,
+    "SkillType": 3,
+    "SkillLevel": 8,
+    "SkillUnLock": 85,
+    "SkillMaterials": [],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1021401,
+    "AvatarID": 1021,
+    "SkillType": 4,
+    "SkillLevel": 1,
+    "SkillUnLock": 15,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "65536000" },
+      { "ItemID": "131072", "Number": "100110" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1021402,
+    "AvatarID": 1021,
+    "SkillType": 4,
+    "SkillLevel": 2,
+    "SkillUnLock": 25,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "98304000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1021403,
+    "AvatarID": 1021,
+    "SkillType": 4,
+    "SkillLevel": 3,
+    "SkillUnLock": 35,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "131072000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1021404,
+    "AvatarID": 1021,
+    "SkillType": 4,
+    "SkillLevel": 4,
+    "SkillUnLock": 45,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "163840000" },
+      { "ItemID": "131072", "Number": "100130" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1021405,
+    "AvatarID": 1021,
+    "SkillType": 4,
+    "SkillLevel": 5,
+    "SkillUnLock": 55,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "196608000" },
+      { "ItemID": "131072", "Number": "100130" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1021406,
+    "AvatarID": 1021,
+    "SkillType": 4,
+    "SkillLevel": 6,
+    "SkillUnLock": 65,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "229376000" },
+      { "ItemID": "131072", "Number": "100140" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1021407,
+    "AvatarID": 1021,
+    "SkillType": 4,
+    "SkillLevel": 7,
+    "SkillUnLock": 75,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "262144000" },
+      { "ItemID": "131072", "Number": "100140" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1021408,
+    "AvatarID": 1021,
+    "SkillType": 4,
+    "SkillLevel": 8,
+    "SkillUnLock": 85,
+    "SkillMaterials": [],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1031001,
+    "AvatarID": 1031,
+    "SkillType": 0,
+    "SkillLevel": 1,
+    "SkillUnLock": 15,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "65536000" },
+      { "ItemID": "131072", "Number": "100110" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1031002,
+    "AvatarID": 1031,
+    "SkillType": 0,
+    "SkillLevel": 2,
+    "SkillUnLock": 25,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "98304000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1031003,
+    "AvatarID": 1031,
+    "SkillType": 0,
+    "SkillLevel": 3,
+    "SkillUnLock": 35,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "131072000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1031004,
+    "AvatarID": 1031,
+    "SkillType": 0,
+    "SkillLevel": 4,
+    "SkillUnLock": 45,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "163840000" },
+      { "ItemID": "131072", "Number": "100130" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1031005,
+    "AvatarID": 1031,
+    "SkillType": 0,
+    "SkillLevel": 5,
+    "SkillUnLock": 55,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "196608000" },
+      { "ItemID": "131072", "Number": "100130" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1031006,
+    "AvatarID": 1031,
+    "SkillType": 0,
+    "SkillLevel": 6,
+    "SkillUnLock": 65,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "229376000" },
+      { "ItemID": "131072", "Number": "100140" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1031007,
+    "AvatarID": 1031,
+    "SkillType": 0,
+    "SkillLevel": 7,
+    "SkillUnLock": 75,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "262144000" },
+      { "ItemID": "131072", "Number": "100140" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1031008,
+    "AvatarID": 1031,
+    "SkillType": 0,
+    "SkillLevel": 8,
+    "SkillUnLock": 85,
+    "SkillMaterials": [],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1031101,
+    "AvatarID": 1031,
+    "SkillType": 1,
+    "SkillLevel": 1,
+    "SkillUnLock": 15,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "65536000" },
+      { "ItemID": "131072", "Number": "100110" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1031102,
+    "AvatarID": 1031,
+    "SkillType": 1,
+    "SkillLevel": 2,
+    "SkillUnLock": 25,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "98304000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1031103,
+    "AvatarID": 1031,
+    "SkillType": 1,
+    "SkillLevel": 3,
+    "SkillUnLock": 35,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "131072000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1031104,
+    "AvatarID": 1031,
+    "SkillType": 1,
+    "SkillLevel": 4,
+    "SkillUnLock": 45,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "163840000" },
+      { "ItemID": "131072", "Number": "100130" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1031105,
+    "AvatarID": 1031,
+    "SkillType": 1,
+    "SkillLevel": 5,
+    "SkillUnLock": 55,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "196608000" },
+      { "ItemID": "131072", "Number": "100130" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1031106,
+    "AvatarID": 1031,
+    "SkillType": 1,
+    "SkillLevel": 6,
+    "SkillUnLock": 65,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "229376000" },
+      { "ItemID": "131072", "Number": "100140" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1031107,
+    "AvatarID": 1031,
+    "SkillType": 1,
+    "SkillLevel": 7,
+    "SkillUnLock": 75,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "262144000" },
+      { "ItemID": "131072", "Number": "100140" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1031108,
+    "AvatarID": 1031,
+    "SkillType": 1,
+    "SkillLevel": 8,
+    "SkillUnLock": 85,
+    "SkillMaterials": [],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1031201,
+    "AvatarID": 1031,
+    "SkillType": 2,
+    "SkillLevel": 1,
+    "SkillUnLock": 15,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "65536000" },
+      { "ItemID": "131072", "Number": "100110" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1031202,
+    "AvatarID": 1031,
+    "SkillType": 2,
+    "SkillLevel": 2,
+    "SkillUnLock": 25,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "98304000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1031203,
+    "AvatarID": 1031,
+    "SkillType": 2,
+    "SkillLevel": 3,
+    "SkillUnLock": 35,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "131072000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1031204,
+    "AvatarID": 1031,
+    "SkillType": 2,
+    "SkillLevel": 4,
+    "SkillUnLock": 45,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "163840000" },
+      { "ItemID": "131072", "Number": "100130" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1031205,
+    "AvatarID": 1031,
+    "SkillType": 2,
+    "SkillLevel": 5,
+    "SkillUnLock": 55,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "196608000" },
+      { "ItemID": "131072", "Number": "100130" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1031206,
+    "AvatarID": 1031,
+    "SkillType": 2,
+    "SkillLevel": 6,
+    "SkillUnLock": 65,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "229376000" },
+      { "ItemID": "131072", "Number": "100140" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1031207,
+    "AvatarID": 1031,
+    "SkillType": 2,
+    "SkillLevel": 7,
+    "SkillUnLock": 75,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "262144000" },
+      { "ItemID": "131072", "Number": "100140" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1031208,
+    "AvatarID": 1031,
+    "SkillType": 2,
+    "SkillLevel": 8,
+    "SkillUnLock": 85,
+    "SkillMaterials": [],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1031301,
+    "AvatarID": 1031,
+    "SkillType": 3,
+    "SkillLevel": 1,
+    "SkillUnLock": 15,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "65536000" },
+      { "ItemID": "131072", "Number": "100110" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1031302,
+    "AvatarID": 1031,
+    "SkillType": 3,
+    "SkillLevel": 2,
+    "SkillUnLock": 25,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "98304000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1031303,
+    "AvatarID": 1031,
+    "SkillType": 3,
+    "SkillLevel": 3,
+    "SkillUnLock": 35,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "131072000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1031304,
+    "AvatarID": 1031,
+    "SkillType": 3,
+    "SkillLevel": 4,
+    "SkillUnLock": 45,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "163840000" },
+      { "ItemID": "131072", "Number": "100130" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1031305,
+    "AvatarID": 1031,
+    "SkillType": 3,
+    "SkillLevel": 5,
+    "SkillUnLock": 55,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "196608000" },
+      { "ItemID": "131072", "Number": "100130" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1031306,
+    "AvatarID": 1031,
+    "SkillType": 3,
+    "SkillLevel": 6,
+    "SkillUnLock": 65,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "229376000" },
+      { "ItemID": "131072", "Number": "100140" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1031307,
+    "AvatarID": 1031,
+    "SkillType": 3,
+    "SkillLevel": 7,
+    "SkillUnLock": 75,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "262144000" },
+      { "ItemID": "131072", "Number": "100140" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1031308,
+    "AvatarID": 1031,
+    "SkillType": 3,
+    "SkillLevel": 8,
+    "SkillUnLock": 85,
+    "SkillMaterials": [],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1031401,
+    "AvatarID": 1031,
+    "SkillType": 4,
+    "SkillLevel": 1,
+    "SkillUnLock": 15,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "65536000" },
+      { "ItemID": "131072", "Number": "100110" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1031402,
+    "AvatarID": 1031,
+    "SkillType": 4,
+    "SkillLevel": 2,
+    "SkillUnLock": 25,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "98304000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1031403,
+    "AvatarID": 1031,
+    "SkillType": 4,
+    "SkillLevel": 3,
+    "SkillUnLock": 35,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "131072000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1031404,
+    "AvatarID": 1031,
+    "SkillType": 4,
+    "SkillLevel": 4,
+    "SkillUnLock": 45,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "163840000" },
+      { "ItemID": "131072", "Number": "100130" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1031405,
+    "AvatarID": 1031,
+    "SkillType": 4,
+    "SkillLevel": 5,
+    "SkillUnLock": 55,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "196608000" },
+      { "ItemID": "131072", "Number": "100130" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1031406,
+    "AvatarID": 1031,
+    "SkillType": 4,
+    "SkillLevel": 6,
+    "SkillUnLock": 65,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "229376000" },
+      { "ItemID": "131072", "Number": "100140" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1031407,
+    "AvatarID": 1031,
+    "SkillType": 4,
+    "SkillLevel": 7,
+    "SkillUnLock": 75,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "262144000" },
+      { "ItemID": "131072", "Number": "100140" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1031408,
+    "AvatarID": 1031,
+    "SkillType": 4,
+    "SkillLevel": 8,
+    "SkillUnLock": 85,
+    "SkillMaterials": [],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1041001,
+    "AvatarID": 1041,
+    "SkillType": 0,
+    "SkillLevel": 1,
+    "SkillUnLock": 15,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "65536000" },
+      { "ItemID": "131072", "Number": "100110" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1041002,
+    "AvatarID": 1041,
+    "SkillType": 0,
+    "SkillLevel": 2,
+    "SkillUnLock": 25,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "98304000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1041003,
+    "AvatarID": 1041,
+    "SkillType": 0,
+    "SkillLevel": 3,
+    "SkillUnLock": 35,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "131072000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1041004,
+    "AvatarID": 1041,
+    "SkillType": 0,
+    "SkillLevel": 4,
+    "SkillUnLock": 45,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "163840000" },
+      { "ItemID": "131072", "Number": "100130" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1041005,
+    "AvatarID": 1041,
+    "SkillType": 0,
+    "SkillLevel": 5,
+    "SkillUnLock": 55,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "196608000" },
+      { "ItemID": "131072", "Number": "100130" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1041006,
+    "AvatarID": 1041,
+    "SkillType": 0,
+    "SkillLevel": 6,
+    "SkillUnLock": 65,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "229376000" },
+      { "ItemID": "131072", "Number": "100140" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1041007,
+    "AvatarID": 1041,
+    "SkillType": 0,
+    "SkillLevel": 7,
+    "SkillUnLock": 75,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "262144000" },
+      { "ItemID": "131072", "Number": "100140" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1041008,
+    "AvatarID": 1041,
+    "SkillType": 0,
+    "SkillLevel": 8,
+    "SkillUnLock": 85,
+    "SkillMaterials": [],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1041101,
+    "AvatarID": 1041,
+    "SkillType": 1,
+    "SkillLevel": 1,
+    "SkillUnLock": 15,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "65536000" },
+      { "ItemID": "131072", "Number": "100110" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1041102,
+    "AvatarID": 1041,
+    "SkillType": 1,
+    "SkillLevel": 2,
+    "SkillUnLock": 25,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "98304000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1041103,
+    "AvatarID": 1041,
+    "SkillType": 1,
+    "SkillLevel": 3,
+    "SkillUnLock": 35,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "131072000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1041104,
+    "AvatarID": 1041,
+    "SkillType": 1,
+    "SkillLevel": 4,
+    "SkillUnLock": 45,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "163840000" },
+      { "ItemID": "131072", "Number": "100131" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1041105,
+    "AvatarID": 1041,
+    "SkillType": 1,
+    "SkillLevel": 5,
+    "SkillUnLock": 55,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "196608000" },
+      { "ItemID": "131072", "Number": "100131" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1041106,
+    "AvatarID": 1041,
+    "SkillType": 1,
+    "SkillLevel": 6,
+    "SkillUnLock": 65,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "229376000" },
+      { "ItemID": "131072", "Number": "100141" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1041107,
+    "AvatarID": 1041,
+    "SkillType": 1,
+    "SkillLevel": 7,
+    "SkillUnLock": 75,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "262144000" },
+      { "ItemID": "131072", "Number": "100141" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1041108,
+    "AvatarID": 1041,
+    "SkillType": 1,
+    "SkillLevel": 8,
+    "SkillUnLock": 85,
+    "SkillMaterials": [],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1041201,
+    "AvatarID": 1041,
+    "SkillType": 2,
+    "SkillLevel": 1,
+    "SkillUnLock": 15,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "65536000" },
+      { "ItemID": "131072", "Number": "100110" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1041202,
+    "AvatarID": 1041,
+    "SkillType": 2,
+    "SkillLevel": 2,
+    "SkillUnLock": 25,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "98304000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1041203,
+    "AvatarID": 1041,
+    "SkillType": 2,
+    "SkillLevel": 3,
+    "SkillUnLock": 35,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "131072000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1041204,
+    "AvatarID": 1041,
+    "SkillType": 2,
+    "SkillLevel": 4,
+    "SkillUnLock": 45,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "163840000" },
+      { "ItemID": "131072", "Number": "100131" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1041205,
+    "AvatarID": 1041,
+    "SkillType": 2,
+    "SkillLevel": 5,
+    "SkillUnLock": 55,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "196608000" },
+      { "ItemID": "131072", "Number": "100131" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1041206,
+    "AvatarID": 1041,
+    "SkillType": 2,
+    "SkillLevel": 6,
+    "SkillUnLock": 65,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "229376000" },
+      { "ItemID": "131072", "Number": "100141" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1041207,
+    "AvatarID": 1041,
+    "SkillType": 2,
+    "SkillLevel": 7,
+    "SkillUnLock": 75,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "262144000" },
+      { "ItemID": "131072", "Number": "100141" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1041208,
+    "AvatarID": 1041,
+    "SkillType": 2,
+    "SkillLevel": 8,
+    "SkillUnLock": 85,
+    "SkillMaterials": [],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1041301,
+    "AvatarID": 1041,
+    "SkillType": 3,
+    "SkillLevel": 1,
+    "SkillUnLock": 15,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "65536000" },
+      { "ItemID": "131072", "Number": "100110" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1041302,
+    "AvatarID": 1041,
+    "SkillType": 3,
+    "SkillLevel": 2,
+    "SkillUnLock": 25,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "98304000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1041303,
+    "AvatarID": 1041,
+    "SkillType": 3,
+    "SkillLevel": 3,
+    "SkillUnLock": 35,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "131072000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1041304,
+    "AvatarID": 1041,
+    "SkillType": 3,
+    "SkillLevel": 4,
+    "SkillUnLock": 45,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "163840000" },
+      { "ItemID": "131072", "Number": "100131" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1041305,
+    "AvatarID": 1041,
+    "SkillType": 3,
+    "SkillLevel": 5,
+    "SkillUnLock": 55,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "196608000" },
+      { "ItemID": "131072", "Number": "100131" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1041306,
+    "AvatarID": 1041,
+    "SkillType": 3,
+    "SkillLevel": 6,
+    "SkillUnLock": 65,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "229376000" },
+      { "ItemID": "131072", "Number": "100141" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1041307,
+    "AvatarID": 1041,
+    "SkillType": 3,
+    "SkillLevel": 7,
+    "SkillUnLock": 75,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "262144000" },
+      { "ItemID": "131072", "Number": "100141" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1041308,
+    "AvatarID": 1041,
+    "SkillType": 3,
+    "SkillLevel": 8,
+    "SkillUnLock": 85,
+    "SkillMaterials": [],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1041401,
+    "AvatarID": 1041,
+    "SkillType": 4,
+    "SkillLevel": 1,
+    "SkillUnLock": 15,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "65536000" },
+      { "ItemID": "131072", "Number": "100110" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1041402,
+    "AvatarID": 1041,
+    "SkillType": 4,
+    "SkillLevel": 2,
+    "SkillUnLock": 25,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "98304000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1041403,
+    "AvatarID": 1041,
+    "SkillType": 4,
+    "SkillLevel": 3,
+    "SkillUnLock": 35,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "131072000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1041404,
+    "AvatarID": 1041,
+    "SkillType": 4,
+    "SkillLevel": 4,
+    "SkillUnLock": 45,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "163840000" },
+      { "ItemID": "131072", "Number": "100131" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1041405,
+    "AvatarID": 1041,
+    "SkillType": 4,
+    "SkillLevel": 5,
+    "SkillUnLock": 55,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "196608000" },
+      { "ItemID": "131072", "Number": "100131" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1041406,
+    "AvatarID": 1041,
+    "SkillType": 4,
+    "SkillLevel": 6,
+    "SkillUnLock": 65,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "229376000" },
+      { "ItemID": "131072", "Number": "100141" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1041407,
+    "AvatarID": 1041,
+    "SkillType": 4,
+    "SkillLevel": 7,
+    "SkillUnLock": 75,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "262144000" },
+      { "ItemID": "131072", "Number": "100141" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1041408,
+    "AvatarID": 1041,
+    "SkillType": 4,
+    "SkillLevel": 8,
+    "SkillUnLock": 85,
+    "SkillMaterials": [],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1061001,
+    "AvatarID": 1061,
+    "SkillType": 0,
+    "SkillLevel": 1,
+    "SkillUnLock": 15,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "65536000" },
+      { "ItemID": "131072", "Number": "100110" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1061002,
+    "AvatarID": 1061,
+    "SkillType": 0,
+    "SkillLevel": 2,
+    "SkillUnLock": 25,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "98304000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1061003,
+    "AvatarID": 1061,
+    "SkillType": 0,
+    "SkillLevel": 3,
+    "SkillUnLock": 35,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "131072000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1061004,
+    "AvatarID": 1061,
+    "SkillType": 0,
+    "SkillLevel": 4,
+    "SkillUnLock": 45,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "163840000" },
+      { "ItemID": "131072", "Number": "100130" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1061005,
+    "AvatarID": 1061,
+    "SkillType": 0,
+    "SkillLevel": 5,
+    "SkillUnLock": 55,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "196608000" },
+      { "ItemID": "131072", "Number": "100130" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1061006,
+    "AvatarID": 1061,
+    "SkillType": 0,
+    "SkillLevel": 6,
+    "SkillUnLock": 65,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "229376000" },
+      { "ItemID": "131072", "Number": "100140" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1061007,
+    "AvatarID": 1061,
+    "SkillType": 0,
+    "SkillLevel": 7,
+    "SkillUnLock": 75,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "262144000" },
+      { "ItemID": "131072", "Number": "100140" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1061008,
+    "AvatarID": 1061,
+    "SkillType": 0,
+    "SkillLevel": 8,
+    "SkillUnLock": 85,
+    "SkillMaterials": [],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1061101,
+    "AvatarID": 1061,
+    "SkillType": 1,
+    "SkillLevel": 1,
+    "SkillUnLock": 15,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "65536000" },
+      { "ItemID": "131072", "Number": "100110" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1061102,
+    "AvatarID": 1061,
+    "SkillType": 1,
+    "SkillLevel": 2,
+    "SkillUnLock": 25,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "98304000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1061103,
+    "AvatarID": 1061,
+    "SkillType": 1,
+    "SkillLevel": 3,
+    "SkillUnLock": 35,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "131072000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1061104,
+    "AvatarID": 1061,
+    "SkillType": 1,
+    "SkillLevel": 4,
+    "SkillUnLock": 45,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "163840000" },
+      { "ItemID": "131072", "Number": "100130" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1061105,
+    "AvatarID": 1061,
+    "SkillType": 1,
+    "SkillLevel": 5,
+    "SkillUnLock": 55,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "196608000" },
+      { "ItemID": "131072", "Number": "100130" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1061106,
+    "AvatarID": 1061,
+    "SkillType": 1,
+    "SkillLevel": 6,
+    "SkillUnLock": 65,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "229376000" },
+      { "ItemID": "131072", "Number": "100140" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1061107,
+    "AvatarID": 1061,
+    "SkillType": 1,
+    "SkillLevel": 7,
+    "SkillUnLock": 75,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "262144000" },
+      { "ItemID": "131072", "Number": "100140" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1061108,
+    "AvatarID": 1061,
+    "SkillType": 1,
+    "SkillLevel": 8,
+    "SkillUnLock": 85,
+    "SkillMaterials": [],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1061201,
+    "AvatarID": 1061,
+    "SkillType": 2,
+    "SkillLevel": 1,
+    "SkillUnLock": 15,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "65536000" },
+      { "ItemID": "131072", "Number": "100110" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1061202,
+    "AvatarID": 1061,
+    "SkillType": 2,
+    "SkillLevel": 2,
+    "SkillUnLock": 25,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "98304000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1061203,
+    "AvatarID": 1061,
+    "SkillType": 2,
+    "SkillLevel": 3,
+    "SkillUnLock": 35,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "131072000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1061204,
+    "AvatarID": 1061,
+    "SkillType": 2,
+    "SkillLevel": 4,
+    "SkillUnLock": 45,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "163840000" },
+      { "ItemID": "131072", "Number": "100130" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1061205,
+    "AvatarID": 1061,
+    "SkillType": 2,
+    "SkillLevel": 5,
+    "SkillUnLock": 55,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "196608000" },
+      { "ItemID": "131072", "Number": "100130" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1061206,
+    "AvatarID": 1061,
+    "SkillType": 2,
+    "SkillLevel": 6,
+    "SkillUnLock": 65,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "229376000" },
+      { "ItemID": "131072", "Number": "100140" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1061207,
+    "AvatarID": 1061,
+    "SkillType": 2,
+    "SkillLevel": 7,
+    "SkillUnLock": 75,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "262144000" },
+      { "ItemID": "131072", "Number": "100140" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1061208,
+    "AvatarID": 1061,
+    "SkillType": 2,
+    "SkillLevel": 8,
+    "SkillUnLock": 85,
+    "SkillMaterials": [],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1061301,
+    "AvatarID": 1061,
+    "SkillType": 3,
+    "SkillLevel": 1,
+    "SkillUnLock": 15,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "65536000" },
+      { "ItemID": "131072", "Number": "100110" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1061302,
+    "AvatarID": 1061,
+    "SkillType": 3,
+    "SkillLevel": 2,
+    "SkillUnLock": 25,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "98304000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1061303,
+    "AvatarID": 1061,
+    "SkillType": 3,
+    "SkillLevel": 3,
+    "SkillUnLock": 35,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "131072000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1061304,
+    "AvatarID": 1061,
+    "SkillType": 3,
+    "SkillLevel": 4,
+    "SkillUnLock": 45,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "163840000" },
+      { "ItemID": "131072", "Number": "100130" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1061305,
+    "AvatarID": 1061,
+    "SkillType": 3,
+    "SkillLevel": 5,
+    "SkillUnLock": 55,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "196608000" },
+      { "ItemID": "131072", "Number": "100130" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1061306,
+    "AvatarID": 1061,
+    "SkillType": 3,
+    "SkillLevel": 6,
+    "SkillUnLock": 65,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "229376000" },
+      { "ItemID": "131072", "Number": "100140" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1061307,
+    "AvatarID": 1061,
+    "SkillType": 3,
+    "SkillLevel": 7,
+    "SkillUnLock": 75,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "262144000" },
+      { "ItemID": "131072", "Number": "100140" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1061308,
+    "AvatarID": 1061,
+    "SkillType": 3,
+    "SkillLevel": 8,
+    "SkillUnLock": 85,
+    "SkillMaterials": [],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1061401,
+    "AvatarID": 1061,
+    "SkillType": 4,
+    "SkillLevel": 1,
+    "SkillUnLock": 15,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "65536000" },
+      { "ItemID": "131072", "Number": "100110" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1061402,
+    "AvatarID": 1061,
+    "SkillType": 4,
+    "SkillLevel": 2,
+    "SkillUnLock": 25,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "98304000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1061403,
+    "AvatarID": 1061,
+    "SkillType": 4,
+    "SkillLevel": 3,
+    "SkillUnLock": 35,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "131072000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1061404,
+    "AvatarID": 1061,
+    "SkillType": 4,
+    "SkillLevel": 4,
+    "SkillUnLock": 45,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "163840000" },
+      { "ItemID": "131072", "Number": "100130" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1061405,
+    "AvatarID": 1061,
+    "SkillType": 4,
+    "SkillLevel": 5,
+    "SkillUnLock": 55,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "196608000" },
+      { "ItemID": "131072", "Number": "100130" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1061406,
+    "AvatarID": 1061,
+    "SkillType": 4,
+    "SkillLevel": 6,
+    "SkillUnLock": 65,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "229376000" },
+      { "ItemID": "131072", "Number": "100140" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1061407,
+    "AvatarID": 1061,
+    "SkillType": 4,
+    "SkillLevel": 7,
+    "SkillUnLock": 75,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "262144000" },
+      { "ItemID": "131072", "Number": "100140" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1061408,
+    "AvatarID": 1061,
+    "SkillType": 4,
+    "SkillLevel": 8,
+    "SkillUnLock": 85,
+    "SkillMaterials": [],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1081001,
+    "AvatarID": 1081,
+    "SkillType": 0,
+    "SkillLevel": 1,
+    "SkillUnLock": 15,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "65536000" },
+      { "ItemID": "131072", "Number": "100110" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1081002,
+    "AvatarID": 1081,
+    "SkillType": 0,
+    "SkillLevel": 2,
+    "SkillUnLock": 25,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "98304000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1081003,
+    "AvatarID": 1081,
+    "SkillType": 0,
+    "SkillLevel": 3,
+    "SkillUnLock": 35,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "131072000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1081004,
+    "AvatarID": 1081,
+    "SkillType": 0,
+    "SkillLevel": 4,
+    "SkillUnLock": 45,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "163840000" },
+      { "ItemID": "131072", "Number": "100130" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1081005,
+    "AvatarID": 1081,
+    "SkillType": 0,
+    "SkillLevel": 5,
+    "SkillUnLock": 55,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "196608000" },
+      { "ItemID": "131072", "Number": "100130" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1081006,
+    "AvatarID": 1081,
+    "SkillType": 0,
+    "SkillLevel": 6,
+    "SkillUnLock": 65,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "229376000" },
+      { "ItemID": "131072", "Number": "100140" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1081007,
+    "AvatarID": 1081,
+    "SkillType": 0,
+    "SkillLevel": 7,
+    "SkillUnLock": 75,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "262144000" },
+      { "ItemID": "131072", "Number": "100140" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1081008,
+    "AvatarID": 1081,
+    "SkillType": 0,
+    "SkillLevel": 8,
+    "SkillUnLock": 85,
+    "SkillMaterials": [],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1081101,
+    "AvatarID": 1081,
+    "SkillType": 1,
+    "SkillLevel": 1,
+    "SkillUnLock": 15,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "65536000" },
+      { "ItemID": "131072", "Number": "100110" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1081102,
+    "AvatarID": 1081,
+    "SkillType": 1,
+    "SkillLevel": 2,
+    "SkillUnLock": 25,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "98304000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1081103,
+    "AvatarID": 1081,
+    "SkillType": 1,
+    "SkillLevel": 3,
+    "SkillUnLock": 35,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "131072000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1081104,
+    "AvatarID": 1081,
+    "SkillType": 1,
+    "SkillLevel": 4,
+    "SkillUnLock": 45,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "163840000" },
+      { "ItemID": "131072", "Number": "100130" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1081105,
+    "AvatarID": 1081,
+    "SkillType": 1,
+    "SkillLevel": 5,
+    "SkillUnLock": 55,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "196608000" },
+      { "ItemID": "131072", "Number": "100130" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1081106,
+    "AvatarID": 1081,
+    "SkillType": 1,
+    "SkillLevel": 6,
+    "SkillUnLock": 65,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "229376000" },
+      { "ItemID": "131072", "Number": "100140" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1081107,
+    "AvatarID": 1081,
+    "SkillType": 1,
+    "SkillLevel": 7,
+    "SkillUnLock": 75,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "262144000" },
+      { "ItemID": "131072", "Number": "100140" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1081108,
+    "AvatarID": 1081,
+    "SkillType": 1,
+    "SkillLevel": 8,
+    "SkillUnLock": 85,
+    "SkillMaterials": [],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1081201,
+    "AvatarID": 1081,
+    "SkillType": 2,
+    "SkillLevel": 1,
+    "SkillUnLock": 15,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "65536000" },
+      { "ItemID": "131072", "Number": "100110" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1081202,
+    "AvatarID": 1081,
+    "SkillType": 2,
+    "SkillLevel": 2,
+    "SkillUnLock": 25,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "98304000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1081203,
+    "AvatarID": 1081,
+    "SkillType": 2,
+    "SkillLevel": 3,
+    "SkillUnLock": 35,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "131072000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1081204,
+    "AvatarID": 1081,
+    "SkillType": 2,
+    "SkillLevel": 4,
+    "SkillUnLock": 45,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "163840000" },
+      { "ItemID": "131072", "Number": "100130" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1081205,
+    "AvatarID": 1081,
+    "SkillType": 2,
+    "SkillLevel": 5,
+    "SkillUnLock": 55,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "196608000" },
+      { "ItemID": "131072", "Number": "100130" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1081206,
+    "AvatarID": 1081,
+    "SkillType": 2,
+    "SkillLevel": 6,
+    "SkillUnLock": 65,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "229376000" },
+      { "ItemID": "131072", "Number": "100140" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1081207,
+    "AvatarID": 1081,
+    "SkillType": 2,
+    "SkillLevel": 7,
+    "SkillUnLock": 75,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "262144000" },
+      { "ItemID": "131072", "Number": "100140" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1081208,
+    "AvatarID": 1081,
+    "SkillType": 2,
+    "SkillLevel": 8,
+    "SkillUnLock": 85,
+    "SkillMaterials": [],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1081301,
+    "AvatarID": 1081,
+    "SkillType": 3,
+    "SkillLevel": 1,
+    "SkillUnLock": 15,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "65536000" },
+      { "ItemID": "131072", "Number": "100110" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1081302,
+    "AvatarID": 1081,
+    "SkillType": 3,
+    "SkillLevel": 2,
+    "SkillUnLock": 25,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "98304000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1081303,
+    "AvatarID": 1081,
+    "SkillType": 3,
+    "SkillLevel": 3,
+    "SkillUnLock": 35,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "131072000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1081304,
+    "AvatarID": 1081,
+    "SkillType": 3,
+    "SkillLevel": 4,
+    "SkillUnLock": 45,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "163840000" },
+      { "ItemID": "131072", "Number": "100130" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1081305,
+    "AvatarID": 1081,
+    "SkillType": 3,
+    "SkillLevel": 5,
+    "SkillUnLock": 55,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "196608000" },
+      { "ItemID": "131072", "Number": "100130" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1081306,
+    "AvatarID": 1081,
+    "SkillType": 3,
+    "SkillLevel": 6,
+    "SkillUnLock": 65,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "229376000" },
+      { "ItemID": "131072", "Number": "100140" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1081307,
+    "AvatarID": 1081,
+    "SkillType": 3,
+    "SkillLevel": 7,
+    "SkillUnLock": 75,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "262144000" },
+      { "ItemID": "131072", "Number": "100140" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1081308,
+    "AvatarID": 1081,
+    "SkillType": 3,
+    "SkillLevel": 8,
+    "SkillUnLock": 85,
+    "SkillMaterials": [],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1081401,
+    "AvatarID": 1081,
+    "SkillType": 4,
+    "SkillLevel": 1,
+    "SkillUnLock": 15,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "65536000" },
+      { "ItemID": "131072", "Number": "100110" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1081402,
+    "AvatarID": 1081,
+    "SkillType": 4,
+    "SkillLevel": 2,
+    "SkillUnLock": 25,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "98304000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1081403,
+    "AvatarID": 1081,
+    "SkillType": 4,
+    "SkillLevel": 3,
+    "SkillUnLock": 35,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "131072000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1081404,
+    "AvatarID": 1081,
+    "SkillType": 4,
+    "SkillLevel": 4,
+    "SkillUnLock": 45,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "163840000" },
+      { "ItemID": "131072", "Number": "100130" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1081405,
+    "AvatarID": 1081,
+    "SkillType": 4,
+    "SkillLevel": 5,
+    "SkillUnLock": 55,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "196608000" },
+      { "ItemID": "131072", "Number": "100130" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1081406,
+    "AvatarID": 1081,
+    "SkillType": 4,
+    "SkillLevel": 6,
+    "SkillUnLock": 65,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "229376000" },
+      { "ItemID": "131072", "Number": "100140" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1081407,
+    "AvatarID": 1081,
+    "SkillType": 4,
+    "SkillLevel": 7,
+    "SkillUnLock": 75,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "262144000" },
+      { "ItemID": "131072", "Number": "100140" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1081408,
+    "AvatarID": 1081,
+    "SkillType": 4,
+    "SkillLevel": 8,
+    "SkillUnLock": 85,
+    "SkillMaterials": [],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1091001,
+    "AvatarID": 1091,
+    "SkillType": 0,
+    "SkillLevel": 1,
+    "SkillUnLock": 15,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "65536000" },
+      { "ItemID": "131072", "Number": "100110" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1091002,
+    "AvatarID": 1091,
+    "SkillType": 0,
+    "SkillLevel": 2,
+    "SkillUnLock": 25,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "98304000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1091003,
+    "AvatarID": 1091,
+    "SkillType": 0,
+    "SkillLevel": 3,
+    "SkillUnLock": 35,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "131072000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1091004,
+    "AvatarID": 1091,
+    "SkillType": 0,
+    "SkillLevel": 4,
+    "SkillUnLock": 45,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "163840000" },
+      { "ItemID": "131072", "Number": "100130" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1091005,
+    "AvatarID": 1091,
+    "SkillType": 0,
+    "SkillLevel": 5,
+    "SkillUnLock": 55,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "196608000" },
+      { "ItemID": "131072", "Number": "100130" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1091006,
+    "AvatarID": 1091,
+    "SkillType": 0,
+    "SkillLevel": 6,
+    "SkillUnLock": 65,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "229376000" },
+      { "ItemID": "131072", "Number": "100140" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1091007,
+    "AvatarID": 1091,
+    "SkillType": 0,
+    "SkillLevel": 7,
+    "SkillUnLock": 75,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "262144000" },
+      { "ItemID": "131072", "Number": "100140" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1091008,
+    "AvatarID": 1091,
+    "SkillType": 0,
+    "SkillLevel": 8,
+    "SkillUnLock": 85,
+    "SkillMaterials": [],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1091101,
+    "AvatarID": 1091,
+    "SkillType": 1,
+    "SkillLevel": 1,
+    "SkillUnLock": 15,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "65536000" },
+      { "ItemID": "131072", "Number": "100110" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1091102,
+    "AvatarID": 1091,
+    "SkillType": 1,
+    "SkillLevel": 2,
+    "SkillUnLock": 25,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "98304000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1091103,
+    "AvatarID": 1091,
+    "SkillType": 1,
+    "SkillLevel": 3,
+    "SkillUnLock": 35,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "131072000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1091104,
+    "AvatarID": 1091,
+    "SkillType": 1,
+    "SkillLevel": 4,
+    "SkillUnLock": 45,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "163840000" },
+      { "ItemID": "131072", "Number": "100132" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1091105,
+    "AvatarID": 1091,
+    "SkillType": 1,
+    "SkillLevel": 5,
+    "SkillUnLock": 55,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "196608000" },
+      { "ItemID": "131072", "Number": "100132" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1091106,
+    "AvatarID": 1091,
+    "SkillType": 1,
+    "SkillLevel": 6,
+    "SkillUnLock": 65,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "229376000" },
+      { "ItemID": "131072", "Number": "100142" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1091107,
+    "AvatarID": 1091,
+    "SkillType": 1,
+    "SkillLevel": 7,
+    "SkillUnLock": 75,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "262144000" },
+      { "ItemID": "131072", "Number": "100142" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1091108,
+    "AvatarID": 1091,
+    "SkillType": 1,
+    "SkillLevel": 8,
+    "SkillUnLock": 85,
+    "SkillMaterials": [],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1091201,
+    "AvatarID": 1091,
+    "SkillType": 2,
+    "SkillLevel": 1,
+    "SkillUnLock": 15,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "65536000" },
+      { "ItemID": "131072", "Number": "100110" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1091202,
+    "AvatarID": 1091,
+    "SkillType": 2,
+    "SkillLevel": 2,
+    "SkillUnLock": 25,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "98304000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1091203,
+    "AvatarID": 1091,
+    "SkillType": 2,
+    "SkillLevel": 3,
+    "SkillUnLock": 35,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "131072000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1091204,
+    "AvatarID": 1091,
+    "SkillType": 2,
+    "SkillLevel": 4,
+    "SkillUnLock": 45,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "163840000" },
+      { "ItemID": "131072", "Number": "100132" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1091205,
+    "AvatarID": 1091,
+    "SkillType": 2,
+    "SkillLevel": 5,
+    "SkillUnLock": 55,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "196608000" },
+      { "ItemID": "131072", "Number": "100132" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1091206,
+    "AvatarID": 1091,
+    "SkillType": 2,
+    "SkillLevel": 6,
+    "SkillUnLock": 65,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "229376000" },
+      { "ItemID": "131072", "Number": "100142" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1091207,
+    "AvatarID": 1091,
+    "SkillType": 2,
+    "SkillLevel": 7,
+    "SkillUnLock": 75,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "262144000" },
+      { "ItemID": "131072", "Number": "100142" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1091208,
+    "AvatarID": 1091,
+    "SkillType": 2,
+    "SkillLevel": 8,
+    "SkillUnLock": 85,
+    "SkillMaterials": [],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1091301,
+    "AvatarID": 1091,
+    "SkillType": 3,
+    "SkillLevel": 1,
+    "SkillUnLock": 15,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "65536000" },
+      { "ItemID": "131072", "Number": "100110" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1091302,
+    "AvatarID": 1091,
+    "SkillType": 3,
+    "SkillLevel": 2,
+    "SkillUnLock": 25,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "98304000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1091303,
+    "AvatarID": 1091,
+    "SkillType": 3,
+    "SkillLevel": 3,
+    "SkillUnLock": 35,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "131072000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1091304,
+    "AvatarID": 1091,
+    "SkillType": 3,
+    "SkillLevel": 4,
+    "SkillUnLock": 45,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "163840000" },
+      { "ItemID": "131072", "Number": "100132" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1091305,
+    "AvatarID": 1091,
+    "SkillType": 3,
+    "SkillLevel": 5,
+    "SkillUnLock": 55,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "196608000" },
+      { "ItemID": "131072", "Number": "100132" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1091306,
+    "AvatarID": 1091,
+    "SkillType": 3,
+    "SkillLevel": 6,
+    "SkillUnLock": 65,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "229376000" },
+      { "ItemID": "131072", "Number": "100142" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1091307,
+    "AvatarID": 1091,
+    "SkillType": 3,
+    "SkillLevel": 7,
+    "SkillUnLock": 75,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "262144000" },
+      { "ItemID": "131072", "Number": "100142" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1091308,
+    "AvatarID": 1091,
+    "SkillType": 3,
+    "SkillLevel": 8,
+    "SkillUnLock": 85,
+    "SkillMaterials": [],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1091401,
+    "AvatarID": 1091,
+    "SkillType": 4,
+    "SkillLevel": 1,
+    "SkillUnLock": 15,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "65536000" },
+      { "ItemID": "131072", "Number": "100110" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1091402,
+    "AvatarID": 1091,
+    "SkillType": 4,
+    "SkillLevel": 2,
+    "SkillUnLock": 25,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "98304000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1091403,
+    "AvatarID": 1091,
+    "SkillType": 4,
+    "SkillLevel": 3,
+    "SkillUnLock": 35,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "131072000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1091404,
+    "AvatarID": 1091,
+    "SkillType": 4,
+    "SkillLevel": 4,
+    "SkillUnLock": 45,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "163840000" },
+      { "ItemID": "131072", "Number": "100132" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1091405,
+    "AvatarID": 1091,
+    "SkillType": 4,
+    "SkillLevel": 5,
+    "SkillUnLock": 55,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "196608000" },
+      { "ItemID": "131072", "Number": "100132" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1091406,
+    "AvatarID": 1091,
+    "SkillType": 4,
+    "SkillLevel": 6,
+    "SkillUnLock": 65,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "229376000" },
+      { "ItemID": "131072", "Number": "100142" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1091407,
+    "AvatarID": 1091,
+    "SkillType": 4,
+    "SkillLevel": 7,
+    "SkillUnLock": 75,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "262144000" },
+      { "ItemID": "131072", "Number": "100142" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1091408,
+    "AvatarID": 1091,
+    "SkillType": 4,
+    "SkillLevel": 8,
+    "SkillUnLock": 85,
+    "SkillMaterials": [],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1101001,
+    "AvatarID": 1101,
+    "SkillType": 0,
+    "SkillLevel": 1,
+    "SkillUnLock": 15,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "65536000" },
+      { "ItemID": "131072", "Number": "100110" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1101002,
+    "AvatarID": 1101,
+    "SkillType": 0,
+    "SkillLevel": 2,
+    "SkillUnLock": 25,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "98304000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1101003,
+    "AvatarID": 1101,
+    "SkillType": 0,
+    "SkillLevel": 3,
+    "SkillUnLock": 35,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "131072000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1101004,
+    "AvatarID": 1101,
+    "SkillType": 0,
+    "SkillLevel": 4,
+    "SkillUnLock": 45,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "163840000" },
+      { "ItemID": "131072", "Number": "100130" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1101005,
+    "AvatarID": 1101,
+    "SkillType": 0,
+    "SkillLevel": 5,
+    "SkillUnLock": 55,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "196608000" },
+      { "ItemID": "131072", "Number": "100130" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1101006,
+    "AvatarID": 1101,
+    "SkillType": 0,
+    "SkillLevel": 6,
+    "SkillUnLock": 65,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "229376000" },
+      { "ItemID": "131072", "Number": "100140" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1101007,
+    "AvatarID": 1101,
+    "SkillType": 0,
+    "SkillLevel": 7,
+    "SkillUnLock": 75,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "262144000" },
+      { "ItemID": "131072", "Number": "100140" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1101008,
+    "AvatarID": 1101,
+    "SkillType": 0,
+    "SkillLevel": 8,
+    "SkillUnLock": 85,
+    "SkillMaterials": [],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1101101,
+    "AvatarID": 1101,
+    "SkillType": 1,
+    "SkillLevel": 1,
+    "SkillUnLock": 15,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "65536000" },
+      { "ItemID": "131072", "Number": "100110" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1101102,
+    "AvatarID": 1101,
+    "SkillType": 1,
+    "SkillLevel": 2,
+    "SkillUnLock": 25,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "98304000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1101103,
+    "AvatarID": 1101,
+    "SkillType": 1,
+    "SkillLevel": 3,
+    "SkillUnLock": 35,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "131072000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1101104,
+    "AvatarID": 1101,
+    "SkillType": 1,
+    "SkillLevel": 4,
+    "SkillUnLock": 45,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "163840000" },
+      { "ItemID": "131072", "Number": "100131" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1101105,
+    "AvatarID": 1101,
+    "SkillType": 1,
+    "SkillLevel": 5,
+    "SkillUnLock": 55,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "196608000" },
+      { "ItemID": "131072", "Number": "100131" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1101106,
+    "AvatarID": 1101,
+    "SkillType": 1,
+    "SkillLevel": 6,
+    "SkillUnLock": 65,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "229376000" },
+      { "ItemID": "131072", "Number": "100141" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1101107,
+    "AvatarID": 1101,
+    "SkillType": 1,
+    "SkillLevel": 7,
+    "SkillUnLock": 75,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "262144000" },
+      { "ItemID": "131072", "Number": "100141" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1101108,
+    "AvatarID": 1101,
+    "SkillType": 1,
+    "SkillLevel": 8,
+    "SkillUnLock": 85,
+    "SkillMaterials": [],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1101201,
+    "AvatarID": 1101,
+    "SkillType": 2,
+    "SkillLevel": 1,
+    "SkillUnLock": 15,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "65536000" },
+      { "ItemID": "131072", "Number": "100110" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1101202,
+    "AvatarID": 1101,
+    "SkillType": 2,
+    "SkillLevel": 2,
+    "SkillUnLock": 25,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "98304000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1101203,
+    "AvatarID": 1101,
+    "SkillType": 2,
+    "SkillLevel": 3,
+    "SkillUnLock": 35,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "131072000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1101204,
+    "AvatarID": 1101,
+    "SkillType": 2,
+    "SkillLevel": 4,
+    "SkillUnLock": 45,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "163840000" },
+      { "ItemID": "131072", "Number": "100131" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1101205,
+    "AvatarID": 1101,
+    "SkillType": 2,
+    "SkillLevel": 5,
+    "SkillUnLock": 55,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "196608000" },
+      { "ItemID": "131072", "Number": "100131" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1101206,
+    "AvatarID": 1101,
+    "SkillType": 2,
+    "SkillLevel": 6,
+    "SkillUnLock": 65,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "229376000" },
+      { "ItemID": "131072", "Number": "100141" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1101207,
+    "AvatarID": 1101,
+    "SkillType": 2,
+    "SkillLevel": 7,
+    "SkillUnLock": 75,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "262144000" },
+      { "ItemID": "131072", "Number": "100141" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1101208,
+    "AvatarID": 1101,
+    "SkillType": 2,
+    "SkillLevel": 8,
+    "SkillUnLock": 85,
+    "SkillMaterials": [],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1101301,
+    "AvatarID": 1101,
+    "SkillType": 3,
+    "SkillLevel": 1,
+    "SkillUnLock": 15,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "65536000" },
+      { "ItemID": "131072", "Number": "100110" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1101302,
+    "AvatarID": 1101,
+    "SkillType": 3,
+    "SkillLevel": 2,
+    "SkillUnLock": 25,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "98304000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1101303,
+    "AvatarID": 1101,
+    "SkillType": 3,
+    "SkillLevel": 3,
+    "SkillUnLock": 35,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "131072000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1101304,
+    "AvatarID": 1101,
+    "SkillType": 3,
+    "SkillLevel": 4,
+    "SkillUnLock": 45,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "163840000" },
+      { "ItemID": "131072", "Number": "100131" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1101305,
+    "AvatarID": 1101,
+    "SkillType": 3,
+    "SkillLevel": 5,
+    "SkillUnLock": 55,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "196608000" },
+      { "ItemID": "131072", "Number": "100131" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1101306,
+    "AvatarID": 1101,
+    "SkillType": 3,
+    "SkillLevel": 6,
+    "SkillUnLock": 65,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "229376000" },
+      { "ItemID": "131072", "Number": "100141" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1101307,
+    "AvatarID": 1101,
+    "SkillType": 3,
+    "SkillLevel": 7,
+    "SkillUnLock": 75,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "262144000" },
+      { "ItemID": "131072", "Number": "100141" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1101308,
+    "AvatarID": 1101,
+    "SkillType": 3,
+    "SkillLevel": 8,
+    "SkillUnLock": 85,
+    "SkillMaterials": [],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1101401,
+    "AvatarID": 1101,
+    "SkillType": 4,
+    "SkillLevel": 1,
+    "SkillUnLock": 15,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "65536000" },
+      { "ItemID": "131072", "Number": "100110" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1101402,
+    "AvatarID": 1101,
+    "SkillType": 4,
+    "SkillLevel": 2,
+    "SkillUnLock": 25,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "98304000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1101403,
+    "AvatarID": 1101,
+    "SkillType": 4,
+    "SkillLevel": 3,
+    "SkillUnLock": 35,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "131072000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1101404,
+    "AvatarID": 1101,
+    "SkillType": 4,
+    "SkillLevel": 4,
+    "SkillUnLock": 45,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "163840000" },
+      { "ItemID": "131072", "Number": "100131" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1101405,
+    "AvatarID": 1101,
+    "SkillType": 4,
+    "SkillLevel": 5,
+    "SkillUnLock": 55,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "196608000" },
+      { "ItemID": "131072", "Number": "100131" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1101406,
+    "AvatarID": 1101,
+    "SkillType": 4,
+    "SkillLevel": 6,
+    "SkillUnLock": 65,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "229376000" },
+      { "ItemID": "131072", "Number": "100141" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1101407,
+    "AvatarID": 1101,
+    "SkillType": 4,
+    "SkillLevel": 7,
+    "SkillUnLock": 75,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "262144000" },
+      { "ItemID": "131072", "Number": "100141" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1101408,
+    "AvatarID": 1101,
+    "SkillType": 4,
+    "SkillLevel": 8,
+    "SkillUnLock": 85,
+    "SkillMaterials": [],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1111001,
+    "AvatarID": 1111,
+    "SkillType": 0,
+    "SkillLevel": 1,
+    "SkillUnLock": 15,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "65536000" },
+      { "ItemID": "131072", "Number": "100110" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1111002,
+    "AvatarID": 1111,
+    "SkillType": 0,
+    "SkillLevel": 2,
+    "SkillUnLock": 25,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "98304000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1111003,
+    "AvatarID": 1111,
+    "SkillType": 0,
+    "SkillLevel": 3,
+    "SkillUnLock": 35,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "131072000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1111004,
+    "AvatarID": 1111,
+    "SkillType": 0,
+    "SkillLevel": 4,
+    "SkillUnLock": 45,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "163840000" },
+      { "ItemID": "131072", "Number": "100130" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1111005,
+    "AvatarID": 1111,
+    "SkillType": 0,
+    "SkillLevel": 5,
+    "SkillUnLock": 55,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "196608000" },
+      { "ItemID": "131072", "Number": "100130" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1111006,
+    "AvatarID": 1111,
+    "SkillType": 0,
+    "SkillLevel": 6,
+    "SkillUnLock": 65,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "229376000" },
+      { "ItemID": "131072", "Number": "100140" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1111007,
+    "AvatarID": 1111,
+    "SkillType": 0,
+    "SkillLevel": 7,
+    "SkillUnLock": 75,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "262144000" },
+      { "ItemID": "131072", "Number": "100140" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1111008,
+    "AvatarID": 1111,
+    "SkillType": 0,
+    "SkillLevel": 8,
+    "SkillUnLock": 85,
+    "SkillMaterials": [],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1111101,
+    "AvatarID": 1111,
+    "SkillType": 1,
+    "SkillLevel": 1,
+    "SkillUnLock": 15,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "65536000" },
+      { "ItemID": "131072", "Number": "100110" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1111102,
+    "AvatarID": 1111,
+    "SkillType": 1,
+    "SkillLevel": 2,
+    "SkillUnLock": 25,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "98304000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1111103,
+    "AvatarID": 1111,
+    "SkillType": 1,
+    "SkillLevel": 3,
+    "SkillUnLock": 35,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "131072000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1111104,
+    "AvatarID": 1111,
+    "SkillType": 1,
+    "SkillLevel": 4,
+    "SkillUnLock": 45,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "163840000" },
+      { "ItemID": "131072", "Number": "100133" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1111105,
+    "AvatarID": 1111,
+    "SkillType": 1,
+    "SkillLevel": 5,
+    "SkillUnLock": 55,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "196608000" },
+      { "ItemID": "131072", "Number": "100133" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1111106,
+    "AvatarID": 1111,
+    "SkillType": 1,
+    "SkillLevel": 6,
+    "SkillUnLock": 65,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "229376000" },
+      { "ItemID": "131072", "Number": "100143" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1111107,
+    "AvatarID": 1111,
+    "SkillType": 1,
+    "SkillLevel": 7,
+    "SkillUnLock": 75,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "262144000" },
+      { "ItemID": "131072", "Number": "100143" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1111108,
+    "AvatarID": 1111,
+    "SkillType": 1,
+    "SkillLevel": 8,
+    "SkillUnLock": 85,
+    "SkillMaterials": [],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1111201,
+    "AvatarID": 1111,
+    "SkillType": 2,
+    "SkillLevel": 1,
+    "SkillUnLock": 15,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "65536000" },
+      { "ItemID": "131072", "Number": "100110" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1111202,
+    "AvatarID": 1111,
+    "SkillType": 2,
+    "SkillLevel": 2,
+    "SkillUnLock": 25,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "98304000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1111203,
+    "AvatarID": 1111,
+    "SkillType": 2,
+    "SkillLevel": 3,
+    "SkillUnLock": 35,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "131072000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1111204,
+    "AvatarID": 1111,
+    "SkillType": 2,
+    "SkillLevel": 4,
+    "SkillUnLock": 45,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "163840000" },
+      { "ItemID": "131072", "Number": "100133" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1111205,
+    "AvatarID": 1111,
+    "SkillType": 2,
+    "SkillLevel": 5,
+    "SkillUnLock": 55,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "196608000" },
+      { "ItemID": "131072", "Number": "100133" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1111206,
+    "AvatarID": 1111,
+    "SkillType": 2,
+    "SkillLevel": 6,
+    "SkillUnLock": 65,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "229376000" },
+      { "ItemID": "131072", "Number": "100143" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1111207,
+    "AvatarID": 1111,
+    "SkillType": 2,
+    "SkillLevel": 7,
+    "SkillUnLock": 75,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "262144000" },
+      { "ItemID": "131072", "Number": "100143" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1111208,
+    "AvatarID": 1111,
+    "SkillType": 2,
+    "SkillLevel": 8,
+    "SkillUnLock": 85,
+    "SkillMaterials": [],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1111301,
+    "AvatarID": 1111,
+    "SkillType": 3,
+    "SkillLevel": 1,
+    "SkillUnLock": 15,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "65536000" },
+      { "ItemID": "131072", "Number": "100110" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1111302,
+    "AvatarID": 1111,
+    "SkillType": 3,
+    "SkillLevel": 2,
+    "SkillUnLock": 25,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "98304000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1111303,
+    "AvatarID": 1111,
+    "SkillType": 3,
+    "SkillLevel": 3,
+    "SkillUnLock": 35,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "131072000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1111304,
+    "AvatarID": 1111,
+    "SkillType": 3,
+    "SkillLevel": 4,
+    "SkillUnLock": 45,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "163840000" },
+      { "ItemID": "131072", "Number": "100133" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1111305,
+    "AvatarID": 1111,
+    "SkillType": 3,
+    "SkillLevel": 5,
+    "SkillUnLock": 55,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "196608000" },
+      { "ItemID": "131072", "Number": "100133" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1111306,
+    "AvatarID": 1111,
+    "SkillType": 3,
+    "SkillLevel": 6,
+    "SkillUnLock": 65,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "229376000" },
+      { "ItemID": "131072", "Number": "100143" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1111307,
+    "AvatarID": 1111,
+    "SkillType": 3,
+    "SkillLevel": 7,
+    "SkillUnLock": 75,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "262144000" },
+      { "ItemID": "131072", "Number": "100143" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1111308,
+    "AvatarID": 1111,
+    "SkillType": 3,
+    "SkillLevel": 8,
+    "SkillUnLock": 85,
+    "SkillMaterials": [],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1111401,
+    "AvatarID": 1111,
+    "SkillType": 4,
+    "SkillLevel": 1,
+    "SkillUnLock": 15,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "65536000" },
+      { "ItemID": "131072", "Number": "100110" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1111402,
+    "AvatarID": 1111,
+    "SkillType": 4,
+    "SkillLevel": 2,
+    "SkillUnLock": 25,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "98304000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1111403,
+    "AvatarID": 1111,
+    "SkillType": 4,
+    "SkillLevel": 3,
+    "SkillUnLock": 35,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "131072000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1111404,
+    "AvatarID": 1111,
+    "SkillType": 4,
+    "SkillLevel": 4,
+    "SkillUnLock": 45,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "163840000" },
+      { "ItemID": "131072", "Number": "100133" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1111405,
+    "AvatarID": 1111,
+    "SkillType": 4,
+    "SkillLevel": 5,
+    "SkillUnLock": 55,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "196608000" },
+      { "ItemID": "131072", "Number": "100133" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1111406,
+    "AvatarID": 1111,
+    "SkillType": 4,
+    "SkillLevel": 6,
+    "SkillUnLock": 65,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "229376000" },
+      { "ItemID": "131072", "Number": "100143" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1111407,
+    "AvatarID": 1111,
+    "SkillType": 4,
+    "SkillLevel": 7,
+    "SkillUnLock": 75,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "262144000" },
+      { "ItemID": "131072", "Number": "100143" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1111408,
+    "AvatarID": 1111,
+    "SkillType": 4,
+    "SkillLevel": 8,
+    "SkillUnLock": 85,
+    "SkillMaterials": [],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1121001,
+    "AvatarID": 1121,
+    "SkillType": 0,
+    "SkillLevel": 1,
+    "SkillUnLock": 15,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "65536000" },
+      { "ItemID": "131072", "Number": "100110" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1121002,
+    "AvatarID": 1121,
+    "SkillType": 0,
+    "SkillLevel": 2,
+    "SkillUnLock": 25,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "98304000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1121003,
+    "AvatarID": 1121,
+    "SkillType": 0,
+    "SkillLevel": 3,
+    "SkillUnLock": 35,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "131072000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1121004,
+    "AvatarID": 1121,
+    "SkillType": 0,
+    "SkillLevel": 4,
+    "SkillUnLock": 45,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "163840000" },
+      { "ItemID": "131072", "Number": "100130" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1121005,
+    "AvatarID": 1121,
+    "SkillType": 0,
+    "SkillLevel": 5,
+    "SkillUnLock": 55,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "196608000" },
+      { "ItemID": "131072", "Number": "100130" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1121006,
+    "AvatarID": 1121,
+    "SkillType": 0,
+    "SkillLevel": 6,
+    "SkillUnLock": 65,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "229376000" },
+      { "ItemID": "131072", "Number": "100140" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1121007,
+    "AvatarID": 1121,
+    "SkillType": 0,
+    "SkillLevel": 7,
+    "SkillUnLock": 75,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "262144000" },
+      { "ItemID": "131072", "Number": "100140" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1121008,
+    "AvatarID": 1121,
+    "SkillType": 0,
+    "SkillLevel": 8,
+    "SkillUnLock": 85,
+    "SkillMaterials": [],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1121101,
+    "AvatarID": 1121,
+    "SkillType": 1,
+    "SkillLevel": 1,
+    "SkillUnLock": 15,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "65536000" },
+      { "ItemID": "131072", "Number": "100110" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1121102,
+    "AvatarID": 1121,
+    "SkillType": 1,
+    "SkillLevel": 2,
+    "SkillUnLock": 25,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "98304000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1121103,
+    "AvatarID": 1121,
+    "SkillType": 1,
+    "SkillLevel": 3,
+    "SkillUnLock": 35,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "131072000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1121104,
+    "AvatarID": 1121,
+    "SkillType": 1,
+    "SkillLevel": 4,
+    "SkillUnLock": 45,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "163840000" },
+      { "ItemID": "131072", "Number": "100130" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1121105,
+    "AvatarID": 1121,
+    "SkillType": 1,
+    "SkillLevel": 5,
+    "SkillUnLock": 55,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "196608000" },
+      { "ItemID": "131072", "Number": "100130" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1121106,
+    "AvatarID": 1121,
+    "SkillType": 1,
+    "SkillLevel": 6,
+    "SkillUnLock": 65,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "229376000" },
+      { "ItemID": "131072", "Number": "100140" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1121107,
+    "AvatarID": 1121,
+    "SkillType": 1,
+    "SkillLevel": 7,
+    "SkillUnLock": 75,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "262144000" },
+      { "ItemID": "131072", "Number": "100140" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1121108,
+    "AvatarID": 1121,
+    "SkillType": 1,
+    "SkillLevel": 8,
+    "SkillUnLock": 85,
+    "SkillMaterials": [],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1121201,
+    "AvatarID": 1121,
+    "SkillType": 2,
+    "SkillLevel": 1,
+    "SkillUnLock": 15,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "65536000" },
+      { "ItemID": "131072", "Number": "100110" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1121202,
+    "AvatarID": 1121,
+    "SkillType": 2,
+    "SkillLevel": 2,
+    "SkillUnLock": 25,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "98304000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1121203,
+    "AvatarID": 1121,
+    "SkillType": 2,
+    "SkillLevel": 3,
+    "SkillUnLock": 35,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "131072000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1121204,
+    "AvatarID": 1121,
+    "SkillType": 2,
+    "SkillLevel": 4,
+    "SkillUnLock": 45,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "163840000" },
+      { "ItemID": "131072", "Number": "100130" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1121205,
+    "AvatarID": 1121,
+    "SkillType": 2,
+    "SkillLevel": 5,
+    "SkillUnLock": 55,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "196608000" },
+      { "ItemID": "131072", "Number": "100130" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1121206,
+    "AvatarID": 1121,
+    "SkillType": 2,
+    "SkillLevel": 6,
+    "SkillUnLock": 65,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "229376000" },
+      { "ItemID": "131072", "Number": "100140" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1121207,
+    "AvatarID": 1121,
+    "SkillType": 2,
+    "SkillLevel": 7,
+    "SkillUnLock": 75,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "262144000" },
+      { "ItemID": "131072", "Number": "100140" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1121208,
+    "AvatarID": 1121,
+    "SkillType": 2,
+    "SkillLevel": 8,
+    "SkillUnLock": 85,
+    "SkillMaterials": [],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1121301,
+    "AvatarID": 1121,
+    "SkillType": 3,
+    "SkillLevel": 1,
+    "SkillUnLock": 15,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "65536000" },
+      { "ItemID": "131072", "Number": "100110" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1121302,
+    "AvatarID": 1121,
+    "SkillType": 3,
+    "SkillLevel": 2,
+    "SkillUnLock": 25,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "98304000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1121303,
+    "AvatarID": 1121,
+    "SkillType": 3,
+    "SkillLevel": 3,
+    "SkillUnLock": 35,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "131072000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1121304,
+    "AvatarID": 1121,
+    "SkillType": 3,
+    "SkillLevel": 4,
+    "SkillUnLock": 45,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "163840000" },
+      { "ItemID": "131072", "Number": "100130" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1121305,
+    "AvatarID": 1121,
+    "SkillType": 3,
+    "SkillLevel": 5,
+    "SkillUnLock": 55,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "196608000" },
+      { "ItemID": "131072", "Number": "100130" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1121306,
+    "AvatarID": 1121,
+    "SkillType": 3,
+    "SkillLevel": 6,
+    "SkillUnLock": 65,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "229376000" },
+      { "ItemID": "131072", "Number": "100140" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1121307,
+    "AvatarID": 1121,
+    "SkillType": 3,
+    "SkillLevel": 7,
+    "SkillUnLock": 75,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "262144000" },
+      { "ItemID": "131072", "Number": "100140" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1121308,
+    "AvatarID": 1121,
+    "SkillType": 3,
+    "SkillLevel": 8,
+    "SkillUnLock": 85,
+    "SkillMaterials": [],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1121401,
+    "AvatarID": 1121,
+    "SkillType": 4,
+    "SkillLevel": 1,
+    "SkillUnLock": 15,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "65536000" },
+      { "ItemID": "131072", "Number": "100110" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1121402,
+    "AvatarID": 1121,
+    "SkillType": 4,
+    "SkillLevel": 2,
+    "SkillUnLock": 25,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "98304000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1121403,
+    "AvatarID": 1121,
+    "SkillType": 4,
+    "SkillLevel": 3,
+    "SkillUnLock": 35,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "131072000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1121404,
+    "AvatarID": 1121,
+    "SkillType": 4,
+    "SkillLevel": 4,
+    "SkillUnLock": 45,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "163840000" },
+      { "ItemID": "131072", "Number": "100130" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1121405,
+    "AvatarID": 1121,
+    "SkillType": 4,
+    "SkillLevel": 5,
+    "SkillUnLock": 55,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "196608000" },
+      { "ItemID": "131072", "Number": "100130" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1121406,
+    "AvatarID": 1121,
+    "SkillType": 4,
+    "SkillLevel": 6,
+    "SkillUnLock": 65,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "229376000" },
+      { "ItemID": "131072", "Number": "100140" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1121407,
+    "AvatarID": 1121,
+    "SkillType": 4,
+    "SkillLevel": 7,
+    "SkillUnLock": 75,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "262144000" },
+      { "ItemID": "131072", "Number": "100140" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1121408,
+    "AvatarID": 1121,
+    "SkillType": 4,
+    "SkillLevel": 8,
+    "SkillUnLock": 85,
+    "SkillMaterials": [],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1131001,
+    "AvatarID": 1131,
+    "SkillType": 0,
+    "SkillLevel": 1,
+    "SkillUnLock": 15,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "65536000" },
+      { "ItemID": "131072", "Number": "100110" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1131002,
+    "AvatarID": 1131,
+    "SkillType": 0,
+    "SkillLevel": 2,
+    "SkillUnLock": 25,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "98304000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1131003,
+    "AvatarID": 1131,
+    "SkillType": 0,
+    "SkillLevel": 3,
+    "SkillUnLock": 35,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "131072000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1131004,
+    "AvatarID": 1131,
+    "SkillType": 0,
+    "SkillLevel": 4,
+    "SkillUnLock": 45,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "163840000" },
+      { "ItemID": "131072", "Number": "100130" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1131005,
+    "AvatarID": 1131,
+    "SkillType": 0,
+    "SkillLevel": 5,
+    "SkillUnLock": 55,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "196608000" },
+      { "ItemID": "131072", "Number": "100130" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1131006,
+    "AvatarID": 1131,
+    "SkillType": 0,
+    "SkillLevel": 6,
+    "SkillUnLock": 65,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "229376000" },
+      { "ItemID": "131072", "Number": "100140" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1131007,
+    "AvatarID": 1131,
+    "SkillType": 0,
+    "SkillLevel": 7,
+    "SkillUnLock": 75,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "262144000" },
+      { "ItemID": "131072", "Number": "100140" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1131008,
+    "AvatarID": 1131,
+    "SkillType": 0,
+    "SkillLevel": 8,
+    "SkillUnLock": 85,
+    "SkillMaterials": [],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1131101,
+    "AvatarID": 1131,
+    "SkillType": 1,
+    "SkillLevel": 1,
+    "SkillUnLock": 15,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "65536000" },
+      { "ItemID": "131072", "Number": "100110" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1131102,
+    "AvatarID": 1131,
+    "SkillType": 1,
+    "SkillLevel": 2,
+    "SkillUnLock": 25,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "98304000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1131103,
+    "AvatarID": 1131,
+    "SkillType": 1,
+    "SkillLevel": 3,
+    "SkillUnLock": 35,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "131072000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1131104,
+    "AvatarID": 1131,
+    "SkillType": 1,
+    "SkillLevel": 4,
+    "SkillUnLock": 45,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "163840000" },
+      { "ItemID": "131072", "Number": "100134" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1131105,
+    "AvatarID": 1131,
+    "SkillType": 1,
+    "SkillLevel": 5,
+    "SkillUnLock": 55,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "196608000" },
+      { "ItemID": "131072", "Number": "100134" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1131106,
+    "AvatarID": 1131,
+    "SkillType": 1,
+    "SkillLevel": 6,
+    "SkillUnLock": 65,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "229376000" },
+      { "ItemID": "131072", "Number": "100144" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1131107,
+    "AvatarID": 1131,
+    "SkillType": 1,
+    "SkillLevel": 7,
+    "SkillUnLock": 75,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "262144000" },
+      { "ItemID": "131072", "Number": "100144" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1131108,
+    "AvatarID": 1131,
+    "SkillType": 1,
+    "SkillLevel": 8,
+    "SkillUnLock": 85,
+    "SkillMaterials": [],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1131201,
+    "AvatarID": 1131,
+    "SkillType": 2,
+    "SkillLevel": 1,
+    "SkillUnLock": 15,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "65536000" },
+      { "ItemID": "131072", "Number": "100110" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1131202,
+    "AvatarID": 1131,
+    "SkillType": 2,
+    "SkillLevel": 2,
+    "SkillUnLock": 25,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "98304000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1131203,
+    "AvatarID": 1131,
+    "SkillType": 2,
+    "SkillLevel": 3,
+    "SkillUnLock": 35,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "131072000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1131204,
+    "AvatarID": 1131,
+    "SkillType": 2,
+    "SkillLevel": 4,
+    "SkillUnLock": 45,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "163840000" },
+      { "ItemID": "131072", "Number": "100134" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1131205,
+    "AvatarID": 1131,
+    "SkillType": 2,
+    "SkillLevel": 5,
+    "SkillUnLock": 55,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "196608000" },
+      { "ItemID": "131072", "Number": "100134" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1131206,
+    "AvatarID": 1131,
+    "SkillType": 2,
+    "SkillLevel": 6,
+    "SkillUnLock": 65,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "229376000" },
+      { "ItemID": "131072", "Number": "100144" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1131207,
+    "AvatarID": 1131,
+    "SkillType": 2,
+    "SkillLevel": 7,
+    "SkillUnLock": 75,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "262144000" },
+      { "ItemID": "131072", "Number": "100144" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1131208,
+    "AvatarID": 1131,
+    "SkillType": 2,
+    "SkillLevel": 8,
+    "SkillUnLock": 85,
+    "SkillMaterials": [],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1131301,
+    "AvatarID": 1131,
+    "SkillType": 3,
+    "SkillLevel": 1,
+    "SkillUnLock": 15,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "65536000" },
+      { "ItemID": "131072", "Number": "100110" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1131302,
+    "AvatarID": 1131,
+    "SkillType": 3,
+    "SkillLevel": 2,
+    "SkillUnLock": 25,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "98304000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1131303,
+    "AvatarID": 1131,
+    "SkillType": 3,
+    "SkillLevel": 3,
+    "SkillUnLock": 35,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "131072000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1131304,
+    "AvatarID": 1131,
+    "SkillType": 3,
+    "SkillLevel": 4,
+    "SkillUnLock": 45,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "163840000" },
+      { "ItemID": "131072", "Number": "100134" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1131305,
+    "AvatarID": 1131,
+    "SkillType": 3,
+    "SkillLevel": 5,
+    "SkillUnLock": 55,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "196608000" },
+      { "ItemID": "131072", "Number": "100134" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1131306,
+    "AvatarID": 1131,
+    "SkillType": 3,
+    "SkillLevel": 6,
+    "SkillUnLock": 65,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "229376000" },
+      { "ItemID": "131072", "Number": "100144" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1131307,
+    "AvatarID": 1131,
+    "SkillType": 3,
+    "SkillLevel": 7,
+    "SkillUnLock": 75,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "262144000" },
+      { "ItemID": "131072", "Number": "100144" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1131308,
+    "AvatarID": 1131,
+    "SkillType": 3,
+    "SkillLevel": 8,
+    "SkillUnLock": 85,
+    "SkillMaterials": [],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1131401,
+    "AvatarID": 1131,
+    "SkillType": 4,
+    "SkillLevel": 1,
+    "SkillUnLock": 15,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "65536000" },
+      { "ItemID": "131072", "Number": "100110" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1131402,
+    "AvatarID": 1131,
+    "SkillType": 4,
+    "SkillLevel": 2,
+    "SkillUnLock": 25,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "98304000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1131403,
+    "AvatarID": 1131,
+    "SkillType": 4,
+    "SkillLevel": 3,
+    "SkillUnLock": 35,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "131072000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1131404,
+    "AvatarID": 1131,
+    "SkillType": 4,
+    "SkillLevel": 4,
+    "SkillUnLock": 45,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "163840000" },
+      { "ItemID": "131072", "Number": "100134" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1131405,
+    "AvatarID": 1131,
+    "SkillType": 4,
+    "SkillLevel": 5,
+    "SkillUnLock": 55,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "196608000" },
+      { "ItemID": "131072", "Number": "100134" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1131406,
+    "AvatarID": 1131,
+    "SkillType": 4,
+    "SkillLevel": 6,
+    "SkillUnLock": 65,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "229376000" },
+      { "ItemID": "131072", "Number": "100144" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1131407,
+    "AvatarID": 1131,
+    "SkillType": 4,
+    "SkillLevel": 7,
+    "SkillUnLock": 75,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "262144000" },
+      { "ItemID": "131072", "Number": "100144" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1131408,
+    "AvatarID": 1131,
+    "SkillType": 4,
+    "SkillLevel": 8,
+    "SkillUnLock": 85,
+    "SkillMaterials": [],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1141001,
+    "AvatarID": 1141,
+    "SkillType": 0,
+    "SkillLevel": 1,
+    "SkillUnLock": 15,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "65536000" },
+      { "ItemID": "131072", "Number": "100110" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1141002,
+    "AvatarID": 1141,
+    "SkillType": 0,
+    "SkillLevel": 2,
+    "SkillUnLock": 25,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "98304000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1141003,
+    "AvatarID": 1141,
+    "SkillType": 0,
+    "SkillLevel": 3,
+    "SkillUnLock": 35,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "131072000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1141004,
+    "AvatarID": 1141,
+    "SkillType": 0,
+    "SkillLevel": 4,
+    "SkillUnLock": 45,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "163840000" },
+      { "ItemID": "131072", "Number": "100130" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1141005,
+    "AvatarID": 1141,
+    "SkillType": 0,
+    "SkillLevel": 5,
+    "SkillUnLock": 55,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "196608000" },
+      { "ItemID": "131072", "Number": "100130" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1141006,
+    "AvatarID": 1141,
+    "SkillType": 0,
+    "SkillLevel": 6,
+    "SkillUnLock": 65,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "229376000" },
+      { "ItemID": "131072", "Number": "100140" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1141007,
+    "AvatarID": 1141,
+    "SkillType": 0,
+    "SkillLevel": 7,
+    "SkillUnLock": 75,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "262144000" },
+      { "ItemID": "131072", "Number": "100140" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1141008,
+    "AvatarID": 1141,
+    "SkillType": 0,
+    "SkillLevel": 8,
+    "SkillUnLock": 85,
+    "SkillMaterials": [],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1141101,
+    "AvatarID": 1141,
+    "SkillType": 1,
+    "SkillLevel": 1,
+    "SkillUnLock": 15,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "65536000" },
+      { "ItemID": "131072", "Number": "100110" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1141102,
+    "AvatarID": 1141,
+    "SkillType": 1,
+    "SkillLevel": 2,
+    "SkillUnLock": 25,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "98304000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1141103,
+    "AvatarID": 1141,
+    "SkillType": 1,
+    "SkillLevel": 3,
+    "SkillUnLock": 35,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "131072000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1141104,
+    "AvatarID": 1141,
+    "SkillType": 1,
+    "SkillLevel": 4,
+    "SkillUnLock": 45,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "163840000" },
+      { "ItemID": "131072", "Number": "100132" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1141105,
+    "AvatarID": 1141,
+    "SkillType": 1,
+    "SkillLevel": 5,
+    "SkillUnLock": 55,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "196608000" },
+      { "ItemID": "131072", "Number": "100132" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1141106,
+    "AvatarID": 1141,
+    "SkillType": 1,
+    "SkillLevel": 6,
+    "SkillUnLock": 65,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "229376000" },
+      { "ItemID": "131072", "Number": "100142" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1141107,
+    "AvatarID": 1141,
+    "SkillType": 1,
+    "SkillLevel": 7,
+    "SkillUnLock": 75,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "262144000" },
+      { "ItemID": "131072", "Number": "100142" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1141108,
+    "AvatarID": 1141,
+    "SkillType": 1,
+    "SkillLevel": 8,
+    "SkillUnLock": 85,
+    "SkillMaterials": [],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1141201,
+    "AvatarID": 1141,
+    "SkillType": 2,
+    "SkillLevel": 1,
+    "SkillUnLock": 15,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "65536000" },
+      { "ItemID": "131072", "Number": "100110" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1141202,
+    "AvatarID": 1141,
+    "SkillType": 2,
+    "SkillLevel": 2,
+    "SkillUnLock": 25,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "98304000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1141203,
+    "AvatarID": 1141,
+    "SkillType": 2,
+    "SkillLevel": 3,
+    "SkillUnLock": 35,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "131072000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1141204,
+    "AvatarID": 1141,
+    "SkillType": 2,
+    "SkillLevel": 4,
+    "SkillUnLock": 45,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "163840000" },
+      { "ItemID": "131072", "Number": "100132" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1141205,
+    "AvatarID": 1141,
+    "SkillType": 2,
+    "SkillLevel": 5,
+    "SkillUnLock": 55,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "196608000" },
+      { "ItemID": "131072", "Number": "100132" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1141206,
+    "AvatarID": 1141,
+    "SkillType": 2,
+    "SkillLevel": 6,
+    "SkillUnLock": 65,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "229376000" },
+      { "ItemID": "131072", "Number": "100142" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1141207,
+    "AvatarID": 1141,
+    "SkillType": 2,
+    "SkillLevel": 7,
+    "SkillUnLock": 75,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "262144000" },
+      { "ItemID": "131072", "Number": "100142" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1141208,
+    "AvatarID": 1141,
+    "SkillType": 2,
+    "SkillLevel": 8,
+    "SkillUnLock": 85,
+    "SkillMaterials": [],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1141301,
+    "AvatarID": 1141,
+    "SkillType": 3,
+    "SkillLevel": 1,
+    "SkillUnLock": 15,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "65536000" },
+      { "ItemID": "131072", "Number": "100110" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1141302,
+    "AvatarID": 1141,
+    "SkillType": 3,
+    "SkillLevel": 2,
+    "SkillUnLock": 25,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "98304000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1141303,
+    "AvatarID": 1141,
+    "SkillType": 3,
+    "SkillLevel": 3,
+    "SkillUnLock": 35,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "131072000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1141304,
+    "AvatarID": 1141,
+    "SkillType": 3,
+    "SkillLevel": 4,
+    "SkillUnLock": 45,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "163840000" },
+      { "ItemID": "131072", "Number": "100132" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1141305,
+    "AvatarID": 1141,
+    "SkillType": 3,
+    "SkillLevel": 5,
+    "SkillUnLock": 55,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "196608000" },
+      { "ItemID": "131072", "Number": "100132" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1141306,
+    "AvatarID": 1141,
+    "SkillType": 3,
+    "SkillLevel": 6,
+    "SkillUnLock": 65,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "229376000" },
+      { "ItemID": "131072", "Number": "100142" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1141307,
+    "AvatarID": 1141,
+    "SkillType": 3,
+    "SkillLevel": 7,
+    "SkillUnLock": 75,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "262144000" },
+      { "ItemID": "131072", "Number": "100142" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1141308,
+    "AvatarID": 1141,
+    "SkillType": 3,
+    "SkillLevel": 8,
+    "SkillUnLock": 85,
+    "SkillMaterials": [],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1141401,
+    "AvatarID": 1141,
+    "SkillType": 4,
+    "SkillLevel": 1,
+    "SkillUnLock": 15,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "65536000" },
+      { "ItemID": "131072", "Number": "100110" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1141402,
+    "AvatarID": 1141,
+    "SkillType": 4,
+    "SkillLevel": 2,
+    "SkillUnLock": 25,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "98304000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1141403,
+    "AvatarID": 1141,
+    "SkillType": 4,
+    "SkillLevel": 3,
+    "SkillUnLock": 35,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "131072000" },
+      { "ItemID": "131072", "Number": "100120" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1141404,
+    "AvatarID": 1141,
+    "SkillType": 4,
+    "SkillLevel": 4,
+    "SkillUnLock": 45,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "163840000" },
+      { "ItemID": "131072", "Number": "100132" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1141405,
+    "AvatarID": 1141,
+    "SkillType": 4,
+    "SkillLevel": 5,
+    "SkillUnLock": 55,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "196608000" },
+      { "ItemID": "131072", "Number": "100132" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1141406,
+    "AvatarID": 1141,
+    "SkillType": 4,
+    "SkillLevel": 6,
+    "SkillUnLock": 65,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "229376000" },
+      { "ItemID": "131072", "Number": "100142" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1141407,
+    "AvatarID": 1141,
+    "SkillType": 4,
+    "SkillLevel": 7,
+    "SkillUnLock": 75,
+    "SkillMaterials": [
+      { "ItemID": "655362", "Number": "262144000" },
+      { "ItemID": "131072", "Number": "100142" }
+    ],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  },
+  {
+    "ID": 1141408,
+    "AvatarID": 1141,
+    "SkillType": 4,
+    "SkillLevel": 8,
+    "SkillUnLock": 85,
+    "SkillMaterials": [],
+    "PassiveAbilitys": [],
+    "PassiveName": "",
+    "PassiveDesc": ""
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "ID": 1,
+    "ExecuteTime": "393218:0",
+    "Duration": 14,
+    "Tipsmales": [999500001, 999500004],
+    "Tipsfemales": [999500101, 999500104]
+  },
+  {
+    "ID": 2,
+    "ExecuteTime": "1310722:0",
+    "Duration": 4,
+    "Tipsmales": [999500002, 999500005],
+    "Tipsfemales": [999500102, 999500105]
+  },
+  {
+    "ID": 3,
+    "ExecuteTime": "2:0",
+    "Duration": 6,
+    "Tipsmales": [999500003, 999500006],
+    "Tipsfemales": [999500103, 999500106]
+  }
+]

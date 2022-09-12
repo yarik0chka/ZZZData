@@ -1,0 +1,482 @@
+[
+  {
+    "ID": 1011001,
+    "AvatarID": 1011,
+    "TalentLevel": 1,
+    "TalentAbilitys": [11011101],
+    "TalentName": "Anbi_Talent_01_Title",
+    "TalentDesc": "Anbi_Talent_01_Desc_01",
+    "TalentDesc2": "Anbi_Talent_01_Desc_02",
+    "TalentMaterials": [{ "ItemID": "655362", "Number": "327680000" }]
+  },
+  {
+    "ID": 1011002,
+    "AvatarID": 1011,
+    "TalentLevel": 2,
+    "TalentAbilitys": [11011102],
+    "TalentName": "Anbi_Talent_02_Title",
+    "TalentDesc": "Anbi_Talent_02_Desc_01",
+    "TalentDesc2": "Anbi_Talent_02_Desc_02",
+    "TalentMaterials": [{ "ItemID": "655362", "Number": "655360000" }]
+  },
+  {
+    "ID": 1011003,
+    "AvatarID": 1011,
+    "TalentLevel": 3,
+    "TalentAbilitys": [11011103],
+    "TalentName": "Anbi_Talent_03_Title",
+    "TalentDesc": "Anbi_Talent_03_Desc_01",
+    "TalentDesc2": "Anbi_Talent_03_Desc_02",
+    "TalentMaterials": [{ "ItemID": "655362", "Number": "983040000" }]
+  },
+  {
+    "ID": 1011004,
+    "AvatarID": 1011,
+    "TalentLevel": 4,
+    "TalentAbilitys": [11011104],
+    "TalentName": "Anbi_Talent_04_Title",
+    "TalentDesc": "Anbi_Talent_04_Desc_01",
+    "TalentDesc2": "Anbi_Talent_04_Desc_02",
+    "TalentMaterials": [{ "ItemID": "655362", "Number": "1638400000" }]
+  },
+  {
+    "ID": 1021001,
+    "AvatarID": 1021,
+    "TalentLevel": 1,
+    "TalentAbilitys": [11021101],
+    "TalentName": "Tsubaki_Talent_01_Title",
+    "TalentDesc": "Tsubaki_Talent_01_Desc_01",
+    "TalentDesc2": "Tsubaki_Talent_01_Desc_02",
+    "TalentMaterials": [{ "ItemID": "655362", "Number": "327680000" }]
+  },
+  {
+    "ID": 1021002,
+    "AvatarID": 1021,
+    "TalentLevel": 2,
+    "TalentAbilitys": [11021102],
+    "TalentName": "Tsubaki_Talent_02_Title",
+    "TalentDesc": "Tsubaki_Talent_02_Desc_01",
+    "TalentDesc2": "Tsubaki_Talent_02_Desc_02",
+    "TalentMaterials": [{ "ItemID": "655362", "Number": "655360000" }]
+  },
+  {
+    "ID": 1021003,
+    "AvatarID": 1021,
+    "TalentLevel": 3,
+    "TalentAbilitys": [11021103],
+    "TalentName": "Tsubaki_Talent_03_Title",
+    "TalentDesc": "Tsubaki_Talent_03_Desc_01",
+    "TalentDesc2": "Tsubaki_Talent_03_Desc_02",
+    "TalentMaterials": [{ "ItemID": "655362", "Number": "983040000" }]
+  },
+  {
+    "ID": 1021004,
+    "AvatarID": 1021,
+    "TalentLevel": 4,
+    "TalentAbilitys": [11021104],
+    "TalentName": "Tsubaki_Talent_04_Title",
+    "TalentDesc": "Tsubaki_Talent_04_Desc_01",
+    "TalentDesc2": "Tsubaki_Talent_04_Desc_02",
+    "TalentMaterials": [{ "ItemID": "655362", "Number": "1638400000" }]
+  },
+  {
+    "ID": 1031001,
+    "AvatarID": 1031,
+    "TalentLevel": 1,
+    "TalentAbilitys": [11031101],
+    "TalentName": "Nostradamus_Talent_01_Title",
+    "TalentDesc": "Nostradamus_Talent_01_Desc_01",
+    "TalentDesc2": "Nostradamus_Talent_01_Desc_02",
+    "TalentMaterials": [{ "ItemID": "655362", "Number": "327680000" }]
+  },
+  {
+    "ID": 1031002,
+    "AvatarID": 1031,
+    "TalentLevel": 2,
+    "TalentAbilitys": [11031102],
+    "TalentName": "Nostradamus_Talent_02_Title",
+    "TalentDesc": "Nostradamus_Talent_02_Desc_01",
+    "TalentDesc2": "Nostradamus_Talent_02_Desc_02",
+    "TalentMaterials": [{ "ItemID": "655362", "Number": "655360000" }]
+  },
+  {
+    "ID": 1031003,
+    "AvatarID": 1031,
+    "TalentLevel": 3,
+    "TalentAbilitys": [11031103],
+    "TalentName": "Nostradamus_Talent_03_Title",
+    "TalentDesc": "Nostradamus_Talent_03_Desc_01",
+    "TalentDesc2": "Nostradamus_Talent_03_Desc_02",
+    "TalentMaterials": [{ "ItemID": "655362", "Number": "983040000" }]
+  },
+  {
+    "ID": 1031004,
+    "AvatarID": 1031,
+    "TalentLevel": 4,
+    "TalentAbilitys": [11031104],
+    "TalentName": "Nostradamus_Talent_04_Title",
+    "TalentDesc": "Nostradamus_Talent_04_Desc_01",
+    "TalentDesc2": "Nostradamus_Talent_04_Desc_02",
+    "TalentMaterials": [{ "ItemID": "655362", "Number": "1638400000" }]
+  },
+  {
+    "ID": 1041001,
+    "AvatarID": 1041,
+    "TalentLevel": 1,
+    "TalentAbilitys": [11041101],
+    "TalentName": "Longinus_Talent_01_Title",
+    "TalentDesc": "Longinus_Talent_01_Desc_01",
+    "TalentDesc2": "Longinus_Talent_01_Desc_02",
+    "TalentMaterials": [{ "ItemID": "655362", "Number": "327680000" }]
+  },
+  {
+    "ID": 1041002,
+    "AvatarID": 1041,
+    "TalentLevel": 2,
+    "TalentAbilitys": [11041102],
+    "TalentName": "Longinus_Talent_02_Title",
+    "TalentDesc": "Longinus_Talent_02_Desc_01",
+    "TalentDesc2": "Longinus_Talent_02_Desc_02",
+    "TalentMaterials": [{ "ItemID": "655362", "Number": "655360000" }]
+  },
+  {
+    "ID": 1041003,
+    "AvatarID": 1041,
+    "TalentLevel": 3,
+    "TalentAbilitys": [11041103],
+    "TalentName": "Longinus_Talent_03_Title",
+    "TalentDesc": "Longinus_Talent_03_Desc_01",
+    "TalentDesc2": "Longinus_Talent_03_Desc_02",
+    "TalentMaterials": [{ "ItemID": "655362", "Number": "983040000" }]
+  },
+  {
+    "ID": 1041004,
+    "AvatarID": 1041,
+    "TalentLevel": 4,
+    "TalentAbilitys": [11041104],
+    "TalentName": "Longinus_Talent_04_Title",
+    "TalentDesc": "Longinus_Talent_04_Desc_01",
+    "TalentDesc2": "Longinus_Talent_04_Desc_02",
+    "TalentMaterials": [{ "ItemID": "655362", "Number": "1638400000" }]
+  },
+  {
+    "ID": 1061001,
+    "AvatarID": 1061,
+    "TalentLevel": 1,
+    "TalentAbilitys": [11061101],
+    "TalentName": "Corin_Talent_01_Title",
+    "TalentDesc": "Corin_Talent_01_Desc_01",
+    "TalentDesc2": "Corin_Talent_01_Desc_02",
+    "TalentMaterials": [{ "ItemID": "655362", "Number": "327680000" }]
+  },
+  {
+    "ID": 1061002,
+    "AvatarID": 1061,
+    "TalentLevel": 2,
+    "TalentAbilitys": [11061102],
+    "TalentName": "Corin_Talent_02_Title",
+    "TalentDesc": "Corin_Talent_02_Desc_01",
+    "TalentDesc2": "Corin_Talent_02_Desc_02",
+    "TalentMaterials": [{ "ItemID": "655362", "Number": "655360000" }]
+  },
+  {
+    "ID": 1061003,
+    "AvatarID": 1061,
+    "TalentLevel": 3,
+    "TalentAbilitys": [11061103],
+    "TalentName": "Corin_Talent_03_Title",
+    "TalentDesc": "Corin_Talent_03_Desc_01",
+    "TalentDesc2": "Corin_Talent_03_Desc_02",
+    "TalentMaterials": [{ "ItemID": "655362", "Number": "983040000" }]
+  },
+  {
+    "ID": 1061004,
+    "AvatarID": 1061,
+    "TalentLevel": 4,
+    "TalentAbilitys": [11061104],
+    "TalentName": "Corin_Talent_04_Title",
+    "TalentDesc": "Corin_Talent_04_Desc_01",
+    "TalentDesc2": "Corin_Talent_04_Desc_02",
+    "TalentMaterials": [{ "ItemID": "655362", "Number": "1638400000" }]
+  },
+  {
+    "ID": 1081001,
+    "AvatarID": 1081,
+    "TalentLevel": 1,
+    "TalentAbilitys": [11081101],
+    "TalentName": "Billy_Talent_01_Title",
+    "TalentDesc": "Billy_Talent_01_Desc_01",
+    "TalentDesc2": "Billy_Talent_01_Desc_02",
+    "TalentMaterials": [{ "ItemID": "655362", "Number": "327680000" }]
+  },
+  {
+    "ID": 1081002,
+    "AvatarID": 1081,
+    "TalentLevel": 2,
+    "TalentAbilitys": [11081102],
+    "TalentName": "Billy_Talent_02_Title",
+    "TalentDesc": "Billy_Talent_02_Desc_01",
+    "TalentDesc2": "Billy_Talent_02_Desc_02",
+    "TalentMaterials": [{ "ItemID": "655362", "Number": "655360000" }]
+  },
+  {
+    "ID": 1081003,
+    "AvatarID": 1081,
+    "TalentLevel": 3,
+    "TalentAbilitys": [11081103],
+    "TalentName": "Billy_Talent_03_Title",
+    "TalentDesc": "Billy_Talent_03_Desc_01",
+    "TalentDesc2": "Billy_Talent_03_Desc_02",
+    "TalentMaterials": [{ "ItemID": "655362", "Number": "983040000" }]
+  },
+  {
+    "ID": 1081004,
+    "AvatarID": 1081,
+    "TalentLevel": 4,
+    "TalentAbilitys": [11081104],
+    "TalentName": "Billy_Talent_04_Title",
+    "TalentDesc": "Billy_Talent_04_Desc_01",
+    "TalentDesc2": "Billy_Talent_04_Desc_02",
+    "TalentMaterials": [{ "ItemID": "655362", "Number": "1638400000" }]
+  },
+  {
+    "ID": 1091001,
+    "AvatarID": 1091,
+    "TalentLevel": 1,
+    "TalentAbilitys": [11091101],
+    "TalentName": "Unagi_Talent_01_Title",
+    "TalentDesc": "Unagi_Talent_01_Desc_01",
+    "TalentDesc2": "Unagi_Talent_01_Desc_02",
+    "TalentMaterials": [{ "ItemID": "655362", "Number": "327680000" }]
+  },
+  {
+    "ID": 1091002,
+    "AvatarID": 1091,
+    "TalentLevel": 2,
+    "TalentAbilitys": [11091102],
+    "TalentName": "Unagi_Talent_02_Title",
+    "TalentDesc": "Unagi_Talent_02_Desc_01",
+    "TalentDesc2": "Unagi_Talent_02_Desc_02",
+    "TalentMaterials": [{ "ItemID": "655362", "Number": "655360000" }]
+  },
+  {
+    "ID": 1091003,
+    "AvatarID": 1091,
+    "TalentLevel": 3,
+    "TalentAbilitys": [11091103],
+    "TalentName": "Unagi_Talent_03_Title",
+    "TalentDesc": "Unagi_Talent_03_Desc_01",
+    "TalentDesc2": "Unagi_Talent_03_Desc_02",
+    "TalentMaterials": [{ "ItemID": "655362", "Number": "983040000" }]
+  },
+  {
+    "ID": 1091004,
+    "AvatarID": 1091,
+    "TalentLevel": 4,
+    "TalentAbilitys": [11091104],
+    "TalentName": "Unagi_Talent_04_Title",
+    "TalentDesc": "Unagi_Talent_04_Desc_01",
+    "TalentDesc2": "Unagi_Talent_04_Desc_02",
+    "TalentMaterials": [{ "ItemID": "655362", "Number": "1638400000" }]
+  },
+  {
+    "ID": 1101001,
+    "AvatarID": 1101,
+    "TalentLevel": 1,
+    "TalentAbilitys": [11101101],
+    "TalentName": "OokumaMari_Talent_01_Title",
+    "TalentDesc": "OokumaMari_Talent_01_Desc_01",
+    "TalentDesc2": "OokumaMari_Talent_01_Desc_02",
+    "TalentMaterials": [{ "ItemID": "655362", "Number": "327680000" }]
+  },
+  {
+    "ID": 1101002,
+    "AvatarID": 1101,
+    "TalentLevel": 2,
+    "TalentAbilitys": [11101102],
+    "TalentName": "OokumaMari_Talent_02_Title",
+    "TalentDesc": "OokumaMari_Talent_02_Desc_01",
+    "TalentDesc2": "OokumaMari_Talent_02_Desc_02",
+    "TalentMaterials": [{ "ItemID": "655362", "Number": "655360000" }]
+  },
+  {
+    "ID": 1101003,
+    "AvatarID": 1101,
+    "TalentLevel": 3,
+    "TalentAbilitys": [11101103],
+    "TalentName": "OokumaMari_Talent_03_Title",
+    "TalentDesc": "OokumaMari_Talent_03_Desc_01",
+    "TalentDesc2": "OokumaMari_Talent_03_Desc_02",
+    "TalentMaterials": [{ "ItemID": "655362", "Number": "983040000" }]
+  },
+  {
+    "ID": 1101004,
+    "AvatarID": 1101,
+    "TalentLevel": 4,
+    "TalentAbilitys": [11101104],
+    "TalentName": "OokumaMari_Talent_04_Title",
+    "TalentDesc": "OokumaMari_Talent_04_Desc_01",
+    "TalentDesc2": "OokumaMari_Talent_04_Desc_02",
+    "TalentMaterials": [{ "ItemID": "655362", "Number": "1638400000" }]
+  },
+  {
+    "ID": 1111001,
+    "AvatarID": 1111,
+    "TalentLevel": 1,
+    "TalentAbilitys": [11111101],
+    "TalentName": "Anton_Talent_01_Title",
+    "TalentDesc": "Anton_Talent_01_Desc_01",
+    "TalentDesc2": "Anton_Talent_01_Desc_02",
+    "TalentMaterials": [{ "ItemID": "655362", "Number": "327680000" }]
+  },
+  {
+    "ID": 1111002,
+    "AvatarID": 1111,
+    "TalentLevel": 2,
+    "TalentAbilitys": [11111102],
+    "TalentName": "Anton_Talent_02_Title",
+    "TalentDesc": "Anton_Talent_02_Desc_01",
+    "TalentDesc2": "Anton_Talent_02_Desc_02",
+    "TalentMaterials": [{ "ItemID": "655362", "Number": "655360000" }]
+  },
+  {
+    "ID": 1111003,
+    "AvatarID": 1111,
+    "TalentLevel": 3,
+    "TalentAbilitys": [11111103],
+    "TalentName": "Anton_Talent_03_Title",
+    "TalentDesc": "Anton_Talent_03_Desc_01",
+    "TalentDesc2": "Anton_Talent_03_Desc_02",
+    "TalentMaterials": [{ "ItemID": "655362", "Number": "983040000" }]
+  },
+  {
+    "ID": 1111004,
+    "AvatarID": 1111,
+    "TalentLevel": 4,
+    "TalentAbilitys": [11111104],
+    "TalentName": "Anton_Talent_04_Title",
+    "TalentDesc": "Anton_Talent_04_Desc_01",
+    "TalentDesc2": "Anton_Talent_04_Desc_02",
+    "TalentMaterials": [{ "ItemID": "655362", "Number": "1638400000" }]
+  },
+  {
+    "ID": 1121001,
+    "AvatarID": 1121,
+    "TalentLevel": 1,
+    "TalentAbilitys": [11121101],
+    "TalentName": "Ben_Talent_01_Title",
+    "TalentDesc": "Ben_Talent_01_Desc_01",
+    "TalentDesc2": "Ben_Talent_01_Desc_02",
+    "TalentMaterials": [{ "ItemID": "655362", "Number": "327680000" }]
+  },
+  {
+    "ID": 1121002,
+    "AvatarID": 1121,
+    "TalentLevel": 2,
+    "TalentAbilitys": [11121102],
+    "TalentName": "Ben_Talent_02_Title",
+    "TalentDesc": "Ben_Talent_02_Desc_01",
+    "TalentDesc2": "Ben_Talent_02_Desc_02",
+    "TalentMaterials": [{ "ItemID": "655362", "Number": "655360000" }]
+  },
+  {
+    "ID": 1121003,
+    "AvatarID": 1121,
+    "TalentLevel": 3,
+    "TalentAbilitys": [11121103],
+    "TalentName": "Ben_Talent_03_Title",
+    "TalentDesc": "Ben_Talent_03_Desc_01",
+    "TalentDesc2": "Ben_Talent_03_Desc_02",
+    "TalentMaterials": [{ "ItemID": "655362", "Number": "983040000" }]
+  },
+  {
+    "ID": 1121004,
+    "AvatarID": 1121,
+    "TalentLevel": 4,
+    "TalentAbilitys": [11121104],
+    "TalentName": "Ben_Talent_04_Title",
+    "TalentDesc": "Ben_Talent_04_Desc_01",
+    "TalentDesc2": "Ben_Talent_04_Desc_02",
+    "TalentMaterials": [{ "ItemID": "655362", "Number": "1638400000" }]
+  },
+  {
+    "ID": 1131001,
+    "AvatarID": 1131,
+    "TalentLevel": 1,
+    "TalentAbilitys": [11131101],
+    "TalentName": "Aokaku_Talent_01_Title",
+    "TalentDesc": "Aokaku_Talent_01_Desc_01",
+    "TalentDesc2": "Aokaku_Talent_01_Desc_02",
+    "TalentMaterials": [{ "ItemID": "655362", "Number": "327680000" }]
+  },
+  {
+    "ID": 1131002,
+    "AvatarID": 1131,
+    "TalentLevel": 2,
+    "TalentAbilitys": [11131102],
+    "TalentName": "Aokaku_Talent_02_Title",
+    "TalentDesc": "Aokaku_Talent_02_Desc_01",
+    "TalentDesc2": "Aokaku_Talent_02_Desc_02",
+    "TalentMaterials": [{ "ItemID": "655362", "Number": "655360000" }]
+  },
+  {
+    "ID": 1131003,
+    "AvatarID": 1131,
+    "TalentLevel": 3,
+    "TalentAbilitys": [11131103],
+    "TalentName": "Aokaku_Talent_03_Title",
+    "TalentDesc": "Aokaku_Talent_03_Desc_01",
+    "TalentDesc2": "Aokaku_Talent_03_Desc_02",
+    "TalentMaterials": [{ "ItemID": "655362", "Number": "983040000" }]
+  },
+  {
+    "ID": 1131004,
+    "AvatarID": 1131,
+    "TalentLevel": 4,
+    "TalentAbilitys": [11131104],
+    "TalentName": "Aokaku_Talent_04_Title",
+    "TalentDesc": "Aokaku_Talent_04_Desc_01",
+    "TalentDesc2": "Aokaku_Talent_04_Desc_02",
+    "TalentMaterials": [{ "ItemID": "655362", "Number": "1638400000" }]
+  },
+  {
+    "ID": 1141001,
+    "AvatarID": 1141,
+    "TalentLevel": 1,
+    "TalentAbilitys": [11141101],
+    "TalentName": "Lycaon_Talent_01_Title",
+    "TalentDesc": "Lycaon_Talent_01_Desc_01",
+    "TalentDesc2": "Lycaon_Talent_01_Desc_02",
+    "TalentMaterials": [{ "ItemID": "655362", "Number": "327680000" }]
+  },
+  {
+    "ID": 1141002,
+    "AvatarID": 1141,
+    "TalentLevel": 2,
+    "TalentAbilitys": [11141102],
+    "TalentName": "Lycaon_Talent_02_Title",
+    "TalentDesc": "Lycaon_Talent_02_Desc_01",
+    "TalentDesc2": "Lycaon_Talent_02_Desc_02",
+    "TalentMaterials": [{ "ItemID": "655362", "Number": "655360000" }]
+  },
+  {
+    "ID": 1141003,
+    "AvatarID": 1141,
+    "TalentLevel": 3,
+    "TalentAbilitys": [11141103],
+    "TalentName": "Lycaon_Talent_03_Title",
+    "TalentDesc": "Lycaon_Talent_03_Desc_01",
+    "TalentDesc2": "Lycaon_Talent_03_Desc_02",
+    "TalentMaterials": [{ "ItemID": "655362", "Number": "983040000" }]
+  },
+  {
+    "ID": 1141004,
+    "AvatarID": 1141,
+    "TalentLevel": 4,
+    "TalentAbilitys": [11141104],
+    "TalentName": "Lycaon_Talent_04_Title",
+    "TalentDesc": "Lycaon_Talent_04_Desc_01",
+    "TalentDesc2": "Lycaon_Talent_04_Desc_02",
+    "TalentMaterials": [{ "ItemID": "655362", "Number": "1638400000" }]
+  }
+]

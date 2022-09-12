@@ -1,0 +1,1242 @@
+[
+  {
+    "ID": 1,
+    "Name": "Hp",
+    "Enlarge": 1,
+    "ShowForm": "{0:0}",
+    "Min": 0,
+    "Max": 2147483647,
+    "Function": 99,
+    "FunctionParams": [1111]
+  },
+  {
+    "ID": 2,
+    "Name": "Armor",
+    "Enlarge": 1,
+    "ShowForm": "{0:0}",
+    "Min": 0,
+    "Max": 2147483647,
+    "Function": 99,
+    "FunctionParams": [1112]
+  },
+  {
+    "ID": 3,
+    "Name": "Shield",
+    "Enlarge": 1,
+    "ShowForm": "{0:0}",
+    "Min": 0,
+    "Max": 2147483647,
+    "Function": 99,
+    "FunctionParams": [1113]
+  },
+  {
+    "ID": 4,
+    "Name": "Stun",
+    "Enlarge": 1,
+    "ShowForm": "{0:0}",
+    "Min": 0,
+    "Max": 2147483647,
+    "Function": 98,
+    "FunctionParams": [1114]
+  },
+  {
+    "ID": 5,
+    "Name": "Sp",
+    "Enlarge": 1,
+    "ShowForm": "{0:0}",
+    "Min": 0,
+    "Max": 100,
+    "Function": 98,
+    "FunctionParams": [1115]
+  },
+  {
+    "ID": 6,
+    "Name": "Usp",
+    "Enlarge": 1,
+    "ShowForm": "{0:0}",
+    "Min": 0,
+    "Max": 1,
+    "Function": 98,
+    "FunctionParams": [1116]
+  },
+  {
+    "ID": 99,
+    "Name": "Dead",
+    "Enlarge": 1,
+    "ShowForm": "{0:0}",
+    "Min": 0,
+    "Max": 1,
+    "Function": 0,
+    "FunctionParams": []
+  },
+  {
+    "ID": 111,
+    "Name": "HpMax",
+    "Enlarge": 1,
+    "ShowForm": "{0:0}",
+    "Min": 0,
+    "Max": 2147483647,
+    "Function": 1,
+    "FunctionParams": [11101, 11102, 11103]
+  },
+  {
+    "ID": 112,
+    "Name": "ArmorMax",
+    "Enlarge": 1,
+    "ShowForm": "{0:0}",
+    "Min": 0,
+    "Max": 2147483647,
+    "Function": 1,
+    "FunctionParams": [11201, 11202, 11203]
+  },
+  {
+    "ID": 113,
+    "Name": "ShieldMax",
+    "Enlarge": 1,
+    "ShowForm": "{0:0}",
+    "Min": 0,
+    "Max": 2147483647,
+    "Function": 1,
+    "FunctionParams": [11301, 11302, 11303]
+  },
+  {
+    "ID": 114,
+    "Name": "StunMax",
+    "Enlarge": 1,
+    "ShowForm": "{0:0}",
+    "Min": 0,
+    "Max": 2147483647,
+    "Function": 1,
+    "FunctionParams": [11401, 11402, 11403]
+  },
+  {
+    "ID": 115,
+    "Name": "SpMax",
+    "Enlarge": 1,
+    "ShowForm": "{0:0}",
+    "Min": 0,
+    "Max": 100,
+    "Function": 2,
+    "FunctionParams": [11501, 11503]
+  },
+  {
+    "ID": 116,
+    "Name": "UspMax",
+    "Enlarge": 1,
+    "ShowForm": "{0:0}",
+    "Min": 0,
+    "Max": 1,
+    "Function": 2,
+    "FunctionParams": [11601, 11603]
+  },
+  {
+    "ID": 121,
+    "Name": "Atk",
+    "Enlarge": 1,
+    "ShowForm": "{0:0.#}",
+    "Min": 0,
+    "Max": 2147483647,
+    "Function": 1,
+    "FunctionParams": [12101, 12102, 12103]
+  },
+  {
+    "ID": 122,
+    "Name": "BreakStun",
+    "Enlarge": 1,
+    "ShowForm": "{0:0.#}",
+    "Min": 0,
+    "Max": 2147483647,
+    "Function": 1,
+    "FunctionParams": [12201, 12202, 12203]
+  },
+  {
+    "ID": 131,
+    "Name": "Def",
+    "Enlarge": 1,
+    "ShowForm": "{0:0.#}",
+    "Min": 0,
+    "Max": 2147483647,
+    "Function": 1,
+    "FunctionParams": [13101, 13102, 13103]
+  },
+  {
+    "ID": 201,
+    "Name": "Crit",
+    "Enlarge": 10000,
+    "ShowForm": "{0:0.##%}",
+    "Min": 0,
+    "Max": 8000,
+    "Function": 2,
+    "FunctionParams": [20101, 20103]
+  },
+  {
+    "ID": 202,
+    "Name": "CritRes",
+    "Enlarge": 10000,
+    "ShowForm": "{0:0.##%}",
+    "Min": 0,
+    "Max": 8000,
+    "Function": 2,
+    "FunctionParams": [20201, 20203]
+  },
+  {
+    "ID": 211,
+    "Name": "CritDmg",
+    "Enlarge": 10000,
+    "ShowForm": "{0:0.##%}",
+    "Min": 0,
+    "Max": 25000,
+    "Function": 2,
+    "FunctionParams": [21101, 21103]
+  },
+  {
+    "ID": 212,
+    "Name": "CritDmgRes",
+    "Enlarge": 10000,
+    "ShowForm": "{0:0.##%}",
+    "Min": 0,
+    "Max": 25000,
+    "Function": 2,
+    "FunctionParams": [21201, 21203]
+  },
+  {
+    "ID": 231,
+    "Name": "PenRatio",
+    "Enlarge": 10000,
+    "ShowForm": "{0:0.##%}",
+    "Min": 0,
+    "Max": 8000,
+    "Function": 2,
+    "FunctionParams": [23101, 23103]
+  },
+  {
+    "ID": 232,
+    "Name": "PenDelta",
+    "Enlarge": 1,
+    "ShowForm": "{0:0.#}",
+    "Min": 0,
+    "Max": 2147483647,
+    "Function": 2,
+    "FunctionParams": [23201, 23203]
+  },
+  {
+    "ID": 301,
+    "Name": "Endurance",
+    "Enlarge": 1,
+    "ShowForm": "{0:0.#}",
+    "Min": 0,
+    "Max": 2147483647,
+    "Function": 1,
+    "FunctionParams": [30101, 30102, 30103]
+  },
+  {
+    "ID": 305,
+    "Name": "SpRecover",
+    "Enlarge": 100,
+    "ShowForm": "{0:0.##}",
+    "Min": 0,
+    "Max": 2147483647,
+    "Function": 1,
+    "FunctionParams": [30501, 30502, 30503]
+  },
+  {
+    "ID": 306,
+    "Name": "HPHealRatio",
+    "Enlarge": 10000,
+    "ShowForm": "{0:0.##%}",
+    "Min": 0,
+    "Max": 900000,
+    "Function": 2,
+    "FunctionParams": [30601, 30603]
+  },
+  {
+    "ID": 307,
+    "Name": "AddedDamageRatio",
+    "Enlarge": 10000,
+    "ShowForm": "{0:0.##%}",
+    "Min": 0,
+    "Max": 900000,
+    "Function": 2,
+    "FunctionParams": [30701, 30703]
+  },
+  {
+    "ID": 1111,
+    "Name": "HpMax",
+    "Enlarge": 1,
+    "ShowForm": "{0:0}",
+    "Min": 0,
+    "Max": 2147483647,
+    "Function": 1,
+    "FunctionParams": [111, 11104, 11105]
+  },
+  {
+    "ID": 1112,
+    "Name": "ArmorMax",
+    "Enlarge": 1,
+    "ShowForm": "{0:0}",
+    "Min": 0,
+    "Max": 2147483647,
+    "Function": 1,
+    "FunctionParams": [112, 11204, 11205]
+  },
+  {
+    "ID": 1113,
+    "Name": "ShieldMax",
+    "Enlarge": 1,
+    "ShowForm": "{0:0}",
+    "Min": 0,
+    "Max": 2147483647,
+    "Function": 1,
+    "FunctionParams": [113, 11304, 11305]
+  },
+  {
+    "ID": 1114,
+    "Name": "StunMax",
+    "Enlarge": 1,
+    "ShowForm": "{0:0}",
+    "Min": 0,
+    "Max": 2147483647,
+    "Function": 1,
+    "FunctionParams": [114, 11404, 11405]
+  },
+  {
+    "ID": 1115,
+    "Name": "Sp",
+    "Enlarge": 1,
+    "ShowForm": "{0:0}",
+    "Min": 0,
+    "Max": 100,
+    "Function": 2,
+    "FunctionParams": [115, 11505]
+  },
+  {
+    "ID": 1116,
+    "Name": "Usp",
+    "Enlarge": 1,
+    "ShowForm": "{0:0}",
+    "Min": 0,
+    "Max": 1,
+    "Function": 2,
+    "FunctionParams": [116, 11605]
+  },
+  {
+    "ID": 1121,
+    "Name": "Atk",
+    "Enlarge": 1,
+    "ShowForm": "{0:0.#}",
+    "Min": 0,
+    "Max": 2147483647,
+    "Function": 1,
+    "FunctionParams": [121, 12104, 12105]
+  },
+  {
+    "ID": 1122,
+    "Name": "BreakStun",
+    "Enlarge": 1,
+    "ShowForm": "{0:0.#}",
+    "Min": 0,
+    "Max": 2147483647,
+    "Function": 1,
+    "FunctionParams": [122, 12204, 12205]
+  },
+  {
+    "ID": 1131,
+    "Name": "Def",
+    "Enlarge": 1,
+    "ShowForm": "{0:0.#}",
+    "Min": 0,
+    "Max": 2147483647,
+    "Function": 1,
+    "FunctionParams": [131, 13104, 13105]
+  },
+  {
+    "ID": 1201,
+    "Name": "Crit",
+    "Enlarge": 10000,
+    "ShowForm": "{0:0.##%}",
+    "Min": 0,
+    "Max": 10000,
+    "Function": 2,
+    "FunctionParams": [201, 20105]
+  },
+  {
+    "ID": 1202,
+    "Name": "CritRes",
+    "Enlarge": 10000,
+    "ShowForm": "{0:0.##%}",
+    "Min": 0,
+    "Max": 10000,
+    "Function": 2,
+    "FunctionParams": [202, 20205]
+  },
+  {
+    "ID": 1211,
+    "Name": "CritDmg",
+    "Enlarge": 10000,
+    "ShowForm": "{0:0.##%}",
+    "Min": 0,
+    "Max": 30000,
+    "Function": 2,
+    "FunctionParams": [211, 21105]
+  },
+  {
+    "ID": 1212,
+    "Name": "CritDmgRes",
+    "Enlarge": 10000,
+    "ShowForm": "{0:0.##%}",
+    "Min": 0,
+    "Max": 30000,
+    "Function": 2,
+    "FunctionParams": [212, 21205]
+  },
+  {
+    "ID": 1231,
+    "Name": "PenRatio",
+    "Enlarge": 10000,
+    "ShowForm": "{0:0.##%}",
+    "Min": 0,
+    "Max": 10000,
+    "Function": 2,
+    "FunctionParams": [231, 23105]
+  },
+  {
+    "ID": 1232,
+    "Name": "PenDelta",
+    "Enlarge": 1,
+    "ShowForm": "{0:0.#}",
+    "Min": 0,
+    "Max": 2147483647,
+    "Function": 2,
+    "FunctionParams": [232, 23205]
+  },
+  {
+    "ID": 1301,
+    "Name": "Endurance",
+    "Enlarge": 1,
+    "ShowForm": "{0:0.#}",
+    "Min": 0,
+    "Max": 2147483647,
+    "Function": 1,
+    "FunctionParams": [301, 30104, 30105]
+  },
+  {
+    "ID": 1305,
+    "Name": "SpRecover",
+    "Enlarge": 100,
+    "ShowForm": "{0:0.##}",
+    "Min": 0,
+    "Max": 2147483647,
+    "Function": 1,
+    "FunctionParams": [305, 30504, 30505]
+  },
+  {
+    "ID": 1306,
+    "Name": "HPHealRatio",
+    "Enlarge": 10000,
+    "ShowForm": "{0:0.##%}",
+    "Min": 0,
+    "Max": 900000,
+    "Function": 2,
+    "FunctionParams": [306, 30605]
+  },
+  {
+    "ID": 1307,
+    "Name": "AddedDamageRatio",
+    "Enlarge": 10000,
+    "ShowForm": "{0:0.##%}",
+    "Min": 0,
+    "Max": 900000,
+    "Function": 2,
+    "FunctionParams": [307, 30705]
+  },
+  {
+    "ID": 11101,
+    "Name": "HpMax_base",
+    "Enlarge": 1,
+    "ShowForm": "{0:0}",
+    "Min": 0,
+    "Max": 2147483647,
+    "Function": 0,
+    "FunctionParams": []
+  },
+  {
+    "ID": 11201,
+    "Name": "ArmorMax_base",
+    "Enlarge": 1,
+    "ShowForm": "{0:0}",
+    "Min": 0,
+    "Max": 2147483647,
+    "Function": 0,
+    "FunctionParams": []
+  },
+  {
+    "ID": 11301,
+    "Name": "ShieldMax_base",
+    "Enlarge": 1,
+    "ShowForm": "{0:0}",
+    "Min": 0,
+    "Max": 2147483647,
+    "Function": 0,
+    "FunctionParams": []
+  },
+  {
+    "ID": 11401,
+    "Name": "StunMax_base",
+    "Enlarge": 1,
+    "ShowForm": "{0:0}",
+    "Min": 0,
+    "Max": 2147483647,
+    "Function": 0,
+    "FunctionParams": []
+  },
+  {
+    "ID": 11501,
+    "Name": "SpMax_base",
+    "Enlarge": 1,
+    "ShowForm": "{0:0}",
+    "Min": 0,
+    "Max": 100,
+    "Function": 0,
+    "FunctionParams": []
+  },
+  {
+    "ID": 11601,
+    "Name": "UspMax_base",
+    "Enlarge": 1,
+    "ShowForm": "{0:0}",
+    "Min": 0,
+    "Max": 1,
+    "Function": 0,
+    "FunctionParams": []
+  },
+  {
+    "ID": 12101,
+    "Name": "Atk_base",
+    "Enlarge": 1,
+    "ShowForm": "{0:0.#}",
+    "Min": 0,
+    "Max": 2147483647,
+    "Function": 0,
+    "FunctionParams": []
+  },
+  {
+    "ID": 12201,
+    "Name": "BreakStun_base",
+    "Enlarge": 1,
+    "ShowForm": "{0:0.#}",
+    "Min": 0,
+    "Max": 2147483647,
+    "Function": 0,
+    "FunctionParams": []
+  },
+  {
+    "ID": 13101,
+    "Name": "Def_base",
+    "Enlarge": 1,
+    "ShowForm": "{0:0.#}",
+    "Min": 0,
+    "Max": 2147483647,
+    "Function": 0,
+    "FunctionParams": []
+  },
+  {
+    "ID": 20101,
+    "Name": "Crit",
+    "Enlarge": 10000,
+    "ShowForm": "{0:0.##%}",
+    "Min": 0,
+    "Max": 8000,
+    "Function": 0,
+    "FunctionParams": []
+  },
+  {
+    "ID": 20201,
+    "Name": "CritRes",
+    "Enlarge": 10000,
+    "ShowForm": "{0:0.##%}",
+    "Min": 0,
+    "Max": 8000,
+    "Function": 0,
+    "FunctionParams": []
+  },
+  {
+    "ID": 21101,
+    "Name": "CritDmg",
+    "Enlarge": 10000,
+    "ShowForm": "{0:0.##%}",
+    "Min": 0,
+    "Max": 25000,
+    "Function": 0,
+    "FunctionParams": []
+  },
+  {
+    "ID": 21201,
+    "Name": "CritDmgRes",
+    "Enlarge": 10000,
+    "ShowForm": "{0:0.##%}",
+    "Min": 0,
+    "Max": 25000,
+    "Function": 0,
+    "FunctionParams": []
+  },
+  {
+    "ID": 23101,
+    "Name": "PenRatio",
+    "Enlarge": 10000,
+    "ShowForm": "{0:0.##%}",
+    "Min": 0,
+    "Max": 8000,
+    "Function": 0,
+    "FunctionParams": []
+  },
+  {
+    "ID": 23201,
+    "Name": "PenDelta",
+    "Enlarge": 1,
+    "ShowForm": "{0:0.#}",
+    "Min": 0,
+    "Max": 2147483647,
+    "Function": 0,
+    "FunctionParams": []
+  },
+  {
+    "ID": 30101,
+    "Name": "Endurance_Base",
+    "Enlarge": 1,
+    "ShowForm": "{0:0.#}",
+    "Min": 0,
+    "Max": 2147483647,
+    "Function": 0,
+    "FunctionParams": []
+  },
+  {
+    "ID": 30501,
+    "Name": "SpRecover_Base",
+    "Enlarge": 100,
+    "ShowForm": "{0:0.##}",
+    "Min": 0,
+    "Max": 2147483647,
+    "Function": 0,
+    "FunctionParams": []
+  },
+  {
+    "ID": 30601,
+    "Name": "HPHealRatio",
+    "Enlarge": 10000,
+    "ShowForm": "{0:0.##%}",
+    "Min": 0,
+    "Max": 90000,
+    "Function": 0,
+    "FunctionParams": []
+  },
+  {
+    "ID": 30701,
+    "Name": "AddedDamageRatio",
+    "Enlarge": 10000,
+    "ShowForm": "{0:0.##%}",
+    "Min": 0,
+    "Max": 90000,
+    "Function": 0,
+    "FunctionParams": []
+  },
+  {
+    "ID": 11102,
+    "Name": "HpMax",
+    "Enlarge": 10000,
+    "ShowForm": "{0:0.##%}",
+    "Min": -9000,
+    "Max": 90000,
+    "Function": 0,
+    "FunctionParams": []
+  },
+  {
+    "ID": 11202,
+    "Name": "ArmorMax",
+    "Enlarge": 10000,
+    "ShowForm": "{0:0.##%}",
+    "Min": -9000,
+    "Max": 90000,
+    "Function": 0,
+    "FunctionParams": []
+  },
+  {
+    "ID": 11302,
+    "Name": "ShieldMax",
+    "Enlarge": 10000,
+    "ShowForm": "{0:0.##%}",
+    "Min": -9000,
+    "Max": 90000,
+    "Function": 0,
+    "FunctionParams": []
+  },
+  {
+    "ID": 11402,
+    "Name": "StunMax",
+    "Enlarge": 10000,
+    "ShowForm": "{0:0.##%}",
+    "Min": -9000,
+    "Max": 90000,
+    "Function": 0,
+    "FunctionParams": []
+  },
+  {
+    "ID": 12102,
+    "Name": "Atk",
+    "Enlarge": 10000,
+    "ShowForm": "{0:0.##%}",
+    "Min": -9000,
+    "Max": 90000,
+    "Function": 0,
+    "FunctionParams": []
+  },
+  {
+    "ID": 12202,
+    "Name": "BreakStun",
+    "Enlarge": 10000,
+    "ShowForm": "{0:0.##%}",
+    "Min": -9000,
+    "Max": 90000,
+    "Function": 0,
+    "FunctionParams": []
+  },
+  {
+    "ID": 13102,
+    "Name": "Def",
+    "Enlarge": 10000,
+    "ShowForm": "{0:0.##%}",
+    "Min": -9000,
+    "Max": 90000,
+    "Function": 0,
+    "FunctionParams": []
+  },
+  {
+    "ID": 30102,
+    "Name": "Endurance",
+    "Enlarge": 1,
+    "ShowForm": "{0:0.##%}",
+    "Min": -9000,
+    "Max": 90000,
+    "Function": 0,
+    "FunctionParams": []
+  },
+  {
+    "ID": 30502,
+    "Name": "SpRecover",
+    "Enlarge": 10000,
+    "ShowForm": "{0:0.##%}",
+    "Min": -9000,
+    "Max": 90000,
+    "Function": 0,
+    "FunctionParams": []
+  },
+  {
+    "ID": 11103,
+    "Name": "HpMax",
+    "Enlarge": 1,
+    "ShowForm": "{0:0}",
+    "Min": 0,
+    "Max": 2147483647,
+    "Function": 0,
+    "FunctionParams": []
+  },
+  {
+    "ID": 11203,
+    "Name": "ArmorMax",
+    "Enlarge": 1,
+    "ShowForm": "{0:0}",
+    "Min": 0,
+    "Max": 2147483647,
+    "Function": 0,
+    "FunctionParams": []
+  },
+  {
+    "ID": 11303,
+    "Name": "ShieldMax",
+    "Enlarge": 1,
+    "ShowForm": "{0:0}",
+    "Min": 0,
+    "Max": 2147483647,
+    "Function": 0,
+    "FunctionParams": []
+  },
+  {
+    "ID": 11403,
+    "Name": "StunMax",
+    "Enlarge": 1,
+    "ShowForm": "{0:0}",
+    "Min": 0,
+    "Max": 2147483647,
+    "Function": 0,
+    "FunctionParams": []
+  },
+  {
+    "ID": 11503,
+    "Name": "SpMax",
+    "Enlarge": 1,
+    "ShowForm": "{0:0}",
+    "Min": 0,
+    "Max": 100,
+    "Function": 0,
+    "FunctionParams": []
+  },
+  {
+    "ID": 11603,
+    "Name": "UspMax",
+    "Enlarge": 1,
+    "ShowForm": "{0:0}",
+    "Min": 0,
+    "Max": 1,
+    "Function": 0,
+    "FunctionParams": []
+  },
+  {
+    "ID": 12103,
+    "Name": "Atk",
+    "Enlarge": 1,
+    "ShowForm": "{0:0.#}",
+    "Min": 0,
+    "Max": 2147483647,
+    "Function": 0,
+    "FunctionParams": []
+  },
+  {
+    "ID": 12203,
+    "Name": "BreakStun",
+    "Enlarge": 1,
+    "ShowForm": "{0:0.#}",
+    "Min": 0,
+    "Max": 2147483647,
+    "Function": 0,
+    "FunctionParams": []
+  },
+  {
+    "ID": 13103,
+    "Name": "Def",
+    "Enlarge": 1,
+    "ShowForm": "{0:0.#}",
+    "Min": 0,
+    "Max": 2147483647,
+    "Function": 0,
+    "FunctionParams": []
+  },
+  {
+    "ID": 20103,
+    "Name": "Crit",
+    "Enlarge": 10000,
+    "ShowForm": "{0:0.##%}",
+    "Min": 0,
+    "Max": 8000,
+    "Function": 0,
+    "FunctionParams": []
+  },
+  {
+    "ID": 20203,
+    "Name": "CritRes",
+    "Enlarge": 10000,
+    "ShowForm": "{0:0.##%}",
+    "Min": 0,
+    "Max": 8000,
+    "Function": 0,
+    "FunctionParams": []
+  },
+  {
+    "ID": 21103,
+    "Name": "CritDmg",
+    "Enlarge": 10000,
+    "ShowForm": "{0:0.##%}",
+    "Min": 0,
+    "Max": 25000,
+    "Function": 0,
+    "FunctionParams": []
+  },
+  {
+    "ID": 21203,
+    "Name": "CritDmgRes",
+    "Enlarge": 10000,
+    "ShowForm": "{0:0.##%}",
+    "Min": 0,
+    "Max": 25000,
+    "Function": 0,
+    "FunctionParams": []
+  },
+  {
+    "ID": 23103,
+    "Name": "PenRatio",
+    "Enlarge": 10000,
+    "ShowForm": "{0:0.##%}",
+    "Min": 0,
+    "Max": 8000,
+    "Function": 0,
+    "FunctionParams": []
+  },
+  {
+    "ID": 23203,
+    "Name": "PenDelta",
+    "Enlarge": 1,
+    "ShowForm": "{0:0.#}",
+    "Min": 0,
+    "Max": 2147483647,
+    "Function": 0,
+    "FunctionParams": []
+  },
+  {
+    "ID": 30103,
+    "Name": "Endurance",
+    "Enlarge": 1,
+    "ShowForm": "{0:0.#}",
+    "Min": 0,
+    "Max": 2147483647,
+    "Function": 0,
+    "FunctionParams": []
+  },
+  {
+    "ID": 30503,
+    "Name": "SpRecover",
+    "Enlarge": 100,
+    "ShowForm": "{0:0.##}",
+    "Min": 0,
+    "Max": 2147483647,
+    "Function": 0,
+    "FunctionParams": []
+  },
+  {
+    "ID": 30603,
+    "Name": "HPHealRatio",
+    "Enlarge": 10000,
+    "ShowForm": "{0:0.##%}",
+    "Min": 0,
+    "Max": 90000,
+    "Function": 0,
+    "FunctionParams": []
+  },
+  {
+    "ID": 30703,
+    "Name": "AddedDamageRatio",
+    "Enlarge": 10000,
+    "ShowForm": "{0:0.##%}",
+    "Min": 0,
+    "Max": 90000,
+    "Function": 0,
+    "FunctionParams": []
+  },
+  {
+    "ID": 11104,
+    "Name": "HpMax",
+    "Enlarge": 10000,
+    "ShowForm": "{0:0.##%}",
+    "Min": -9000,
+    "Max": 90000,
+    "Function": 0,
+    "FunctionParams": []
+  },
+  {
+    "ID": 11204,
+    "Name": "ArmorMax",
+    "Enlarge": 10000,
+    "ShowForm": "{0:0.##%}",
+    "Min": -9000,
+    "Max": 90000,
+    "Function": 0,
+    "FunctionParams": []
+  },
+  {
+    "ID": 11304,
+    "Name": "ShieldMax",
+    "Enlarge": 10000,
+    "ShowForm": "{0:0.##%}",
+    "Min": -9000,
+    "Max": 90000,
+    "Function": 0,
+    "FunctionParams": []
+  },
+  {
+    "ID": 12104,
+    "Name": "Atk",
+    "Enlarge": 10000,
+    "ShowForm": "{0:0.##%}",
+    "Min": -9000,
+    "Max": 90000,
+    "Function": 0,
+    "FunctionParams": []
+  },
+  {
+    "ID": 13104,
+    "Name": "Def",
+    "Enlarge": 10000,
+    "ShowForm": "{0:0.##%}",
+    "Min": -9000,
+    "Max": 90000,
+    "Function": 0,
+    "FunctionParams": []
+  },
+  {
+    "ID": 11105,
+    "Name": "HpMax",
+    "Enlarge": 1,
+    "ShowForm": "{0:0}",
+    "Min": 0,
+    "Max": 2147483647,
+    "Function": 0,
+    "FunctionParams": []
+  },
+  {
+    "ID": 11205,
+    "Name": "ArmorMax",
+    "Enlarge": 1,
+    "ShowForm": "{0:0}",
+    "Min": 0,
+    "Max": 2147483647,
+    "Function": 0,
+    "FunctionParams": []
+  },
+  {
+    "ID": 11305,
+    "Name": "ShieldMax",
+    "Enlarge": 1,
+    "ShowForm": "{0:0}",
+    "Min": 0,
+    "Max": 2147483647,
+    "Function": 0,
+    "FunctionParams": []
+  },
+  {
+    "ID": 12105,
+    "Name": "Atk",
+    "Enlarge": 1,
+    "ShowForm": "{0:0.#}",
+    "Min": 0,
+    "Max": 2147483647,
+    "Function": 0,
+    "FunctionParams": []
+  },
+  {
+    "ID": 13105,
+    "Name": "Def",
+    "Enlarge": 1,
+    "ShowForm": "{0:0.#}",
+    "Min": 0,
+    "Max": 2147483647,
+    "Function": 0,
+    "FunctionParams": []
+  },
+  {
+    "ID": 20105,
+    "Name": "Crit",
+    "Enlarge": 10000,
+    "ShowForm": "{0:0.##%}",
+    "Min": 0,
+    "Max": 10000,
+    "Function": 0,
+    "FunctionParams": []
+  },
+  {
+    "ID": 20205,
+    "Name": "CritRes",
+    "Enlarge": 10000,
+    "ShowForm": "{0:0.##%}",
+    "Min": 0,
+    "Max": 10000,
+    "Function": 0,
+    "FunctionParams": []
+  },
+  {
+    "ID": 21105,
+    "Name": "CritDmg",
+    "Enlarge": 10000,
+    "ShowForm": "{0:0.##%}",
+    "Min": 0,
+    "Max": 30000,
+    "Function": 0,
+    "FunctionParams": []
+  },
+  {
+    "ID": 21205,
+    "Name": "CritDmgRes",
+    "Enlarge": 10000,
+    "ShowForm": "{0:0.##%}",
+    "Min": 0,
+    "Max": 30000,
+    "Function": 0,
+    "FunctionParams": []
+  },
+  {
+    "ID": 23105,
+    "Name": "PenRatio",
+    "Enlarge": 10000,
+    "ShowForm": "{0:0.##%}",
+    "Min": 0,
+    "Max": 10000,
+    "Function": 0,
+    "FunctionParams": []
+  },
+  {
+    "ID": 23205,
+    "Name": "PenDelta",
+    "Enlarge": 1,
+    "ShowForm": "{0:0.#}",
+    "Min": 0,
+    "Max": 2147483647,
+    "Function": 0,
+    "FunctionParams": []
+  },
+  {
+    "ID": 12204,
+    "Name": "BreakStun",
+    "Enlarge": 10000,
+    "ShowForm": "{0:0.##%}",
+    "Min": -9000,
+    "Max": 90000,
+    "Function": 0,
+    "FunctionParams": []
+  },
+  {
+    "ID": 12205,
+    "Name": "BreakStun",
+    "Enlarge": 1,
+    "ShowForm": "{0:0.#}",
+    "Min": 0,
+    "Max": 2147483647,
+    "Function": 0,
+    "FunctionParams": []
+  },
+  {
+    "ID": 11404,
+    "Name": "StunMax",
+    "Enlarge": 10000,
+    "ShowForm": "{0:0.##%}",
+    "Min": -9000,
+    "Max": 90000,
+    "Function": 0,
+    "FunctionParams": []
+  },
+  {
+    "ID": 11405,
+    "Name": "StunMax",
+    "Enlarge": 1,
+    "ShowForm": "{0:0}",
+    "Min": 0,
+    "Max": 2147483647,
+    "Function": 0,
+    "FunctionParams": []
+  },
+  {
+    "ID": 11505,
+    "Name": "SpMax",
+    "Enlarge": 1,
+    "ShowForm": "{0:0}",
+    "Min": 0,
+    "Max": 100,
+    "Function": 0,
+    "FunctionParams": []
+  },
+  {
+    "ID": 11605,
+    "Name": "UspMax",
+    "Enlarge": 1,
+    "ShowForm": "{0:0}",
+    "Min": 0,
+    "Max": 1,
+    "Function": 0,
+    "FunctionParams": []
+  },
+  {
+    "ID": 30104,
+    "Name": "Endurance",
+    "Enlarge": 1,
+    "ShowForm": "{0:0.##%}",
+    "Min": -9000,
+    "Max": 90000,
+    "Function": 0,
+    "FunctionParams": []
+  },
+  {
+    "ID": 30105,
+    "Name": "Endurance",
+    "Enlarge": 1,
+    "ShowForm": "{0:0.#}",
+    "Min": 0,
+    "Max": 2147483647,
+    "Function": 0,
+    "FunctionParams": []
+  },
+  {
+    "ID": 30504,
+    "Name": "SpRecover",
+    "Enlarge": 10000,
+    "ShowForm": "{0:0.##%}",
+    "Min": -9000,
+    "Max": 90000,
+    "Function": 0,
+    "FunctionParams": []
+  },
+  {
+    "ID": 30505,
+    "Name": "SpRecover",
+    "Enlarge": 100,
+    "ShowForm": "{0:0.##}",
+    "Min": 0,
+    "Max": 2147483647,
+    "Function": 0,
+    "FunctionParams": []
+  },
+  {
+    "ID": 30605,
+    "Name": "HPHealRatio",
+    "Enlarge": 10000,
+    "ShowForm": "{0:0.##%}",
+    "Min": 0,
+    "Max": 990000,
+    "Function": 0,
+    "FunctionParams": []
+  },
+  {
+    "ID": 30705,
+    "Name": "AddedDamageRatio",
+    "Enlarge": 10000,
+    "ShowForm": "{0:0.##%}",
+    "Min": 0,
+    "Max": 990000,
+    "Function": 0,
+    "FunctionParams": []
+  },
+  {
+    "ID": 10320,
+    "Name": "map_hpreserve_maxhp",
+    "Enlarge": 10000,
+    "ShowForm": "{0:0.##%}",
+    "Min": 0,
+    "Max": 10000,
+    "Function": 0,
+    "FunctionParams": []
+  },
+  {
+    "ID": 10330,
+    "Name": "map_hpreserve_curhp",
+    "Enlarge": 10000,
+    "ShowForm": "{0:0.##%}",
+    "Min": 0,
+    "Max": 10000,
+    "Function": 0,
+    "FunctionParams": []
+  },
+  {
+    "ID": 10340,
+    "Name": "map_hpreserve_absolute",
+    "Enlarge": 1,
+    "ShowForm": "{0:0}",
+    "Min": 0,
+    "Max": 2147483647,
+    "Function": 0,
+    "FunctionParams": []
+  },
+  {
+    "ID": 10350,
+    "Name": "actor_max_cur_HP",
+    "Enlarge": 10000,
+    "ShowForm": "{0:0.##%}",
+    "Min": 100,
+    "Max": 10000,
+    "Function": 0,
+    "FunctionParams": []
+  }
+]

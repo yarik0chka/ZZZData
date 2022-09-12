@@ -1,0 +1,137 @@
+[
+  {
+    "TipsGroupID": 100,
+    "GroupIcon": "UI/Sprite/A1DynamicLoad/IconNewsBubble/UnPacker/IconFairy.png",
+    "Priority": 1
+  },
+  {
+    "TipsGroupID": 101,
+    "GroupIcon": "UI/Sprite/A1DynamicLoad/IconNewsBubbleSmall/UnPacker/IconFairy.png",
+    "Priority": 1
+  },
+  {
+    "TipsGroupID": 102,
+    "GroupIcon": "UI/Sprite/A1DynamicLoad/IconNewsBubbleSmall/UnPacker/IconFairyWarning.png",
+    "Priority": 1
+  },
+  {
+    "TipsGroupID": 200,
+    "GroupIcon": "UI/Sprite/A1DynamicLoad/IconNewsBubbleSmall/UnPacker/IconFairyAi.png",
+    "Priority": 1
+  },
+  {
+    "TipsGroupID": 201,
+    "GroupIcon": "UI/Sprite/A1DynamicLoad/IconNewsBubbleSmall/UnPacker/IconFairyAi.png",
+    "Priority": 2
+  },
+  {
+    "TipsGroupID": 202,
+    "GroupIcon": "UI/Sprite/A1DynamicLoad/IconNewsBubbleSmall/UnPacker/IconFairyAi.png",
+    "Priority": 3
+  },
+  {
+    "TipsGroupID": 1011,
+    "GroupIcon": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle01.png",
+    "Priority": 1
+  },
+  {
+    "TipsGroupID": 1021,
+    "GroupIcon": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle11.png",
+    "Priority": 1
+  },
+  {
+    "TipsGroupID": 1031,
+    "GroupIcon": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle12.png",
+    "Priority": 2
+  },
+  {
+    "TipsGroupID": 1041,
+    "GroupIcon": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle05.png",
+    "Priority": 1
+  },
+  {
+    "TipsGroupID": 1061,
+    "GroupIcon": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle09.png",
+    "Priority": 1
+  },
+  {
+    "TipsGroupID": 1081,
+    "GroupIcon": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle10.png",
+    "Priority": 1
+  },
+  {
+    "TipsGroupID": 1091,
+    "GroupIcon": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle13.png",
+    "Priority": 1
+  },
+  {
+    "TipsGroupID": 1101,
+    "GroupIcon": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle14.png",
+    "Priority": 1
+  },
+  {
+    "TipsGroupID": 1111,
+    "GroupIcon": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle15.png",
+    "Priority": 1
+  },
+  {
+    "TipsGroupID": 1121,
+    "GroupIcon": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle16.png",
+    "Priority": 1
+  },
+  {
+    "TipsGroupID": 1131,
+    "GroupIcon": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle17.png",
+    "Priority": 1
+  },
+  {
+    "TipsGroupID": 1141,
+    "GroupIcon": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle18.png",
+    "Priority": 1
+  },
+  {
+    "TipsGroupID": 104101,
+    "GroupIcon": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle05.png",
+    "Priority": 1
+  },
+  {
+    "TipsGroupID": 104102,
+    "GroupIcon": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle05.png",
+    "Priority": 2
+  },
+  {
+    "TipsGroupID": 2011,
+    "GroupIcon": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconNPCCircle2027.png",
+    "Priority": 1
+  },
+  {
+    "TipsGroupID": 2012,
+    "GroupIcon": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconNPCCircle2027.png",
+    "Priority": 1
+  },
+  {
+    "TipsGroupID": 2021,
+    "GroupIcon": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconNPCCircle2015.png",
+    "Priority": 1
+  },
+  {
+    "TipsGroupID": 2022,
+    "GroupIcon": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconNPCCircle2015.png",
+    "Priority": 1
+  },
+  {
+    "TipsGroupID": 11162,
+    "GroupIcon": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconNPCCircle11162.png",
+    "Priority": 1
+  },
+  {
+    "TipsGroupID": 1000,
+    "GroupIcon": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconNPCCircle2028.png",
+    "Priority": 1
+  },
+  {
+    "TipsGroupID": 1001,
+    "GroupIcon": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconCircleEmpty.png",
+    "Priority": 1
+  }
+]

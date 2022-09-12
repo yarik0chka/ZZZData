@@ -1,0 +1,82 @@
+[
+  {
+    "ID": 30101,
+    "Availablelists": [],
+    "UnlockCondition": "",
+    "ClientAbility": 0,
+    "AbilityTargets": [],
+    "DescriptionText": "MysticalSpiceDesc_30101"
+  },
+  {
+    "ID": 30201,
+    "Availablelists": [],
+    "UnlockCondition": "",
+    "ClientAbility": 0,
+    "AbilityTargets": [],
+    "DescriptionText": "MysticalSpiceDesc_30201"
+  },
+  {
+    "ID": 30301,
+    "Availablelists": [],
+    "UnlockCondition": "",
+    "ClientAbility": 0,
+    "AbilityTargets": [],
+    "DescriptionText": "MysticalSpiceDesc_30301"
+  },
+  {
+    "ID": 30401,
+    "Availablelists": [],
+    "UnlockCondition": "",
+    "ClientAbility": 0,
+    "AbilityTargets": [],
+    "DescriptionText": "MysticalSpiceDesc_30401"
+  },
+  {
+    "ID": 30501,
+    "Availablelists": [],
+    "UnlockCondition": "",
+    "ClientAbility": 0,
+    "AbilityTargets": [],
+    "DescriptionText": "MysticalSpiceDesc_30501"
+  },
+  {
+    "ID": 30601,
+    "Availablelists": [],
+    "UnlockCondition": "",
+    "ClientAbility": 0,
+    "AbilityTargets": [],
+    "DescriptionText": "MysticalSpiceDesc_30601"
+  },
+  {
+    "ID": 30801,
+    "Availablelists": [20401, 20501, 20601, 20901, 21001, 21101],
+    "UnlockCondition": "",
+    "ClientAbility": 30030802,
+    "AbilityTargets": ["Avatar"],
+    "DescriptionText": "MysticalSpiceDesc_30801"
+  },
+  {
+    "ID": 31001,
+    "Availablelists": [],
+    "UnlockCondition": "",
+    "ClientAbility": 0,
+    "AbilityTargets": [],
+    "DescriptionText": "MysticalSpiceDesc_31001"
+  },
+  {
+    "ID": 31201,
+    "Availablelists": [],
+    "UnlockCondition": "",
+    "ClientAbility": 0,
+    "AbilityTargets": [],
+    "DescriptionText": "MysticalSpiceDesc_31201"
+  },
+  {
+    "ID": 31401,
+    "Availablelists": [],
+    "UnlockCondition": "",
+    "ClientAbility": 0,
+    "AbilityTargets": [],
+    "DescriptionText": "MysticalSpiceDesc_31401"
+  }
+]

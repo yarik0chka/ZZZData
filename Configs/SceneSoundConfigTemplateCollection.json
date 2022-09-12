@@ -1,0 +1,378 @@
+[
+  {
+    "ID": 10001,
+    "Interval": -1,
+    "Radius": 0,
+    "TimePeriods": [],
+    "ResourcePath": "Play_Chapter0_Amb_Rain_2D",
+    "EventID": 0
+  },
+  {
+    "ID": 10002,
+    "Interval": -1,
+    "Radius": 0,
+    "TimePeriods": [],
+    "ResourcePath": "Play_Chapter0_Amb_Rain_3D",
+    "EventID": 0
+  },
+  {
+    "ID": 10003,
+    "Interval": -1,
+    "Radius": 0,
+    "TimePeriods": [],
+    "ResourcePath": "Play_Chapter0_Amb_Rain_3D",
+    "EventID": 0
+  },
+  {
+    "ID": 20001,
+    "Interval": -1,
+    "Radius": 0,
+    "TimePeriods": ["Morning", "Evening", "Night"],
+    "ResourcePath": "Play_Amb_Maincity_Area1_Base",
+    "EventID": 0
+  },
+  {
+    "ID": 20002,
+    "Interval": -1,
+    "Radius": 0,
+    "TimePeriods": ["Morning", "Evening"],
+    "ResourcePath": "Play_Amb_Maincity_Area1_Day_Base",
+    "EventID": 0
+  },
+  {
+    "ID": 20003,
+    "Interval": -1,
+    "Radius": 0,
+    "TimePeriods": ["Night"],
+    "ResourcePath": "Play_Amb_Maincity_Area1_Night_Base",
+    "EventID": 0
+  },
+  {
+    "ID": 20004,
+    "Interval": -1,
+    "Radius": 0,
+    "TimePeriods": ["Morning", "Evening", "Night"],
+    "ResourcePath": "Play_Amb_Maincity_Area2_Base",
+    "EventID": 0
+  },
+  {
+    "ID": 20005,
+    "Interval": -1,
+    "Radius": 0,
+    "TimePeriods": ["Night"],
+    "ResourcePath": "Play_Amb_Maincity_Area2_Night_Base",
+    "EventID": 0
+  },
+  {
+    "ID": 20006,
+    "Interval": -1,
+    "Radius": 0,
+    "TimePeriods": ["Night"],
+    "ResourcePath": "Play_Amb_Maincity_Area3_Fly",
+    "EventID": 0
+  },
+  {
+    "ID": 20007,
+    "Interval": -1,
+    "Radius": 0,
+    "TimePeriods": ["Morning", "Evening", "Night"],
+    "ResourcePath": "Play_Amb_Maincity_Area3_Base",
+    "EventID": 0
+  },
+  {
+    "ID": 20008,
+    "Interval": -1,
+    "Radius": 0,
+    "TimePeriods": ["Morning", "Evening", "Night"],
+    "ResourcePath": "Play_Amb_Maincity_Area4_Base",
+    "EventID": 0
+  },
+  {
+    "ID": 20009,
+    "Interval": -1,
+    "Radius": 0,
+    "TimePeriods": ["Night"],
+    "ResourcePath": "Play_Amb_Maincity_Area4_Bird",
+    "EventID": 0
+  },
+  {
+    "ID": 20010,
+    "Interval": -1,
+    "Radius": 0,
+    "TimePeriods": ["Morning", "Evening", "Night"],
+    "ResourcePath": "Play_Amb_Maincity_Area5_Base",
+    "EventID": 0
+  },
+  {
+    "ID": 20011,
+    "Interval": -1,
+    "Radius": 0,
+    "TimePeriods": ["Morning", "Evening"],
+    "ResourcePath": "Play_Amb_Maincity_Area5_Day_Base",
+    "EventID": 0
+  },
+  {
+    "ID": 20012,
+    "Interval": -1,
+    "Radius": 0,
+    "TimePeriods": ["Morning", "Evening", "Night"],
+    "ResourcePath": "Play_Amb_Maincity_Area6_Base",
+    "EventID": 0
+  },
+  {
+    "ID": 20013,
+    "Interval": -1,
+    "Radius": 0,
+    "TimePeriods": ["Morning", "Evening"],
+    "ResourcePath": "Play_Amb_Maincity_Area6_Bottle",
+    "EventID": 0
+  },
+  {
+    "ID": 20014,
+    "Interval": -1,
+    "Radius": 0,
+    "TimePeriods": ["Morning", "Evening"],
+    "ResourcePath": "Play_Amb_Maincity_Area6_Cola",
+    "EventID": 0
+  },
+  {
+    "ID": 20015,
+    "Interval": -1,
+    "Radius": 0,
+    "TimePeriods": ["Morning", "Evening"],
+    "ResourcePath": "Play_Amb_Maincity_Area6_Day_Base",
+    "EventID": 0
+  },
+  {
+    "ID": 20016,
+    "Interval": -1,
+    "Radius": 0,
+    "TimePeriods": ["Morning", "Evening", "Night"],
+    "ResourcePath": "Play_Amb_Maincity_Area7_Base",
+    "EventID": 0
+  },
+  {
+    "ID": 20017,
+    "Interval": -1,
+    "Radius": 0,
+    "TimePeriods": ["Morning", "Evening", "Night"],
+    "ResourcePath": "Play_Amb_Maincity_Area8_Base",
+    "EventID": 0
+  },
+  {
+    "ID": 20018,
+    "Interval": -1,
+    "Radius": 0,
+    "TimePeriods": ["Morning", "Evening", "Night"],
+    "ResourcePath": "Play_Amb_Maincity_Area9_Base",
+    "EventID": 0
+  },
+  {
+    "ID": 20019,
+    "Interval": -1,
+    "Radius": 0,
+    "TimePeriods": ["Night"],
+    "ResourcePath": "Play_Amb_Maincity_Area9_Dog",
+    "EventID": 0
+  },
+  {
+    "ID": 20020,
+    "Interval": -1,
+    "Radius": 0,
+    "TimePeriods": ["Morning", "Evening", "Night"],
+    "ResourcePath": "Play_Amb_Maincity_Area9_Metal",
+    "EventID": 0
+  },
+  {
+    "ID": 30001,
+    "Interval": -1,
+    "Radius": 0,
+    "TimePeriods": ["Morning", "Evening", "Night"],
+    "ResourcePath": "Play_Amb_Maincity_Coffeeshop_Base",
+    "EventID": 0
+  },
+  {
+    "ID": 30002,
+    "Interval": -1,
+    "Radius": 0,
+    "TimePeriods": ["Morning", "Evening", "Night"],
+    "ResourcePath": "Play_Amb_Maincity_Forge_Base",
+    "EventID": 0
+  },
+  {
+    "ID": 30003,
+    "Interval": -1,
+    "Radius": 0,
+    "TimePeriods": ["Morning", "Evening", "Night"],
+    "ResourcePath": "Play_Amb_Maincity_Gamecenter_Base",
+    "EventID": 0
+  },
+  {
+    "ID": 30004,
+    "Interval": -1,
+    "Radius": 0,
+    "TimePeriods": ["Morning", "Evening", "Night"],
+    "ResourcePath": "Play_Amb_Maincity_Musicshop_Base",
+    "EventID": 0
+  },
+  {
+    "ID": 30005,
+    "Interval": -1,
+    "Radius": 0,
+    "TimePeriods": ["Morning", "Evening", "Night"],
+    "ResourcePath": "Play_Amb_Maincity_Ramen_Base",
+    "EventID": 0
+  },
+  {
+    "ID": 30006,
+    "Interval": -1,
+    "Radius": 0,
+    "TimePeriods": ["Morning", "Evening", "Night"],
+    "ResourcePath": "Play_Amb_Maincity_Studio_Base",
+    "EventID": 0
+  },
+  {
+    "ID": 30007,
+    "Interval": -1,
+    "Radius": 0,
+    "TimePeriods": ["Morning", "Evening", "Night"],
+    "ResourcePath": "Play_Amb_Maincity_Tideshop_Base",
+    "EventID": 0
+  },
+  {
+    "ID": 40001,
+    "Interval": -1,
+    "Radius": 0,
+    "TimePeriods": ["Morning", "Evening", "Night"],
+    "ResourcePath": "Play_Amb_Maincity_Studio_Roomtone",
+    "EventID": 0
+  },
+  {
+    "ID": 40002,
+    "Interval": -1,
+    "Radius": 0,
+    "TimePeriods": ["Morning", "Evening", "Night"],
+    "ResourcePath": "Play_Amb_Maincity_Workshop_Roomtone",
+    "EventID": 0
+  },
+  {
+    "ID": 50001,
+    "Interval": -1,
+    "Radius": 50,
+    "TimePeriods": ["Morning", "Evening", "Night"],
+    "ResourcePath": "Play_Amb_Maincity_Traffic_Car",
+    "EventID": 0
+  },
+  {
+    "ID": 50002,
+    "Interval": -1,
+    "Radius": 75,
+    "TimePeriods": ["Morning", "Evening", "Night"],
+    "ResourcePath": "Play_Amb_Maincity_Traffic_Train",
+    "EventID": 0
+  },
+  {
+    "ID": 60001,
+    "Interval": -1,
+    "Radius": 0,
+    "TimePeriods": ["Morning", "Evening", "Night"],
+    "ResourcePath": "Play_Amb_Maincity_Object_Gas_1",
+    "EventID": 0
+  },
+  {
+    "ID": 60002,
+    "Interval": -1,
+    "Radius": 0,
+    "TimePeriods": ["Morning", "Evening", "Night"],
+    "ResourcePath": "Play_Amb_Maincity_Object_Light_1",
+    "EventID": 0
+  },
+  {
+    "ID": 60003,
+    "Interval": -1,
+    "Radius": 0,
+    "TimePeriods": ["Morning", "Evening", "Night"],
+    "ResourcePath": "Play_Amb_Maincity_Object_Mechine_1",
+    "EventID": 0
+  },
+  {
+    "ID": 60004,
+    "Interval": -1,
+    "Radius": 0,
+    "TimePeriods": ["Morning", "Evening", "Night"],
+    "ResourcePath": "Play_Amb_Maincity_Object_Mechine_2",
+    "EventID": 0
+  },
+  {
+    "ID": 60005,
+    "Interval": -1,
+    "Radius": 0,
+    "TimePeriods": ["Morning", "Evening", "Night"],
+    "ResourcePath": "Play_Amb_Maincity_Object_Mechine_3",
+    "EventID": 0
+  },
+  {
+    "ID": 60006,
+    "Interval": -1,
+    "Radius": 0,
+    "TimePeriods": ["Morning", "Evening", "Night"],
+    "ResourcePath": "Play_Amb_Maincity_Object_Mechine_4",
+    "EventID": 0
+  },
+  {
+    "ID": 60007,
+    "Interval": -1,
+    "Radius": 0,
+    "TimePeriods": ["Morning", "Evening", "Night"],
+    "ResourcePath": "Play_Amb_Maincity_Object_Mechine_5",
+    "EventID": 0
+  },
+  {
+    "ID": 60008,
+    "Interval": -1,
+    "Radius": 0,
+    "TimePeriods": ["Morning", "Evening", "Night"],
+    "ResourcePath": "Play_Amb_Maincity_Object_Mechine_6",
+    "EventID": 0
+  },
+  {
+    "ID": 60009,
+    "Interval": -1,
+    "Radius": 0,
+    "TimePeriods": ["Morning", "Evening", "Night"],
+    "ResourcePath": "Play_Amb_Maincity_Object_Mechine_7",
+    "EventID": 0
+  },
+  {
+    "ID": 70001,
+    "Interval": -1,
+    "Radius": 0,
+    "TimePeriods": ["Morning", "Evening", "Night"],
+    "ResourcePath": "Play_Amb_Maincity_Distant_Construction",
+    "EventID": 0
+  },
+  {
+    "ID": 70002,
+    "Interval": -1,
+    "Radius": 0,
+    "TimePeriods": ["Morning", "Evening"],
+    "ResourcePath": "Play_Amb_Maincity_Distant_Crowd",
+    "EventID": 0
+  },
+  {
+    "ID": 70003,
+    "Interval": -1,
+    "Radius": 0,
+    "TimePeriods": ["Morning", "Evening", "Night"],
+    "ResourcePath": "Play_Amb_Maincity_Distant_Horn",
+    "EventID": 0
+  },
+  {
+    "ID": 70004,
+    "Interval": -1,
+    "Radius": 0,
+    "TimePeriods": ["Morning", "Evening", "Night"],
+    "ResourcePath": "Play_Amb_Maincity_Distant_Traffic",
+    "EventID": 0
+  }
+]

@@ -1,0 +1,15 @@
+[
+  { "ScriptID": 310100011, "Areas": [220104] },
+  { "ScriptID": 310100021, "Areas": [220107] },
+  { "ScriptID": 31020001, "Areas": [] },
+  { "ScriptID": 31020002, "Areas": [] },
+  { "ScriptID": 310100012, "Areas": [220105] },
+  { "ScriptID": 310100022, "Areas": [220106] },
+  { "ScriptID": 310200011, "Areas": [] },
+  { "ScriptID": 310200021, "Areas": [] },
+  { "ScriptID": 101001, "Areas": [220101] },
+  { "ScriptID": 101002, "Areas": [220102] },
+  { "ScriptID": 101003, "Areas": [220103] },
+  { "ScriptID": 101004, "Areas": [220101] },
+  { "ScriptID": 101005, "Areas": [220102] }
+]

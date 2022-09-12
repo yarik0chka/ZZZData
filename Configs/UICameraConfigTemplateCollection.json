@@ -1,0 +1,35 @@
+[
+  {
+    "ID": 1,
+    "UiName": "UIVHSStorePage",
+    "CameraPos": "WorkShop_CameraPos_VHSStore",
+    "PcCameraPos": "WorkShop_CameraPos_VHSStore",
+    "SectionID": 2,
+    "PlayerPos": "Workshop_PlayerPos_FromStreet",
+    "NpCs": [2028],
+    "NpcState": "",
+    "NpcItemState": ""
+  },
+  {
+    "ID": 2,
+    "UiName": "UIGroceryPage",
+    "CameraPos": "Street_CameraPos_Grocery",
+    "PcCameraPos": "Street_CameraPos_Grocery",
+    "SectionID": 1,
+    "PlayerPos": "Street_PlayerPos_FromGrocery",
+    "NpCs": [2016, 2017, 2018],
+    "NpcState": "",
+    "NpcItemState": ""
+  },
+  {
+    "ID": 3,
+    "UiName": "UIRamenStorePage",
+    "CameraPos": "Street_CameraPos_RamenStore",
+    "PcCameraPos": "Street_CameraPos_RamenStore_PC",
+    "SectionID": 1,
+    "PlayerPos": "Street_PlayerPos_FromGrocery",
+    "NpCs": [2019],
+    "NpcState": "2019:200302:200301",
+    "NpcItemState": "2019:noodle:false:true"
+  }
+]

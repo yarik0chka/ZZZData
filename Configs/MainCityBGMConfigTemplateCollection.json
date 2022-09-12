@@ -1,0 +1,8 @@
+[
+  { "ID": 0, "PlayEventName": "Play_BGM_Maincity", "StateName": "Normal" },
+  {
+    "ID": 1001,
+    "PlayEventName": "Play_BGM_Maincity",
+    "StateName": "Chapter_Hack"
+  }
+]

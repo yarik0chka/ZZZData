@@ -1,0 +1,482 @@
+[
+  {
+    "ID": 1001,
+    "Time": "Morning",
+    "Weather": "SunShine",
+    "GroupID": 1000,
+    "QuestIndex": 1001,
+    "PreviewVideoPath": "Yorozuya/Metro/MetroDaySunny"
+  },
+  {
+    "ID": 1002,
+    "Time": "Morning",
+    "Weather": "Fog",
+    "GroupID": 1000,
+    "QuestIndex": 1001,
+    "PreviewVideoPath": "Yorozuya/Metro/MetroDayFoggy"
+  },
+  {
+    "ID": 1003,
+    "Time": "Morning",
+    "Weather": "Cloudy",
+    "GroupID": 1000,
+    "QuestIndex": 1001,
+    "PreviewVideoPath": "Yorozuya/Metro/MetroDayFoggy"
+  },
+  {
+    "ID": 1004,
+    "Time": "Morning",
+    "Weather": "Rain",
+    "GroupID": 1000,
+    "QuestIndex": 1001,
+    "PreviewVideoPath": "Yorozuya/Metro/MetroDayThunderstorm"
+  },
+  {
+    "ID": 1005,
+    "Time": "Morning",
+    "Weather": "Thunder",
+    "GroupID": 1000,
+    "QuestIndex": 1001,
+    "PreviewVideoPath": "Yorozuya/Metro/MetroDayThunderstorm"
+  },
+  {
+    "ID": 1006,
+    "Time": "Evening",
+    "Weather": "SunShine",
+    "GroupID": 1000,
+    "QuestIndex": 1001,
+    "PreviewVideoPath": "Yorozuya/Metro/MetroEveningSunny"
+  },
+  {
+    "ID": 1007,
+    "Time": "Evening",
+    "Weather": "Fog",
+    "GroupID": 1000,
+    "QuestIndex": 1001,
+    "PreviewVideoPath": "Yorozuya/Metro/MetroEveningFoggy"
+  },
+  {
+    "ID": 1008,
+    "Time": "Evening",
+    "Weather": "Cloudy",
+    "GroupID": 1000,
+    "QuestIndex": 1001,
+    "PreviewVideoPath": "Yorozuya/Metro/MetroEveningFoggy"
+  },
+  {
+    "ID": 1009,
+    "Time": "Evening",
+    "Weather": "Rain",
+    "GroupID": 1000,
+    "QuestIndex": 1001,
+    "PreviewVideoPath": "Yorozuya/Metro/MetroEveningThunderstorm"
+  },
+  {
+    "ID": 1010,
+    "Time": "Evening",
+    "Weather": "Thunder",
+    "GroupID": 1000,
+    "QuestIndex": 1001,
+    "PreviewVideoPath": "Yorozuya/Metro/MetroEveningThunderstorm"
+  },
+  {
+    "ID": 1011,
+    "Time": "Night",
+    "Weather": "SunShine",
+    "GroupID": 1000,
+    "QuestIndex": 1001,
+    "PreviewVideoPath": "Yorozuya/Metro/MetroNightSunny"
+  },
+  {
+    "ID": 1012,
+    "Time": "Night",
+    "Weather": "Fog",
+    "GroupID": 1000,
+    "QuestIndex": 1001,
+    "PreviewVideoPath": "Yorozuya/Metro/MetroNightFoggy"
+  },
+  {
+    "ID": 1013,
+    "Time": "Night",
+    "Weather": "Cloudy",
+    "GroupID": 1000,
+    "QuestIndex": 1001,
+    "PreviewVideoPath": "Yorozuya/Metro/MetroNightFoggy"
+  },
+  {
+    "ID": 1014,
+    "Time": "Night",
+    "Weather": "Rain",
+    "GroupID": 1000,
+    "QuestIndex": 1001,
+    "PreviewVideoPath": "Yorozuya/Metro/MetroNightThunderstorm"
+  },
+  {
+    "ID": 1015,
+    "Time": "Night",
+    "Weather": "Thunder",
+    "GroupID": 1000,
+    "QuestIndex": 1001,
+    "PreviewVideoPath": "Yorozuya/Metro/MetroNightThunderstorm"
+  },
+  {
+    "ID": 1016,
+    "Time": "Morning",
+    "Weather": "SunShine",
+    "GroupID": 1001,
+    "QuestIndex": 1001,
+    "PreviewVideoPath": "Yorozuya/Metro/MetroDaySunny"
+  },
+  {
+    "ID": 1017,
+    "Time": "Morning",
+    "Weather": "Fog",
+    "GroupID": 1001,
+    "QuestIndex": 1001,
+    "PreviewVideoPath": "Yorozuya/Metro/MetroDayFoggy"
+  },
+  {
+    "ID": 1018,
+    "Time": "Morning",
+    "Weather": "Cloudy",
+    "GroupID": 1001,
+    "QuestIndex": 1001,
+    "PreviewVideoPath": "Yorozuya/Metro/MetroDayFoggy"
+  },
+  {
+    "ID": 1019,
+    "Time": "Morning",
+    "Weather": "Rain",
+    "GroupID": 1001,
+    "QuestIndex": 1001,
+    "PreviewVideoPath": "Yorozuya/Metro/MetroDayThunderstorm"
+  },
+  {
+    "ID": 1020,
+    "Time": "Morning",
+    "Weather": "Thunder",
+    "GroupID": 1001,
+    "QuestIndex": 1001,
+    "PreviewVideoPath": "Yorozuya/Metro/MetroDayThunderstorm"
+  },
+  {
+    "ID": 1021,
+    "Time": "Evening",
+    "Weather": "SunShine",
+    "GroupID": 1001,
+    "QuestIndex": 1001,
+    "PreviewVideoPath": "Yorozuya/Metro/MetroEveningSunny"
+  },
+  {
+    "ID": 1022,
+    "Time": "Evening",
+    "Weather": "Fog",
+    "GroupID": 1001,
+    "QuestIndex": 1001,
+    "PreviewVideoPath": "Yorozuya/Metro/MetroEveningFoggy"
+  },
+  {
+    "ID": 1023,
+    "Time": "Evening",
+    "Weather": "Cloudy",
+    "GroupID": 1001,
+    "QuestIndex": 1001,
+    "PreviewVideoPath": "Yorozuya/Metro/MetroEveningFoggy"
+  },
+  {
+    "ID": 1024,
+    "Time": "Evening",
+    "Weather": "Rain",
+    "GroupID": 1001,
+    "QuestIndex": 1001,
+    "PreviewVideoPath": "Yorozuya/Metro/MetroEveningThunderstorm"
+  },
+  {
+    "ID": 1025,
+    "Time": "Evening",
+    "Weather": "Thunder",
+    "GroupID": 1001,
+    "QuestIndex": 1001,
+    "PreviewVideoPath": "Yorozuya/Metro/MetroEveningThunderstorm"
+  },
+  {
+    "ID": 1026,
+    "Time": "Night",
+    "Weather": "SunShine",
+    "GroupID": 1001,
+    "QuestIndex": 1001,
+    "PreviewVideoPath": "Yorozuya/Metro/MetroNightSunny"
+  },
+  {
+    "ID": 1027,
+    "Time": "Night",
+    "Weather": "Fog",
+    "GroupID": 1001,
+    "QuestIndex": 1001,
+    "PreviewVideoPath": "Yorozuya/Metro/MetroNightFoggy"
+  },
+  {
+    "ID": 1028,
+    "Time": "Night",
+    "Weather": "Cloudy",
+    "GroupID": 1001,
+    "QuestIndex": 1001,
+    "PreviewVideoPath": "Yorozuya/Metro/MetroNightFoggy"
+  },
+  {
+    "ID": 1029,
+    "Time": "Night",
+    "Weather": "Rain",
+    "GroupID": 1001,
+    "QuestIndex": 1001,
+    "PreviewVideoPath": "Yorozuya/Metro/MetroNightThunderstorm"
+  },
+  {
+    "ID": 1030,
+    "Time": "Night",
+    "Weather": "Thunder",
+    "GroupID": 1001,
+    "QuestIndex": 1001,
+    "PreviewVideoPath": "Yorozuya/Metro/MetroNightThunderstorm"
+  },
+  {
+    "ID": 1031,
+    "Time": "Morning",
+    "Weather": "SunShine",
+    "GroupID": 1002,
+    "QuestIndex": 1001,
+    "PreviewVideoPath": "Yorozuya/Metro/MetroDaySunny"
+  },
+  {
+    "ID": 1032,
+    "Time": "Morning",
+    "Weather": "Fog",
+    "GroupID": 1002,
+    "QuestIndex": 1001,
+    "PreviewVideoPath": "Yorozuya/Metro/MetroDayFoggy"
+  },
+  {
+    "ID": 1033,
+    "Time": "Morning",
+    "Weather": "Cloudy",
+    "GroupID": 1002,
+    "QuestIndex": 1001,
+    "PreviewVideoPath": "Yorozuya/Metro/MetroDayFoggy"
+  },
+  {
+    "ID": 1034,
+    "Time": "Morning",
+    "Weather": "Rain",
+    "GroupID": 1002,
+    "QuestIndex": 1001,
+    "PreviewVideoPath": "Yorozuya/Metro/MetroDayThunderstorm"
+  },
+  {
+    "ID": 1035,
+    "Time": "Morning",
+    "Weather": "Thunder",
+    "GroupID": 1002,
+    "QuestIndex": 1001,
+    "PreviewVideoPath": "Yorozuya/Metro/MetroDayThunderstorm"
+  },
+  {
+    "ID": 1036,
+    "Time": "Evening",
+    "Weather": "SunShine",
+    "GroupID": 1002,
+    "QuestIndex": 1001,
+    "PreviewVideoPath": "Yorozuya/Metro/MetroEveningSunny"
+  },
+  {
+    "ID": 1037,
+    "Time": "Evening",
+    "Weather": "Fog",
+    "GroupID": 1002,
+    "QuestIndex": 1001,
+    "PreviewVideoPath": "Yorozuya/Metro/MetroEveningFoggy"
+  },
+  {
+    "ID": 1038,
+    "Time": "Evening",
+    "Weather": "Cloudy",
+    "GroupID": 1002,
+    "QuestIndex": 1001,
+    "PreviewVideoPath": "Yorozuya/Metro/MetroEveningFoggy"
+  },
+  {
+    "ID": 1039,
+    "Time": "Evening",
+    "Weather": "Rain",
+    "GroupID": 1002,
+    "QuestIndex": 1001,
+    "PreviewVideoPath": "Yorozuya/Metro/MetroEveningThunderstorm"
+  },
+  {
+    "ID": 1040,
+    "Time": "Evening",
+    "Weather": "Thunder",
+    "GroupID": 1002,
+    "QuestIndex": 1001,
+    "PreviewVideoPath": "Yorozuya/Metro/MetroEveningThunderstorm"
+  },
+  {
+    "ID": 1041,
+    "Time": "Night",
+    "Weather": "SunShine",
+    "GroupID": 1002,
+    "QuestIndex": 1001,
+    "PreviewVideoPath": "Yorozuya/Metro/MetroNightSunny"
+  },
+  {
+    "ID": 1042,
+    "Time": "Night",
+    "Weather": "Fog",
+    "GroupID": 1002,
+    "QuestIndex": 1001,
+    "PreviewVideoPath": "Yorozuya/Metro/MetroNightFoggy"
+  },
+  {
+    "ID": 1043,
+    "Time": "Night",
+    "Weather": "Cloudy",
+    "GroupID": 1002,
+    "QuestIndex": 1001,
+    "PreviewVideoPath": "Yorozuya/Metro/MetroNightFoggy"
+  },
+  {
+    "ID": 1044,
+    "Time": "Night",
+    "Weather": "Rain",
+    "GroupID": 1002,
+    "QuestIndex": 1001,
+    "PreviewVideoPath": "Yorozuya/Metro/MetroNightThunderstorm"
+  },
+  {
+    "ID": 1045,
+    "Time": "Night",
+    "Weather": "Thunder",
+    "GroupID": 1002,
+    "QuestIndex": 1001,
+    "PreviewVideoPath": "Yorozuya/Metro/MetroNightThunderstorm"
+  },
+  {
+    "ID": 1046,
+    "Time": "Morning",
+    "Weather": "SunShine",
+    "GroupID": 999,
+    "QuestIndex": 1001,
+    "PreviewVideoPath": "Yorozuya/Metro/MetroChallengeChaos"
+  },
+  {
+    "ID": 1047,
+    "Time": "Morning",
+    "Weather": "Fog",
+    "GroupID": 999,
+    "QuestIndex": 1001,
+    "PreviewVideoPath": "Yorozuya/Metro/MetroChallengeChaos"
+  },
+  {
+    "ID": 1048,
+    "Time": "Morning",
+    "Weather": "Cloudy",
+    "GroupID": 999,
+    "QuestIndex": 1001,
+    "PreviewVideoPath": "Yorozuya/Metro/MetroChallengeChaos"
+  },
+  {
+    "ID": 1049,
+    "Time": "Morning",
+    "Weather": "Rain",
+    "GroupID": 999,
+    "QuestIndex": 1001,
+    "PreviewVideoPath": "Yorozuya/Metro/MetroChallengeChaos"
+  },
+  {
+    "ID": 1050,
+    "Time": "Morning",
+    "Weather": "Thunder",
+    "GroupID": 999,
+    "QuestIndex": 1001,
+    "PreviewVideoPath": "Yorozuya/Metro/MetroChallengeChaos"
+  },
+  {
+    "ID": 1051,
+    "Time": "Evening",
+    "Weather": "SunShine",
+    "GroupID": 999,
+    "QuestIndex": 1001,
+    "PreviewVideoPath": "Yorozuya/Metro/MetroChallengeChaos"
+  },
+  {
+    "ID": 1052,
+    "Time": "Evening",
+    "Weather": "Fog",
+    "GroupID": 999,
+    "QuestIndex": 1001,
+    "PreviewVideoPath": "Yorozuya/Metro/MetroChallengeChaos"
+  },
+  {
+    "ID": 1053,
+    "Time": "Evening",
+    "Weather": "Cloudy",
+    "GroupID": 999,
+    "QuestIndex": 1001,
+    "PreviewVideoPath": "Yorozuya/Metro/MetroChallengeChaos"
+  },
+  {
+    "ID": 1054,
+    "Time": "Evening",
+    "Weather": "Rain",
+    "GroupID": 999,
+    "QuestIndex": 1001,
+    "PreviewVideoPath": "Yorozuya/Metro/MetroChallengeChaos"
+  },
+  {
+    "ID": 1055,
+    "Time": "Evening",
+    "Weather": "Thunder",
+    "GroupID": 999,
+    "QuestIndex": 1001,
+    "PreviewVideoPath": "Yorozuya/Metro/MetroChallengeChaos"
+  },
+  {
+    "ID": 1056,
+    "Time": "Night",
+    "Weather": "SunShine",
+    "GroupID": 999,
+    "QuestIndex": 1001,
+    "PreviewVideoPath": "Yorozuya/Metro/MetroChallengeChaos"
+  },
+  {
+    "ID": 1057,
+    "Time": "Night",
+    "Weather": "Fog",
+    "GroupID": 999,
+    "QuestIndex": 1001,
+    "PreviewVideoPath": "Yorozuya/Metro/MetroChallengeChaos"
+  },
+  {
+    "ID": 1058,
+    "Time": "Night",
+    "Weather": "Cloudy",
+    "GroupID": 999,
+    "QuestIndex": 1001,
+    "PreviewVideoPath": "Yorozuya/Metro/MetroChallengeChaos"
+  },
+  {
+    "ID": 1059,
+    "Time": "Night",
+    "Weather": "Rain",
+    "GroupID": 999,
+    "QuestIndex": 1001,
+    "PreviewVideoPath": "Yorozuya/Metro/MetroChallengeChaos"
+  },
+  {
+    "ID": 1060,
+    "Time": "Night",
+    "Weather": "Thunder",
+    "GroupID": 999,
+    "QuestIndex": 1001,
+    "PreviewVideoPath": "Yorozuya/Metro/MetroChallengeChaos"
+  }
+]

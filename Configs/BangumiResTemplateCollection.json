@@ -1,0 +1,98 @@
+[
+  {
+    "BangumiID": 1001,
+    "Group": 1,
+    "BangumiPath": "LoginBangumi/Ad_01_mux",
+    "SoundID": 10005
+  },
+  {
+    "BangumiID": 1002,
+    "Group": 1,
+    "BangumiPath": "LoginBangumi/Ad_02_mux",
+    "SoundID": 10006
+  },
+  {
+    "BangumiID": 1003,
+    "Group": 1,
+    "BangumiPath": "LoginBangumi/Ad_03_mux",
+    "SoundID": 10007
+  },
+  {
+    "BangumiID": 1004,
+    "Group": 1,
+    "BangumiPath": "LoginBangumi/Ad_04_mux",
+    "SoundID": 10008
+  },
+  {
+    "BangumiID": 1005,
+    "Group": 1,
+    "BangumiPath": "LoginBangumi/Ad_05_mux",
+    "SoundID": 10009
+  },
+  {
+    "BangumiID": 2001,
+    "Group": 2,
+    "BangumiPath": "LoginBangumi/Ad_02_mux",
+    "SoundID": 10006
+  },
+  {
+    "BangumiID": 2002,
+    "Group": 2,
+    "BangumiPath": "LoginBangumi/Ad_01_mux",
+    "SoundID": 10005
+  },
+  {
+    "BangumiID": 2003,
+    "Group": 2,
+    "BangumiPath": "LoginBangumi/Ad_05_mux",
+    "SoundID": 10009
+  },
+  {
+    "BangumiID": 2004,
+    "Group": 2,
+    "BangumiPath": "LoginBangumi/Ad_04_mux",
+    "SoundID": 10008
+  },
+  {
+    "BangumiID": 2005,
+    "Group": 2,
+    "BangumiPath": "LoginBangumi/Ad_03_mux",
+    "SoundID": 10007
+  },
+  {
+    "BangumiID": 3001,
+    "Group": 3,
+    "BangumiPath": "LoginBangumi/Login_Test_mux",
+    "SoundID": 0
+  },
+  {
+    "BangumiID": 4001,
+    "Group": 4,
+    "BangumiPath": "LoginBangumi/Ad_05_mux",
+    "SoundID": 10009
+  },
+  {
+    "BangumiID": 4002,
+    "Group": 4,
+    "BangumiPath": "LoginBangumi/Ad_04_mux",
+    "SoundID": 10008
+  },
+  {
+    "BangumiID": 4003,
+    "Group": 4,
+    "BangumiPath": "LoginBangumi/Ad_01_mux",
+    "SoundID": 10005
+  },
+  {
+    "BangumiID": 4004,
+    "Group": 4,
+    "BangumiPath": "LoginBangumi/Ad_03_mux",
+    "SoundID": 10007
+  },
+  {
+    "BangumiID": 4005,
+    "Group": 4,
+    "BangumiPath": "LoginBangumi/Ad_02_mux",
+    "SoundID": 10006
+  }
+]

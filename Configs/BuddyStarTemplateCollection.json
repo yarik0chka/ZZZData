@@ -1,0 +1,7 @@
+[
+  { "Star": 1, "StarAdvance": 10000, "StarMaterial": 20 },
+  { "Star": 2, "StarAdvance": 15000, "StarMaterial": 40 },
+  { "Star": 3, "StarAdvance": 20000, "StarMaterial": 60 },
+  { "Star": 4, "StarAdvance": 25000, "StarMaterial": 100 },
+  { "Star": 5, "StarAdvance": 30000, "StarMaterial": 0 }
+]

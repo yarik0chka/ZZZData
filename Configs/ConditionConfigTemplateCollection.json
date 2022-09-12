@@ -1,0 +1,5021 @@
+[
+  {
+    "ConditionID": 1010001001,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10010001|State:3"
+  },
+  {
+    "ConditionID": 1010001002,
+    "Type": 2,
+    "StatisConfigID": 3036,
+    "TargetNum": 2,
+    "Args": "HollowType:2"
+  },
+  {
+    "ConditionID": 1010001003,
+    "Type": 2,
+    "StatisConfigID": 3034,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 1010002001,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10010005|State:3"
+  },
+  {
+    "ConditionID": 1010002002,
+    "Type": 2,
+    "StatisConfigID": 3036,
+    "TargetNum": 5,
+    "Args": "HollowType:2"
+  },
+  {
+    "ConditionID": 1010002003,
+    "Type": 2,
+    "StatisConfigID": 3026,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 1010002004,
+    "Type": 2,
+    "StatisConfigID": 3037,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 1010002005,
+    "Type": 2,
+    "StatisConfigID": 3027,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 1010002006,
+    "Type": 2,
+    "StatisConfigID": 3032,
+    "TargetNum": 1,
+    "Args": "Level:10"
+  },
+  {
+    "ConditionID": 1010002007,
+    "Type": 2,
+    "StatisConfigID": 3031,
+    "TargetNum": 1,
+    "Args": "EquipNum:4"
+  },
+  {
+    "ConditionID": 1010003001,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10010111|State:3"
+  },
+  {
+    "ConditionID": 1010003002,
+    "Type": 2,
+    "StatisConfigID": 3036,
+    "TargetNum": 10,
+    "Args": "HollowType:2"
+  },
+  {
+    "ConditionID": 1010003003,
+    "Type": 2,
+    "StatisConfigID": 3036,
+    "TargetNum": 1,
+    "Args": "HollowType:0"
+  },
+  {
+    "ConditionID": 1010003004,
+    "Type": 2,
+    "StatisConfigID": 3030,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 1010003005,
+    "Type": 2,
+    "StatisConfigID": 3034,
+    "TargetNum": 3,
+    "Args": ""
+  },
+  {
+    "ConditionID": 1010003006,
+    "Type": 2,
+    "StatisConfigID": 3035,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 1010003007,
+    "Type": 2,
+    "StatisConfigID": 3025,
+    "TargetNum": 1,
+    "Args": "SkillLevel:2"
+  },
+  {
+    "ConditionID": 1010003008,
+    "Type": 2,
+    "StatisConfigID": 3026,
+    "TargetNum": 20,
+    "Args": ""
+  },
+  {
+    "ConditionID": 1010003009,
+    "Type": 2,
+    "StatisConfigID": 3033,
+    "TargetNum": 1,
+    "Args": "Level:5"
+  },
+  {
+    "ConditionID": 1010004001,
+    "Type": 2,
+    "StatisConfigID": 3036,
+    "TargetNum": 5,
+    "Args": "HollowType:0"
+  },
+  {
+    "ConditionID": 1010004002,
+    "Type": 2,
+    "StatisConfigID": 3029,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 1010004003,
+    "Type": 2,
+    "StatisConfigID": 3030,
+    "TargetNum": 3,
+    "Args": ""
+  },
+  {
+    "ConditionID": 1010004004,
+    "Type": 2,
+    "StatisConfigID": 3034,
+    "TargetNum": 6,
+    "Args": ""
+  },
+  {
+    "ConditionID": 1010004005,
+    "Type": 2,
+    "StatisConfigID": 3032,
+    "TargetNum": 1,
+    "Args": "Level:20"
+  },
+  {
+    "ConditionID": 1010004006,
+    "Type": 2,
+    "StatisConfigID": 3033,
+    "TargetNum": 4,
+    "Args": "Level:5"
+  },
+  {
+    "ConditionID": 1010004007,
+    "Type": 2,
+    "StatisConfigID": 3026,
+    "TargetNum": 60,
+    "Args": ""
+  },
+  {
+    "ConditionID": 1010004008,
+    "Type": 2,
+    "StatisConfigID": 3025,
+    "TargetNum": 4,
+    "Args": "SkillLevel:2"
+  },
+  {
+    "ConditionID": 1010005001,
+    "Type": 2,
+    "StatisConfigID": 3036,
+    "TargetNum": 10,
+    "Args": "HollowType:0"
+  },
+  {
+    "ConditionID": 1010005002,
+    "Type": 2,
+    "StatisConfigID": 3031,
+    "TargetNum": 3,
+    "Args": "EquipNum:4"
+  },
+  {
+    "ConditionID": 1010005003,
+    "Type": 2,
+    "StatisConfigID": 3030,
+    "TargetNum": 6,
+    "Args": ""
+  },
+  {
+    "ConditionID": 1010005004,
+    "Type": 2,
+    "StatisConfigID": 3034,
+    "TargetNum": 9,
+    "Args": ""
+  },
+  {
+    "ConditionID": 1010005005,
+    "Type": 2,
+    "StatisConfigID": 3032,
+    "TargetNum": 1,
+    "Args": "Level:30"
+  },
+  {
+    "ConditionID": 1010005006,
+    "Type": 2,
+    "StatisConfigID": 3033,
+    "TargetNum": 4,
+    "Args": "Level:10"
+  },
+  {
+    "ConditionID": 1010005007,
+    "Type": 2,
+    "StatisConfigID": 3026,
+    "TargetNum": 100,
+    "Args": ""
+  },
+  {
+    "ConditionID": 1010005008,
+    "Type": 2,
+    "StatisConfigID": 3025,
+    "TargetNum": 12,
+    "Args": "SkillLevel:2"
+  },
+  {
+    "ConditionID": 1020010001,
+    "Type": 2,
+    "StatisConfigID": 3001,
+    "TargetNum": 1,
+    "Args": "EventID:2020915"
+  },
+  {
+    "ConditionID": 1020020001,
+    "Type": 2,
+    "StatisConfigID": 3002,
+    "TargetNum": 1,
+    "Args": "EventType:21"
+  },
+  {
+    "ConditionID": 1020020002,
+    "Type": 2,
+    "StatisConfigID": 3002,
+    "TargetNum": 1,
+    "Args": "EventType:22"
+  },
+  {
+    "ConditionID": 1020030001,
+    "Type": 2,
+    "StatisConfigID": 3003,
+    "TargetNum": 1,
+    "Args": "EventID:2021012"
+  },
+  {
+    "ConditionID": 1020030002,
+    "Type": 2,
+    "StatisConfigID": 3003,
+    "TargetNum": 1,
+    "Args": "EventID:2021013"
+  },
+  {
+    "ConditionID": 1020030003,
+    "Type": 2,
+    "StatisConfigID": 3003,
+    "TargetNum": 1,
+    "Args": "EventID:2010208"
+  },
+  {
+    "ConditionID": 1020030004,
+    "Type": 2,
+    "StatisConfigID": 3003,
+    "TargetNum": 1,
+    "Args": "EventID:2011307"
+  },
+  {
+    "ConditionID": 1020030006,
+    "Type": 2,
+    "StatisConfigID": 3003,
+    "TargetNum": 1,
+    "Args": "EventID:3010206"
+  },
+  {
+    "ConditionID": 1020030007,
+    "Type": 2,
+    "StatisConfigID": 3003,
+    "TargetNum": 1,
+    "Args": "EventID:2011415"
+  },
+  {
+    "ConditionID": 1020030008,
+    "Type": 2,
+    "StatisConfigID": 3003,
+    "TargetNum": 1,
+    "Args": "EventID:2010616"
+  },
+  {
+    "ConditionID": 1020030009,
+    "Type": 2,
+    "StatisConfigID": 3003,
+    "TargetNum": 2,
+    "Args": "EventID:3401"
+  },
+  {
+    "ConditionID": 1020030010,
+    "Type": 2,
+    "StatisConfigID": 3003,
+    "TargetNum": 7,
+    "Args": "EventID:3102"
+  },
+  {
+    "ConditionID": 1020060001,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 1020060002,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 1020060003,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 3,
+    "Args": ""
+  },
+  {
+    "ConditionID": 1020060004,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 3,
+    "Args": ""
+  },
+  {
+    "ConditionID": 1020060005,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 1020060006,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 1020060007,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 1020060008,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 1020060009,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 1020060010,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 3,
+    "Args": ""
+  },
+  {
+    "ConditionID": 1020060011,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 1020060012,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 1020060013,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 1020060014,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 1020060015,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 1020060016,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 1020060017,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 1020100001,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10010104|State:2"
+  },
+  {
+    "ConditionID": 1020100002,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 5,
+    "Args": "ID:10010104|State:2"
+  },
+  {
+    "ConditionID": 1020100003,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 15,
+    "Args": "ID:10010104|State:2"
+  },
+  {
+    "ConditionID": 1020100004,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10010105|State:2"
+  },
+  {
+    "ConditionID": 1020100005,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 5,
+    "Args": "ID:10010105|State:2"
+  },
+  {
+    "ConditionID": 1020100006,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 15,
+    "Args": "ID:10010105|State:2"
+  },
+  {
+    "ConditionID": 1020100007,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10010120|State:2"
+  },
+  {
+    "ConditionID": 1020100008,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10010121|State:2"
+  },
+  {
+    "ConditionID": 1020100009,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10010122|State:2"
+  },
+  {
+    "ConditionID": 1020380001,
+    "Type": 2,
+    "StatisConfigID": 3038,
+    "TargetNum": 1,
+    "Args": "HollowQuestID:10010120|TargetProgress:100"
+  },
+  {
+    "ConditionID": 1020380002,
+    "Type": 2,
+    "StatisConfigID": 3038,
+    "TargetNum": 1,
+    "Args": "HollowQuestID:10010110|TargetProgress:100"
+  },
+  {
+    "ConditionID": 1020380003,
+    "Type": 2,
+    "StatisConfigID": 3038,
+    "TargetNum": 1,
+    "Args": "HollowQuestID:10010101|TargetProgress:100"
+  },
+  {
+    "ConditionID": 1020380004,
+    "Type": 2,
+    "StatisConfigID": 3038,
+    "TargetNum": 1,
+    "Args": "HollowQuestID:10010108|TargetProgress:100"
+  },
+  {
+    "ConditionID": 1020380005,
+    "Type": 2,
+    "StatisConfigID": 3038,
+    "TargetNum": 1,
+    "Args": "HollowQuestID:10010115|TargetProgress:100"
+  },
+  {
+    "ConditionID": 1020380006,
+    "Type": 2,
+    "StatisConfigID": 3038,
+    "TargetNum": 1,
+    "Args": "HollowQuestID:10010109|TargetProgress:100"
+  },
+  {
+    "ConditionID": 1020380007,
+    "Type": 2,
+    "StatisConfigID": 3038,
+    "TargetNum": 1,
+    "Args": "HollowQuestID:10010102|TargetProgress:100"
+  },
+  {
+    "ConditionID": 1020380008,
+    "Type": 2,
+    "StatisConfigID": 3038,
+    "TargetNum": 1,
+    "Args": "HollowQuestID:10010207|TargetProgress:100"
+  },
+  {
+    "ConditionID": 1020380009,
+    "Type": 2,
+    "StatisConfigID": 3038,
+    "TargetNum": 1,
+    "Args": "HollowQuestID:10010113|TargetProgress:100"
+  },
+  {
+    "ConditionID": 1020380010,
+    "Type": 2,
+    "StatisConfigID": 3038,
+    "TargetNum": 1,
+    "Args": "HollowQuestID:10010121|TargetProgress:100"
+  },
+  {
+    "ConditionID": 1020380011,
+    "Type": 2,
+    "StatisConfigID": 3038,
+    "TargetNum": 1,
+    "Args": "HollowQuestID:10010122|TargetProgress:100"
+  },
+  {
+    "ConditionID": 1020380012,
+    "Type": 2,
+    "StatisConfigID": 3038,
+    "TargetNum": 1,
+    "Args": "HollowQuestID:10010112|TargetProgress:100"
+  },
+  {
+    "ConditionID": 1020380013,
+    "Type": 2,
+    "StatisConfigID": 3038,
+    "TargetNum": 1,
+    "Args": "HollowQuestID:10010114|TargetProgress:100"
+  },
+  {
+    "ConditionID": 30010001,
+    "Type": 2,
+    "StatisConfigID": 3001,
+    "TargetNum": 1,
+    "Args": "EventID:9991001"
+  },
+  {
+    "ConditionID": 30010002,
+    "Type": 2,
+    "StatisConfigID": 3001,
+    "TargetNum": 1,
+    "Args": "EventID:9991011"
+  },
+  {
+    "ConditionID": 30010003,
+    "Type": 2,
+    "StatisConfigID": 3001,
+    "TargetNum": 1,
+    "Args": "EventID:9991030"
+  },
+  {
+    "ConditionID": 30010004,
+    "Type": 2,
+    "StatisConfigID": 3001,
+    "TargetNum": 1,
+    "Args": "EventID:9991091"
+  },
+  {
+    "ConditionID": 30010005,
+    "Type": 2,
+    "StatisConfigID": 3001,
+    "TargetNum": 1,
+    "Args": "EventID:9991101"
+  },
+  {
+    "ConditionID": 30010006,
+    "Type": 2,
+    "StatisConfigID": 3001,
+    "TargetNum": 1,
+    "Args": "EventID:9992001"
+  },
+  {
+    "ConditionID": 30010007,
+    "Type": 2,
+    "StatisConfigID": 3001,
+    "TargetNum": 1,
+    "Args": "EventID:9992011"
+  },
+  {
+    "ConditionID": 30010008,
+    "Type": 2,
+    "StatisConfigID": 3001,
+    "TargetNum": 1,
+    "Args": "EventID:9991142"
+  },
+  {
+    "ConditionID": 30010009,
+    "Type": 2,
+    "StatisConfigID": 3001,
+    "TargetNum": 1,
+    "Args": "EventID:9991175"
+  },
+  {
+    "ConditionID": 30010010,
+    "Type": 2,
+    "StatisConfigID": 3001,
+    "TargetNum": 1,
+    "Args": "EventID:9991180"
+  },
+  {
+    "ConditionID": 30010011,
+    "Type": 2,
+    "StatisConfigID": 3001,
+    "TargetNum": 1,
+    "Args": "EventID:9991180"
+  },
+  {
+    "ConditionID": 30010013,
+    "Type": 2,
+    "StatisConfigID": 3001,
+    "TargetNum": 1,
+    "Args": "EventID:9991234"
+  },
+  {
+    "ConditionID": 30010014,
+    "Type": 2,
+    "StatisConfigID": 3001,
+    "TargetNum": 1,
+    "Args": "EventID:2020546"
+  },
+  {
+    "ConditionID": 30010015,
+    "Type": 2,
+    "StatisConfigID": 3001,
+    "TargetNum": 1,
+    "Args": "EventID:1000102"
+  },
+  {
+    "ConditionID": 30010016,
+    "Type": 2,
+    "StatisConfigID": 3001,
+    "TargetNum": 1,
+    "Args": "EventID:1000107"
+  },
+  {
+    "ConditionID": 30010017,
+    "Type": 2,
+    "StatisConfigID": 3001,
+    "TargetNum": 1,
+    "Args": "EventID:2000208"
+  },
+  {
+    "ConditionID": 30010018,
+    "Type": 2,
+    "StatisConfigID": 3001,
+    "TargetNum": 1,
+    "Args": "EventID:3301"
+  },
+  {
+    "ConditionID": 30010019,
+    "Type": 2,
+    "StatisConfigID": 3001,
+    "TargetNum": 1,
+    "Args": "EventID:1011118"
+  },
+  {
+    "ConditionID": 30010020,
+    "Type": 2,
+    "StatisConfigID": 3001,
+    "TargetNum": 1,
+    "Args": "EventID:2010502"
+  },
+  {
+    "ConditionID": 30010021,
+    "Type": 2,
+    "StatisConfigID": 3001,
+    "TargetNum": 1,
+    "Args": "EventID:2000106"
+  },
+  {
+    "ConditionID": 30010022,
+    "Type": 2,
+    "StatisConfigID": 3001,
+    "TargetNum": 1,
+    "Args": "EventID:3301"
+  },
+  {
+    "ConditionID": 30010023,
+    "Type": 2,
+    "StatisConfigID": 3001,
+    "TargetNum": 1,
+    "Args": "EventID:2010202"
+  },
+  {
+    "ConditionID": 30010024,
+    "Type": 2,
+    "StatisConfigID": 3001,
+    "TargetNum": 1,
+    "Args": "EventID:2010512"
+  },
+  {
+    "ConditionID": 30020001,
+    "Type": 2,
+    "StatisConfigID": 3002,
+    "TargetNum": 2,
+    "Args": "EventType:20"
+  },
+  {
+    "ConditionID": 30020002,
+    "Type": 2,
+    "StatisConfigID": 3002,
+    "TargetNum": 3,
+    "Args": "EventType:20"
+  },
+  {
+    "ConditionID": 30020004,
+    "Type": 2,
+    "StatisConfigID": 3002,
+    "TargetNum": 1,
+    "Args": "EventType:20"
+  },
+  {
+    "ConditionID": 30020005,
+    "Type": 2,
+    "StatisConfigID": 3002,
+    "TargetNum": 2,
+    "Args": "EventType:20"
+  },
+  {
+    "ConditionID": 30020003,
+    "Type": 2,
+    "StatisConfigID": 3002,
+    "TargetNum": 3,
+    "Args": "EventType:20"
+  },
+  {
+    "ConditionID": 30020006,
+    "Type": 2,
+    "StatisConfigID": 3002,
+    "TargetNum": 1,
+    "Args": "EventType:20"
+  },
+  {
+    "ConditionID": 30020007,
+    "Type": 2,
+    "StatisConfigID": 3002,
+    "TargetNum": 1,
+    "Args": "EventType:20"
+  },
+  {
+    "ConditionID": 30020008,
+    "Type": 2,
+    "StatisConfigID": 3002,
+    "TargetNum": 1,
+    "Args": "EventType:20"
+  },
+  {
+    "ConditionID": 30020009,
+    "Type": 2,
+    "StatisConfigID": 3002,
+    "TargetNum": 3,
+    "Args": "EventType:32"
+  },
+  {
+    "ConditionID": 30020010,
+    "Type": 2,
+    "StatisConfigID": 3002,
+    "TargetNum": 1,
+    "Args": "EventType:22"
+  },
+  {
+    "ConditionID": 30020011,
+    "Type": 2,
+    "StatisConfigID": 3002,
+    "TargetNum": 1,
+    "Args": "EventType:22"
+  },
+  {
+    "ConditionID": 30020012,
+    "Type": 2,
+    "StatisConfigID": 3002,
+    "TargetNum": 1,
+    "Args": "EventType:22"
+  },
+  {
+    "ConditionID": 30020013,
+    "Type": 2,
+    "StatisConfigID": 3002,
+    "TargetNum": 1,
+    "Args": "EventType:22"
+  },
+  {
+    "ConditionID": 30020014,
+    "Type": 2,
+    "StatisConfigID": 3002,
+    "TargetNum": 20,
+    "Args": "EventType:30"
+  },
+  {
+    "ConditionID": 30030001,
+    "Type": 2,
+    "StatisConfigID": 3003,
+    "TargetNum": 1,
+    "Args": "EventID:2021001"
+  },
+  {
+    "ConditionID": 30030002,
+    "Type": 2,
+    "StatisConfigID": 3003,
+    "TargetNum": 1,
+    "Args": "EventID:1019017"
+  },
+  {
+    "ConditionID": 30030003,
+    "Type": 2,
+    "StatisConfigID": 3003,
+    "TargetNum": 1,
+    "Args": "EventID:1019018"
+  },
+  {
+    "ConditionID": 30030004,
+    "Type": 2,
+    "StatisConfigID": 3003,
+    "TargetNum": 1,
+    "Args": "EventID:1019019"
+  },
+  {
+    "ConditionID": 30030005,
+    "Type": 2,
+    "StatisConfigID": 3003,
+    "TargetNum": 1,
+    "Args": "EventID:1019014"
+  },
+  {
+    "ConditionID": 30030006,
+    "Type": 2,
+    "StatisConfigID": 3003,
+    "TargetNum": 1,
+    "Args": "EventID:1019015"
+  },
+  {
+    "ConditionID": 30030007,
+    "Type": 2,
+    "StatisConfigID": 3003,
+    "TargetNum": 1,
+    "Args": "EventID:2020827"
+  },
+  {
+    "ConditionID": 30030008,
+    "Type": 2,
+    "StatisConfigID": 3003,
+    "TargetNum": 1,
+    "Args": "EventID:1019010"
+  },
+  {
+    "ConditionID": 30030009,
+    "Type": 2,
+    "StatisConfigID": 3003,
+    "TargetNum": 16,
+    "Args": "EventID:1000"
+  },
+  {
+    "ConditionID": 30030010,
+    "Type": 2,
+    "StatisConfigID": 3003,
+    "TargetNum": 1,
+    "Args": "EventID:1000102"
+  },
+  {
+    "ConditionID": 30030011,
+    "Type": 2,
+    "StatisConfigID": 3003,
+    "TargetNum": 1,
+    "Args": "EventID:1000105"
+  },
+  {
+    "ConditionID": 30030012,
+    "Type": 2,
+    "StatisConfigID": 3003,
+    "TargetNum": 1,
+    "Args": "EventID:1017"
+  },
+  {
+    "ConditionID": 30030013,
+    "Type": 2,
+    "StatisConfigID": 3003,
+    "TargetNum": 1,
+    "Args": "EventID:2000109"
+  },
+  {
+    "ConditionID": 30030014,
+    "Type": 2,
+    "StatisConfigID": 3003,
+    "TargetNum": 1,
+    "Args": "EventID:2000119"
+  },
+  {
+    "ConditionID": 30030015,
+    "Type": 2,
+    "StatisConfigID": 3003,
+    "TargetNum": 1,
+    "Args": "EventID:2000108"
+  },
+  {
+    "ConditionID": 30030016,
+    "Type": 2,
+    "StatisConfigID": 3003,
+    "TargetNum": 1,
+    "Args": "EventID:2000207"
+  },
+  {
+    "ConditionID": 30030017,
+    "Type": 2,
+    "StatisConfigID": 3003,
+    "TargetNum": 1,
+    "Args": "EventID:2000202"
+  },
+  {
+    "ConditionID": 30030018,
+    "Type": 2,
+    "StatisConfigID": 3003,
+    "TargetNum": 1,
+    "Args": "EventID:2000208"
+  },
+  {
+    "ConditionID": 30030019,
+    "Type": 2,
+    "StatisConfigID": 3003,
+    "TargetNum": 1,
+    "Args": "EventID:2000207"
+  },
+  {
+    "ConditionID": 30030020,
+    "Type": 2,
+    "StatisConfigID": 3003,
+    "TargetNum": 1,
+    "Args": "EventID:1000219"
+  },
+  {
+    "ConditionID": 30030021,
+    "Type": 2,
+    "StatisConfigID": 3003,
+    "TargetNum": 3,
+    "Args": "EventID:2020401"
+  },
+  {
+    "ConditionID": 30030022,
+    "Type": 2,
+    "StatisConfigID": 3003,
+    "TargetNum": 1,
+    "Args": "EventID:1000202"
+  },
+  {
+    "ConditionID": 30030023,
+    "Type": 2,
+    "StatisConfigID": 3003,
+    "TargetNum": 3,
+    "Args": "EventID:1000207"
+  },
+  {
+    "ConditionID": 30030024,
+    "Type": 2,
+    "StatisConfigID": 3003,
+    "TargetNum": 4,
+    "Args": "EventID:1000212"
+  },
+  {
+    "ConditionID": 30030025,
+    "Type": 2,
+    "StatisConfigID": 3003,
+    "TargetNum": 1,
+    "Args": "EventID:1010"
+  },
+  {
+    "ConditionID": 30030026,
+    "Type": 2,
+    "StatisConfigID": 3003,
+    "TargetNum": 2,
+    "Args": "EventID:1010"
+  },
+  {
+    "ConditionID": 30030027,
+    "Type": 2,
+    "StatisConfigID": 3003,
+    "TargetNum": 1,
+    "Args": "EventID:1000307"
+  },
+  {
+    "ConditionID": 30030028,
+    "Type": 2,
+    "StatisConfigID": 3003,
+    "TargetNum": 1,
+    "Args": "EventID:1010604"
+  },
+  {
+    "ConditionID": 30030029,
+    "Type": 2,
+    "StatisConfigID": 3003,
+    "TargetNum": 1,
+    "Args": "EventID:1010605"
+  },
+  {
+    "ConditionID": 30030030,
+    "Type": 2,
+    "StatisConfigID": 3003,
+    "TargetNum": 1,
+    "Args": "EventID:1010602"
+  },
+  {
+    "ConditionID": 30030031,
+    "Type": 2,
+    "StatisConfigID": 3003,
+    "TargetNum": 1,
+    "Args": "EventID:1011117"
+  },
+  {
+    "ConditionID": 30030032,
+    "Type": 2,
+    "StatisConfigID": 3003,
+    "TargetNum": 1,
+    "Args": "EventID:2011104"
+  },
+  {
+    "ConditionID": 30030033,
+    "Type": 2,
+    "StatisConfigID": 3003,
+    "TargetNum": 5,
+    "Args": "EventID:2011104"
+  },
+  {
+    "ConditionID": 30030034,
+    "Type": 2,
+    "StatisConfigID": 3003,
+    "TargetNum": 15,
+    "Args": "EventID:2011104"
+  },
+  {
+    "ConditionID": 30030035,
+    "Type": 2,
+    "StatisConfigID": 3003,
+    "TargetNum": 1,
+    "Args": "EventID:1010608"
+  },
+  {
+    "ConditionID": 30030036,
+    "Type": 2,
+    "StatisConfigID": 3003,
+    "TargetNum": 1,
+    "Args": "EventID:1010705"
+  },
+  {
+    "ConditionID": 30030037,
+    "Type": 2,
+    "StatisConfigID": 3003,
+    "TargetNum": 2,
+    "Args": "EventID:1003"
+  },
+  {
+    "ConditionID": 30030038,
+    "Type": 2,
+    "StatisConfigID": 3003,
+    "TargetNum": 1,
+    "Args": "EventID:1010702"
+  },
+  {
+    "ConditionID": 30030039,
+    "Type": 2,
+    "StatisConfigID": 3003,
+    "TargetNum": 1,
+    "Args": "EventID:2010402"
+  },
+  {
+    "ConditionID": 30030040,
+    "Type": 2,
+    "StatisConfigID": 3003,
+    "TargetNum": 1,
+    "Args": "EventID:2010403"
+  },
+  {
+    "ConditionID": 30030041,
+    "Type": 2,
+    "StatisConfigID": 3003,
+    "TargetNum": 1,
+    "Args": "EventID:1007"
+  },
+  {
+    "ConditionID": 30030042,
+    "Type": 2,
+    "StatisConfigID": 3003,
+    "TargetNum": 1,
+    "Args": "EventID:1004"
+  },
+  {
+    "ConditionID": 30030043,
+    "Type": 2,
+    "StatisConfigID": 3003,
+    "TargetNum": 1,
+    "Args": "EventID:954"
+  },
+  {
+    "ConditionID": 30030044,
+    "Type": 2,
+    "StatisConfigID": 3003,
+    "TargetNum": 1,
+    "Args": "EventID:955"
+  },
+  {
+    "ConditionID": 30030045,
+    "Type": 2,
+    "StatisConfigID": 3003,
+    "TargetNum": 1,
+    "Args": "EventID:2020601"
+  },
+  {
+    "ConditionID": 30030046,
+    "Type": 2,
+    "StatisConfigID": 3003,
+    "TargetNum": 1,
+    "Args": "EventID:951"
+  },
+  {
+    "ConditionID": 30030047,
+    "Type": 2,
+    "StatisConfigID": 3003,
+    "TargetNum": 1,
+    "Args": "EventID:2010805"
+  },
+  {
+    "ConditionID": 30030048,
+    "Type": 2,
+    "StatisConfigID": 3003,
+    "TargetNum": 1,
+    "Args": "EventID:2010807"
+  },
+  {
+    "ConditionID": 30030049,
+    "Type": 2,
+    "StatisConfigID": 3003,
+    "TargetNum": 1,
+    "Args": "EventID:2010814"
+  },
+  {
+    "ConditionID": 30030051,
+    "Type": 2,
+    "StatisConfigID": 3003,
+    "TargetNum": 1,
+    "Args": "EventID:1021"
+  },
+  {
+    "ConditionID": 30030052,
+    "Type": 2,
+    "StatisConfigID": 3003,
+    "TargetNum": 1,
+    "Args": "EventID:1020"
+  },
+  {
+    "ConditionID": 30030053,
+    "Type": 2,
+    "StatisConfigID": 3003,
+    "TargetNum": 1,
+    "Args": "EventID:1007"
+  },
+  {
+    "ConditionID": 30030054,
+    "Type": 2,
+    "StatisConfigID": 3003,
+    "TargetNum": 1,
+    "Args": "EventID:2021012"
+  },
+  {
+    "ConditionID": 30030055,
+    "Type": 2,
+    "StatisConfigID": 3003,
+    "TargetNum": 1,
+    "Args": "EventID:2021013"
+  },
+  {
+    "ConditionID": 30030056,
+    "Type": 2,
+    "StatisConfigID": 3003,
+    "TargetNum": 1,
+    "Args": "EventID:3020102"
+  },
+  {
+    "ConditionID": 30030057,
+    "Type": 2,
+    "StatisConfigID": 3003,
+    "TargetNum": 1,
+    "Args": "EventID:3020103"
+  },
+  {
+    "ConditionID": 30030058,
+    "Type": 2,
+    "StatisConfigID": 3003,
+    "TargetNum": 1,
+    "Args": "EventID:3020104"
+  },
+  {
+    "ConditionID": 30030059,
+    "Type": 2,
+    "StatisConfigID": 3003,
+    "TargetNum": 1,
+    "Args": "EventID:3020104"
+  },
+  {
+    "ConditionID": 30030060,
+    "Type": 2,
+    "StatisConfigID": 3003,
+    "TargetNum": 5,
+    "Args": "EventID:3020104"
+  },
+  {
+    "ConditionID": 30030061,
+    "Type": 2,
+    "StatisConfigID": 3003,
+    "TargetNum": 15,
+    "Args": "EventID:3020104"
+  },
+  {
+    "ConditionID": 30030062,
+    "Type": 2,
+    "StatisConfigID": 3003,
+    "TargetNum": 1,
+    "Args": "EventID:2020827"
+  },
+  {
+    "ConditionID": 30030063,
+    "Type": 2,
+    "StatisConfigID": 3003,
+    "TargetNum": 1,
+    "Args": "EventID:2020827"
+  },
+  {
+    "ConditionID": 30030064,
+    "Type": 2,
+    "StatisConfigID": 3003,
+    "TargetNum": 1,
+    "Args": "EventID:3301"
+  },
+  {
+    "ConditionID": 30030065,
+    "Type": 2,
+    "StatisConfigID": 3003,
+    "TargetNum": 1,
+    "Args": "EventID:1011118"
+  },
+  {
+    "ConditionID": 30030066,
+    "Type": 2,
+    "StatisConfigID": 3003,
+    "TargetNum": 1,
+    "Args": "EventID:199003802"
+  },
+  {
+    "ConditionID": 30030067,
+    "Type": 2,
+    "StatisConfigID": 3003,
+    "TargetNum": 1,
+    "Args": "EventID:2000109"
+  },
+  {
+    "ConditionID": 30030068,
+    "Type": 2,
+    "StatisConfigID": 3003,
+    "TargetNum": 1,
+    "Args": "EventID:2000209"
+  },
+  {
+    "ConditionID": 30060001,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 4,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060002,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 3,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060003,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 16,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060004,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060005,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060006,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 8,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060007,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 8,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060008,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 8,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060009,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060010,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060011,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060012,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060013,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060014,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060015,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 6,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060016,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060017,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 8,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060018,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 3,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060019,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060020,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060021,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060022,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060023,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060024,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060025,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 15,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060026,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060027,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060028,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060029,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 30,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060030,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060031,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060032,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060033,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060034,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060035,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 3,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060036,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 6,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060037,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 6,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060038,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 9,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060039,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 12,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060040,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060041,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 2,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060042,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 3,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060043,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 4,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060044,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 5,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060045,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 3,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060046,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060047,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060048,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060049,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 4,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060050,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060051,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060052,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060053,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060054,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060055,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060056,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060057,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 2,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060058,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060059,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060060,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060061,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060062,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060063,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060064,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 3,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060065,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060066,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060067,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060068,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 4,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060069,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 4,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060070,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 4,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060071,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 2,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060072,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060073,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060074,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060075,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060076,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060077,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060078,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060079,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060080,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060081,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060082,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060083,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060084,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060085,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060086,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060087,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 4,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060088,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 4,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060089,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060090,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060091,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060092,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060093,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060094,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060095,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060096,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060097,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060098,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060099,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060100,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060101,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060102,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060103,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060104,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 3,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060105,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060106,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060107,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060108,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060109,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060110,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060111,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060112,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060113,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 8,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060114,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 3,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060115,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 2,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060116,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 2,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060117,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060118,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060119,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060120,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060121,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 3,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060122,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060123,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060124,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060125,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060126,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060127,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060128,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060129,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060130,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060131,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060132,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060133,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060134,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060135,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060136,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 2,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060137,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 2,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060138,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060139,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060140,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 3,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060141,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 5,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060142,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 15,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060143,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060144,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060145,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060146,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060147,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060148,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060149,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060150,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060151,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060152,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060153,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060157,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060158,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060159,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060160,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060161,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060162,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060163,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060164,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060165,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060166,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060167,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060168,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060169,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060170,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060171,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060172,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060173,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30060174,
+    "Type": 2,
+    "StatisConfigID": 3006,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30070001,
+    "Type": 2,
+    "StatisConfigID": 3007,
+    "TargetNum": 1,
+    "Args": "LevelRequire:1"
+  },
+  {
+    "ConditionID": 30070002,
+    "Type": 2,
+    "StatisConfigID": 3007,
+    "TargetNum": 1,
+    "Args": "LevelRequire:2"
+  },
+  {
+    "ConditionID": 30070003,
+    "Type": 2,
+    "StatisConfigID": 3007,
+    "TargetNum": 1,
+    "Args": "LevelRequire:3"
+  },
+  {
+    "ConditionID": 30070004,
+    "Type": 2,
+    "StatisConfigID": 3007,
+    "TargetNum": 1,
+    "Args": "LevelRequire:4"
+  },
+  {
+    "ConditionID": 30070005,
+    "Type": 2,
+    "StatisConfigID": 3007,
+    "TargetNum": 1,
+    "Args": "LevelRequire:5"
+  },
+  {
+    "ConditionID": 30070006,
+    "Type": 2,
+    "StatisConfigID": 3007,
+    "TargetNum": 1,
+    "Args": "LevelRequire:6"
+  },
+  {
+    "ConditionID": 30070007,
+    "Type": 2,
+    "StatisConfigID": 3007,
+    "TargetNum": 1,
+    "Args": "LevelRequire:7"
+  },
+  {
+    "ConditionID": 30070008,
+    "Type": 2,
+    "StatisConfigID": 3007,
+    "TargetNum": 1,
+    "Args": "LevelRequire:8"
+  },
+  {
+    "ConditionID": 30070009,
+    "Type": 2,
+    "StatisConfigID": 3007,
+    "TargetNum": 1,
+    "Args": "LevelRequire:9"
+  },
+  {
+    "ConditionID": 30070010,
+    "Type": 2,
+    "StatisConfigID": 3007,
+    "TargetNum": 1,
+    "Args": "LevelRequire:10"
+  },
+  {
+    "ConditionID": 30070011,
+    "Type": 2,
+    "StatisConfigID": 3007,
+    "TargetNum": 1,
+    "Args": "LevelRequire:11"
+  },
+  {
+    "ConditionID": 30070012,
+    "Type": 2,
+    "StatisConfigID": 3007,
+    "TargetNum": 1,
+    "Args": "LevelRequire:12"
+  },
+  {
+    "ConditionID": 30070013,
+    "Type": 2,
+    "StatisConfigID": 3007,
+    "TargetNum": 1,
+    "Args": "LevelRequire:13"
+  },
+  {
+    "ConditionID": 30070014,
+    "Type": 2,
+    "StatisConfigID": 3007,
+    "TargetNum": 1,
+    "Args": "LevelRequire:14"
+  },
+  {
+    "ConditionID": 30070015,
+    "Type": 2,
+    "StatisConfigID": 3007,
+    "TargetNum": 1,
+    "Args": "LevelRequire:15"
+  },
+  {
+    "ConditionID": 30070016,
+    "Type": 2,
+    "StatisConfigID": 3007,
+    "TargetNum": 1,
+    "Args": "LevelRequire:16"
+  },
+  {
+    "ConditionID": 30070017,
+    "Type": 2,
+    "StatisConfigID": 3007,
+    "TargetNum": 1,
+    "Args": "LevelRequire:17"
+  },
+  {
+    "ConditionID": 30070018,
+    "Type": 2,
+    "StatisConfigID": 3007,
+    "TargetNum": 1,
+    "Args": "LevelRequire:18"
+  },
+  {
+    "ConditionID": 30070019,
+    "Type": 2,
+    "StatisConfigID": 3007,
+    "TargetNum": 1,
+    "Args": "LevelRequire:19"
+  },
+  {
+    "ConditionID": 30070020,
+    "Type": 2,
+    "StatisConfigID": 3007,
+    "TargetNum": 1,
+    "Args": "LevelRequire:20"
+  },
+  {
+    "ConditionID": 30070021,
+    "Type": 2,
+    "StatisConfigID": 3007,
+    "TargetNum": 1,
+    "Args": "LevelRequire:21"
+  },
+  {
+    "ConditionID": 30070022,
+    "Type": 2,
+    "StatisConfigID": 3007,
+    "TargetNum": 1,
+    "Args": "LevelRequire:22"
+  },
+  {
+    "ConditionID": 30070023,
+    "Type": 2,
+    "StatisConfigID": 3007,
+    "TargetNum": 1,
+    "Args": "LevelRequire:23"
+  },
+  {
+    "ConditionID": 30070024,
+    "Type": 2,
+    "StatisConfigID": 3007,
+    "TargetNum": 1,
+    "Args": "LevelRequire:24"
+  },
+  {
+    "ConditionID": 30070025,
+    "Type": 2,
+    "StatisConfigID": 3007,
+    "TargetNum": 1,
+    "Args": "LevelRequire:25"
+  },
+  {
+    "ConditionID": 30070026,
+    "Type": 2,
+    "StatisConfigID": 3007,
+    "TargetNum": 1,
+    "Args": "LevelRequire:26"
+  },
+  {
+    "ConditionID": 30070027,
+    "Type": 2,
+    "StatisConfigID": 3007,
+    "TargetNum": 1,
+    "Args": "LevelRequire:27"
+  },
+  {
+    "ConditionID": 30070028,
+    "Type": 2,
+    "StatisConfigID": 3007,
+    "TargetNum": 1,
+    "Args": "LevelRequire:28"
+  },
+  {
+    "ConditionID": 30070029,
+    "Type": 2,
+    "StatisConfigID": 3007,
+    "TargetNum": 1,
+    "Args": "LevelRequire:29"
+  },
+  {
+    "ConditionID": 30070030,
+    "Type": 2,
+    "StatisConfigID": 3007,
+    "TargetNum": 1,
+    "Args": "LevelRequire:30"
+  },
+  {
+    "ConditionID": 30070031,
+    "Type": 2,
+    "StatisConfigID": 3007,
+    "TargetNum": 1,
+    "Args": "LevelRequire:31"
+  },
+  {
+    "ConditionID": 30070032,
+    "Type": 2,
+    "StatisConfigID": 3007,
+    "TargetNum": 1,
+    "Args": "LevelRequire:32"
+  },
+  {
+    "ConditionID": 30070033,
+    "Type": 2,
+    "StatisConfigID": 3007,
+    "TargetNum": 1,
+    "Args": "LevelRequire:33"
+  },
+  {
+    "ConditionID": 30070034,
+    "Type": 2,
+    "StatisConfigID": 3007,
+    "TargetNum": 1,
+    "Args": "LevelRequire:34"
+  },
+  {
+    "ConditionID": 30070035,
+    "Type": 2,
+    "StatisConfigID": 3007,
+    "TargetNum": 1,
+    "Args": "LevelRequire:35"
+  },
+  {
+    "ConditionID": 30070036,
+    "Type": 2,
+    "StatisConfigID": 3007,
+    "TargetNum": 1,
+    "Args": "LevelRequire:36"
+  },
+  {
+    "ConditionID": 30070037,
+    "Type": 2,
+    "StatisConfigID": 3007,
+    "TargetNum": 1,
+    "Args": "LevelRequire:37"
+  },
+  {
+    "ConditionID": 30070038,
+    "Type": 2,
+    "StatisConfigID": 3007,
+    "TargetNum": 1,
+    "Args": "LevelRequire:38"
+  },
+  {
+    "ConditionID": 30070039,
+    "Type": 2,
+    "StatisConfigID": 3007,
+    "TargetNum": 1,
+    "Args": "LevelRequire:39"
+  },
+  {
+    "ConditionID": 30070040,
+    "Type": 2,
+    "StatisConfigID": 3007,
+    "TargetNum": 1,
+    "Args": "LevelRequire:40"
+  },
+  {
+    "ConditionID": 30070041,
+    "Type": 2,
+    "StatisConfigID": 3007,
+    "TargetNum": 1,
+    "Args": "LevelRequire:41"
+  },
+  {
+    "ConditionID": 30070042,
+    "Type": 2,
+    "StatisConfigID": 3007,
+    "TargetNum": 1,
+    "Args": "LevelRequire:42"
+  },
+  {
+    "ConditionID": 30070043,
+    "Type": 2,
+    "StatisConfigID": 3007,
+    "TargetNum": 1,
+    "Args": "LevelRequire:43"
+  },
+  {
+    "ConditionID": 30070044,
+    "Type": 2,
+    "StatisConfigID": 3007,
+    "TargetNum": 1,
+    "Args": "LevelRequire:44"
+  },
+  {
+    "ConditionID": 30070045,
+    "Type": 2,
+    "StatisConfigID": 3007,
+    "TargetNum": 1,
+    "Args": "LevelRequire:45"
+  },
+  {
+    "ConditionID": 30070046,
+    "Type": 2,
+    "StatisConfigID": 3007,
+    "TargetNum": 1,
+    "Args": "LevelRequire:46"
+  },
+  {
+    "ConditionID": 30070047,
+    "Type": 2,
+    "StatisConfigID": 3007,
+    "TargetNum": 1,
+    "Args": "LevelRequire:47"
+  },
+  {
+    "ConditionID": 30070048,
+    "Type": 2,
+    "StatisConfigID": 3007,
+    "TargetNum": 1,
+    "Args": "LevelRequire:48"
+  },
+  {
+    "ConditionID": 30070049,
+    "Type": 2,
+    "StatisConfigID": 3007,
+    "TargetNum": 1,
+    "Args": "LevelRequire:49"
+  },
+  {
+    "ConditionID": 30070050,
+    "Type": 2,
+    "StatisConfigID": 3007,
+    "TargetNum": 1,
+    "Args": "LevelRequire:50"
+  },
+  {
+    "ConditionID": 30070051,
+    "Type": 2,
+    "StatisConfigID": 3007,
+    "TargetNum": 1,
+    "Args": "LevelRequire:2"
+  },
+  {
+    "ConditionID": 30070052,
+    "Type": 2,
+    "StatisConfigID": 3007,
+    "TargetNum": 1,
+    "Args": "LevelRequire:7"
+  },
+  {
+    "ConditionID": 30070053,
+    "Type": 2,
+    "StatisConfigID": 3007,
+    "TargetNum": 1,
+    "Args": "LevelRequire:6"
+  },
+  {
+    "ConditionID": 30070054,
+    "Type": 2,
+    "StatisConfigID": 3007,
+    "TargetNum": 1,
+    "Args": "LevelRequire:6"
+  },
+  {
+    "ConditionID": 30070055,
+    "Type": 2,
+    "StatisConfigID": 3007,
+    "TargetNum": 1,
+    "Args": "LevelRequire:6"
+  },
+  {
+    "ConditionID": 30070056,
+    "Type": 2,
+    "StatisConfigID": 3007,
+    "TargetNum": 1,
+    "Args": "LevelRequire:6"
+  },
+  {
+    "ConditionID": 30070057,
+    "Type": 2,
+    "StatisConfigID": 3007,
+    "TargetNum": 1,
+    "Args": "LevelRequire:99"
+  },
+  {
+    "ConditionID": 30070058,
+    "Type": 2,
+    "StatisConfigID": 3007,
+    "TargetNum": 1,
+    "Args": "LevelRequire:7"
+  },
+  {
+    "ConditionID": 30080001,
+    "Type": 2,
+    "StatisConfigID": 3008,
+    "TargetNum": 1,
+    "Args": "EventType:20"
+  },
+  {
+    "ConditionID": 30080002,
+    "Type": 2,
+    "StatisConfigID": 3008,
+    "TargetNum": 1,
+    "Args": "EventType:22"
+  },
+  {
+    "ConditionID": 30080003,
+    "Type": 2,
+    "StatisConfigID": 3008,
+    "TargetNum": 1,
+    "Args": "EventType:20"
+  },
+  {
+    "ConditionID": 30090001,
+    "Type": 2,
+    "StatisConfigID": 3009,
+    "TargetNum": 1,
+    "Args": "BattleID:19900014"
+  },
+  {
+    "ConditionID": 30090002,
+    "Type": 2,
+    "StatisConfigID": 3009,
+    "TargetNum": 1,
+    "Args": "BattleID:19900015"
+  },
+  {
+    "ConditionID": 30090003,
+    "Type": 2,
+    "StatisConfigID": 3009,
+    "TargetNum": 1,
+    "Args": "BattleID:19900016"
+  },
+  {
+    "ConditionID": 30090004,
+    "Type": 2,
+    "StatisConfigID": 3009,
+    "TargetNum": 1,
+    "Args": "BattleID:19900017"
+  },
+  {
+    "ConditionID": 30090005,
+    "Type": 2,
+    "StatisConfigID": 3009,
+    "TargetNum": 1,
+    "Args": "BattleID:19900018"
+  },
+  {
+    "ConditionID": 30090006,
+    "Type": 2,
+    "StatisConfigID": 3009,
+    "TargetNum": 1,
+    "Args": "BattleID:2010129"
+  },
+  {
+    "ConditionID": 30090007,
+    "Type": 2,
+    "StatisConfigID": 3009,
+    "TargetNum": 1,
+    "Args": "BattleID:2010133"
+  },
+  {
+    "ConditionID": 30090008,
+    "Type": 2,
+    "StatisConfigID": 3009,
+    "TargetNum": 1,
+    "Args": "BattleID:10101002"
+  },
+  {
+    "ConditionID": 30090009,
+    "Type": 2,
+    "StatisConfigID": 3009,
+    "TargetNum": 1,
+    "Args": "BattleID:10101014"
+  },
+  {
+    "ConditionID": 30090010,
+    "Type": 2,
+    "StatisConfigID": 3009,
+    "TargetNum": 1,
+    "Args": "BattleID:10301201"
+  },
+  {
+    "ConditionID": 30091001,
+    "Type": 2,
+    "StatisConfigID": 3009,
+    "TargetNum": 1,
+    "Args": "BattleID:10202101"
+  },
+  {
+    "ConditionID": 30091002,
+    "Type": 2,
+    "StatisConfigID": 3009,
+    "TargetNum": 1,
+    "Args": "BattleID:10202102"
+  },
+  {
+    "ConditionID": 30091003,
+    "Type": 2,
+    "StatisConfigID": 3009,
+    "TargetNum": 1,
+    "Args": "BattleID:10202103"
+  },
+  {
+    "ConditionID": 30091004,
+    "Type": 2,
+    "StatisConfigID": 3009,
+    "TargetNum": 1,
+    "Args": "BattleID:10202104"
+  },
+  {
+    "ConditionID": 30091005,
+    "Type": 2,
+    "StatisConfigID": 3009,
+    "TargetNum": 1,
+    "Args": "BattleID:10202105"
+  },
+  {
+    "ConditionID": 30091006,
+    "Type": 2,
+    "StatisConfigID": 3009,
+    "TargetNum": 1,
+    "Args": "BattleID:10202106"
+  },
+  {
+    "ConditionID": 30091007,
+    "Type": 2,
+    "StatisConfigID": 3009,
+    "TargetNum": 1,
+    "Args": "BattleID:10202107"
+  },
+  {
+    "ConditionID": 30091008,
+    "Type": 2,
+    "StatisConfigID": 3009,
+    "TargetNum": 1,
+    "Args": "BattleID:10202108"
+  },
+  {
+    "ConditionID": 30091009,
+    "Type": 2,
+    "StatisConfigID": 3009,
+    "TargetNum": 1,
+    "Args": "BattleID:10202109"
+  },
+  {
+    "ConditionID": 30091010,
+    "Type": 2,
+    "StatisConfigID": 3009,
+    "TargetNum": 1,
+    "Args": "BattleID:10202110"
+  },
+  {
+    "ConditionID": 30100001,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10010001|State:3"
+  },
+  {
+    "ConditionID": 30100002,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10020005|State:3"
+  },
+  {
+    "ConditionID": 30100003,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10020006|State:3"
+  },
+  {
+    "ConditionID": 30100004,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10010002|State:3"
+  },
+  {
+    "ConditionID": 30100005,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10010003|State:3"
+  },
+  {
+    "ConditionID": 30100006,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:1010007|State:3"
+  },
+  {
+    "ConditionID": 30100007,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10010005|State:3"
+  },
+  {
+    "ConditionID": 30100008,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10010004|State:3"
+  },
+  {
+    "ConditionID": 30100009,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:1990025|State:3"
+  },
+  {
+    "ConditionID": 30100010,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10020016|State:3"
+  },
+  {
+    "ConditionID": 30100011,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10020007|State:1"
+  },
+  {
+    "ConditionID": 30100012,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10020010|State:1"
+  },
+  {
+    "ConditionID": 30100013,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10020012|State:1"
+  },
+  {
+    "ConditionID": 30100014,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10020001|State:3"
+  },
+  {
+    "ConditionID": 30100015,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10020003|State:3"
+  },
+  {
+    "ConditionID": 30100016,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10010002|State:3"
+  },
+  {
+    "ConditionID": 30100017,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10010003|State:3"
+  },
+  {
+    "ConditionID": 30100018,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10020004|State:3"
+  },
+  {
+    "ConditionID": 30100019,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:1990028|State:3"
+  },
+  {
+    "ConditionID": 30100020,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:1990029|State:3"
+  },
+  {
+    "ConditionID": 30100021,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:1990035|State:3"
+  },
+  {
+    "ConditionID": 30100022,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10020014|State:1"
+  },
+  {
+    "ConditionID": 30100023,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:1990028|State:3"
+  },
+  {
+    "ConditionID": 30100024,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:1990029|State:3"
+  },
+  {
+    "ConditionID": 30100025,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:1990035|State:3"
+  },
+  {
+    "ConditionID": 30100026,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:1990028|State:3"
+  },
+  {
+    "ConditionID": 30100027,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:1990029|State:3"
+  },
+  {
+    "ConditionID": 30100028,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:1990035|State:3"
+  },
+  {
+    "ConditionID": 30100029,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:1010109|State:3"
+  },
+  {
+    "ConditionID": 30100030,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10020023|State:1"
+  },
+  {
+    "ConditionID": 30100031,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10010101|State:3"
+  },
+  {
+    "ConditionID": 30100032,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10010115|State:3"
+  },
+  {
+    "ConditionID": 30100033,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10010112|State:3"
+  },
+  {
+    "ConditionID": 30100034,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10010106|State:3"
+  },
+  {
+    "ConditionID": 30100035,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10020104|State:3"
+  },
+  {
+    "ConditionID": 30100036,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:1011007|State:3"
+  },
+  {
+    "ConditionID": 30100037,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10020106|State:3"
+  },
+  {
+    "ConditionID": 30100038,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10010107|State:3"
+  },
+  {
+    "ConditionID": 30100039,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:1011013|State:3"
+  },
+  {
+    "ConditionID": 30100040,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10020112|State:3"
+  },
+  {
+    "ConditionID": 30100041,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10010111|State:3"
+  },
+  {
+    "ConditionID": 30100042,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10020109|State:3"
+  },
+  {
+    "ConditionID": 30100043,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10020013|State:3"
+  },
+  {
+    "ConditionID": 30100044,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10010004|State:3"
+  },
+  {
+    "ConditionID": 30100045,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10020009|State:3"
+  },
+  {
+    "ConditionID": 30100046,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10020008|State:3"
+  },
+  {
+    "ConditionID": 30100047,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10010102|State:3"
+  },
+  {
+    "ConditionID": 30100048,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10010109|State:3"
+  },
+  {
+    "ConditionID": 30100049,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10010110|State:3"
+  },
+  {
+    "ConditionID": 30100050,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10020103|State:3"
+  },
+  {
+    "ConditionID": 30100051,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10020113|State:3"
+  },
+  {
+    "ConditionID": 30100052,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10020101|State:3"
+  },
+  {
+    "ConditionID": 30100053,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:1010007|State:3"
+  },
+  {
+    "ConditionID": 30100054,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10010103|State:3"
+  },
+  {
+    "ConditionID": 30100055,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10010113|State:3"
+  },
+  {
+    "ConditionID": 30100056,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10010112|State:3"
+  },
+  {
+    "ConditionID": 30100057,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10020117|State:3"
+  },
+  {
+    "ConditionID": 30100058,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10010114|State:3"
+  },
+  {
+    "ConditionID": 30100059,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10010002|State:3"
+  },
+  {
+    "ConditionID": 30100060,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10010003|State:3"
+  },
+  {
+    "ConditionID": 30100061,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10010002|State:3"
+  },
+  {
+    "ConditionID": 30100062,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10010003|State:3"
+  },
+  {
+    "ConditionID": 30100063,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10020109|State:1"
+  },
+  {
+    "ConditionID": 30100064,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10020113|State:1"
+  },
+  {
+    "ConditionID": 30100065,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10020159|State:1"
+  },
+  {
+    "ConditionID": 30100066,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10010004|State:1"
+  },
+  {
+    "ConditionID": 30100067,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10010005|State:1"
+  },
+  {
+    "ConditionID": 30100068,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10010106|State:1"
+  },
+  {
+    "ConditionID": 30100069,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10010113|State:1"
+  },
+  {
+    "ConditionID": 30100070,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10010111|State:1"
+  },
+  {
+    "ConditionID": 30100071,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10010108|State:3"
+  },
+  {
+    "ConditionID": 30100072,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10010114|State:3"
+  },
+  {
+    "ConditionID": 30100073,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10010103|State:3"
+  },
+  {
+    "ConditionID": 30100074,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10020162|State:3"
+  },
+  {
+    "ConditionID": 30100075,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10010204|State:3"
+  },
+  {
+    "ConditionID": 30100076,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10020164|State:3"
+  },
+  {
+    "ConditionID": 30100077,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10010203|State:3"
+  },
+  {
+    "ConditionID": 30100078,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10010109|State:2"
+  },
+  {
+    "ConditionID": 30100079,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10010101|State:2"
+  },
+  {
+    "ConditionID": 30100080,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10010102|State:2"
+  },
+  {
+    "ConditionID": 30100081,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10010108|State:2"
+  },
+  {
+    "ConditionID": 30100082,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10010207|State:2"
+  },
+  {
+    "ConditionID": 30100083,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10010110|State:2"
+  },
+  {
+    "ConditionID": 30100084,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 2,
+    "Args": "ID:10010110|State:2"
+  },
+  {
+    "ConditionID": 30100085,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 4,
+    "Args": "ID:10010110|State:2"
+  },
+  {
+    "ConditionID": 30100086,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10010113|State:2"
+  },
+  {
+    "ConditionID": 30100087,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10010103|State:2"
+  },
+  {
+    "ConditionID": 30100088,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10010204|State:2"
+  },
+  {
+    "ConditionID": 30100089,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10010203|State:2"
+  },
+  {
+    "ConditionID": 30100090,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10010112|State:3"
+  },
+  {
+    "ConditionID": 30100091,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10010112|State:3"
+  },
+  {
+    "ConditionID": 30100092,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10010113|State:3"
+  },
+  {
+    "ConditionID": 30100093,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10020182|State:3"
+  },
+  {
+    "ConditionID": 30100094,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10010109|State:3"
+  },
+  {
+    "ConditionID": 30100095,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10010110|State:3"
+  },
+  {
+    "ConditionID": 30100096,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10020101|State:3"
+  },
+  {
+    "ConditionID": 30100097,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10010101|State:3"
+  },
+  {
+    "ConditionID": 30100098,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10020159|State:3"
+  },
+  {
+    "ConditionID": 30100099,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10030002|State:3"
+  },
+  {
+    "ConditionID": 30100100,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10030101|State:3"
+  },
+  {
+    "ConditionID": 30100101,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10030107|State:3"
+  },
+  {
+    "ConditionID": 30100102,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10010111|State:3"
+  },
+  {
+    "ConditionID": 30100103,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10020028|State:3"
+  },
+  {
+    "ConditionID": 30100104,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10020190|State:3"
+  },
+  {
+    "ConditionID": 30100105,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10010116|State:3"
+  },
+  {
+    "ConditionID": 30100106,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10010207|State:3"
+  },
+  {
+    "ConditionID": 30100107,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10010114|State:3"
+  },
+  {
+    "ConditionID": 30100108,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:1990035|State:3"
+  },
+  {
+    "ConditionID": 30100109,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10020123|State:3"
+  },
+  {
+    "ConditionID": 30100110,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10020124|State:3"
+  },
+  {
+    "ConditionID": 30100111,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10010104|State:3"
+  },
+  {
+    "ConditionID": 30100112,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10010105|State:3"
+  },
+  {
+    "ConditionID": 30100113,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10010301|State:3"
+  },
+  {
+    "ConditionID": 30100114,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10020193|State:3"
+  },
+  {
+    "ConditionID": 30100115,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10020198|State:3"
+  },
+  {
+    "ConditionID": 30100116,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10020152|State:3"
+  },
+  {
+    "ConditionID": 30100117,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10020181|State:3"
+  },
+  {
+    "ConditionID": 30100118,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10020116|State:3"
+  },
+  {
+    "ConditionID": 30100119,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10020151|State:3"
+  },
+  {
+    "ConditionID": 30100120,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10020011|State:3"
+  },
+  {
+    "ConditionID": 30100121,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:1990036|State:3"
+  },
+  {
+    "ConditionID": 30100122,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:1990037|State:3"
+  },
+  {
+    "ConditionID": 30100123,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10020126|State:3"
+  },
+  {
+    "ConditionID": 30100124,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10020127|State:3"
+  },
+  {
+    "ConditionID": 30100125,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10020101|State:3"
+  },
+  {
+    "ConditionID": 30100126,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10020120|State:1"
+  },
+  {
+    "ConditionID": 30100127,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10020117|State:3"
+  },
+  {
+    "ConditionID": 30100128,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10020119|State:1"
+  },
+  {
+    "ConditionID": 30100129,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10020123|State:3"
+  },
+  {
+    "ConditionID": 30100130,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10030102|State:3"
+  },
+  {
+    "ConditionID": 30100131,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10010117|State:3"
+  },
+  {
+    "ConditionID": 30100132,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10010118|State:3"
+  },
+  {
+    "ConditionID": 30100133,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10010119|State:3"
+  },
+  {
+    "ConditionID": 30100134,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10020011|State:1"
+  },
+  {
+    "ConditionID": 30100135,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10020134|State:3"
+  },
+  {
+    "ConditionID": 30100136,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10020126|State:3"
+  },
+  {
+    "ConditionID": 30100137,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10020127|State:3"
+  },
+  {
+    "ConditionID": 30100138,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10020004|State:3"
+  },
+  {
+    "ConditionID": 30100139,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10010106|State:3"
+  },
+  {
+    "ConditionID": 30100140,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10020123|State:3"
+  },
+  {
+    "ConditionID": 30100141,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10020102|State:3"
+  },
+  {
+    "ConditionID": 30100142,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10020130|State:3"
+  },
+  {
+    "ConditionID": 30100143,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10020110|State:3"
+  },
+  {
+    "ConditionID": 30100144,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10020133|State:3"
+  },
+  {
+    "ConditionID": 30100145,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10010102|State:3"
+  },
+  {
+    "ConditionID": 30100146,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10010108|State:3"
+  },
+  {
+    "ConditionID": 30100147,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10010110|State:3"
+  },
+  {
+    "ConditionID": 30100148,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10010113|State:3"
+  },
+  {
+    "ConditionID": 30100149,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10020134|State:3"
+  },
+  {
+    "ConditionID": 30100150,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10025101|State:3"
+  },
+  {
+    "ConditionID": 30100151,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10025102|State:3"
+  },
+  {
+    "ConditionID": 30100152,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10010120|State:3"
+  },
+  {
+    "ConditionID": 30100153,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10025104|State:3"
+  },
+  {
+    "ConditionID": 30100154,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10025105|State:3"
+  },
+  {
+    "ConditionID": 30100155,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10010121|State:3"
+  },
+  {
+    "ConditionID": 30100156,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10025106|State:3"
+  },
+  {
+    "ConditionID": 30100157,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10025107|State:3"
+  },
+  {
+    "ConditionID": 30100158,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10010122|State:3"
+  },
+  {
+    "ConditionID": 30100159,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10025109|State:3"
+  },
+  {
+    "ConditionID": 30100160,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10025103|State:3"
+  },
+  {
+    "ConditionID": 30100161,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10025108|State:3"
+  },
+  {
+    "ConditionID": 30100162,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10020196|State:3"
+  },
+  {
+    "ConditionID": 30100163,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10010002|State:3"
+  },
+  {
+    "ConditionID": 30100164,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10010003|State:3"
+  },
+  {
+    "ConditionID": 30100165,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10010207|State:10"
+  },
+  {
+    "ConditionID": 30100166,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10010114|State:10"
+  },
+  {
+    "ConditionID": 30100167,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10020111|State:3"
+  },
+  {
+    "ConditionID": 30100168,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10020194|State:1"
+  },
+  {
+    "ConditionID": 30100169,
+    "Type": 2,
+    "StatisConfigID": 3010,
+    "TargetNum": 1,
+    "Args": "ID:10025100|State:3"
+  },
+  {
+    "ConditionID": 30120001,
+    "Type": 2,
+    "StatisConfigID": 3012,
+    "TargetNum": 1,
+    "Args": "ID:0"
+  },
+  {
+    "ConditionID": 30120002,
+    "Type": 2,
+    "StatisConfigID": 3012,
+    "TargetNum": 1,
+    "Args": "ID:1"
+  },
+  {
+    "ConditionID": 30120003,
+    "Type": 2,
+    "StatisConfigID": 3012,
+    "TargetNum": 1,
+    "Args": "ID:11"
+  },
+  {
+    "ConditionID": 30120004,
+    "Type": 2,
+    "StatisConfigID": 3012,
+    "TargetNum": 1,
+    "Args": "ID:2"
+  },
+  {
+    "ConditionID": 30120005,
+    "Type": 2,
+    "StatisConfigID": 3012,
+    "TargetNum": 1,
+    "Args": "ID:6"
+  },
+  {
+    "ConditionID": 30120006,
+    "Type": 2,
+    "StatisConfigID": 3012,
+    "TargetNum": 1,
+    "Args": "ID:7"
+  },
+  {
+    "ConditionID": 30120007,
+    "Type": 2,
+    "StatisConfigID": 3012,
+    "TargetNum": 1,
+    "Args": "ID:9"
+  },
+  {
+    "ConditionID": 30120008,
+    "Type": 2,
+    "StatisConfigID": 3012,
+    "TargetNum": 1,
+    "Args": "ID:10"
+  },
+  {
+    "ConditionID": 30120009,
+    "Type": 2,
+    "StatisConfigID": 3012,
+    "TargetNum": 1,
+    "Args": "ID:14"
+  },
+  {
+    "ConditionID": 30120010,
+    "Type": 2,
+    "StatisConfigID": 3012,
+    "TargetNum": 1,
+    "Args": "ID:8"
+  },
+  {
+    "ConditionID": 30120011,
+    "Type": 2,
+    "StatisConfigID": 3012,
+    "TargetNum": 1,
+    "Args": "ID:8"
+  },
+  {
+    "ConditionID": 30140001,
+    "Type": 2,
+    "StatisConfigID": 3014,
+    "TargetNum": 1,
+    "Args": "ID:1001010254|State:3"
+  },
+  {
+    "ConditionID": 30140002,
+    "Type": 2,
+    "StatisConfigID": 3014,
+    "TargetNum": 1,
+    "Args": "ID:10010001|State:3"
+  },
+  {
+    "ConditionID": 30140003,
+    "Type": 2,
+    "StatisConfigID": 3014,
+    "TargetNum": 1,
+    "Args": "ID:10010005|State:3"
+  },
+  {
+    "ConditionID": 30140004,
+    "Type": 2,
+    "StatisConfigID": 3014,
+    "TargetNum": 1,
+    "Args": "ID:10020106|State:3"
+  },
+  {
+    "ConditionID": 30140005,
+    "Type": 2,
+    "StatisConfigID": 3014,
+    "TargetNum": 1,
+    "Args": "ID:10010106|State:3"
+  },
+  {
+    "ConditionID": 30140006,
+    "Type": 2,
+    "StatisConfigID": 3014,
+    "TargetNum": 1,
+    "Args": "ID:10010107|State:3"
+  },
+  {
+    "ConditionID": 30140007,
+    "Type": 2,
+    "StatisConfigID": 3014,
+    "TargetNum": 1,
+    "Args": "ID:10010111|State:3"
+  },
+  {
+    "ConditionID": 30140008,
+    "Type": 2,
+    "StatisConfigID": 3014,
+    "TargetNum": 1,
+    "Args": "ID:10010002|State:3"
+  },
+  {
+    "ConditionID": 30140009,
+    "Type": 2,
+    "StatisConfigID": 3014,
+    "TargetNum": 1,
+    "Args": "ID:10010003|State:3"
+  },
+  {
+    "ConditionID": 30140010,
+    "Type": 2,
+    "StatisConfigID": 3014,
+    "TargetNum": 1,
+    "Args": "ID:10020188|State:3"
+  },
+  {
+    "ConditionID": 30140011,
+    "Type": 2,
+    "StatisConfigID": 3014,
+    "TargetNum": 1,
+    "Args": "ID:10020194|State:1"
+  },
+  {
+    "ConditionID": 30150001,
+    "Type": 2,
+    "StatisConfigID": 3015,
+    "TargetNum": 1,
+    "Args": "VHSID:1026|State:1"
+  },
+  {
+    "ConditionID": 30180001,
+    "Type": 2,
+    "StatisConfigID": 3018,
+    "TargetNum": 5,
+    "Args": "TypeID:31"
+  },
+  {
+    "ConditionID": 30180002,
+    "Type": 2,
+    "StatisConfigID": 3018,
+    "TargetNum": 20,
+    "Args": "TypeID:31"
+  },
+  {
+    "ConditionID": 30170001,
+    "Type": 2,
+    "StatisConfigID": 3017,
+    "TargetNum": 1,
+    "Args": "ItemID:1000702"
+  },
+  {
+    "ConditionID": 30170002,
+    "Type": 2,
+    "StatisConfigID": 3017,
+    "TargetNum": 1,
+    "Args": "ItemID:1000707"
+  },
+  {
+    "ConditionID": 30170003,
+    "Type": 2,
+    "StatisConfigID": 3017,
+    "TargetNum": 1,
+    "Args": "ItemID:1000708"
+  },
+  {
+    "ConditionID": 30170004,
+    "Type": 2,
+    "StatisConfigID": 3017,
+    "TargetNum": 50000,
+    "Args": "ItemID:10"
+  },
+  {
+    "ConditionID": 30170005,
+    "Type": 2,
+    "StatisConfigID": 3017,
+    "TargetNum": 10000,
+    "Args": "ItemID:1"
+  },
+  {
+    "ConditionID": 30170006,
+    "Type": 2,
+    "StatisConfigID": 3017,
+    "TargetNum": 6000,
+    "Args": "ItemID:1"
+  },
+  {
+    "ConditionID": 30170007,
+    "Type": 2,
+    "StatisConfigID": 3017,
+    "TargetNum": 10000,
+    "Args": "ItemID:1"
+  },
+  {
+    "ConditionID": 30170008,
+    "Type": 2,
+    "StatisConfigID": 3017,
+    "TargetNum": 13000,
+    "Args": "ItemID:1"
+  },
+  {
+    "ConditionID": 30170009,
+    "Type": 2,
+    "StatisConfigID": 3017,
+    "TargetNum": 1,
+    "Args": "ItemID:103001"
+  },
+  {
+    "ConditionID": 30170010,
+    "Type": 2,
+    "StatisConfigID": 3017,
+    "TargetNum": 1,
+    "Args": "ItemID:103002"
+  },
+  {
+    "ConditionID": 30170011,
+    "Type": 2,
+    "StatisConfigID": 3017,
+    "TargetNum": 1,
+    "Args": "ItemID:103003"
+  },
+  {
+    "ConditionID": 30170012,
+    "Type": 2,
+    "StatisConfigID": 3017,
+    "TargetNum": 1,
+    "Args": "ItemID:103004"
+  },
+  {
+    "ConditionID": 30220001,
+    "Type": 2,
+    "StatisConfigID": 3022,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30230001,
+    "Type": 2,
+    "StatisConfigID": 3023,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30400001,
+    "Type": 2,
+    "StatisConfigID": 3040,
+    "TargetNum": 1,
+    "Args": "HollowQuestType:6"
+  },
+  {
+    "ConditionID": 30410001,
+    "Type": 2,
+    "StatisConfigID": 3041,
+    "TargetNum": 1,
+    "Args": ""
+  },
+  {
+    "ConditionID": 30420001,
+    "Type": 2,
+    "StatisConfigID": 3042,
+    "TargetNum": 1,
+    "Args": "ID:1990036|Time:2000|ValueCompareType:4"
+  },
+  {
+    "ConditionID": 30420002,
+    "Type": 2,
+    "StatisConfigID": 3042,
+    "TargetNum": 1,
+    "Args": "ID:1990037|Time:2500|ValueCompareType:4"
+  },
+  {
+    "ConditionID": 30240001,
+    "Type": 2,
+    "StatisConfigID": 3024,
+    "TargetNum": 1,
+    "Args": "InteractID:40000501"
+  },
+  {
+    "ConditionID": 30240002,
+    "Type": 2,
+    "StatisConfigID": 3024,
+    "TargetNum": 1,
+    "Args": "InteractID:40000502"
+  },
+  {
+    "ConditionID": 30240003,
+    "Type": 2,
+    "StatisConfigID": 3024,
+    "TargetNum": 1,
+    "Args": "InteractID:40000503"
+  },
+  {
+    "ConditionID": 30240004,
+    "Type": 2,
+    "StatisConfigID": 3024,
+    "TargetNum": 1,
+    "Args": "InteractID:1001216"
+  },
+  {
+    "ConditionID": 30240005,
+    "Type": 2,
+    "StatisConfigID": 3024,
+    "TargetNum": 1,
+    "Args": "InteractID:30020002"
+  },
+  {
+    "ConditionID": 30240006,
+    "Type": 2,
+    "StatisConfigID": 3024,
+    "TargetNum": 1,
+    "Args": "InteractID:30020001"
+  },
+  {
+    "ConditionID": 30240007,
+    "Type": 2,
+    "StatisConfigID": 3024,
+    "TargetNum": 1,
+    "Args": "InteractID:40000501"
+  },
+  {
+    "ConditionID": 30240008,
+    "Type": 2,
+    "StatisConfigID": 3024,
+    "TargetNum": 1,
+    "Args": "InteractID:40000502"
+  },
+  {
+    "ConditionID": 30240009,
+    "Type": 2,
+    "StatisConfigID": 3024,
+    "TargetNum": 1,
+    "Args": "InteractID:40000504"
+  },
+  {
+    "ConditionID": 30240010,
+    "Type": 2,
+    "StatisConfigID": 3024,
+    "TargetNum": 1,
+    "Args": "InteractID:40000505"
+  },
+  {
+    "ConditionID": 30240011,
+    "Type": 2,
+    "StatisConfigID": 3024,
+    "TargetNum": 1,
+    "Args": "InteractID:40000507"
+  },
+  {
+    "ConditionID": 30240012,
+    "Type": 2,
+    "StatisConfigID": 3024,
+    "TargetNum": 1,
+    "Args": "InteractID:40000509"
+  },
+  {
+    "ConditionID": 30240013,
+    "Type": 2,
+    "StatisConfigID": 3024,
+    "TargetNum": 1,
+    "Args": "InteractID:40000510"
+  },
+  {
+    "ConditionID": 30240014,
+    "Type": 2,
+    "StatisConfigID": 3024,
+    "TargetNum": 1,
+    "Args": "InteractID:40000511"
+  },
+  {
+    "ConditionID": 30240015,
+    "Type": 2,
+    "StatisConfigID": 3024,
+    "TargetNum": 1,
+    "Args": "InteractID:40000512"
+  },
+  {
+    "ConditionID": 30240016,
+    "Type": 2,
+    "StatisConfigID": 3024,
+    "TargetNum": 1,
+    "Args": "InteractID:1001350"
+  },
+  {
+    "ConditionID": 30240017,
+    "Type": 2,
+    "StatisConfigID": 3024,
+    "TargetNum": 1,
+    "Args": "InteractID:40000514"
+  },
+  {
+    "ConditionID": 30240018,
+    "Type": 2,
+    "StatisConfigID": 3024,
+    "TargetNum": 1,
+    "Args": "InteractID:40000515"
+  },
+  {
+    "ConditionID": 30240019,
+    "Type": 2,
+    "StatisConfigID": 3024,
+    "TargetNum": 1,
+    "Args": "InteractID:40000516"
+  },
+  {
+    "ConditionID": 30240020,
+    "Type": 2,
+    "StatisConfigID": 3024,
+    "TargetNum": 1,
+    "Args": "InteractID:40000513"
+  },
+  {
+    "ConditionID": 30240021,
+    "Type": 2,
+    "StatisConfigID": 3024,
+    "TargetNum": 1,
+    "Args": "InteractID:1001221"
+  },
+  {
+    "ConditionID": 30240022,
+    "Type": 2,
+    "StatisConfigID": 3024,
+    "TargetNum": 1,
+    "Args": "InteractID:1001210"
+  },
+  {
+    "ConditionID": 30240023,
+    "Type": 2,
+    "StatisConfigID": 3024,
+    "TargetNum": 1,
+    "Args": "InteractID:1001224"
+  },
+  {
+    "ConditionID": 30240024,
+    "Type": 2,
+    "StatisConfigID": 3024,
+    "TargetNum": 1,
+    "Args": "InteractID:40000517"
+  },
+  {
+    "ConditionID": 30240025,
+    "Type": 2,
+    "StatisConfigID": 3024,
+    "TargetNum": 1,
+    "Args": "InteractID:40000519"
+  },
+  {
+    "ConditionID": 30240026,
+    "Type": 2,
+    "StatisConfigID": 3024,
+    "TargetNum": 1,
+    "Args": "InteractID:40000525"
+  },
+  {
+    "ConditionID": 30240027,
+    "Type": 2,
+    "StatisConfigID": 3024,
+    "TargetNum": 1,
+    "Args": "InteractID:40000527"
+  },
+  {
+    "ConditionID": 30240028,
+    "Type": 2,
+    "StatisConfigID": 3024,
+    "TargetNum": 1,
+    "Args": "InteractID:40000521"
+  },
+  {
+    "ConditionID": 30240029,
+    "Type": 2,
+    "StatisConfigID": 3024,
+    "TargetNum": 1,
+    "Args": "InteractID:40000523"
+  },
+  {
+    "ConditionID": 30240030,
+    "Type": 2,
+    "StatisConfigID": 3024,
+    "TargetNum": 1,
+    "Args": "InteractID:40000559"
+  },
+  {
+    "ConditionID": 30240031,
+    "Type": 2,
+    "StatisConfigID": 3024,
+    "TargetNum": 1,
+    "Args": "InteractID:40000561"
+  },
+  {
+    "ConditionID": 30240032,
+    "Type": 2,
+    "StatisConfigID": 3024,
+    "TargetNum": 1,
+    "Args": "InteractID:40000573"
+  },
+  {
+    "ConditionID": 30240033,
+    "Type": 2,
+    "StatisConfigID": 3024,
+    "TargetNum": 1,
+    "Args": "InteractID:40000557"
+  },
+  {
+    "ConditionID": 30240034,
+    "Type": 2,
+    "StatisConfigID": 3024,
+    "TargetNum": 1,
+    "Args": "InteractID:40000575"
+  },
+  {
+    "ConditionID": 30240035,
+    "Type": 2,
+    "StatisConfigID": 3024,
+    "TargetNum": 1,
+    "Args": "InteractID:40000569"
+  },
+  {
+    "ConditionID": 30240036,
+    "Type": 2,
+    "StatisConfigID": 3024,
+    "TargetNum": 1,
+    "Args": "InteractID:40000563"
+  },
+  {
+    "ConditionID": 30240037,
+    "Type": 2,
+    "StatisConfigID": 3024,
+    "TargetNum": 1,
+    "Args": "InteractID:40000565"
+  },
+  {
+    "ConditionID": 30240038,
+    "Type": 2,
+    "StatisConfigID": 3024,
+    "TargetNum": 1,
+    "Args": "InteractID:40000571"
+  },
+  {
+    "ConditionID": 30240039,
+    "Type": 2,
+    "StatisConfigID": 3024,
+    "TargetNum": 1,
+    "Args": "InteractID:40000577"
+  },
+  {
+    "ConditionID": 30240040,
+    "Type": 2,
+    "StatisConfigID": 3024,
+    "TargetNum": 1,
+    "Args": "InteractID:40000579"
+  },
+  {
+    "ConditionID": 30240041,
+    "Type": 2,
+    "StatisConfigID": 3024,
+    "TargetNum": 1,
+    "Args": "InteractID:40000531"
+  },
+  {
+    "ConditionID": 30240042,
+    "Type": 2,
+    "StatisConfigID": 3024,
+    "TargetNum": 1,
+    "Args": "InteractID:40000537"
+  },
+  {
+    "ConditionID": 30240043,
+    "Type": 2,
+    "StatisConfigID": 3024,
+    "TargetNum": 1,
+    "Args": "InteractID:40000529"
+  },
+  {
+    "ConditionID": 30240044,
+    "Type": 2,
+    "StatisConfigID": 3024,
+    "TargetNum": 1,
+    "Args": "InteractID:40000549"
+  },
+  {
+    "ConditionID": 30240045,
+    "Type": 2,
+    "StatisConfigID": 3024,
+    "TargetNum": 1,
+    "Args": "InteractID:40000551"
+  },
+  {
+    "ConditionID": 30240046,
+    "Type": 2,
+    "StatisConfigID": 3024,
+    "TargetNum": 1,
+    "Args": "InteractID:40000555"
+  },
+  {
+    "ConditionID": 30240047,
+    "Type": 2,
+    "StatisConfigID": 3024,
+    "TargetNum": 1,
+    "Args": "InteractID:40000547"
+  },
+  {
+    "ConditionID": 30240048,
+    "Type": 2,
+    "StatisConfigID": 3024,
+    "TargetNum": 1,
+    "Args": "InteractID:40000539"
+  },
+  {
+    "ConditionID": 30240049,
+    "Type": 2,
+    "StatisConfigID": 3024,
+    "TargetNum": 1,
+    "Args": "InteractID:40000541"
+  },
+  {
+    "ConditionID": 30240050,
+    "Type": 2,
+    "StatisConfigID": 3024,
+    "TargetNum": 1,
+    "Args": "InteractID:40000543"
+  },
+  {
+    "ConditionID": 30240051,
+    "Type": 2,
+    "StatisConfigID": 3024,
+    "TargetNum": 1,
+    "Args": "InteractID:40000553"
+  },
+  {
+    "ConditionID": 30240052,
+    "Type": 2,
+    "StatisConfigID": 3024,
+    "TargetNum": 1,
+    "Args": "InteractID:40000545"
+  },
+  {
+    "ConditionID": 30240053,
+    "Type": 2,
+    "StatisConfigID": 3024,
+    "TargetNum": 1,
+    "Args": "InteractID:40002001"
+  },
+  {
+    "ConditionID": 30240054,
+    "Type": 2,
+    "StatisConfigID": 3024,
+    "TargetNum": 1,
+    "Args": "InteractID:40000589"
+  },
+  {
+    "ConditionID": 30240055,
+    "Type": 2,
+    "StatisConfigID": 3024,
+    "TargetNum": 1,
+    "Args": "InteractID:40000591"
+  },
+  {
+    "ConditionID": 30240056,
+    "Type": 2,
+    "StatisConfigID": 3024,
+    "TargetNum": 1,
+    "Args": "InteractID:40000593"
+  },
+  {
+    "ConditionID": 30240057,
+    "Type": 2,
+    "StatisConfigID": 3024,
+    "TargetNum": 1,
+    "Args": "InteractID:40000595"
+  },
+  {
+    "ConditionID": 30240058,
+    "Type": 2,
+    "StatisConfigID": 3024,
+    "TargetNum": 1,
+    "Args": "InteractID:40000597"
+  },
+  {
+    "ConditionID": 30240059,
+    "Type": 2,
+    "StatisConfigID": 3024,
+    "TargetNum": 1,
+    "Args": "InteractID:40000599"
+  },
+  {
+    "ConditionID": 30240060,
+    "Type": 2,
+    "StatisConfigID": 3024,
+    "TargetNum": 1,
+    "Args": "InteractID:40000601"
+  },
+  {
+    "ConditionID": 30240061,
+    "Type": 2,
+    "StatisConfigID": 3024,
+    "TargetNum": 1,
+    "Args": "InteractID:40000603"
+  },
+  {
+    "ConditionID": 30240062,
+    "Type": 2,
+    "StatisConfigID": 3024,
+    "TargetNum": 1,
+    "Args": "InteractID:40000605"
+  },
+  {
+    "ConditionID": 30240063,
+    "Type": 2,
+    "StatisConfigID": 3024,
+    "TargetNum": 1,
+    "Args": "InteractID:40000607"
+  }
+]

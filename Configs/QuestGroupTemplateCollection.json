@@ -1,0 +1,12 @@
+[
+  {
+    "ID": 101,
+    "HollowConfigID": 101,
+    "Rank": 1,
+    "QuestsGroup1": 1,
+    "QuestsGroup2": 0,
+    "QuestsGroup3": 0,
+    "IncludedQuests": [],
+    "ExcludedQuests": [1990028, 1990029, 1990035]
+  }
+]

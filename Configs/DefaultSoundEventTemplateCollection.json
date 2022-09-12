@@ -1,0 +1,111 @@
+[
+  {
+    "ID": 1001,
+    "TriggerType": "Button",
+    "ResourcePath": "Play_UI_Gen_Click",
+    "EventID": 0
+  },
+  {
+    "ID": 1002,
+    "TriggerType": "ScrollButton",
+    "ResourcePath": "Play_UI_Gen_CHR_Select",
+    "EventID": 0
+  },
+  {
+    "ID": 1003,
+    "TriggerType": "NegativeFeedback",
+    "ResourcePath": "Play_UI_Gen_Cancel",
+    "EventID": 0
+  },
+  {
+    "ID": 1004,
+    "TriggerType": "OpenPopup1",
+    "ResourcePath": "Play_UI_Gen_Window_Open",
+    "EventID": 0
+  },
+  {
+    "ID": 1005,
+    "TriggerType": "OpenPopup2",
+    "ResourcePath": "Play_UI_Gen_OpenPopup2",
+    "EventID": 0
+  },
+  {
+    "ID": 1006,
+    "TriggerType": "OpenPopupTip",
+    "ResourcePath": "Play_UI_Gen_OpenPopupTip",
+    "EventID": 0
+  },
+  {
+    "ID": 1007,
+    "TriggerType": "ClosePopup1",
+    "ResourcePath": "Play_UI_Gen_Window_Close",
+    "EventID": 0
+  },
+  {
+    "ID": 1008,
+    "TriggerType": "ClosePopup2",
+    "ResourcePath": "Play_UI_Gen_ClosePopup2",
+    "EventID": 0
+  },
+  {
+    "ID": 1009,
+    "TriggerType": "ClosePopupTip",
+    "ResourcePath": "Play_UI_Gen_ClosePopupTip",
+    "EventID": 0
+  },
+  {
+    "ID": 1010,
+    "TriggerType": "ScrollSlideLine",
+    "ResourcePath": "Play_UI_Gen_Slide",
+    "EventID": 0
+  },
+  {
+    "ID": 1011,
+    "TriggerType": "ScrollSlideSingle",
+    "ResourcePath": "Play_UI_Gen_Click",
+    "EventID": 0
+  },
+  {
+    "ID": 1012,
+    "TriggerType": "ScrollSlideSimple",
+    "ResourcePath": "Play_UI_Gen_Slide",
+    "EventID": 0
+  },
+  { "ID": 1013, "TriggerType": "Transition", "ResourcePath": "", "EventID": 0 },
+  {
+    "ID": 1014,
+    "TriggerType": "SlideFadeIn",
+    "ResourcePath": "Play_UI_Gen_SlideFadeIn",
+    "EventID": 0
+  },
+  {
+    "ID": 1015,
+    "TriggerType": "SlideFadeOut",
+    "ResourcePath": "Play_UI_Gen_SlideFadeOut",
+    "EventID": 0
+  },
+  {
+    "ID": 1016,
+    "TriggerType": "FairyAppear",
+    "ResourcePath": "Play_UI_Fairy_Appear",
+    "EventID": 0
+  },
+  {
+    "ID": 1017,
+    "TriggerType": "FairyDisappear",
+    "ResourcePath": "Play_UI_Fairy_Disappear",
+    "EventID": 0
+  },
+  {
+    "ID": 1018,
+    "TriggerType": "SliderMove",
+    "ResourcePath": "Play_UI_Gen_Click",
+    "EventID": 0
+  },
+  {
+    "ID": 1019,
+    "TriggerType": "TabButton",
+    "ResourcePath": "Play_UI_Static_Toggle",
+    "EventID": 0
+  }
+]

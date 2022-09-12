@@ -1,0 +1,58 @@
+[
+  {
+    "DamageElementID": 0,
+    "HpRevise": 10000,
+    "ArmorRevise": 10000,
+    "ShieldRevise": 10000,
+    "Name": "ElementType_None",
+    "Icon": "UI/Sprite/A1DynamicLoad/IconRoleCharacter/Packer/IconRoleCha01.png"
+  },
+  {
+    "DamageElementID": 200,
+    "HpRevise": 10000,
+    "ArmorRevise": 5000,
+    "ShieldRevise": 10000,
+    "Name": "ElementType_Physics",
+    "Icon": "UI/Sprite/A1DynamicLoad/IconDungeonBuff/UnPacker/IconDungeonBuffPhysics.png"
+  },
+  {
+    "DamageElementID": 201,
+    "HpRevise": 10000,
+    "ArmorRevise": 10000,
+    "ShieldRevise": 5000,
+    "Name": "ElementType_Fire",
+    "Icon": "UI/Sprite/A1DynamicLoad/IconDungeonBuff/UnPacker/IconDungeonBuffFire.png"
+  },
+  {
+    "DamageElementID": 202,
+    "HpRevise": 10000,
+    "ArmorRevise": 10000,
+    "ShieldRevise": 5000,
+    "Name": "ElementType_Ice",
+    "Icon": "UI/Sprite/A1DynamicLoad/IconDungeonBuff/UnPacker/IconDungeonBuffIce.png"
+  },
+  {
+    "DamageElementID": 203,
+    "HpRevise": 10000,
+    "ArmorRevise": 10000,
+    "ShieldRevise": 5000,
+    "Name": "ElementType_Elec",
+    "Icon": "UI/Sprite/A1DynamicLoad/IconDungeonBuff/UnPacker/IconDungeonBuffThunder.png"
+  },
+  {
+    "DamageElementID": 204,
+    "HpRevise": 10000,
+    "ArmorRevise": 10000,
+    "ShieldRevise": 5000,
+    "Name": "ElementType_Wind",
+    "Icon": "UI/Sprite/A1DynamicLoad/IconDungeonBuff/UnPacker/IconDungeonBuffWind.png"
+  },
+  {
+    "DamageElementID": 205,
+    "HpRevise": 10000,
+    "ArmorRevise": 10000,
+    "ShieldRevise": 5000,
+    "Name": "ElementType_Ether",
+    "Icon": "UI/Sprite/A1DynamicLoad/IconDungeonBuff/UnPacker/IconDungeonBuffEther.png"
+  }
+]

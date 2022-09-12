@@ -1,0 +1,21 @@
+[
+  { "ID": 1001, "ConditionType": 0, "ConditionValue": 15000 },
+  { "ID": 1002, "ConditionType": 1, "ConditionValue": 0 },
+  { "ID": 1003, "ConditionType": 2, "ConditionValue": 0 },
+  { "ID": 1004, "ConditionType": 3, "ConditionValue": 0 },
+  { "ID": 1005, "ConditionType": 4, "ConditionValue": 0 },
+  { "ID": 1006, "ConditionType": 5, "ConditionValue": 6000 },
+  { "ID": 1007, "ConditionType": 6, "ConditionValue": 0 },
+  { "ID": 1008, "ConditionType": 7, "ConditionValue": 0 },
+  { "ID": 1009, "ConditionType": 8, "ConditionValue": 30 },
+  { "ID": 1010, "ConditionType": 9, "ConditionValue": 5 },
+  { "ID": 1011, "ConditionType": 10, "ConditionValue": 1 },
+  { "ID": 1012, "ConditionType": 11, "ConditionValue": 1 },
+  { "ID": 1013, "ConditionType": 10, "ConditionValue": 2 },
+  { "ID": 1014, "ConditionType": 11, "ConditionValue": 2 },
+  { "ID": 1015, "ConditionType": 12, "ConditionValue": 9 },
+  { "ID": 1016, "ConditionType": 13, "ConditionValue": 200001 },
+  { "ID": 1017, "ConditionType": 13, "ConditionValue": 200005 },
+  { "ID": 1018, "ConditionType": 13, "ConditionValue": 201001 },
+  { "ID": 1019, "ConditionType": 13, "ConditionValue": 201005 }
+]

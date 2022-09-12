@@ -1,0 +1,62 @@
+[
+  { "StateID": 10001, "ObjectUniqueID": 1000, "ObjectState": "TV_Normal" },
+  { "StateID": 10002, "ObjectUniqueID": 1000, "ObjectState": "TV_AFK" },
+  {
+    "StateID": 10003,
+    "ObjectUniqueID": 1001,
+    "ObjectState": "Computer_Normal"
+  },
+  { "StateID": 10004, "ObjectUniqueID": 1001, "ObjectState": "Computer_AFK" },
+  { "StateID": 10005, "ObjectUniqueID": 1002, "ObjectState": "Light_Normal" },
+  { "StateID": 10006, "ObjectUniqueID": 1002, "ObjectState": "Light_AFK" },
+  { "StateID": 10007, "ObjectUniqueID": 999, "ObjectState": "0" },
+  { "StateID": 10008, "ObjectUniqueID": 999, "ObjectState": "1" },
+  { "StateID": 10009, "ObjectUniqueID": 999, "ObjectState": "2" },
+  { "StateID": 10010, "ObjectUniqueID": 1000, "ObjectState": "TV_Hacked" },
+  {
+    "StateID": 10011,
+    "ObjectUniqueID": 1001,
+    "ObjectState": "Computer_Hacked"
+  },
+  { "StateID": 10012, "ObjectUniqueID": 1002, "ObjectState": "Light_Hacked" },
+  { "StateID": 10013, "ObjectUniqueID": 1003, "ObjectState": "Cellphone01_01" },
+  { "StateID": 10014, "ObjectUniqueID": 1004, "ObjectState": "Cellphone01_02" },
+  { "StateID": 10015, "ObjectUniqueID": 1006, "ObjectState": "Cellphone01_03" },
+  { "StateID": 10016, "ObjectUniqueID": 1007, "ObjectState": "Cellphone01_04" },
+  { "StateID": 10017, "ObjectUniqueID": 1008, "ObjectState": "Cellphone01_05" },
+  { "StateID": 10018, "ObjectUniqueID": 1009, "ObjectState": "Cellphone01_06" },
+  { "StateID": 10019, "ObjectUniqueID": 1010, "ObjectState": "Cellphone01_07" },
+  { "StateID": 10020, "ObjectUniqueID": 1011, "ObjectState": "Cellphone01_08" },
+  { "StateID": 10021, "ObjectUniqueID": 1012, "ObjectState": "Cellphone01_09" },
+  { "StateID": 10022, "ObjectUniqueID": 1013, "ObjectState": "Cellphone01_10" },
+  { "StateID": 10023, "ObjectUniqueID": 1014, "ObjectState": "Cellphone02_01" },
+  { "StateID": 10024, "ObjectUniqueID": 1015, "ObjectState": "Cellphone02_02" },
+  { "StateID": 10025, "ObjectUniqueID": 1016, "ObjectState": "Cellphone02_03" },
+  { "StateID": 10026, "ObjectUniqueID": 1017, "ObjectState": "Cellphone02_04" },
+  {
+    "StateID": 10027,
+    "ObjectUniqueID": 1005,
+    "ObjectState": "Vehicle_Car_01_Normal"
+  },
+  { "StateID": 10028, "ObjectUniqueID": 1018, "ObjectState": "Cellphone02_05" },
+  { "StateID": 10029, "ObjectUniqueID": 1019, "ObjectState": "Cellphone02_06" },
+  { "StateID": 10030, "ObjectUniqueID": 1020, "ObjectState": "Cellphone02_07" },
+  { "StateID": 10031, "ObjectUniqueID": 1021, "ObjectState": "Cellphone02_08" },
+  { "StateID": 10032, "ObjectUniqueID": 1022, "ObjectState": "Arcade_01_01" },
+  { "StateID": 10033, "ObjectUniqueID": 1023, "ObjectState": "Arcade_01_02" },
+  { "StateID": 10034, "ObjectUniqueID": 1024, "ObjectState": "Arcade_01_03" },
+  { "StateID": 10035, "ObjectUniqueID": 1025, "ObjectState": "Laptop_01_01" },
+  { "StateID": 10036, "ObjectUniqueID": 1026, "ObjectState": "Laptop_01_02" },
+  { "StateID": 10037, "ObjectUniqueID": 1027, "ObjectState": "Laptop_01_03" },
+  {
+    "StateID": 10038,
+    "ObjectUniqueID": 1028,
+    "ObjectState": "Cellphone01_11_H"
+  },
+  {
+    "StateID": 10039,
+    "ObjectUniqueID": 1029,
+    "ObjectState": "Cellphone01_12_H"
+  },
+  { "StateID": 10040, "ObjectUniqueID": 1001, "ObjectState": "Computer_Fairy" }
+]

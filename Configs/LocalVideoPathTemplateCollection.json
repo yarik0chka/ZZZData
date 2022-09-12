@@ -1,0 +1,38 @@
+[
+  {
+    "ID": 10000,
+    "VideoPathDefault": "Launch/LogoPerform_CHS.mp4",
+    "VideoPathCHS": "Launch/LogoPerform_CHS.mp4",
+    "VideoPathEN": "Launch/LogoPerform_CHS.mp4",
+    "VideoPathCHT": "Launch/LogoPerform_CHS.mp4",
+    "VideoPathJA": "Launch/LogoPerform_CHS.mp4",
+    "VideoPathKO": "Launch/LogoPerform_CHS.mp4"
+  },
+  {
+    "ID": 10001,
+    "VideoPathDefault": "Launch/LogoPerform_EN.mp4",
+    "VideoPathCHS": "Launch/LogoPerform_EN.mp4",
+    "VideoPathEN": "Launch/LogoPerform_EN.mp4",
+    "VideoPathCHT": "Launch/LogoPerform_CHT.mp4",
+    "VideoPathJA": "Launch/LogoPerform_EN.mp4",
+    "VideoPathKO": "Launch/LogoPerform_EN.mp4"
+  },
+  {
+    "ID": 100000,
+    "VideoPathDefault": "MainStory/Chapter/Chinese/MainStoryChapter00.mp4",
+    "VideoPathCHS": "MainStory/Chapter/Chinese/MainStoryChapter00.mp4",
+    "VideoPathEN": "MainStory/Chapter/English/MainStoryChapter00_En.mp4",
+    "VideoPathCHT": "MainStory/Chapter/TraditionalChinese/MainStoryChapter00_TCh.mp4",
+    "VideoPathJA": "MainStory/Chapter/Japanese/MainStoryChapter00_Jp.mp4",
+    "VideoPathKO": "MainStory/Chapter/Korean/MainStoryChapter00_Kr.mp4"
+  },
+  {
+    "ID": 100001,
+    "VideoPathDefault": "MainStory/Chapter/Chinese/MainStoryChapter01.mp4",
+    "VideoPathCHS": "MainStory/Chapter/Chinese/MainStoryChapter01.mp4",
+    "VideoPathEN": "MainStory/Chapter/English/MainStoryChapter01_En.mp4",
+    "VideoPathCHT": "MainStory/Chapter/TraditionalChinese/MainStoryChapter01_TCh.mp4",
+    "VideoPathJA": "MainStory/Chapter/Japanese/MainStoryChapter01_Jp.mp4",
+    "VideoPathKO": "MainStory/Chapter/Korean/MainStoryChapter01_Kr.mp4"
+  }
+]

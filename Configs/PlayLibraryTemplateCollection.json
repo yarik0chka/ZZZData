@@ -1,0 +1,6 @@
+[
+  { "LibraryID": 1, "PlayType": 2, "SwitchDelay": 0 },
+  { "LibraryID": 2, "PlayType": 2, "SwitchDelay": 0 },
+  { "LibraryID": 3, "PlayType": 1, "SwitchDelay": 0 },
+  { "LibraryID": 4, "PlayType": 2, "SwitchDelay": 0 }
+]

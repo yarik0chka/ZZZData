@@ -1,0 +1,62 @@
+[
+  {
+    "ID": 101,
+    "HollowGroup": 1001,
+    "Name": "HollowGroupNameText_101",
+    "LockHint": "Hollow_LockedHint_01",
+    "PicRes": "UI/Sprite/A1DynamicLoad/YorozuyaPage/UnPacker/Icon_HighRisk.png",
+    "LockedModelRes": "UI/3D/Yorozuya/Yorozuya_Hollow_NotunlockedSphere_S.prefab",
+    "ModelRes": "UI/3D/Yorozuya/Yorozuya_Hollow_Sphere_S.prefab",
+    "MonsterTypess": ["none"],
+    "Rank": 5,
+    "UnlockCondition": "30100149"
+  },
+  {
+    "ID": 102,
+    "HollowGroup": 1001,
+    "Name": "HollowGroupNameText_102",
+    "LockHint": "Hollow_LockedHint_01",
+    "PicRes": "UI/Sprite/A1DynamicLoad/YorozuyaPage/UnPacker/Icon_Cretan.png",
+    "LockedModelRes": "UI/3D/Yorozuya/Yorozuya_Hollow_NotunlockedSphere_M.prefab",
+    "ModelRes": "UI/3D/Yorozuya/Yorozuya_Hollow_Sphere_M.prefab",
+    "MonsterTypess": ["none"],
+    "Rank": 1,
+    "UnlockCondition": ""
+  },
+  {
+    "ID": 103,
+    "HollowGroup": 1001,
+    "Name": "HollowGroupNameText_103",
+    "LockHint": "Hollow_LockedHint_01",
+    "PicRes": "UI/Sprite/A1DynamicLoad/YorozuyaPage/UnPacker/Icon_Lemnian.png",
+    "LockedModelRes": "UI/3D/Yorozuya/Yorozuya_Hollow_NotunlockedSphere_L.prefab",
+    "ModelRes": "UI/3D/Yorozuya/Yorozuya_Hollow_Sphere_L.prefab",
+    "MonsterTypess": ["none"],
+    "Rank": 999,
+    "UnlockCondition": "30070057"
+  },
+  {
+    "ID": 104,
+    "HollowGroup": 1001,
+    "Name": "HollowGroupNameText_104",
+    "LockHint": "Hollow_LockedHint_01",
+    "PicRes": "UI/Sprite/A1DynamicLoad/YorozuyaPage/UnPacker/Icon_UnKnown.png",
+    "LockedModelRes": "UI/3D/Yorozuya/Yorozuya_Hollow_NotunlockedSphere_M.prefab",
+    "ModelRes": "UI/3D/Yorozuya/Yorozuya_Hollow_Sphere_M.prefab",
+    "MonsterTypess": ["none"],
+    "Rank": 8,
+    "UnlockCondition": "30100109"
+  },
+  {
+    "ID": 105,
+    "HollowGroup": 1001,
+    "Name": "HollowGroupNameText_105",
+    "LockHint": "Hollow_LockedHint_01",
+    "PicRes": "UI/Sprite/A1DynamicLoad/YorozuyaPage/UnPacker/Icon_Lemnian.png",
+    "LockedModelRes": "UI/3D/Yorozuya/Yorozuya_Hollow_NotunlockedSphere_S.prefab",
+    "ModelRes": "UI/3D/Yorozuya/Yorozuya_Hollow_Sphere_S.prefab",
+    "MonsterTypess": ["none"],
+    "Rank": 999,
+    "UnlockCondition": "30070057"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "ID": 1,
+    "TriggerCondition": "30220001",
+    "GroupID": 1,
+    "Method": 0,
+    "TargetPage": "MoleMole.UILineupSelectPage"
+  },
+  {
+    "ID": 2,
+    "TriggerCondition": "30400001",
+    "GroupID": 2,
+    "Method": 0,
+    "TargetPage": "MoleMole.UILineupSelectPage"
+  },
+  {
+    "ID": 3,
+    "TriggerCondition": "",
+    "GroupID": 3,
+    "Method": 0,
+    "TargetPage": "MoleMole.UILineupSelectPage"
+  }
+]

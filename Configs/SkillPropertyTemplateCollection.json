@@ -1,0 +1,23 @@
+[
+  {
+    "ID": 1001,
+    "Name": "SkillDamageRate",
+    "Enlarge": 10000,
+    "ShowForm": "{0:0.##%}",
+    "Function": 3
+  },
+  {
+    "ID": 1002,
+    "Name": "SkillStunRatio",
+    "Enlarge": 10000,
+    "ShowForm": "{0:0.##%}",
+    "Function": 3
+  },
+  {
+    "ID": 1003,
+    "Name": "SkillSpRecovery",
+    "Enlarge": 10000,
+    "ShowForm": "{0:0}",
+    "Function": 3
+  }
+]

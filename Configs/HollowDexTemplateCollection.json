@@ -1,0 +1,6 @@
+[
+  { "ID": 1, "BtnName": "PlugBtnText", "BtnOrder": 1 },
+  { "ID": 2, "BtnName": "BadgeBtnText", "BtnOrder": 2 },
+  { "ID": 3, "BtnName": "EventBtnText", "BtnOrder": 3 },
+  { "ID": 4, "BtnName": "ErodeBtnText", "BtnOrder": 4 }
+]

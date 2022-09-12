@@ -1,0 +1,10 @@
+[
+  {
+    "RareTarotCardValue": "0,1,2,5,0",
+    "ConstValueAlpha": 30000,
+    "ConstValueDelta": 50000,
+    "ConstValueN": 3000,
+    "ConstValueRho": -5000,
+    "ConstValueK": 20000
+  }
+]

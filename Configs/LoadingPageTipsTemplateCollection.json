@@ -1,0 +1,20 @@
+[
+  {
+    "ID": 1,
+    "TriggerCondition": "",
+    "TitleKey": "BattleRankingConfig_100207",
+    "DesKey": "BattleRankingConfig_100200"
+  },
+  {
+    "ID": 2,
+    "TriggerCondition": "",
+    "TitleKey": "BattleRankingConfig_100201",
+    "DesKey": "BattleRankingConfig_100202"
+  },
+  {
+    "ID": 3,
+    "TriggerCondition": "",
+    "TitleKey": "BattleRankingConfig_100203",
+    "DesKey": "BattleRankingConfig_100204"
+  }
+]

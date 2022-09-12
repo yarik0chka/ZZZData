@@ -1,0 +1,520 @@
+[
+  {
+    "Rarity": 1,
+    "Level": 0,
+    "EnhanceRate": 0,
+    "Exp": 100,
+    "ExpRecycleRate": 10000
+  },
+  {
+    "Rarity": 1,
+    "Level": 1,
+    "EnhanceRate": 1000,
+    "Exp": 200,
+    "ExpRecycleRate": 10000
+  },
+  {
+    "Rarity": 1,
+    "Level": 2,
+    "EnhanceRate": 2000,
+    "Exp": 300,
+    "ExpRecycleRate": 10000
+  },
+  {
+    "Rarity": 1,
+    "Level": 3,
+    "EnhanceRate": 3000,
+    "Exp": 400,
+    "ExpRecycleRate": 10000
+  },
+  {
+    "Rarity": 1,
+    "Level": 4,
+    "EnhanceRate": 4000,
+    "Exp": 500,
+    "ExpRecycleRate": 10000
+  },
+  {
+    "Rarity": 1,
+    "Level": 5,
+    "EnhanceRate": 5000,
+    "Exp": 600,
+    "ExpRecycleRate": 8500
+  },
+  {
+    "Rarity": 1,
+    "Level": 6,
+    "EnhanceRate": 6000,
+    "Exp": 700,
+    "ExpRecycleRate": 8500
+  },
+  {
+    "Rarity": 1,
+    "Level": 7,
+    "EnhanceRate": 7000,
+    "Exp": 800,
+    "ExpRecycleRate": 8500
+  },
+  {
+    "Rarity": 1,
+    "Level": 8,
+    "EnhanceRate": 8000,
+    "Exp": 900,
+    "ExpRecycleRate": 8500
+  },
+  {
+    "Rarity": 1,
+    "Level": 9,
+    "EnhanceRate": 9000,
+    "Exp": 1000,
+    "ExpRecycleRate": 8500
+  },
+  {
+    "Rarity": 1,
+    "Level": 10,
+    "EnhanceRate": 10000,
+    "Exp": 0,
+    "ExpRecycleRate": 0
+  },
+  {
+    "Rarity": 2,
+    "Level": 0,
+    "EnhanceRate": 0,
+    "Exp": 150,
+    "ExpRecycleRate": 10000
+  },
+  {
+    "Rarity": 2,
+    "Level": 1,
+    "EnhanceRate": 1000,
+    "Exp": 300,
+    "ExpRecycleRate": 10000
+  },
+  {
+    "Rarity": 2,
+    "Level": 2,
+    "EnhanceRate": 2000,
+    "Exp": 450,
+    "ExpRecycleRate": 10000
+  },
+  {
+    "Rarity": 2,
+    "Level": 3,
+    "EnhanceRate": 3000,
+    "Exp": 600,
+    "ExpRecycleRate": 10000
+  },
+  {
+    "Rarity": 2,
+    "Level": 4,
+    "EnhanceRate": 4000,
+    "Exp": 750,
+    "ExpRecycleRate": 10000
+  },
+  {
+    "Rarity": 2,
+    "Level": 5,
+    "EnhanceRate": 5000,
+    "Exp": 900,
+    "ExpRecycleRate": 8500
+  },
+  {
+    "Rarity": 2,
+    "Level": 6,
+    "EnhanceRate": 6000,
+    "Exp": 1050,
+    "ExpRecycleRate": 8500
+  },
+  {
+    "Rarity": 2,
+    "Level": 7,
+    "EnhanceRate": 7000,
+    "Exp": 1200,
+    "ExpRecycleRate": 8500
+  },
+  {
+    "Rarity": 2,
+    "Level": 8,
+    "EnhanceRate": 8000,
+    "Exp": 1350,
+    "ExpRecycleRate": 8500
+  },
+  {
+    "Rarity": 2,
+    "Level": 9,
+    "EnhanceRate": 9000,
+    "Exp": 1500,
+    "ExpRecycleRate": 8500
+  },
+  {
+    "Rarity": 2,
+    "Level": 10,
+    "EnhanceRate": 10000,
+    "Exp": 1650,
+    "ExpRecycleRate": 7000
+  },
+  {
+    "Rarity": 2,
+    "Level": 11,
+    "EnhanceRate": 11000,
+    "Exp": 1800,
+    "ExpRecycleRate": 7000
+  },
+  {
+    "Rarity": 2,
+    "Level": 12,
+    "EnhanceRate": 12000,
+    "Exp": 1950,
+    "ExpRecycleRate": 7000
+  },
+  {
+    "Rarity": 2,
+    "Level": 13,
+    "EnhanceRate": 13000,
+    "Exp": 2100,
+    "ExpRecycleRate": 7000
+  },
+  {
+    "Rarity": 2,
+    "Level": 14,
+    "EnhanceRate": 14000,
+    "Exp": 2250,
+    "ExpRecycleRate": 7000
+  },
+  {
+    "Rarity": 2,
+    "Level": 15,
+    "EnhanceRate": 15000,
+    "Exp": 0,
+    "ExpRecycleRate": 0
+  },
+  {
+    "Rarity": 3,
+    "Level": 0,
+    "EnhanceRate": 0,
+    "Exp": 200,
+    "ExpRecycleRate": 10000
+  },
+  {
+    "Rarity": 3,
+    "Level": 1,
+    "EnhanceRate": 1000,
+    "Exp": 400,
+    "ExpRecycleRate": 10000
+  },
+  {
+    "Rarity": 3,
+    "Level": 2,
+    "EnhanceRate": 2000,
+    "Exp": 600,
+    "ExpRecycleRate": 10000
+  },
+  {
+    "Rarity": 3,
+    "Level": 3,
+    "EnhanceRate": 3000,
+    "Exp": 800,
+    "ExpRecycleRate": 10000
+  },
+  {
+    "Rarity": 3,
+    "Level": 4,
+    "EnhanceRate": 4000,
+    "Exp": 1000,
+    "ExpRecycleRate": 10000
+  },
+  {
+    "Rarity": 3,
+    "Level": 5,
+    "EnhanceRate": 5000,
+    "Exp": 1200,
+    "ExpRecycleRate": 8500
+  },
+  {
+    "Rarity": 3,
+    "Level": 6,
+    "EnhanceRate": 6000,
+    "Exp": 1400,
+    "ExpRecycleRate": 8500
+  },
+  {
+    "Rarity": 3,
+    "Level": 7,
+    "EnhanceRate": 7000,
+    "Exp": 1600,
+    "ExpRecycleRate": 8500
+  },
+  {
+    "Rarity": 3,
+    "Level": 8,
+    "EnhanceRate": 8000,
+    "Exp": 1800,
+    "ExpRecycleRate": 8500
+  },
+  {
+    "Rarity": 3,
+    "Level": 9,
+    "EnhanceRate": 9000,
+    "Exp": 2000,
+    "ExpRecycleRate": 8500
+  },
+  {
+    "Rarity": 3,
+    "Level": 10,
+    "EnhanceRate": 10000,
+    "Exp": 2200,
+    "ExpRecycleRate": 7000
+  },
+  {
+    "Rarity": 3,
+    "Level": 11,
+    "EnhanceRate": 11000,
+    "Exp": 2400,
+    "ExpRecycleRate": 7000
+  },
+  {
+    "Rarity": 3,
+    "Level": 12,
+    "EnhanceRate": 12000,
+    "Exp": 2600,
+    "ExpRecycleRate": 7000
+  },
+  {
+    "Rarity": 3,
+    "Level": 13,
+    "EnhanceRate": 13000,
+    "Exp": 2800,
+    "ExpRecycleRate": 7000
+  },
+  {
+    "Rarity": 3,
+    "Level": 14,
+    "EnhanceRate": 14000,
+    "Exp": 3000,
+    "ExpRecycleRate": 7000
+  },
+  {
+    "Rarity": 3,
+    "Level": 15,
+    "EnhanceRate": 15000,
+    "Exp": 3200,
+    "ExpRecycleRate": 5500
+  },
+  {
+    "Rarity": 3,
+    "Level": 16,
+    "EnhanceRate": 16000,
+    "Exp": 3400,
+    "ExpRecycleRate": 5500
+  },
+  {
+    "Rarity": 3,
+    "Level": 17,
+    "EnhanceRate": 17000,
+    "Exp": 3600,
+    "ExpRecycleRate": 5500
+  },
+  {
+    "Rarity": 3,
+    "Level": 18,
+    "EnhanceRate": 18000,
+    "Exp": 3800,
+    "ExpRecycleRate": 5500
+  },
+  {
+    "Rarity": 3,
+    "Level": 19,
+    "EnhanceRate": 19000,
+    "Exp": 4000,
+    "ExpRecycleRate": 5500
+  },
+  {
+    "Rarity": 3,
+    "Level": 20,
+    "EnhanceRate": 20000,
+    "Exp": 0,
+    "ExpRecycleRate": 0
+  },
+  {
+    "Rarity": 4,
+    "Level": 0,
+    "EnhanceRate": 0,
+    "Exp": 250,
+    "ExpRecycleRate": 10000
+  },
+  {
+    "Rarity": 4,
+    "Level": 1,
+    "EnhanceRate": 1000,
+    "Exp": 500,
+    "ExpRecycleRate": 10000
+  },
+  {
+    "Rarity": 4,
+    "Level": 2,
+    "EnhanceRate": 2000,
+    "Exp": 750,
+    "ExpRecycleRate": 10000
+  },
+  {
+    "Rarity": 4,
+    "Level": 3,
+    "EnhanceRate": 3000,
+    "Exp": 1000,
+    "ExpRecycleRate": 10000
+  },
+  {
+    "Rarity": 4,
+    "Level": 4,
+    "EnhanceRate": 4000,
+    "Exp": 1250,
+    "ExpRecycleRate": 10000
+  },
+  {
+    "Rarity": 4,
+    "Level": 5,
+    "EnhanceRate": 5000,
+    "Exp": 1500,
+    "ExpRecycleRate": 8500
+  },
+  {
+    "Rarity": 4,
+    "Level": 6,
+    "EnhanceRate": 6000,
+    "Exp": 1750,
+    "ExpRecycleRate": 8500
+  },
+  {
+    "Rarity": 4,
+    "Level": 7,
+    "EnhanceRate": 7000,
+    "Exp": 2000,
+    "ExpRecycleRate": 8500
+  },
+  {
+    "Rarity": 4,
+    "Level": 8,
+    "EnhanceRate": 8000,
+    "Exp": 2250,
+    "ExpRecycleRate": 8500
+  },
+  {
+    "Rarity": 4,
+    "Level": 9,
+    "EnhanceRate": 9000,
+    "Exp": 2500,
+    "ExpRecycleRate": 8500
+  },
+  {
+    "Rarity": 4,
+    "Level": 10,
+    "EnhanceRate": 10000,
+    "Exp": 2750,
+    "ExpRecycleRate": 7000
+  },
+  {
+    "Rarity": 4,
+    "Level": 11,
+    "EnhanceRate": 11000,
+    "Exp": 3000,
+    "ExpRecycleRate": 7000
+  },
+  {
+    "Rarity": 4,
+    "Level": 12,
+    "EnhanceRate": 12000,
+    "Exp": 3250,
+    "ExpRecycleRate": 7000
+  },
+  {
+    "Rarity": 4,
+    "Level": 13,
+    "EnhanceRate": 13000,
+    "Exp": 3500,
+    "ExpRecycleRate": 7000
+  },
+  {
+    "Rarity": 4,
+    "Level": 14,
+    "EnhanceRate": 14000,
+    "Exp": 3750,
+    "ExpRecycleRate": 7000
+  },
+  {
+    "Rarity": 4,
+    "Level": 15,
+    "EnhanceRate": 15000,
+    "Exp": 4000,
+    "ExpRecycleRate": 5500
+  },
+  {
+    "Rarity": 4,
+    "Level": 16,
+    "EnhanceRate": 16000,
+    "Exp": 4250,
+    "ExpRecycleRate": 5500
+  },
+  {
+    "Rarity": 4,
+    "Level": 17,
+    "EnhanceRate": 17000,
+    "Exp": 4500,
+    "ExpRecycleRate": 5500
+  },
+  {
+    "Rarity": 4,
+    "Level": 18,
+    "EnhanceRate": 18000,
+    "Exp": 4750,
+    "ExpRecycleRate": 5500
+  },
+  {
+    "Rarity": 4,
+    "Level": 19,
+    "EnhanceRate": 19000,
+    "Exp": 5000,
+    "ExpRecycleRate": 5500
+  },
+  {
+    "Rarity": 4,
+    "Level": 20,
+    "EnhanceRate": 20000,
+    "Exp": 5250,
+    "ExpRecycleRate": 4000
+  },
+  {
+    "Rarity": 4,
+    "Level": 21,
+    "EnhanceRate": 21000,
+    "Exp": 5500,
+    "ExpRecycleRate": 4000
+  },
+  {
+    "Rarity": 4,
+    "Level": 22,
+    "EnhanceRate": 22000,
+    "Exp": 5750,
+    "ExpRecycleRate": 4000
+  },
+  {
+    "Rarity": 4,
+    "Level": 23,
+    "EnhanceRate": 23000,
+    "Exp": 6000,
+    "ExpRecycleRate": 4000
+  },
+  {
+    "Rarity": 4,
+    "Level": 24,
+    "EnhanceRate": 24000,
+    "Exp": 6250,
+    "ExpRecycleRate": 4000
+  },
+  {
+    "Rarity": 4,
+    "Level": 25,
+    "EnhanceRate": 25000,
+    "Exp": 0,
+    "ExpRecycleRate": 0
+  }
+]

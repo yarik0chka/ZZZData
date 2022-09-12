@@ -1,0 +1,398 @@
+[
+  {
+    "ContentID": 100,
+    "BattlePoolID": 0,
+    "CardPoolID": 0,
+    "CurseID": 0,
+    "StaminaID": 0,
+    "GenrePoolIDss": [],
+    "AddRelationIDs": [],
+    "BaneCardPoolID": 0,
+    "ArcanaPoolID": 0,
+    "BlessingID": 0,
+    "RewardID": 0,
+    "BattleIDss": []
+  },
+  {
+    "ContentID": 10001,
+    "BattlePoolID": 1001,
+    "CardPoolID": 1001002,
+    "CurseID": 1004001,
+    "StaminaID": 1001,
+    "GenrePoolIDss": [
+      1001, 1002, 1003, 1004, 1005, 1006, 1008, 1009, 1010, 1011, 1012
+    ],
+    "AddRelationIDs": [121001, 111001, 111002, 121003, 111003],
+    "BaneCardPoolID": 0,
+    "ArcanaPoolID": 0,
+    "BlessingID": 0,
+    "RewardID": 0,
+    "BattleIDss": []
+  },
+  {
+    "ContentID": 10002,
+    "BattlePoolID": 1001,
+    "CardPoolID": 1001001,
+    "CurseID": 1004001,
+    "StaminaID": 1001,
+    "GenrePoolIDss": [
+      1001, 1002, 1003, 1004, 1005, 1006, 1008, 1009, 1010, 1011, 1012
+    ],
+    "AddRelationIDs": [121001, 111001, 111002, 121003, 111003],
+    "BaneCardPoolID": 0,
+    "ArcanaPoolID": 0,
+    "BlessingID": 0,
+    "RewardID": 0,
+    "BattleIDss": []
+  },
+  {
+    "ContentID": 10101,
+    "BattlePoolID": 1001,
+    "CardPoolID": 0,
+    "CurseID": 9904101,
+    "StaminaID": 1001,
+    "GenrePoolIDss": [],
+    "AddRelationIDs": [121001, 111001, 111002, 121003, 111003],
+    "BaneCardPoolID": 0,
+    "ArcanaPoolID": 0,
+    "BlessingID": 0,
+    "RewardID": 0,
+    "BattleIDss": []
+  },
+  {
+    "ContentID": 10102,
+    "BattlePoolID": 1001,
+    "CardPoolID": 1001001,
+    "CurseID": 9904102,
+    "StaminaID": 1001,
+    "GenrePoolIDss": [
+      1001, 1002, 1003, 1004, 1005, 1006, 1008, 1009, 1010, 1011, 1012
+    ],
+    "AddRelationIDs": [121001, 111001, 111002, 121003, 111003],
+    "BaneCardPoolID": 0,
+    "ArcanaPoolID": 0,
+    "BlessingID": 0,
+    "RewardID": 0,
+    "BattleIDss": []
+  },
+  {
+    "ContentID": 10103,
+    "BattlePoolID": 1001,
+    "CardPoolID": 1001001,
+    "CurseID": 9904103,
+    "StaminaID": 1001,
+    "GenrePoolIDss": [
+      1001, 1002, 1003, 1004, 1005, 1006, 1008, 1009, 1010, 1011, 1012
+    ],
+    "AddRelationIDs": [121001, 111001, 111002, 121003, 111003],
+    "BaneCardPoolID": 0,
+    "ArcanaPoolID": 0,
+    "BlessingID": 0,
+    "RewardID": 0,
+    "BattleIDss": []
+  },
+  {
+    "ContentID": 10104,
+    "BattlePoolID": 1001,
+    "CardPoolID": 1001002,
+    "CurseID": 9904103,
+    "StaminaID": 1001,
+    "GenrePoolIDss": [
+      1001, 1002, 1003, 1004, 1005, 1006, 1008, 1009, 1010, 1011, 1012
+    ],
+    "AddRelationIDs": [121001, 111001, 111002, 121003, 111003],
+    "BaneCardPoolID": 0,
+    "ArcanaPoolID": 0,
+    "BlessingID": 0,
+    "RewardID": 0,
+    "BattleIDss": []
+  },
+  {
+    "ContentID": 10105,
+    "BattlePoolID": 1001,
+    "CardPoolID": 1001001,
+    "CurseID": 1004001,
+    "StaminaID": 1001,
+    "GenrePoolIDss": [
+      1001, 1002, 1003, 1004, 1005, 1006, 1008, 1009, 1010, 1011, 1012
+    ],
+    "AddRelationIDs": [121001, 111001, 111002, 121003, 111003],
+    "BaneCardPoolID": 0,
+    "ArcanaPoolID": 0,
+    "BlessingID": 0,
+    "RewardID": 0,
+    "BattleIDss": []
+  },
+  {
+    "ContentID": 10106,
+    "BattlePoolID": 1001,
+    "CardPoolID": 1001002,
+    "CurseID": 1004001,
+    "StaminaID": 1001,
+    "GenrePoolIDss": [
+      1001, 1002, 1003, 1004, 1005, 1006, 1008, 1009, 1010, 1011, 1012
+    ],
+    "AddRelationIDs": [121001, 111001, 111002, 121003, 111003],
+    "BaneCardPoolID": 0,
+    "ArcanaPoolID": 0,
+    "BlessingID": 0,
+    "RewardID": 0,
+    "BattleIDss": []
+  },
+  {
+    "ContentID": 10107,
+    "BattlePoolID": 1001,
+    "CardPoolID": 9901101,
+    "CurseID": 9904102,
+    "StaminaID": 1001,
+    "GenrePoolIDss": [
+      1001, 1002, 1003, 1004, 1005, 1006, 1008, 1009, 1010, 1011, 1012
+    ],
+    "AddRelationIDs": [121001, 111001, 111002, 121003, 111003],
+    "BaneCardPoolID": 0,
+    "ArcanaPoolID": 0,
+    "BlessingID": 0,
+    "RewardID": 0,
+    "BattleIDss": []
+  },
+  {
+    "ContentID": 11001,
+    "BattlePoolID": 1002,
+    "CardPoolID": 1001002,
+    "CurseID": 1004001,
+    "StaminaID": 1001,
+    "GenrePoolIDss": [
+      1001, 1002, 1003, 1004, 1005, 1006, 1008, 1009, 1010, 1011, 1012
+    ],
+    "AddRelationIDs": [121001, 111001, 111002, 121003, 111003],
+    "BaneCardPoolID": 0,
+    "ArcanaPoolID": 0,
+    "BlessingID": 0,
+    "RewardID": 0,
+    "BattleIDss": []
+  },
+  {
+    "ContentID": 11002,
+    "BattlePoolID": 1002,
+    "CardPoolID": 1001001,
+    "CurseID": 1004001,
+    "StaminaID": 1001,
+    "GenrePoolIDss": [
+      1001, 1002, 1003, 1004, 1005, 1006, 1008, 1009, 1010, 1011, 1012
+    ],
+    "AddRelationIDs": [121001, 111001, 111002, 121003, 111003],
+    "BaneCardPoolID": 0,
+    "ArcanaPoolID": 0,
+    "BlessingID": 0,
+    "RewardID": 0,
+    "BattleIDss": []
+  },
+  {
+    "ContentID": 11101,
+    "BattlePoolID": 1002,
+    "CardPoolID": 1001001,
+    "CurseID": 1004001,
+    "StaminaID": 1001,
+    "GenrePoolIDss": [
+      1001, 1002, 1003, 1004, 1005, 1006, 1008, 1009, 1010, 1011, 1012
+    ],
+    "AddRelationIDs": [121001, 111001, 111002, 121003, 111003],
+    "BaneCardPoolID": 0,
+    "ArcanaPoolID": 0,
+    "BlessingID": 0,
+    "RewardID": 0,
+    "BattleIDss": []
+  },
+  {
+    "ContentID": 11102,
+    "BattlePoolID": 10106,
+    "CardPoolID": 1001002,
+    "CurseID": 1004001,
+    "StaminaID": 1001,
+    "GenrePoolIDss": [
+      1001, 1002, 1003, 1004, 1005, 1006, 1008, 1009, 1010, 1011, 1012
+    ],
+    "AddRelationIDs": [121001, 111001, 111002, 121003, 111003],
+    "BaneCardPoolID": 0,
+    "ArcanaPoolID": 0,
+    "BlessingID": 0,
+    "RewardID": 0,
+    "BattleIDss": []
+  },
+  {
+    "ContentID": 11103,
+    "BattlePoolID": 1002,
+    "CardPoolID": 1001002,
+    "CurseID": 1004001,
+    "StaminaID": 1001,
+    "GenrePoolIDss": [
+      1001, 1002, 1003, 1004, 1005, 1006, 1008, 1009, 1010, 1011, 1012
+    ],
+    "AddRelationIDs": [121001, 111001, 111002, 121003, 111003],
+    "BaneCardPoolID": 0,
+    "ArcanaPoolID": 0,
+    "BlessingID": 0,
+    "RewardID": 0,
+    "BattleIDss": []
+  },
+  {
+    "ContentID": 11104,
+    "BattlePoolID": 20108,
+    "CardPoolID": 1001001,
+    "CurseID": 1004001,
+    "StaminaID": 1001,
+    "GenrePoolIDss": [
+      1001, 1002, 1003, 1004, 1005, 1006, 1008, 1009, 1010, 1011, 1012
+    ],
+    "AddRelationIDs": [121001, 111001, 111002, 121003, 111003],
+    "BaneCardPoolID": 0,
+    "ArcanaPoolID": 0,
+    "BlessingID": 0,
+    "RewardID": 0,
+    "BattleIDss": []
+  },
+  {
+    "ContentID": 11105,
+    "BattlePoolID": 1002,
+    "CardPoolID": 1001001,
+    "CurseID": 1104101,
+    "StaminaID": 1001,
+    "GenrePoolIDss": [
+      1001, 1002, 1003, 1004, 1005, 1006, 1008, 1009, 1010, 1011, 1012
+    ],
+    "AddRelationIDs": [121001, 111001, 111002, 121003, 111003],
+    "BaneCardPoolID": 0,
+    "ArcanaPoolID": 0,
+    "BlessingID": 0,
+    "RewardID": 0,
+    "BattleIDss": []
+  },
+  {
+    "ContentID": 11106,
+    "BattlePoolID": 1002,
+    "CardPoolID": 1001002,
+    "CurseID": 1104101,
+    "StaminaID": 1001,
+    "GenrePoolIDss": [
+      1001, 1002, 1003, 1004, 1005, 1006, 1008, 1009, 1010, 1011, 1012
+    ],
+    "AddRelationIDs": [121001, 111001, 111002, 121003, 111003],
+    "BaneCardPoolID": 0,
+    "ArcanaPoolID": 0,
+    "BlessingID": 0,
+    "RewardID": 0,
+    "BattleIDss": []
+  },
+  {
+    "ContentID": 11107,
+    "BattlePoolID": 20101,
+    "CardPoolID": 1001002,
+    "CurseID": 1004001,
+    "StaminaID": 1001,
+    "GenrePoolIDss": [
+      1001, 1002, 1003, 1004, 1005, 1006, 1008, 1009, 1010, 1011, 1012
+    ],
+    "AddRelationIDs": [121001, 111001, 111002, 121003, 111003],
+    "BaneCardPoolID": 0,
+    "ArcanaPoolID": 0,
+    "BlessingID": 0,
+    "RewardID": 0,
+    "BattleIDss": []
+  },
+  {
+    "ContentID": 11108,
+    "BattlePoolID": 20106,
+    "CardPoolID": 1001002,
+    "CurseID": 1004001,
+    "StaminaID": 1001,
+    "GenrePoolIDss": [
+      1001, 1002, 1003, 1004, 1005, 1006, 1008, 1009, 1010, 1011, 1012
+    ],
+    "AddRelationIDs": [121001, 111001, 111002, 121003, 111003],
+    "BaneCardPoolID": 0,
+    "ArcanaPoolID": 0,
+    "BlessingID": 0,
+    "RewardID": 0,
+    "BattleIDss": []
+  },
+  {
+    "ContentID": 11109,
+    "BattlePoolID": 20109,
+    "CardPoolID": 1001001,
+    "CurseID": 1004001,
+    "StaminaID": 1001,
+    "GenrePoolIDss": [
+      1001, 1002, 1003, 1004, 1005, 1006, 1008, 1009, 1010, 1011, 1012
+    ],
+    "AddRelationIDs": [121001, 111001, 111002, 121003, 111003],
+    "BaneCardPoolID": 0,
+    "ArcanaPoolID": 0,
+    "BlessingID": 0,
+    "RewardID": 0,
+    "BattleIDss": []
+  },
+  {
+    "ContentID": 12001,
+    "BattlePoolID": 1002,
+    "CardPoolID": 1001002,
+    "CurseID": 1004001,
+    "StaminaID": 1001,
+    "GenrePoolIDss": [
+      1001, 1002, 1003, 1004, 1005, 1006, 1008, 1009, 1010, 1011, 1012
+    ],
+    "AddRelationIDs": [121001, 111001, 111002, 121003, 111003],
+    "BaneCardPoolID": 0,
+    "ArcanaPoolID": 0,
+    "BlessingID": 0,
+    "RewardID": 0,
+    "BattleIDss": []
+  },
+  {
+    "ContentID": 12002,
+    "BattlePoolID": 1002,
+    "CardPoolID": 1001001,
+    "CurseID": 1004001,
+    "StaminaID": 1001,
+    "GenrePoolIDss": [
+      1001, 1002, 1003, 1004, 1005, 1006, 1008, 1009, 1010, 1011, 1012
+    ],
+    "AddRelationIDs": [121001, 111001, 111002, 121003, 111003],
+    "BaneCardPoolID": 0,
+    "ArcanaPoolID": 0,
+    "BlessingID": 0,
+    "RewardID": 0,
+    "BattleIDss": []
+  },
+  {
+    "ContentID": 12101,
+    "BattlePoolID": 1002,
+    "CardPoolID": 1001002,
+    "CurseID": 1004001,
+    "StaminaID": 1003,
+    "GenrePoolIDss": [
+      1001, 1002, 1003, 1004, 1005, 1006, 1008, 1009, 1010, 1011, 1012
+    ],
+    "AddRelationIDs": [121001, 111001, 111002, 121003, 111003],
+    "BaneCardPoolID": 0,
+    "ArcanaPoolID": 0,
+    "BlessingID": 0,
+    "RewardID": 0,
+    "BattleIDss": []
+  },
+  {
+    "ContentID": 12102,
+    "BattlePoolID": 20206,
+    "CardPoolID": 1001002,
+    "CurseID": 1104102,
+    "StaminaID": 1002,
+    "GenrePoolIDss": [
+      1001, 1002, 1003, 1004, 1005, 1006, 1008, 1009, 1010, 1011, 1012
+    ],
+    "AddRelationIDs": [121001, 111001, 111002, 121003, 111003],
+    "BaneCardPoolID": 0,
+    "ArcanaPoolID": 0,
+    "BlessingID": 0,
+    "RewardID": 0,
+    "BattleIDss": []
+  }
+]

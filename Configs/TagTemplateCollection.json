@@ -1,0 +1,326 @@
+[
+  {
+    "TagID": 10101,
+    "TagName": "Dungeon_Buff_Cut_up1_Name",
+    "TagType": 1,
+    "TagDes": "Dungeon_Buff_Cut_up1_Des",
+    "TagIcon": "UI/Sprite/A1DynamicLoad/IconDungeonBuff/UnPacker/IconDungeonBuffCut.png",
+    "CharacterTagRespond": "Cut",
+    "Param": 1
+  },
+  {
+    "TagID": 10102,
+    "TagName": "Dungeon_Buff_Cut_up2_Name",
+    "TagType": 1,
+    "TagDes": "Dungeon_Buff_Cut_up2_Des",
+    "TagIcon": "UI/Sprite/A1DynamicLoad/IconDungeonBuff/UnPacker/IconDungeonBuffCut.png",
+    "CharacterTagRespond": "Cut",
+    "Param": 2
+  },
+  {
+    "TagID": 10103,
+    "TagName": "Dungeon_Buff_Cut_up3_Name",
+    "TagType": 1,
+    "TagDes": "Dungeon_Buff_Cut_up3_Des",
+    "TagIcon": "UI/Sprite/A1DynamicLoad/IconDungeonBuff/UnPacker/IconDungeonBuffCut.png",
+    "CharacterTagRespond": "Cut",
+    "Param": 3
+  },
+  {
+    "TagID": 10111,
+    "TagName": "Dungeon_Buff_Cut_down1_Name",
+    "TagType": 1,
+    "TagDes": "Dungeon_Buff_Cut_down1_Des",
+    "TagIcon": "UI/Sprite/A1DynamicLoad/IconDungeonBuff/UnPacker/IconDungeonBuffCut.png",
+    "CharacterTagRespond": "Cut",
+    "Param": -1
+  },
+  {
+    "TagID": 10112,
+    "TagName": "Dungeon_Buff_Cut_down2_Name",
+    "TagType": 1,
+    "TagDes": "Dungeon_Buff_Cut_down2_Des",
+    "TagIcon": "UI/Sprite/A1DynamicLoad/IconDungeonBuff/UnPacker/IconDungeonBuffCut.png",
+    "CharacterTagRespond": "Cut",
+    "Param": -2
+  },
+  {
+    "TagID": 10113,
+    "TagName": "Dungeon_Buff_Cut_down3_Name",
+    "TagType": 1,
+    "TagDes": "Dungeon_Buff_Cut_down3_Des",
+    "TagIcon": "UI/Sprite/A1DynamicLoad/IconDungeonBuff/UnPacker/IconDungeonBuffCut.png",
+    "CharacterTagRespond": "Cut",
+    "Param": -3
+  },
+  {
+    "TagID": 10201,
+    "TagName": "Dungeon_Buff_Punch_up1_Name",
+    "TagType": 1,
+    "TagDes": "Dungeon_Buff_Punch_up1_Des",
+    "TagIcon": "UI/Sprite/A1DynamicLoad/IconDungeonBuff/UnPacker/IconDungeonBuffHit.png",
+    "CharacterTagRespond": "Punch",
+    "Param": 1
+  },
+  {
+    "TagID": 10202,
+    "TagName": "Dungeon_Buff_Punch_up2_Name",
+    "TagType": 1,
+    "TagDes": "Dungeon_Buff_Punch_up2_Des",
+    "TagIcon": "UI/Sprite/A1DynamicLoad/IconDungeonBuff/UnPacker/IconDungeonBuffHit.png",
+    "CharacterTagRespond": "Punch",
+    "Param": 2
+  },
+  {
+    "TagID": 10203,
+    "TagName": "Dungeon_Buff_Punch_up3_Name",
+    "TagType": 1,
+    "TagDes": "Dungeon_Buff_Punch_up3_Des",
+    "TagIcon": "UI/Sprite/A1DynamicLoad/IconDungeonBuff/UnPacker/IconDungeonBuffHit.png",
+    "CharacterTagRespond": "Punch",
+    "Param": 3
+  },
+  {
+    "TagID": 10211,
+    "TagName": "Dungeon_Buff_Punch_down1_Name",
+    "TagType": 1,
+    "TagDes": "Dungeon_Buff_Punch_down1_Des",
+    "TagIcon": "UI/Sprite/A1DynamicLoad/IconDungeonBuff/UnPacker/IconDungeonBuffHit.png",
+    "CharacterTagRespond": "Punch",
+    "Param": -1
+  },
+  {
+    "TagID": 10212,
+    "TagName": "Dungeon_Buff_Punch_down2_Name",
+    "TagType": 1,
+    "TagDes": "Dungeon_Buff_Punch_down2_Des",
+    "TagIcon": "UI/Sprite/A1DynamicLoad/IconDungeonBuff/UnPacker/IconDungeonBuffHit.png",
+    "CharacterTagRespond": "Punch",
+    "Param": -2
+  },
+  {
+    "TagID": 10213,
+    "TagName": "Dungeon_Buff_Punch_down3_Name",
+    "TagType": 1,
+    "TagDes": "Dungeon_Buff_Punch_down3_Des",
+    "TagIcon": "UI/Sprite/A1DynamicLoad/IconDungeonBuff/UnPacker/IconDungeonBuffHit.png",
+    "CharacterTagRespond": "Punch",
+    "Param": -3
+  },
+  {
+    "TagID": 10301,
+    "TagName": "Dungeon_Buff_Pierce_up1_Name",
+    "TagType": 1,
+    "TagDes": "Dungeon_Buff_Pierce_up1_Des",
+    "TagIcon": "UI/Sprite/A1DynamicLoad/IconDungeonBuff/UnPacker/IconDungeonBuffWear.png",
+    "CharacterTagRespond": "Pierce",
+    "Param": 1
+  },
+  {
+    "TagID": 10302,
+    "TagName": "Dungeon_Buff_Pierce_up2_Name",
+    "TagType": 1,
+    "TagDes": "Dungeon_Buff_Pierce_up2_Des",
+    "TagIcon": "UI/Sprite/A1DynamicLoad/IconDungeonBuff/UnPacker/IconDungeonBuffWear.png",
+    "CharacterTagRespond": "Pierce",
+    "Param": 2
+  },
+  {
+    "TagID": 10303,
+    "TagName": "Dungeon_Buff_Pierce_up3_Name",
+    "TagType": 1,
+    "TagDes": "Dungeon_Buff_Pierce_up3_Des",
+    "TagIcon": "UI/Sprite/A1DynamicLoad/IconDungeonBuff/UnPacker/IconDungeonBuffWear.png",
+    "CharacterTagRespond": "Pierce",
+    "Param": 3
+  },
+  {
+    "TagID": 10311,
+    "TagName": "Dungeon_Buff_Pierce_down1_Name",
+    "TagType": 1,
+    "TagDes": "Dungeon_Buff_Pierce_down1_Des",
+    "TagIcon": "UI/Sprite/A1DynamicLoad/IconDungeonBuff/UnPacker/IconDungeonBuffWear.png",
+    "CharacterTagRespond": "Pierce",
+    "Param": -1
+  },
+  {
+    "TagID": 10312,
+    "TagName": "Dungeon_Buff_Pierce_down2_Name",
+    "TagType": 1,
+    "TagDes": "Dungeon_Buff_Pierce_down2_Des",
+    "TagIcon": "UI/Sprite/A1DynamicLoad/IconDungeonBuff/UnPacker/IconDungeonBuffWear.png",
+    "CharacterTagRespond": "Pierce",
+    "Param": -2
+  },
+  {
+    "TagID": 10313,
+    "TagName": "Dungeon_Buff_Pierce_down3_Name",
+    "TagType": 1,
+    "TagDes": "Dungeon_Buff_Pierce_down3_Des",
+    "TagIcon": "UI/Sprite/A1DynamicLoad/IconDungeonBuff/UnPacker/IconDungeonBuffWear.png",
+    "CharacterTagRespond": "Pierce",
+    "Param": -3
+  },
+  {
+    "TagID": 20101,
+    "TagName": "Dungeon_Buff_Fire_up1_Name",
+    "TagType": 1,
+    "TagDes": "Dungeon_Buff_Fire_up1_Des",
+    "TagIcon": "UI/Sprite/A1DynamicLoad/IconDungeonBuff/UnPacker/IconDungeonBuffFire.png",
+    "CharacterTagRespond": "Fire",
+    "Param": 1
+  },
+  {
+    "TagID": 20102,
+    "TagName": "Dungeon_Buff_Fire_up2_Name",
+    "TagType": 1,
+    "TagDes": "Dungeon_Buff_Fire_up2_Des",
+    "TagIcon": "UI/Sprite/A1DynamicLoad/IconDungeonBuff/UnPacker/IconDungeonBuffFire.png",
+    "CharacterTagRespond": "Fire",
+    "Param": 2
+  },
+  {
+    "TagID": 20103,
+    "TagName": "Dungeon_Buff_Fire_up3_Name",
+    "TagType": 1,
+    "TagDes": "Dungeon_Buff_Fire_up3_Des",
+    "TagIcon": "UI/Sprite/A1DynamicLoad/IconDungeonBuff/UnPacker/IconDungeonBuffFire.png",
+    "CharacterTagRespond": "Fire",
+    "Param": 3
+  },
+  {
+    "TagID": 20111,
+    "TagName": "Dungeon_Buff_Fire_down1_Name",
+    "TagType": 1,
+    "TagDes": "Dungeon_Buff_Fire_down1_Des",
+    "TagIcon": "UI/Sprite/A1DynamicLoad/IconDungeonBuff/UnPacker/IconDungeonBuffFire.png",
+    "CharacterTagRespond": "Fire",
+    "Param": -1
+  },
+  {
+    "TagID": 20112,
+    "TagName": "Dungeon_Buff_Fire_down2_Name",
+    "TagType": 1,
+    "TagDes": "Dungeon_Buff_Fire_down2_Des",
+    "TagIcon": "UI/Sprite/A1DynamicLoad/IconDungeonBuff/UnPacker/IconDungeonBuffFire.png",
+    "CharacterTagRespond": "Fire",
+    "Param": -2
+  },
+  {
+    "TagID": 20113,
+    "TagName": "Dungeon_Buff_Fire_down3_Name",
+    "TagType": 1,
+    "TagDes": "Dungeon_Buff_Fire_down3_Des",
+    "TagIcon": "UI/Sprite/A1DynamicLoad/IconDungeonBuff/UnPacker/IconDungeonBuffFire.png",
+    "CharacterTagRespond": "Fire",
+    "Param": -3
+  },
+  {
+    "TagID": 20201,
+    "TagName": "Dungeon_Buff_Ice_up1_Name",
+    "TagType": 1,
+    "TagDes": "Dungeon_Buff_Ice_up1_Des",
+    "TagIcon": "UI/Sprite/A1DynamicLoad/IconDungeonBuff/UnPacker/IconDungeonBuffIce.png",
+    "CharacterTagRespond": "Ice",
+    "Param": 1
+  },
+  {
+    "TagID": 20202,
+    "TagName": "Dungeon_Buff_Ice_up2_Name",
+    "TagType": 1,
+    "TagDes": "Dungeon_Buff_Ice_up2_Des",
+    "TagIcon": "UI/Sprite/A1DynamicLoad/IconDungeonBuff/UnPacker/IconDungeonBuffIce.png",
+    "CharacterTagRespond": "Ice",
+    "Param": 2
+  },
+  {
+    "TagID": 20203,
+    "TagName": "Dungeon_Buff_Ice_up3_Name",
+    "TagType": 1,
+    "TagDes": "Dungeon_Buff_Ice_up3_Des",
+    "TagIcon": "UI/Sprite/A1DynamicLoad/IconDungeonBuff/UnPacker/IconDungeonBuffIce.png",
+    "CharacterTagRespond": "Ice",
+    "Param": 3
+  },
+  {
+    "TagID": 20211,
+    "TagName": "Dungeon_Buff_Ice_down1_Name",
+    "TagType": 1,
+    "TagDes": "Dungeon_Buff_Ice_down1_Des",
+    "TagIcon": "UI/Sprite/A1DynamicLoad/IconDungeonBuff/UnPacker/IconDungeonBuffIce.png",
+    "CharacterTagRespond": "Ice",
+    "Param": -1
+  },
+  {
+    "TagID": 20212,
+    "TagName": "Dungeon_Buff_Ice_down2_Name",
+    "TagType": 1,
+    "TagDes": "Dungeon_Buff_Ice_down2_Des",
+    "TagIcon": "UI/Sprite/A1DynamicLoad/IconDungeonBuff/UnPacker/IconDungeonBuffIce.png",
+    "CharacterTagRespond": "Ice",
+    "Param": -2
+  },
+  {
+    "TagID": 20213,
+    "TagName": "Dungeon_Buff_Ice_down3_Name",
+    "TagType": 1,
+    "TagDes": "Dungeon_Buff_Ice_down3_Des",
+    "TagIcon": "UI/Sprite/A1DynamicLoad/IconDungeonBuff/UnPacker/IconDungeonBuffIce.png",
+    "CharacterTagRespond": "Ice",
+    "Param": -3
+  },
+  {
+    "TagID": 20301,
+    "TagName": "Dungeon_Buff_Electric_up1_Name",
+    "TagType": 1,
+    "TagDes": "Dungeon_Buff_Electric_up1_Des",
+    "TagIcon": "UI/Sprite/A1DynamicLoad/IconDungeonBuff/UnPacker/IconDungeonBuffThunder.png",
+    "CharacterTagRespond": "Electric",
+    "Param": 1
+  },
+  {
+    "TagID": 20302,
+    "TagName": "Dungeon_Buff_Electric_up2_Name",
+    "TagType": 1,
+    "TagDes": "Dungeon_Buff_Electric_up2_Des",
+    "TagIcon": "UI/Sprite/A1DynamicLoad/IconDungeonBuff/UnPacker/IconDungeonBuffThunder.png",
+    "CharacterTagRespond": "Electric",
+    "Param": 2
+  },
+  {
+    "TagID": 20303,
+    "TagName": "Dungeon_Buff_Electric_up3_Name",
+    "TagType": 1,
+    "TagDes": "Dungeon_Buff_Electric_up3_Des",
+    "TagIcon": "UI/Sprite/A1DynamicLoad/IconDungeonBuff/UnPacker/IconDungeonBuffThunder.png",
+    "CharacterTagRespond": "Electric",
+    "Param": 3
+  },
+  {
+    "TagID": 20311,
+    "TagName": "Dungeon_Buff_Electric_down1_Name",
+    "TagType": 1,
+    "TagDes": "Dungeon_Buff_Electric_down1_Des",
+    "TagIcon": "UI/Sprite/A1DynamicLoad/IconDungeonBuff/UnPacker/IconDungeonBuffThunder.png",
+    "CharacterTagRespond": "Electric",
+    "Param": -1
+  },
+  {
+    "TagID": 20312,
+    "TagName": "Dungeon_Buff_Electric_down2_Name",
+    "TagType": 1,
+    "TagDes": "Dungeon_Buff_Electric_down2_Des",
+    "TagIcon": "UI/Sprite/A1DynamicLoad/IconDungeonBuff/UnPacker/IconDungeonBuffThunder.png",
+    "CharacterTagRespond": "Electric",
+    "Param": -2
+  },
+  {
+    "TagID": 20313,
+    "TagName": "Dungeon_Buff_Electric_down3_Name",
+    "TagType": 1,
+    "TagDes": "Dungeon_Buff_Electric_down3_Des",
+    "TagIcon": "UI/Sprite/A1DynamicLoad/IconDungeonBuff/UnPacker/IconDungeonBuffThunder.png",
+    "CharacterTagRespond": "Electric",
+    "Param": -3
+  }
+]

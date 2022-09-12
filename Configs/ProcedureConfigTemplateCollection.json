@@ -1,0 +1,50 @@
+[
+  {
+    "ProcedureID": 1,
+    "ProcedureType": 2,
+    "ContentID": "100001",
+    "JumpTos": [2],
+    "ProcedureBanks": [],
+    "ProcedureEvent": ""
+  },
+  {
+    "ProcedureID": 2,
+    "ProcedureType": 4,
+    "ContentID": "CreateRole/LOGIN_P2_mux.mp4",
+    "JumpTos": [3],
+    "ProcedureBanks": ["BK_C00_CS01", "BK_C00_CS01_VO"],
+    "ProcedureEvent": "Play_C00_CS01_BGM"
+  },
+  {
+    "ProcedureID": 3,
+    "ProcedureType": 2,
+    "ContentID": "100002",
+    "JumpTos": [4],
+    "ProcedureBanks": [],
+    "ProcedureEvent": ""
+  },
+  {
+    "ProcedureID": 4,
+    "ProcedureType": 1,
+    "ContentID": "107010011",
+    "JumpTos": [5],
+    "ProcedureBanks": [],
+    "ProcedureEvent": ""
+  },
+  {
+    "ProcedureID": 5,
+    "ProcedureType": 1,
+    "ContentID": "107010021",
+    "JumpTos": [6],
+    "ProcedureBanks": [],
+    "ProcedureEvent": ""
+  },
+  {
+    "ProcedureID": 6,
+    "ProcedureType": 1,
+    "ContentID": "107010031",
+    "JumpTos": [],
+    "ProcedureBanks": [],
+    "ProcedureEvent": ""
+  }
+]

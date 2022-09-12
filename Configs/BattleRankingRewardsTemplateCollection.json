@@ -1,0 +1,642 @@
+[
+  {
+    "ID": 11,
+    "RankGroupID": 1001,
+    "RankType": 1,
+    "Score": 0,
+    "NormalDrop": "101001:10000:1",
+    "Name": ""
+  },
+  {
+    "ID": 12,
+    "RankGroupID": 1001,
+    "RankType": 2,
+    "Score": 1500,
+    "NormalDrop": "101002:10000:1",
+    "Name": ""
+  },
+  {
+    "ID": 13,
+    "RankGroupID": 1001,
+    "RankType": 3,
+    "Score": 3000,
+    "NormalDrop": "101003:10000:1",
+    "Name": ""
+  },
+  {
+    "ID": 14,
+    "RankGroupID": 1001,
+    "RankType": 4,
+    "Score": 5000,
+    "NormalDrop": "101004:10000:1",
+    "Name": ""
+  },
+  {
+    "ID": 15,
+    "RankGroupID": 1001,
+    "RankType": 5,
+    "Score": 7000,
+    "NormalDrop": "101005:10000:1",
+    "Name": ""
+  },
+  {
+    "ID": 16,
+    "RankGroupID": 1002,
+    "RankType": 1,
+    "Score": 0,
+    "NormalDrop": "101110:10000:1|101111:10000:1",
+    "Name": ""
+  },
+  {
+    "ID": 17,
+    "RankGroupID": 1002,
+    "RankType": 2,
+    "Score": 1500,
+    "NormalDrop": "101120:10000:1|101121:10000:1",
+    "Name": ""
+  },
+  {
+    "ID": 18,
+    "RankGroupID": 1002,
+    "RankType": 3,
+    "Score": 3000,
+    "NormalDrop": "101130:10000:1|101131:10000:1",
+    "Name": ""
+  },
+  {
+    "ID": 19,
+    "RankGroupID": 1002,
+    "RankType": 4,
+    "Score": 5000,
+    "NormalDrop": "101140:10000:1|101141:10000:1",
+    "Name": ""
+  },
+  {
+    "ID": 20,
+    "RankGroupID": 1002,
+    "RankType": 5,
+    "Score": 7000,
+    "NormalDrop": "101150:10000:1|101151:10000:1",
+    "Name": ""
+  },
+  {
+    "ID": 21,
+    "RankGroupID": 1003,
+    "RankType": 1,
+    "Score": 0,
+    "NormalDrop": "101210:10000:1|101211:10000:1|101212:10000:1",
+    "Name": ""
+  },
+  {
+    "ID": 22,
+    "RankGroupID": 1003,
+    "RankType": 2,
+    "Score": 1500,
+    "NormalDrop": "101220:10000:1|101221:10000:1|101222:10000:1",
+    "Name": ""
+  },
+  {
+    "ID": 23,
+    "RankGroupID": 1003,
+    "RankType": 3,
+    "Score": 3000,
+    "NormalDrop": "101230:10000:1|101231:10000:1|101232:10000:1",
+    "Name": ""
+  },
+  {
+    "ID": 24,
+    "RankGroupID": 1003,
+    "RankType": 4,
+    "Score": 5000,
+    "NormalDrop": "101240:10000:1|101241:10000:1|101242:10000:1",
+    "Name": ""
+  },
+  {
+    "ID": 25,
+    "RankGroupID": 1003,
+    "RankType": 5,
+    "Score": 7000,
+    "NormalDrop": "101250:10000:1|101251:10000:1|101252:10000:1",
+    "Name": ""
+  },
+  {
+    "ID": 26,
+    "RankGroupID": 1011,
+    "RankType": 1,
+    "Score": 0,
+    "NormalDrop": "101001:10000:1",
+    "Name": ""
+  },
+  {
+    "ID": 27,
+    "RankGroupID": 1011,
+    "RankType": 2,
+    "Score": 1000,
+    "NormalDrop": "101002:10000:1",
+    "Name": ""
+  },
+  {
+    "ID": 28,
+    "RankGroupID": 1011,
+    "RankType": 3,
+    "Score": 2500,
+    "NormalDrop": "101003:10000:1",
+    "Name": ""
+  },
+  {
+    "ID": 29,
+    "RankGroupID": 1011,
+    "RankType": 4,
+    "Score": 5000,
+    "NormalDrop": "101004:10000:1",
+    "Name": ""
+  },
+  {
+    "ID": 30,
+    "RankGroupID": 1011,
+    "RankType": 5,
+    "Score": 7500,
+    "NormalDrop": "101005:10000:1",
+    "Name": ""
+  },
+  {
+    "ID": 31,
+    "RankGroupID": 1012,
+    "RankType": 1,
+    "Score": 0,
+    "NormalDrop": "101011:10000:1",
+    "Name": ""
+  },
+  {
+    "ID": 32,
+    "RankGroupID": 1012,
+    "RankType": 2,
+    "Score": 1000,
+    "NormalDrop": "101012:10000:1",
+    "Name": ""
+  },
+  {
+    "ID": 33,
+    "RankGroupID": 1012,
+    "RankType": 3,
+    "Score": 2500,
+    "NormalDrop": "101013:10000:1",
+    "Name": ""
+  },
+  {
+    "ID": 34,
+    "RankGroupID": 1012,
+    "RankType": 4,
+    "Score": 5000,
+    "NormalDrop": "101014:10000:1",
+    "Name": ""
+  },
+  {
+    "ID": 35,
+    "RankGroupID": 1012,
+    "RankType": 5,
+    "Score": 7500,
+    "NormalDrop": "101015:10000:1",
+    "Name": ""
+  },
+  {
+    "ID": 36,
+    "RankGroupID": 1021,
+    "RankType": 1,
+    "Score": 0,
+    "NormalDrop": "",
+    "Name": ""
+  },
+  {
+    "ID": 37,
+    "RankGroupID": 1021,
+    "RankType": 2,
+    "Score": 1000,
+    "NormalDrop": "",
+    "Name": ""
+  },
+  {
+    "ID": 38,
+    "RankGroupID": 1021,
+    "RankType": 3,
+    "Score": 2500,
+    "NormalDrop": "",
+    "Name": ""
+  },
+  {
+    "ID": 39,
+    "RankGroupID": 1021,
+    "RankType": 4,
+    "Score": 5000,
+    "NormalDrop": "",
+    "Name": ""
+  },
+  {
+    "ID": 40,
+    "RankGroupID": 1021,
+    "RankType": 5,
+    "Score": 7500,
+    "NormalDrop": "",
+    "Name": ""
+  },
+  {
+    "ID": 41,
+    "RankGroupID": 2001,
+    "RankType": 1,
+    "Score": 0,
+    "NormalDrop": "101311:10000:1|101321:10000:1",
+    "Name": ""
+  },
+  {
+    "ID": 42,
+    "RankGroupID": 2001,
+    "RankType": 2,
+    "Score": 2500,
+    "NormalDrop": "101312:10000:1|101322:10000:1",
+    "Name": ""
+  },
+  {
+    "ID": 43,
+    "RankGroupID": 2001,
+    "RankType": 3,
+    "Score": 5000,
+    "NormalDrop": "101313:10000:1|101323:10000:1",
+    "Name": ""
+  },
+  {
+    "ID": 44,
+    "RankGroupID": 2001,
+    "RankType": 4,
+    "Score": 7500,
+    "NormalDrop": "101314:10000:1|101324:10000:1",
+    "Name": ""
+  },
+  {
+    "ID": 45,
+    "RankGroupID": 2001,
+    "RankType": 5,
+    "Score": 10000,
+    "NormalDrop": "101315:10000:1|101325:10000:1",
+    "Name": ""
+  },
+  {
+    "ID": 46,
+    "RankGroupID": 2002,
+    "RankType": 1,
+    "Score": 0,
+    "NormalDrop": "101411:10000:1|101421:10000:1",
+    "Name": ""
+  },
+  {
+    "ID": 47,
+    "RankGroupID": 2002,
+    "RankType": 2,
+    "Score": 2500,
+    "NormalDrop": "101412:10000:1|101422:10000:1",
+    "Name": ""
+  },
+  {
+    "ID": 48,
+    "RankGroupID": 2002,
+    "RankType": 3,
+    "Score": 5000,
+    "NormalDrop": "101413:10000:1|101423:10000:1",
+    "Name": ""
+  },
+  {
+    "ID": 49,
+    "RankGroupID": 2002,
+    "RankType": 4,
+    "Score": 7500,
+    "NormalDrop": "101414:10000:1|101424:10000:1",
+    "Name": ""
+  },
+  {
+    "ID": 50,
+    "RankGroupID": 2002,
+    "RankType": 5,
+    "Score": 10000,
+    "NormalDrop": "101415:10000:1|101425:10000:1",
+    "Name": ""
+  },
+  {
+    "ID": 51,
+    "RankGroupID": 2003,
+    "RankType": 1,
+    "Score": 0,
+    "NormalDrop": "101511:10000:1|101521:10000:1",
+    "Name": ""
+  },
+  {
+    "ID": 52,
+    "RankGroupID": 2003,
+    "RankType": 2,
+    "Score": 2500,
+    "NormalDrop": "101512:10000:1|101522:10000:1",
+    "Name": ""
+  },
+  {
+    "ID": 53,
+    "RankGroupID": 2003,
+    "RankType": 3,
+    "Score": 5000,
+    "NormalDrop": "101513:10000:1|101523:10000:1",
+    "Name": ""
+  },
+  {
+    "ID": 54,
+    "RankGroupID": 2003,
+    "RankType": 4,
+    "Score": 7500,
+    "NormalDrop": "101514:10000:1|101524:10000:1",
+    "Name": ""
+  },
+  {
+    "ID": 55,
+    "RankGroupID": 2003,
+    "RankType": 5,
+    "Score": 10000,
+    "NormalDrop": "101515:10000:1|101525:10000:1",
+    "Name": ""
+  },
+  {
+    "ID": 56,
+    "RankGroupID": 2004,
+    "RankType": 1,
+    "Score": 0,
+    "NormalDrop": "101611:10000:1|101621:10000:1",
+    "Name": ""
+  },
+  {
+    "ID": 57,
+    "RankGroupID": 2004,
+    "RankType": 2,
+    "Score": 2500,
+    "NormalDrop": "101612:10000:1|101622:10000:1",
+    "Name": ""
+  },
+  {
+    "ID": 58,
+    "RankGroupID": 2004,
+    "RankType": 3,
+    "Score": 5000,
+    "NormalDrop": "101613:10000:1|101623:10000:1",
+    "Name": ""
+  },
+  {
+    "ID": 59,
+    "RankGroupID": 2004,
+    "RankType": 4,
+    "Score": 7500,
+    "NormalDrop": "101614:10000:1|101624:10000:1",
+    "Name": ""
+  },
+  {
+    "ID": 60,
+    "RankGroupID": 2004,
+    "RankType": 5,
+    "Score": 10000,
+    "NormalDrop": "101615:10000:1|101625:10000:1",
+    "Name": ""
+  },
+  {
+    "ID": 61,
+    "RankGroupID": 2011,
+    "RankType": 1,
+    "Score": 0,
+    "NormalDrop": "101711:10000:1|101721:10000:1",
+    "Name": ""
+  },
+  {
+    "ID": 62,
+    "RankGroupID": 2011,
+    "RankType": 2,
+    "Score": 2500,
+    "NormalDrop": "101712:10000:1|101722:10000:1",
+    "Name": ""
+  },
+  {
+    "ID": 63,
+    "RankGroupID": 2011,
+    "RankType": 3,
+    "Score": 5000,
+    "NormalDrop": "101713:10000:1|101723:10000:1",
+    "Name": ""
+  },
+  {
+    "ID": 64,
+    "RankGroupID": 2011,
+    "RankType": 4,
+    "Score": 7500,
+    "NormalDrop": "101714:10000:1|101724:10000:1",
+    "Name": ""
+  },
+  {
+    "ID": 65,
+    "RankGroupID": 2011,
+    "RankType": 5,
+    "Score": 10000,
+    "NormalDrop": "101715:10000:1|101725:10000:1",
+    "Name": ""
+  },
+  {
+    "ID": 66,
+    "RankGroupID": 2012,
+    "RankType": 1,
+    "Score": 0,
+    "NormalDrop": "101811:10000:1|101821:10000:1",
+    "Name": ""
+  },
+  {
+    "ID": 67,
+    "RankGroupID": 2012,
+    "RankType": 2,
+    "Score": 2500,
+    "NormalDrop": "101812:10000:1|101822:10000:1",
+    "Name": ""
+  },
+  {
+    "ID": 68,
+    "RankGroupID": 2012,
+    "RankType": 3,
+    "Score": 5000,
+    "NormalDrop": "101813:10000:1|101823:10000:1",
+    "Name": ""
+  },
+  {
+    "ID": 69,
+    "RankGroupID": 2012,
+    "RankType": 4,
+    "Score": 7500,
+    "NormalDrop": "101814:10000:1|101824:10000:1",
+    "Name": ""
+  },
+  {
+    "ID": 70,
+    "RankGroupID": 2012,
+    "RankType": 5,
+    "Score": 10000,
+    "NormalDrop": "101815:10000:1|101825:10000:1",
+    "Name": ""
+  },
+  {
+    "ID": 71,
+    "RankGroupID": 2013,
+    "RankType": 1,
+    "Score": 0,
+    "NormalDrop": "101911:10000:1|101921:10000:1",
+    "Name": ""
+  },
+  {
+    "ID": 72,
+    "RankGroupID": 2013,
+    "RankType": 2,
+    "Score": 2500,
+    "NormalDrop": "101912:10000:1|101922:10000:1",
+    "Name": ""
+  },
+  {
+    "ID": 73,
+    "RankGroupID": 2013,
+    "RankType": 3,
+    "Score": 5000,
+    "NormalDrop": "101913:10000:1|101923:10000:1",
+    "Name": ""
+  },
+  {
+    "ID": 74,
+    "RankGroupID": 2013,
+    "RankType": 4,
+    "Score": 7500,
+    "NormalDrop": "101914:10000:1|101924:10000:1",
+    "Name": ""
+  },
+  {
+    "ID": 75,
+    "RankGroupID": 2013,
+    "RankType": 5,
+    "Score": 10000,
+    "NormalDrop": "101915:10000:1|101925:10000:1",
+    "Name": ""
+  },
+  {
+    "ID": 76,
+    "RankGroupID": 2014,
+    "RankType": 1,
+    "Score": 0,
+    "NormalDrop": "102011:10000:1|102021:10000:1",
+    "Name": ""
+  },
+  {
+    "ID": 77,
+    "RankGroupID": 2014,
+    "RankType": 2,
+    "Score": 2500,
+    "NormalDrop": "102012:10000:1|102022:10000:1",
+    "Name": ""
+  },
+  {
+    "ID": 78,
+    "RankGroupID": 2014,
+    "RankType": 3,
+    "Score": 5000,
+    "NormalDrop": "102013:10000:1|102023:10000:1",
+    "Name": ""
+  },
+  {
+    "ID": 79,
+    "RankGroupID": 2014,
+    "RankType": 4,
+    "Score": 7500,
+    "NormalDrop": "102014:10000:1|102024:10000:1",
+    "Name": ""
+  },
+  {
+    "ID": 80,
+    "RankGroupID": 2014,
+    "RankType": 5,
+    "Score": 10000,
+    "NormalDrop": "102015:10000:1|102025:10000:1",
+    "Name": ""
+  },
+  {
+    "ID": 81,
+    "RankGroupID": 2021,
+    "RankType": 1,
+    "Score": 0,
+    "NormalDrop": "102021:10000:1",
+    "Name": ""
+  },
+  {
+    "ID": 82,
+    "RankGroupID": 2021,
+    "RankType": 2,
+    "Score": 2500,
+    "NormalDrop": "102022:10000:1",
+    "Name": ""
+  },
+  {
+    "ID": 83,
+    "RankGroupID": 2021,
+    "RankType": 3,
+    "Score": 5000,
+    "NormalDrop": "102023:10000:1",
+    "Name": ""
+  },
+  {
+    "ID": 84,
+    "RankGroupID": 2021,
+    "RankType": 4,
+    "Score": 7500,
+    "NormalDrop": "102024:10000:1",
+    "Name": ""
+  },
+  {
+    "ID": 85,
+    "RankGroupID": 2021,
+    "RankType": 5,
+    "Score": 10000,
+    "NormalDrop": "102025:10000:1",
+    "Name": ""
+  },
+  {
+    "ID": 86,
+    "RankGroupID": 3001,
+    "RankType": 1,
+    "Score": 0,
+    "NormalDrop": "",
+    "Name": ""
+  },
+  {
+    "ID": 87,
+    "RankGroupID": 3001,
+    "RankType": 2,
+    "Score": 2500,
+    "NormalDrop": "",
+    "Name": ""
+  },
+  {
+    "ID": 88,
+    "RankGroupID": 3001,
+    "RankType": 3,
+    "Score": 5000,
+    "NormalDrop": "",
+    "Name": ""
+  },
+  {
+    "ID": 89,
+    "RankGroupID": 3001,
+    "RankType": 4,
+    "Score": 7500,
+    "NormalDrop": "",
+    "Name": ""
+  },
+  {
+    "ID": 90,
+    "RankGroupID": 3001,
+    "RankType": 5,
+    "Score": 10000,
+    "NormalDrop": "",
+    "Name": ""
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "ID": 1001,
+    "ConditionID": 1001,
+    "CdType": 0,
+    "CdValue": 0,
+    "AudioKey": ""
+  },
+  {
+    "ID": 1002,
+    "ConditionID": 1002,
+    "CdType": 0,
+    "CdValue": 0,
+    "AudioKey": "Play_vo_char_{}_qtestart"
+  },
+  {
+    "ID": 1003,
+    "ConditionID": 1003,
+    "CdType": 0,
+    "CdValue": 0,
+    "AudioKey": "Play_vo_char_{}_evade_success"
+  },
+  {
+    "ID": 1005,
+    "ConditionID": 1005,
+    "CdType": 1,
+    "CdValue": 0,
+    "AudioKey": "Play_vo_char_{}_fail"
+  },
+  {
+    "ID": 1006,
+    "ConditionID": 1006,
+    "CdType": 0,
+    "CdValue": 10000,
+    "AudioKey": "Play_vo_char_{}_recover"
+  },
+  {
+    "ID": 1007,
+    "ConditionID": 1007,
+    "CdType": 0,
+    "CdValue": 5000,
+    "AudioKey": "Play_vo_char_{}_fullenergy"
+  },
+  {
+    "ID": 1008,
+    "ConditionID": 1008,
+    "CdType": 1,
+    "CdValue": 0,
+    "AudioKey": "Play_vo_char_{}_clean"
+  },
+  {
+    "ID": 1009,
+    "ConditionID": 1009,
+    "CdType": 0,
+    "CdValue": 10000,
+    "AudioKey": "Play_vo_char_{}_lowhp"
+  },
+  {
+    "ID": 1010,
+    "ConditionID": 1010,
+    "CdType": 1,
+    "CdValue": 60000,
+    "AudioKey": "Play_vo_char_{}_multienemy"
+  },
+  {
+    "ID": 1011,
+    "ConditionID": 1011,
+    "CdType": 1,
+    "CdValue": 60000,
+    "AudioKey": "Play_vo_char_{}_elite"
+  },
+  {
+    "ID": 1012,
+    "ConditionID": 1012,
+    "CdType": 0,
+    "CdValue": 30000,
+    "AudioKey": "Play_vo_char_{}_cleanboss"
+  },
+  {
+    "ID": 1013,
+    "ConditionID": 1013,
+    "CdType": 1,
+    "CdValue": 10000,
+    "AudioKey": "Play_vo_char_{}_boss"
+  },
+  {
+    "ID": 1014,
+    "ConditionID": 1014,
+    "CdType": 0,
+    "CdValue": 0,
+    "AudioKey": "Play_vo_char_{}_cleanboss"
+  },
+  {
+    "ID": 1015,
+    "ConditionID": 1015,
+    "CdType": 0,
+    "CdValue": 10000,
+    "AudioKey": "Test_ConditionAudio_1015"
+  },
+  {
+    "ID": 1016,
+    "ConditionID": 1016,
+    "CdType": 1,
+    "CdValue": 10000,
+    "AudioKey": "Play_vo_char_{}_medkit"
+  },
+  {
+    "ID": 1017,
+    "ConditionID": 1017,
+    "CdType": 1,
+    "CdValue": 10000,
+    "AudioKey": "Play_vo_char_{}_medkit"
+  },
+  {
+    "ID": 1018,
+    "ConditionID": 1018,
+    "CdType": 1,
+    "CdValue": 20000,
+    "AudioKey": ""
+  },
+  {
+    "ID": 1019,
+    "ConditionID": 1019,
+    "CdType": 1,
+    "CdValue": 20000,
+    "AudioKey": ""
+  }
+]

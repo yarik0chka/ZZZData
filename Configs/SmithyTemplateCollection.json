@@ -1,0 +1,34 @@
+[
+  {
+    "SmithyLevel": 1,
+    "EquipGachaSecurityNum": 10,
+    "AccountLvRequire": 1,
+    "UnlockTypeChose": false,
+    "EquipGachaSecurityDes": "EquipGachaSecurityDes_1",
+    "SmithyLevelDes": "SmithyLevelDes_1"
+  },
+  {
+    "SmithyLevel": 2,
+    "EquipGachaSecurityNum": 10,
+    "AccountLvRequire": 10,
+    "UnlockTypeChose": true,
+    "EquipGachaSecurityDes": "EquipGachaSecurityDes_2",
+    "SmithyLevelDes": "SmithyLevelDes_2"
+  },
+  {
+    "SmithyLevel": 3,
+    "EquipGachaSecurityNum": 10,
+    "AccountLvRequire": 15,
+    "UnlockTypeChose": true,
+    "EquipGachaSecurityDes": "EquipGachaSecurityDes_3",
+    "SmithyLevelDes": "SmithyLevelDes_3"
+  },
+  {
+    "SmithyLevel": 4,
+    "EquipGachaSecurityNum": 10,
+    "AccountLvRequire": 20,
+    "UnlockTypeChose": true,
+    "EquipGachaSecurityDes": "EquipGachaSecurityDes_4",
+    "SmithyLevelDes": "SmithyLevelDes_4"
+  }
+]

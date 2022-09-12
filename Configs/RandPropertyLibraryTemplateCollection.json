@@ -1,0 +1,842 @@
+[
+  {
+    "ID": 101,
+    "KeyTool": 1,
+    "Property": 11103,
+    "PropertyValue": 403,
+    "Weight": 10000
+  },
+  {
+    "ID": 102,
+    "KeyTool": 1,
+    "Property": 12103,
+    "PropertyValue": 36,
+    "Weight": 10000
+  },
+  {
+    "ID": 103,
+    "KeyTool": 1,
+    "Property": 13103,
+    "PropertyValue": 45,
+    "Weight": 10000
+  },
+  {
+    "ID": 104,
+    "KeyTool": 1,
+    "Property": 11102,
+    "PropertyValue": 167,
+    "Weight": 2000
+  },
+  {
+    "ID": 104,
+    "KeyTool": 2,
+    "Property": 12102,
+    "PropertyValue": 167,
+    "Weight": 2000
+  },
+  {
+    "ID": 104,
+    "KeyTool": 3,
+    "Property": 13102,
+    "PropertyValue": 167,
+    "Weight": 3000
+  },
+  {
+    "ID": 104,
+    "KeyTool": 4,
+    "Property": 23103,
+    "PropertyValue": 83,
+    "Weight": 1500
+  },
+  {
+    "ID": 104,
+    "KeyTool": 5,
+    "Property": 21103,
+    "PropertyValue": 167,
+    "Weight": 1500
+  },
+  {
+    "ID": 105,
+    "KeyTool": 1,
+    "Property": 11102,
+    "PropertyValue": 167,
+    "Weight": 2000
+  },
+  {
+    "ID": 105,
+    "KeyTool": 2,
+    "Property": 12102,
+    "PropertyValue": 167,
+    "Weight": 3000
+  },
+  {
+    "ID": 105,
+    "KeyTool": 3,
+    "Property": 13102,
+    "PropertyValue": 167,
+    "Weight": 2000
+  },
+  {
+    "ID": 105,
+    "KeyTool": 4,
+    "Property": 20103,
+    "PropertyValue": 83,
+    "Weight": 1500
+  },
+  {
+    "ID": 105,
+    "KeyTool": 5,
+    "Property": 30502,
+    "PropertyValue": 167,
+    "Weight": 1500
+  },
+  {
+    "ID": 106,
+    "KeyTool": 1,
+    "Property": 11102,
+    "PropertyValue": 167,
+    "Weight": 3000
+  },
+  {
+    "ID": 106,
+    "KeyTool": 2,
+    "Property": 12102,
+    "PropertyValue": 167,
+    "Weight": 2000
+  },
+  {
+    "ID": 106,
+    "KeyTool": 3,
+    "Property": 13102,
+    "PropertyValue": 167,
+    "Weight": 2000
+  },
+  {
+    "ID": 106,
+    "KeyTool": 4,
+    "Property": 23203,
+    "PropertyValue": 11,
+    "Weight": 1500
+  },
+  {
+    "ID": 106,
+    "KeyTool": 5,
+    "Property": 12202,
+    "PropertyValue": 83,
+    "Weight": 1500
+  },
+  {
+    "ID": 201,
+    "KeyTool": 1,
+    "Property": 11103,
+    "PropertyValue": 754,
+    "Weight": 10000
+  },
+  {
+    "ID": 202,
+    "KeyTool": 1,
+    "Property": 12103,
+    "PropertyValue": 67,
+    "Weight": 10000
+  },
+  {
+    "ID": 203,
+    "KeyTool": 1,
+    "Property": 13103,
+    "PropertyValue": 84,
+    "Weight": 10000
+  },
+  {
+    "ID": 204,
+    "KeyTool": 1,
+    "Property": 11102,
+    "PropertyValue": 333,
+    "Weight": 2000
+  },
+  {
+    "ID": 204,
+    "KeyTool": 2,
+    "Property": 12102,
+    "PropertyValue": 333,
+    "Weight": 2000
+  },
+  {
+    "ID": 204,
+    "KeyTool": 3,
+    "Property": 13102,
+    "PropertyValue": 333,
+    "Weight": 3000
+  },
+  {
+    "ID": 204,
+    "KeyTool": 4,
+    "Property": 23103,
+    "PropertyValue": 167,
+    "Weight": 1500
+  },
+  {
+    "ID": 204,
+    "KeyTool": 5,
+    "Property": 21103,
+    "PropertyValue": 333,
+    "Weight": 1500
+  },
+  {
+    "ID": 205,
+    "KeyTool": 1,
+    "Property": 11102,
+    "PropertyValue": 333,
+    "Weight": 2000
+  },
+  {
+    "ID": 205,
+    "KeyTool": 2,
+    "Property": 12102,
+    "PropertyValue": 333,
+    "Weight": 3000
+  },
+  {
+    "ID": 205,
+    "KeyTool": 3,
+    "Property": 13102,
+    "PropertyValue": 333,
+    "Weight": 2000
+  },
+  {
+    "ID": 205,
+    "KeyTool": 4,
+    "Property": 20103,
+    "PropertyValue": 167,
+    "Weight": 1500
+  },
+  {
+    "ID": 205,
+    "KeyTool": 5,
+    "Property": 30502,
+    "PropertyValue": 333,
+    "Weight": 1500
+  },
+  {
+    "ID": 206,
+    "KeyTool": 1,
+    "Property": 11102,
+    "PropertyValue": 333,
+    "Weight": 3000
+  },
+  {
+    "ID": 206,
+    "KeyTool": 2,
+    "Property": 12102,
+    "PropertyValue": 333,
+    "Weight": 2000
+  },
+  {
+    "ID": 206,
+    "KeyTool": 3,
+    "Property": 13102,
+    "PropertyValue": 333,
+    "Weight": 2000
+  },
+  {
+    "ID": 206,
+    "KeyTool": 4,
+    "Property": 23203,
+    "PropertyValue": 21,
+    "Weight": 1500
+  },
+  {
+    "ID": 206,
+    "KeyTool": 5,
+    "Property": 12202,
+    "PropertyValue": 167,
+    "Weight": 1500
+  },
+  {
+    "ID": 301,
+    "KeyTool": 1,
+    "Property": 11103,
+    "PropertyValue": 1122,
+    "Weight": 10000
+  },
+  {
+    "ID": 302,
+    "KeyTool": 1,
+    "Property": 12103,
+    "PropertyValue": 100,
+    "Weight": 10000
+  },
+  {
+    "ID": 303,
+    "KeyTool": 1,
+    "Property": 13103,
+    "PropertyValue": 125,
+    "Weight": 10000
+  },
+  {
+    "ID": 304,
+    "KeyTool": 1,
+    "Property": 11102,
+    "PropertyValue": 500,
+    "Weight": 2000
+  },
+  {
+    "ID": 304,
+    "KeyTool": 2,
+    "Property": 12102,
+    "PropertyValue": 500,
+    "Weight": 2000
+  },
+  {
+    "ID": 304,
+    "KeyTool": 3,
+    "Property": 13102,
+    "PropertyValue": 500,
+    "Weight": 3000
+  },
+  {
+    "ID": 304,
+    "KeyTool": 4,
+    "Property": 23103,
+    "PropertyValue": 250,
+    "Weight": 1500
+  },
+  {
+    "ID": 304,
+    "KeyTool": 5,
+    "Property": 21103,
+    "PropertyValue": 500,
+    "Weight": 1500
+  },
+  {
+    "ID": 305,
+    "KeyTool": 1,
+    "Property": 11102,
+    "PropertyValue": 500,
+    "Weight": 2000
+  },
+  {
+    "ID": 305,
+    "KeyTool": 2,
+    "Property": 12102,
+    "PropertyValue": 500,
+    "Weight": 3000
+  },
+  {
+    "ID": 305,
+    "KeyTool": 3,
+    "Property": 13102,
+    "PropertyValue": 500,
+    "Weight": 2000
+  },
+  {
+    "ID": 305,
+    "KeyTool": 4,
+    "Property": 20103,
+    "PropertyValue": 250,
+    "Weight": 1500
+  },
+  {
+    "ID": 305,
+    "KeyTool": 5,
+    "Property": 30502,
+    "PropertyValue": 500,
+    "Weight": 1500
+  },
+  {
+    "ID": 306,
+    "KeyTool": 1,
+    "Property": 11102,
+    "PropertyValue": 500,
+    "Weight": 3000
+  },
+  {
+    "ID": 306,
+    "KeyTool": 2,
+    "Property": 12102,
+    "PropertyValue": 500,
+    "Weight": 2000
+  },
+  {
+    "ID": 306,
+    "KeyTool": 3,
+    "Property": 13102,
+    "PropertyValue": 500,
+    "Weight": 2000
+  },
+  {
+    "ID": 306,
+    "KeyTool": 4,
+    "Property": 23203,
+    "PropertyValue": 31,
+    "Weight": 1500
+  },
+  {
+    "ID": 306,
+    "KeyTool": 5,
+    "Property": 12202,
+    "PropertyValue": 250,
+    "Weight": 1500
+  },
+  {
+    "ID": 401,
+    "KeyTool": 1,
+    "Property": 11103,
+    "PropertyValue": 1499,
+    "Weight": 10000
+  },
+  {
+    "ID": 402,
+    "KeyTool": 1,
+    "Property": 12103,
+    "PropertyValue": 133,
+    "Weight": 10000
+  },
+  {
+    "ID": 403,
+    "KeyTool": 1,
+    "Property": 13103,
+    "PropertyValue": 167,
+    "Weight": 10000
+  },
+  {
+    "ID": 404,
+    "KeyTool": 1,
+    "Property": 11102,
+    "PropertyValue": 667,
+    "Weight": 2000
+  },
+  {
+    "ID": 404,
+    "KeyTool": 2,
+    "Property": 12102,
+    "PropertyValue": 667,
+    "Weight": 2000
+  },
+  {
+    "ID": 404,
+    "KeyTool": 3,
+    "Property": 13102,
+    "PropertyValue": 667,
+    "Weight": 3000
+  },
+  {
+    "ID": 404,
+    "KeyTool": 4,
+    "Property": 23103,
+    "PropertyValue": 333,
+    "Weight": 1500
+  },
+  {
+    "ID": 404,
+    "KeyTool": 5,
+    "Property": 21103,
+    "PropertyValue": 667,
+    "Weight": 1500
+  },
+  {
+    "ID": 405,
+    "KeyTool": 1,
+    "Property": 11102,
+    "PropertyValue": 667,
+    "Weight": 2000
+  },
+  {
+    "ID": 405,
+    "KeyTool": 2,
+    "Property": 12102,
+    "PropertyValue": 667,
+    "Weight": 3000
+  },
+  {
+    "ID": 405,
+    "KeyTool": 3,
+    "Property": 13102,
+    "PropertyValue": 667,
+    "Weight": 2000
+  },
+  {
+    "ID": 405,
+    "KeyTool": 4,
+    "Property": 20103,
+    "PropertyValue": 333,
+    "Weight": 1500
+  },
+  {
+    "ID": 405,
+    "KeyTool": 5,
+    "Property": 30502,
+    "PropertyValue": 667,
+    "Weight": 1500
+  },
+  {
+    "ID": 406,
+    "KeyTool": 1,
+    "Property": 11102,
+    "PropertyValue": 667,
+    "Weight": 3000
+  },
+  {
+    "ID": 406,
+    "KeyTool": 2,
+    "Property": 12102,
+    "PropertyValue": 667,
+    "Weight": 2000
+  },
+  {
+    "ID": 406,
+    "KeyTool": 3,
+    "Property": 13102,
+    "PropertyValue": 667,
+    "Weight": 2000
+  },
+  {
+    "ID": 406,
+    "KeyTool": 4,
+    "Property": 23203,
+    "PropertyValue": 42,
+    "Weight": 1500
+  },
+  {
+    "ID": 406,
+    "KeyTool": 5,
+    "Property": 12202,
+    "PropertyValue": 333,
+    "Weight": 1500
+  },
+  {
+    "ID": 1000,
+    "KeyTool": 1,
+    "Property": 11103,
+    "PropertyValue": 60,
+    "Weight": 1250
+  },
+  {
+    "ID": 1000,
+    "KeyTool": 2,
+    "Property": 12103,
+    "PropertyValue": 13,
+    "Weight": 1000
+  },
+  {
+    "ID": 1000,
+    "KeyTool": 3,
+    "Property": 13103,
+    "PropertyValue": 7,
+    "Weight": 1250
+  },
+  {
+    "ID": 1000,
+    "KeyTool": 4,
+    "Property": 11102,
+    "PropertyValue": 100,
+    "Weight": 1250
+  },
+  {
+    "ID": 1000,
+    "KeyTool": 5,
+    "Property": 12102,
+    "PropertyValue": 100,
+    "Weight": 1000
+  },
+  {
+    "ID": 1000,
+    "KeyTool": 6,
+    "Property": 13102,
+    "PropertyValue": 100,
+    "Weight": 1250
+  },
+  {
+    "ID": 1000,
+    "KeyTool": 7,
+    "Property": 20103,
+    "PropertyValue": 50,
+    "Weight": 500
+  },
+  {
+    "ID": 1000,
+    "KeyTool": 8,
+    "Property": 21103,
+    "PropertyValue": 100,
+    "Weight": 500
+  },
+  {
+    "ID": 1000,
+    "KeyTool": 9,
+    "Property": 23203,
+    "PropertyValue": 3,
+    "Weight": 500
+  },
+  {
+    "ID": 1000,
+    "KeyTool": 10,
+    "Property": 23103,
+    "PropertyValue": 50,
+    "Weight": 500
+  },
+  {
+    "ID": 1000,
+    "KeyTool": 11,
+    "Property": 30502,
+    "PropertyValue": 100,
+    "Weight": 500
+  },
+  {
+    "ID": 1000,
+    "KeyTool": 12,
+    "Property": 12202,
+    "PropertyValue": 50,
+    "Weight": 500
+  },
+  {
+    "ID": 2000,
+    "KeyTool": 1,
+    "Property": 11103,
+    "PropertyValue": 141,
+    "Weight": 1250
+  },
+  {
+    "ID": 2000,
+    "KeyTool": 2,
+    "Property": 12103,
+    "PropertyValue": 31,
+    "Weight": 1000
+  },
+  {
+    "ID": 2000,
+    "KeyTool": 3,
+    "Property": 13103,
+    "PropertyValue": 16,
+    "Weight": 1250
+  },
+  {
+    "ID": 2000,
+    "KeyTool": 4,
+    "Property": 11102,
+    "PropertyValue": 200,
+    "Weight": 1250
+  },
+  {
+    "ID": 2000,
+    "KeyTool": 5,
+    "Property": 12102,
+    "PropertyValue": 200,
+    "Weight": 1000
+  },
+  {
+    "ID": 2000,
+    "KeyTool": 6,
+    "Property": 13102,
+    "PropertyValue": 200,
+    "Weight": 1250
+  },
+  {
+    "ID": 2000,
+    "KeyTool": 7,
+    "Property": 20103,
+    "PropertyValue": 100,
+    "Weight": 500
+  },
+  {
+    "ID": 2000,
+    "KeyTool": 8,
+    "Property": 21103,
+    "PropertyValue": 200,
+    "Weight": 500
+  },
+  {
+    "ID": 2000,
+    "KeyTool": 9,
+    "Property": 23203,
+    "PropertyValue": 8,
+    "Weight": 500
+  },
+  {
+    "ID": 2000,
+    "KeyTool": 10,
+    "Property": 23103,
+    "PropertyValue": 100,
+    "Weight": 500
+  },
+  {
+    "ID": 2000,
+    "KeyTool": 11,
+    "Property": 30502,
+    "PropertyValue": 200,
+    "Weight": 500
+  },
+  {
+    "ID": 2000,
+    "KeyTool": 12,
+    "Property": 12202,
+    "PropertyValue": 100,
+    "Weight": 500
+  },
+  {
+    "ID": 3000,
+    "KeyTool": 1,
+    "Property": 11103,
+    "PropertyValue": 252,
+    "Weight": 1250
+  },
+  {
+    "ID": 3000,
+    "KeyTool": 2,
+    "Property": 12103,
+    "PropertyValue": 56,
+    "Weight": 1000
+  },
+  {
+    "ID": 3000,
+    "KeyTool": 3,
+    "Property": 13103,
+    "PropertyValue": 28,
+    "Weight": 1250
+  },
+  {
+    "ID": 3000,
+    "KeyTool": 4,
+    "Property": 11102,
+    "PropertyValue": 300,
+    "Weight": 1250
+  },
+  {
+    "ID": 3000,
+    "KeyTool": 5,
+    "Property": 12102,
+    "PropertyValue": 300,
+    "Weight": 1000
+  },
+  {
+    "ID": 3000,
+    "KeyTool": 6,
+    "Property": 13102,
+    "PropertyValue": 300,
+    "Weight": 1250
+  },
+  {
+    "ID": 3000,
+    "KeyTool": 7,
+    "Property": 20103,
+    "PropertyValue": 150,
+    "Weight": 500
+  },
+  {
+    "ID": 3000,
+    "KeyTool": 8,
+    "Property": 21103,
+    "PropertyValue": 300,
+    "Weight": 500
+  },
+  {
+    "ID": 3000,
+    "KeyTool": 9,
+    "Property": 23203,
+    "PropertyValue": 14,
+    "Weight": 500
+  },
+  {
+    "ID": 3000,
+    "KeyTool": 10,
+    "Property": 23103,
+    "PropertyValue": 150,
+    "Weight": 500
+  },
+  {
+    "ID": 3000,
+    "KeyTool": 11,
+    "Property": 30502,
+    "PropertyValue": 300,
+    "Weight": 500
+  },
+  {
+    "ID": 3000,
+    "KeyTool": 12,
+    "Property": 12202,
+    "PropertyValue": 150,
+    "Weight": 500
+  },
+  {
+    "ID": 4000,
+    "KeyTool": 1,
+    "Property": 11103,
+    "PropertyValue": 393,
+    "Weight": 1250
+  },
+  {
+    "ID": 4000,
+    "KeyTool": 2,
+    "Property": 12103,
+    "PropertyValue": 87,
+    "Weight": 1000
+  },
+  {
+    "ID": 4000,
+    "KeyTool": 3,
+    "Property": 13103,
+    "PropertyValue": 44,
+    "Weight": 1250
+  },
+  {
+    "ID": 4000,
+    "KeyTool": 4,
+    "Property": 11102,
+    "PropertyValue": 400,
+    "Weight": 1250
+  },
+  {
+    "ID": 4000,
+    "KeyTool": 5,
+    "Property": 12102,
+    "PropertyValue": 400,
+    "Weight": 1000
+  },
+  {
+    "ID": 4000,
+    "KeyTool": 6,
+    "Property": 13102,
+    "PropertyValue": 400,
+    "Weight": 1250
+  },
+  {
+    "ID": 4000,
+    "KeyTool": 7,
+    "Property": 20103,
+    "PropertyValue": 200,
+    "Weight": 500
+  },
+  {
+    "ID": 4000,
+    "KeyTool": 8,
+    "Property": 21103,
+    "PropertyValue": 400,
+    "Weight": 500
+  },
+  {
+    "ID": 4000,
+    "KeyTool": 9,
+    "Property": 23203,
+    "PropertyValue": 22,
+    "Weight": 500
+  },
+  {
+    "ID": 4000,
+    "KeyTool": 10,
+    "Property": 23103,
+    "PropertyValue": 200,
+    "Weight": 500
+  },
+  {
+    "ID": 4000,
+    "KeyTool": 11,
+    "Property": 30502,
+    "PropertyValue": 400,
+    "Weight": 500
+  },
+  {
+    "ID": 4000,
+    "KeyTool": 12,
+    "Property": 12202,
+    "PropertyValue": 200,
+    "Weight": 500
+  }
+]

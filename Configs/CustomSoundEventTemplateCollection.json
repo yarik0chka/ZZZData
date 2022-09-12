@@ -1,0 +1,1668 @@
+[
+  {
+    "ID": 10001,
+    "SystemIndex": 0,
+    "TriggerType": "Test_B1",
+    "ResourcePath": "Play_UI_Gen_Confirm",
+    "EventID": 0
+  },
+  {
+    "ID": 10002,
+    "SystemIndex": 0,
+    "TriggerType": "Test_B2",
+    "ResourcePath": "Play_UI_Gen_Confirm",
+    "EventID": 0
+  },
+  {
+    "ID": 10003,
+    "SystemIndex": 0,
+    "TriggerType": "Test_Popup_Custom1",
+    "ResourcePath": "Play_UI_Gen_Warning",
+    "EventID": 0
+  },
+  {
+    "ID": 10004,
+    "SystemIndex": 0,
+    "TriggerType": "Test_Popup_Custom2",
+    "ResourcePath": "Play_UI_Gen_Window_Open",
+    "EventID": 0
+  },
+  {
+    "ID": 10005,
+    "SystemIndex": 0,
+    "TriggerType": "",
+    "ResourcePath": "Play_TV_Commercial_01",
+    "EventID": 0
+  },
+  {
+    "ID": 10006,
+    "SystemIndex": 0,
+    "TriggerType": "",
+    "ResourcePath": "Play_TV_Commercial_02",
+    "EventID": 0
+  },
+  {
+    "ID": 10007,
+    "SystemIndex": 0,
+    "TriggerType": "",
+    "ResourcePath": "Play_TV_Commercial_03",
+    "EventID": 0
+  },
+  {
+    "ID": 10008,
+    "SystemIndex": 0,
+    "TriggerType": "",
+    "ResourcePath": "Play_TV_Commercial_04",
+    "EventID": 0
+  },
+  {
+    "ID": 10009,
+    "SystemIndex": 0,
+    "TriggerType": "",
+    "ResourcePath": "Play_TV_Commercial_05",
+    "EventID": 0
+  },
+  {
+    "ID": 10010,
+    "SystemIndex": 0,
+    "TriggerType": "",
+    "ResourcePath": "Play_UI_Chapter",
+    "EventID": 0
+  },
+  {
+    "ID": 10011,
+    "SystemIndex": 0,
+    "TriggerType": "Play_TV_Login_Close",
+    "ResourcePath": "Play_UI_Login",
+    "EventID": 0
+  },
+  {
+    "ID": 11001,
+    "SystemIndex": 1,
+    "TriggerType": "",
+    "ResourcePath": "Play_UI_MainCity_Freetrust_Camera_1",
+    "EventID": 0
+  },
+  {
+    "ID": 11002,
+    "SystemIndex": 1,
+    "TriggerType": "",
+    "ResourcePath": "Play_UI_MainCity_Freetrust_Camera_2",
+    "EventID": 0
+  },
+  {
+    "ID": 11003,
+    "SystemIndex": 1,
+    "TriggerType": "",
+    "ResourcePath": "Play_UI_MainCity_Freetrust_Camera_Back",
+    "EventID": 0
+  },
+  {
+    "ID": 11004,
+    "SystemIndex": 1,
+    "TriggerType": "",
+    "ResourcePath": "Play_UI_Gen_Click",
+    "EventID": 0
+  },
+  {
+    "ID": 11005,
+    "SystemIndex": 0,
+    "TriggerType": "",
+    "ResourcePath": "Play_UI_Gen_OpenPopupTip",
+    "EventID": 0
+  },
+  {
+    "ID": 11006,
+    "SystemIndex": 0,
+    "TriggerType": "",
+    "ResourcePath": "Play_UI_Gen_ClosePopupTip",
+    "EventID": 0
+  },
+  {
+    "ID": 20001,
+    "SystemIndex": 2,
+    "TriggerType": "MainStory_Create",
+    "ResourcePath": "Play_UI_Tape_Born",
+    "EventID": 0
+  },
+  {
+    "ID": 20002,
+    "SystemIndex": 2,
+    "TriggerType": "MainStory_Move",
+    "ResourcePath": "Play_UI_Tape_Slide",
+    "EventID": 0
+  },
+  {
+    "ID": 20003,
+    "SystemIndex": 2,
+    "TriggerType": "MainStory_Click",
+    "ResourcePath": "",
+    "EventID": 0
+  },
+  {
+    "ID": 20004,
+    "SystemIndex": 2,
+    "TriggerType": "MainStory_Anim",
+    "ResourcePath": "Play_UI_Tape_Select",
+    "EventID": 0
+  },
+  {
+    "ID": 20005,
+    "SystemIndex": 2,
+    "TriggerType": "MainStory_BackAnim",
+    "ResourcePath": "Play_UI_Tape_Back",
+    "EventID": 0
+  },
+  {
+    "ID": 20006,
+    "SystemIndex": 2,
+    "TriggerType": "MainStory_ClickLevel",
+    "ResourcePath": "",
+    "EventID": 0
+  },
+  {
+    "ID": 20007,
+    "SystemIndex": 2,
+    "TriggerType": "MainStory_ClickStar",
+    "ResourcePath": "Play_UI_Tape_Achievement",
+    "EventID": 0
+  },
+  {
+    "ID": 20008,
+    "SystemIndex": 2,
+    "TriggerType": "MainStory_ClickStar",
+    "ResourcePath": "Play_UI_Tape_Achievement",
+    "EventID": 0
+  },
+  {
+    "ID": 20009,
+    "SystemIndex": 2,
+    "TriggerType": "Play_UI_Tapes_Drag",
+    "ResourcePath": "Play_UI_Tape_Slide",
+    "EventID": 0
+  },
+  {
+    "ID": 170001,
+    "SystemIndex": 17,
+    "TriggerType": "",
+    "ResourcePath": "Play_UI_Maze_MazeEnter",
+    "EventID": 0
+  },
+  {
+    "ID": 170002,
+    "SystemIndex": 17,
+    "TriggerType": "",
+    "ResourcePath": "Play_UI_Maze_MazeEnter_Glitch",
+    "EventID": 0
+  },
+  {
+    "ID": 170003,
+    "SystemIndex": 17,
+    "TriggerType": "",
+    "ResourcePath": "Play_UI_Maze_MazeEnter_Connect",
+    "EventID": 0
+  },
+  {
+    "ID": 170004,
+    "SystemIndex": 17,
+    "TriggerType": "",
+    "ResourcePath": "Play_UI_Maze_MazeEnter_Accelerate",
+    "EventID": 0
+  },
+  {
+    "ID": 170005,
+    "SystemIndex": 17,
+    "TriggerType": "",
+    "ResourcePath": "Play_AMB_Metro_Foggy",
+    "EventID": 0
+  },
+  {
+    "ID": 170006,
+    "SystemIndex": 17,
+    "TriggerType": "",
+    "ResourcePath": "Play_AMB_Metro_HeavyRain",
+    "EventID": 0
+  },
+  {
+    "ID": 170007,
+    "SystemIndex": 17,
+    "TriggerType": "",
+    "ResourcePath": "Play_AMB_Metro_Rain",
+    "EventID": 0
+  },
+  {
+    "ID": 170008,
+    "SystemIndex": 17,
+    "TriggerType": "",
+    "ResourcePath": "Play_AMB_Metro_Rain",
+    "EventID": 0
+  },
+  {
+    "ID": 80001,
+    "SystemIndex": 8,
+    "TriggerType": "GetItem",
+    "ResourcePath": "Play_UI_Gen_Getitem",
+    "EventID": 0
+  },
+  {
+    "ID": 80002,
+    "SystemIndex": 8,
+    "TriggerType": "LostItem",
+    "ResourcePath": "Play_UI_Gen_Lostitem",
+    "EventID": 0
+  },
+  {
+    "ID": 80003,
+    "SystemIndex": 8,
+    "TriggerType": "MuteCard",
+    "ResourcePath": "Play_UI_Maze_Mutecard",
+    "EventID": 0
+  },
+  {
+    "ID": 80004,
+    "SystemIndex": 8,
+    "TriggerType": "StanimaUp",
+    "ResourcePath": "",
+    "EventID": 0
+  },
+  {
+    "ID": 80005,
+    "SystemIndex": 8,
+    "TriggerType": "StanimaDown",
+    "ResourcePath": "",
+    "EventID": 0
+  },
+  {
+    "ID": 80006,
+    "SystemIndex": 8,
+    "TriggerType": "StanimaOverload",
+    "ResourcePath": "Play_UI_Maze_Icon_Glitch",
+    "EventID": 0
+  },
+  {
+    "ID": 80007,
+    "SystemIndex": 8,
+    "TriggerType": "LostBless",
+    "ResourcePath": "Play_UI_Maze_Cursedown",
+    "EventID": 0
+  },
+  {
+    "ID": 80008,
+    "SystemIndex": 8,
+    "TriggerType": "StanimaToDanger",
+    "ResourcePath": "Play_UI_Maze_Todanger",
+    "EventID": 0
+  },
+  {
+    "ID": 80009,
+    "SystemIndex": 8,
+    "TriggerType": "StanimaToSafe",
+    "ResourcePath": "",
+    "EventID": 0
+  },
+  {
+    "ID": 80010,
+    "SystemIndex": 8,
+    "TriggerType": "ToNextLevel",
+    "ResourcePath": "",
+    "EventID": 0
+  },
+  {
+    "ID": 80011,
+    "SystemIndex": 8,
+    "TriggerType": "EnterBattle",
+    "ResourcePath": "",
+    "EventID": 0
+  },
+  {
+    "ID": 80012,
+    "SystemIndex": 8,
+    "TriggerType": "HpToDanger",
+    "ResourcePath": "",
+    "EventID": 0
+  },
+  {
+    "ID": 80013,
+    "SystemIndex": 8,
+    "TriggerType": "HpToSafe",
+    "ResourcePath": "",
+    "EventID": 0
+  },
+  {
+    "ID": 80014,
+    "SystemIndex": 8,
+    "TriggerType": "HollowStartPerform",
+    "ResourcePath": "Play_UI_Maze_Hollowstart",
+    "EventID": 0
+  },
+  {
+    "ID": 80015,
+    "SystemIndex": 8,
+    "TriggerType": "Move",
+    "ResourcePath": "Play_UI_Maze_Move",
+    "EventID": 0
+  },
+  {
+    "ID": 80016,
+    "SystemIndex": 8,
+    "TriggerType": "ContinueMove",
+    "ResourcePath": "Play_UI_Maze_Move",
+    "EventID": 0
+  },
+  {
+    "ID": 80017,
+    "SystemIndex": 8,
+    "TriggerType": "HollowTaskFinish",
+    "ResourcePath": "",
+    "EventID": 0
+  },
+  {
+    "ID": 80018,
+    "SystemIndex": 8,
+    "TriggerType": "ChallengeTaskFinish",
+    "ResourcePath": "",
+    "EventID": 0
+  },
+  {
+    "ID": 80019,
+    "SystemIndex": 8,
+    "TriggerType": "ChallengeTaskUnlock",
+    "ResourcePath": "",
+    "EventID": 0
+  },
+  {
+    "ID": 80020,
+    "SystemIndex": 8,
+    "TriggerType": "NodeChanged_VisibleToInVisible",
+    "ResourcePath": "Play_UI_Maze_Hollowdestroy",
+    "EventID": 0
+  },
+  {
+    "ID": 80021,
+    "SystemIndex": 8,
+    "TriggerType": "NodeChanged_InVisibleToVisible",
+    "ResourcePath": "Play_UI_Maze_Hollowborn",
+    "EventID": 0
+  },
+  {
+    "ID": 80022,
+    "SystemIndex": 8,
+    "TriggerType": "NodeChanged_LockToShowEvent",
+    "ResourcePath": "",
+    "EventID": 0
+  },
+  {
+    "ID": 80023,
+    "SystemIndex": 8,
+    "TriggerType": "NodeChanged_ShowEventToLock",
+    "ResourcePath": "",
+    "EventID": 0
+  },
+  {
+    "ID": 80024,
+    "SystemIndex": 8,
+    "TriggerType": "NodeChanged_LockToFinish",
+    "ResourcePath": "",
+    "EventID": 0
+  },
+  {
+    "ID": 80025,
+    "SystemIndex": 8,
+    "TriggerType": "NodeChanged_FinishToLock",
+    "ResourcePath": "",
+    "EventID": 0
+  },
+  {
+    "ID": 80026,
+    "SystemIndex": 8,
+    "TriggerType": "NodeChanged_FinishToShowEvent",
+    "ResourcePath": "",
+    "EventID": 0
+  },
+  {
+    "ID": 80027,
+    "SystemIndex": 8,
+    "TriggerType": "NodeChanged_ShowEventToFinish",
+    "ResourcePath": "",
+    "EventID": 0
+  },
+  {
+    "ID": 80028,
+    "SystemIndex": 8,
+    "TriggerType": "GetCurse",
+    "ResourcePath": "Play_UI_Maze_GetCurse",
+    "EventID": 0
+  },
+  {
+    "ID": 80029,
+    "SystemIndex": 8,
+    "TriggerType": "",
+    "ResourcePath": "Play_UI_Maze_Hollowstart",
+    "EventID": 0
+  },
+  {
+    "ID": 80030,
+    "SystemIndex": 8,
+    "TriggerType": "ChessboardPlayerMove_LF",
+    "ResourcePath": "Play_UI_Maze_Move_Widthwise",
+    "EventID": 0
+  },
+  {
+    "ID": 80031,
+    "SystemIndex": 8,
+    "TriggerType": "ChessboardPlayerMove_RT",
+    "ResourcePath": "Play_UI_Maze_Move_Widthwise",
+    "EventID": 0
+  },
+  {
+    "ID": 80032,
+    "SystemIndex": 8,
+    "TriggerType": "ChessboardPlayerMove_UP",
+    "ResourcePath": "Play_UI_Maze_Move_Vertical",
+    "EventID": 0
+  },
+  {
+    "ID": 80033,
+    "SystemIndex": 8,
+    "TriggerType": "ChessboardPlayerMove_BM",
+    "ResourcePath": "Play_UI_Maze_Move_Vertical",
+    "EventID": 0
+  },
+  {
+    "ID": 80034,
+    "SystemIndex": 8,
+    "TriggerType": "LoadingSingleLost",
+    "ResourcePath": "",
+    "EventID": 0
+  },
+  {
+    "ID": 80035,
+    "SystemIndex": 8,
+    "TriggerType": "",
+    "ResourcePath": "Play_UI_Maze_Enter",
+    "EventID": 0
+  },
+  {
+    "ID": 80036,
+    "SystemIndex": 8,
+    "TriggerType": "",
+    "ResourcePath": "Play_UI_Maze_PreEnter",
+    "EventID": 0
+  },
+  {
+    "ID": 80037,
+    "SystemIndex": 8,
+    "TriggerType": "",
+    "ResourcePath": "Play_UI_Maze_Move_Glitch_2",
+    "EventID": 0
+  },
+  {
+    "ID": 80038,
+    "SystemIndex": 8,
+    "TriggerType": "",
+    "ResourcePath": "Play_UI_Maze_Move_Glitch_1",
+    "EventID": 0
+  },
+  {
+    "ID": 80039,
+    "SystemIndex": 8,
+    "TriggerType": "GetGold1",
+    "ResourcePath": "Play_UI_Maze_Addcoin_1",
+    "EventID": 0
+  },
+  {
+    "ID": 80040,
+    "SystemIndex": 8,
+    "TriggerType": "GetGold2",
+    "ResourcePath": "Play_UI_Maze_Addcoin_2",
+    "EventID": 0
+  },
+  {
+    "ID": 80041,
+    "SystemIndex": 8,
+    "TriggerType": "HPIncrease",
+    "ResourcePath": "Play_UI_Maze_Heal",
+    "EventID": 0
+  },
+  {
+    "ID": 80042,
+    "SystemIndex": 8,
+    "TriggerType": "StaminaDecrease",
+    "ResourcePath": "Play_UI_Maze_Stressdown",
+    "EventID": 0
+  },
+  {
+    "ID": 80043,
+    "SystemIndex": 8,
+    "TriggerType": "HPDecrease",
+    "ResourcePath": "Play_UI_Maze_HPdown",
+    "EventID": 0
+  },
+  {
+    "ID": 80044,
+    "SystemIndex": 8,
+    "TriggerType": "StaminaIncrease",
+    "ResourcePath": "Play_UI_Maze_Stressup",
+    "EventID": 0
+  },
+  {
+    "ID": 80045,
+    "SystemIndex": 8,
+    "TriggerType": "Purchase_Coin",
+    "ResourcePath": "Play_UI_Maze_Buy",
+    "EventID": 0
+  },
+  {
+    "ID": 80046,
+    "SystemIndex": 8,
+    "TriggerType": "Purchase_Curse",
+    "ResourcePath": "Play_UI_Maze_Cursebuy",
+    "EventID": 0
+  },
+  {
+    "ID": 80052,
+    "SystemIndex": 8,
+    "TriggerType": "",
+    "ResourcePath": "Play_UI_Maze_PreEvent",
+    "EventID": 0
+  },
+  {
+    "ID": 80053,
+    "SystemIndex": 8,
+    "TriggerType": "",
+    "ResourcePath": "Play_UI_Maze_Switchfloor",
+    "EventID": 0
+  },
+  {
+    "ID": 80054,
+    "SystemIndex": 8,
+    "TriggerType": "",
+    "ResourcePath": "Play_UI_Maze_Teleport_1",
+    "EventID": 0
+  },
+  {
+    "ID": 80055,
+    "SystemIndex": 8,
+    "TriggerType": "",
+    "ResourcePath": "Play_UI_Maze_Teleport_2",
+    "EventID": 0
+  },
+  {
+    "ID": 80056,
+    "SystemIndex": 8,
+    "TriggerType": "",
+    "ResourcePath": "Play_UI_Maze_Bomb",
+    "EventID": 0
+  },
+  {
+    "ID": 80057,
+    "SystemIndex": 8,
+    "TriggerType": "",
+    "ResourcePath": "Play_UI_Maze_Slot_Select",
+    "EventID": 0
+  },
+  {
+    "ID": 80058,
+    "SystemIndex": 8,
+    "TriggerType": "",
+    "ResourcePath": "Play_UI_Maze_Slot_Tap",
+    "EventID": 0
+  },
+  {
+    "ID": 81001,
+    "SystemIndex": 8,
+    "TriggerType": "",
+    "ResourcePath": "Play_UI_Maze_Camera_Default_Down",
+    "EventID": 0
+  },
+  {
+    "ID": 81002,
+    "SystemIndex": 8,
+    "TriggerType": "",
+    "ResourcePath": "Play_UI_Maze_Camera_Default_Up",
+    "EventID": 0
+  },
+  {
+    "ID": 81003,
+    "SystemIndex": 8,
+    "TriggerType": "",
+    "ResourcePath": "Play_UI_Maze_Camera_Far_Up",
+    "EventID": 0
+  },
+  {
+    "ID": 81004,
+    "SystemIndex": 8,
+    "TriggerType": "",
+    "ResourcePath": "Play_UI_Maze_Camera_Far_Down",
+    "EventID": 0
+  },
+  {
+    "ID": 81005,
+    "SystemIndex": 8,
+    "TriggerType": "",
+    "ResourcePath": "Play_UI_Maze_Camera_Far",
+    "EventID": 0
+  },
+  {
+    "ID": 81006,
+    "SystemIndex": 8,
+    "TriggerType": "",
+    "ResourcePath": "Play_UI_Maze_Camera_Superfar",
+    "EventID": 0
+  },
+  {
+    "ID": 82001,
+    "SystemIndex": 8,
+    "TriggerType": "",
+    "ResourcePath": "Play_UI_Maze_VideoStart",
+    "EventID": 0
+  },
+  {
+    "ID": 82002,
+    "SystemIndex": 8,
+    "TriggerType": "",
+    "ResourcePath": "Play_UI_Maze_Goal",
+    "EventID": 0
+  },
+  {
+    "ID": 82003,
+    "SystemIndex": 8,
+    "TriggerType": "",
+    "ResourcePath": "Play_UI_Maze_Swtichlayer",
+    "EventID": 0
+  },
+  {
+    "ID": 82004,
+    "SystemIndex": 8,
+    "TriggerType": "",
+    "ResourcePath": "Play_UI_Maze_Switchcombat",
+    "EventID": 0
+  },
+  {
+    "ID": 82005,
+    "SystemIndex": 8,
+    "TriggerType": "",
+    "ResourcePath": "Play_UI_Maze_Combatgoal",
+    "EventID": 0
+  },
+  {
+    "ID": 82006,
+    "SystemIndex": 8,
+    "TriggerType": "",
+    "ResourcePath": "Play_UI_Maze_Icon_NormalBattle",
+    "EventID": 0
+  },
+  {
+    "ID": 82007,
+    "SystemIndex": 8,
+    "TriggerType": "",
+    "ResourcePath": "Play_UI_Maze_Icon_NormalBattle",
+    "EventID": 0
+  },
+  {
+    "ID": 82008,
+    "SystemIndex": 8,
+    "TriggerType": "",
+    "ResourcePath": "Play_UI_Maze_Icon_BossBattle",
+    "EventID": 0
+  },
+  {
+    "ID": 82009,
+    "SystemIndex": 8,
+    "TriggerType": "",
+    "ResourcePath": "",
+    "EventID": 0
+  },
+  {
+    "ID": 82010,
+    "SystemIndex": 8,
+    "TriggerType": "",
+    "ResourcePath": "Play_UI_Maze_Beacon",
+    "EventID": 0
+  },
+  {
+    "ID": 82011,
+    "SystemIndex": 8,
+    "TriggerType": "",
+    "ResourcePath": "",
+    "EventID": 0
+  },
+  {
+    "ID": 82012,
+    "SystemIndex": 8,
+    "TriggerType": "",
+    "ResourcePath": "",
+    "EventID": 0
+  },
+  {
+    "ID": 82013,
+    "SystemIndex": 8,
+    "TriggerType": "",
+    "ResourcePath": "",
+    "EventID": 0
+  },
+  {
+    "ID": 82014,
+    "SystemIndex": 8,
+    "TriggerType": "",
+    "ResourcePath": "Play_UI_Maze_Icon_Arcana",
+    "EventID": 0
+  },
+  {
+    "ID": 82015,
+    "SystemIndex": 8,
+    "TriggerType": "",
+    "ResourcePath": "Play_UI_Maze_Question",
+    "EventID": 0
+  },
+  {
+    "ID": 82016,
+    "SystemIndex": 8,
+    "TriggerType": "",
+    "ResourcePath": "",
+    "EventID": 0
+  },
+  {
+    "ID": 82017,
+    "SystemIndex": 8,
+    "TriggerType": "",
+    "ResourcePath": "Play_UI_Maze_Icon_Shop",
+    "EventID": 0
+  },
+  {
+    "ID": 82018,
+    "SystemIndex": 8,
+    "TriggerType": "",
+    "ResourcePath": "Play_UI_Maze_Teleport",
+    "EventID": 0
+  },
+  {
+    "ID": 82019,
+    "SystemIndex": 8,
+    "TriggerType": "",
+    "ResourcePath": "",
+    "EventID": 0
+  },
+  {
+    "ID": 82020,
+    "SystemIndex": 8,
+    "TriggerType": "",
+    "ResourcePath": "",
+    "EventID": 0
+  },
+  {
+    "ID": 82021,
+    "SystemIndex": 8,
+    "TriggerType": "",
+    "ResourcePath": "",
+    "EventID": 0
+  },
+  {
+    "ID": 82022,
+    "SystemIndex": 8,
+    "TriggerType": "",
+    "ResourcePath": "Play_UI_Maze_Glitch",
+    "EventID": 0
+  },
+  {
+    "ID": 82023,
+    "SystemIndex": 8,
+    "TriggerType": "",
+    "ResourcePath": "",
+    "EventID": 0
+  },
+  {
+    "ID": 82024,
+    "SystemIndex": 8,
+    "TriggerType": "",
+    "ResourcePath": "",
+    "EventID": 0
+  },
+  {
+    "ID": 82025,
+    "SystemIndex": 8,
+    "TriggerType": "",
+    "ResourcePath": "",
+    "EventID": 0
+  },
+  {
+    "ID": 82026,
+    "SystemIndex": 8,
+    "TriggerType": "",
+    "ResourcePath": "Play_UI_Maze_Revive",
+    "EventID": 0
+  },
+  {
+    "ID": 82027,
+    "SystemIndex": 8,
+    "TriggerType": "",
+    "ResourcePath": "",
+    "EventID": 0
+  },
+  {
+    "ID": 82028,
+    "SystemIndex": 8,
+    "TriggerType": "",
+    "ResourcePath": "",
+    "EventID": 0
+  },
+  {
+    "ID": 82029,
+    "SystemIndex": 8,
+    "TriggerType": "",
+    "ResourcePath": "",
+    "EventID": 0
+  },
+  {
+    "ID": 82030,
+    "SystemIndex": 8,
+    "TriggerType": "",
+    "ResourcePath": "Play_UI_Maze_Hole",
+    "EventID": 0
+  },
+  {
+    "ID": 82031,
+    "SystemIndex": 8,
+    "TriggerType": "",
+    "ResourcePath": "Play_UI_Maze_Gold_1",
+    "EventID": 0
+  },
+  {
+    "ID": 82032,
+    "SystemIndex": 8,
+    "TriggerType": "",
+    "ResourcePath": "Play_UI_Maze_Icon_Getcoin",
+    "EventID": 0
+  },
+  {
+    "ID": 82033,
+    "SystemIndex": 8,
+    "TriggerType": "",
+    "ResourcePath": "Play_UI_Maze_Restzone",
+    "EventID": 0
+  },
+  {
+    "ID": 82034,
+    "SystemIndex": 8,
+    "TriggerType": "",
+    "ResourcePath": "Play_UI_Maze_Icon_Stressdown",
+    "EventID": 0
+  },
+  {
+    "ID": 82035,
+    "SystemIndex": 8,
+    "TriggerType": "",
+    "ResourcePath": "Play_UI_Maze_Icon_HPdown",
+    "EventID": 0
+  },
+  {
+    "ID": 82036,
+    "SystemIndex": 8,
+    "TriggerType": "",
+    "ResourcePath": "Play_UI_Maze_Icon_Stressup",
+    "EventID": 0
+  },
+  {
+    "ID": 82037,
+    "SystemIndex": 8,
+    "TriggerType": "",
+    "ResourcePath": "",
+    "EventID": 0
+  },
+  {
+    "ID": 82038,
+    "SystemIndex": 8,
+    "TriggerType": "",
+    "ResourcePath": "Play_UI_Maze_Gashapon",
+    "EventID": 0
+  },
+  {
+    "ID": 82039,
+    "SystemIndex": 8,
+    "TriggerType": "",
+    "ResourcePath": "",
+    "EventID": 0
+  },
+  {
+    "ID": 82040,
+    "SystemIndex": 8,
+    "TriggerType": "",
+    "ResourcePath": "Play_UI_Maze_Gold_2",
+    "EventID": 0
+  },
+  {
+    "ID": 82041,
+    "SystemIndex": 8,
+    "TriggerType": "",
+    "ResourcePath": "",
+    "EventID": 0
+  },
+  {
+    "ID": 82042,
+    "SystemIndex": 8,
+    "TriggerType": "",
+    "ResourcePath": "Play_UI_Maze_Icon_Mining",
+    "EventID": 0
+  },
+  {
+    "ID": 82043,
+    "SystemIndex": 8,
+    "TriggerType": "",
+    "ResourcePath": "Play_UI_Maze_Seek_1",
+    "EventID": 0
+  },
+  {
+    "ID": 82044,
+    "SystemIndex": 8,
+    "TriggerType": "",
+    "ResourcePath": "Play_UI_Maze_Cruseshop",
+    "EventID": 0
+  },
+  {
+    "ID": 82045,
+    "SystemIndex": 8,
+    "TriggerType": "",
+    "ResourcePath": "Play_UI_Maze_Icon_Answer",
+    "EventID": 0
+  },
+  {
+    "ID": 82046,
+    "SystemIndex": 8,
+    "TriggerType": "",
+    "ResourcePath": "",
+    "EventID": 0
+  },
+  {
+    "ID": 82047,
+    "SystemIndex": 8,
+    "TriggerType": "",
+    "ResourcePath": "Play_UI_Maze_Seek_2",
+    "EventID": 0
+  },
+  {
+    "ID": 82048,
+    "SystemIndex": 8,
+    "TriggerType": "",
+    "ResourcePath": "Play_UI_Maze_Combatenter",
+    "EventID": 0
+  },
+  {
+    "ID": 82049,
+    "SystemIndex": 8,
+    "TriggerType": "CardSelect",
+    "ResourcePath": "Play_UI_Maze_CardSelect",
+    "EventID": 0
+  },
+  {
+    "ID": 82050,
+    "SystemIndex": 8,
+    "TriggerType": "CurseLevelDown",
+    "ResourcePath": "Play_UI_Maze_Curseleveldown",
+    "EventID": 0
+  },
+  {
+    "ID": 82051,
+    "SystemIndex": 8,
+    "TriggerType": "CurseLevelUp",
+    "ResourcePath": "Play_UI_Maze_Curselevelup",
+    "EventID": 0
+  },
+  {
+    "ID": 82052,
+    "SystemIndex": 8,
+    "TriggerType": "",
+    "ResourcePath": "Play_UI_Maze_Icon_Item",
+    "EventID": 0
+  },
+  {
+    "ID": 82053,
+    "SystemIndex": 8,
+    "TriggerType": "",
+    "ResourcePath": "Play_UI_Maze_Icon_Invest",
+    "EventID": 0
+  },
+  {
+    "ID": 82054,
+    "SystemIndex": 8,
+    "TriggerType": "",
+    "ResourcePath": "Play_UI_Maze_Icon_News",
+    "EventID": 0
+  },
+  {
+    "ID": 82055,
+    "SystemIndex": 8,
+    "TriggerType": "",
+    "ResourcePath": "Play_UI_Maze_Icon_Thieve",
+    "EventID": 0
+  },
+  {
+    "ID": 82056,
+    "SystemIndex": 8,
+    "TriggerType": "",
+    "ResourcePath": "Play_UI_Maze_Icon_Train",
+    "EventID": 0
+  },
+  {
+    "ID": 82057,
+    "SystemIndex": 8,
+    "TriggerType": "",
+    "ResourcePath": "Play_UI_Maze_Icon_Vending",
+    "EventID": 0
+  },
+  {
+    "ID": 82058,
+    "SystemIndex": 8,
+    "TriggerType": "",
+    "ResourcePath": "Play_UI_Maze_Icon_Escalator",
+    "EventID": 0
+  },
+  {
+    "ID": 82059,
+    "SystemIndex": 8,
+    "TriggerType": "BombItem",
+    "ResourcePath": "Play_NPC_Bomb_Item",
+    "EventID": 0
+  },
+  {
+    "ID": 82060,
+    "SystemIndex": 8,
+    "TriggerType": "",
+    "ResourcePath": "Play_UI_Maze_Icon_BangbooAlied",
+    "EventID": 0
+  },
+  {
+    "ID": 82061,
+    "SystemIndex": 8,
+    "TriggerType": "",
+    "ResourcePath": "Play_UI_Maze_Icon_BangbooEvil_01",
+    "EventID": 0
+  },
+  {
+    "ID": 82062,
+    "SystemIndex": 8,
+    "TriggerType": "",
+    "ResourcePath": "Play_UI_Maze_Icon_BangbooEvil_02",
+    "EventID": 0
+  },
+  {
+    "ID": 82063,
+    "SystemIndex": 8,
+    "TriggerType": "",
+    "ResourcePath": "Play_UI_Maze_Icon_BangbooEvil_03",
+    "EventID": 0
+  },
+  {
+    "ID": 82064,
+    "SystemIndex": 8,
+    "TriggerType": "",
+    "ResourcePath": "Play_UI_Maze_Icon_Bomb",
+    "EventID": 0
+  },
+  {
+    "ID": 82065,
+    "SystemIndex": 8,
+    "TriggerType": "",
+    "ResourcePath": "Play_UI_Maze_Icon_Slot",
+    "EventID": 0
+  },
+  {
+    "ID": 82066,
+    "SystemIndex": 8,
+    "TriggerType": "",
+    "ResourcePath": "Play_UI_Maze_Icon_Phone",
+    "EventID": 0
+  },
+  {
+    "ID": 90001,
+    "SystemIndex": 9,
+    "TriggerType": "",
+    "ResourcePath": "Play_UI_Inlevel_Fever",
+    "EventID": 0
+  },
+  {
+    "ID": 90002,
+    "SystemIndex": 9,
+    "TriggerType": "",
+    "ResourcePath": "Play_UI_Inlevel_Feverup",
+    "EventID": 0
+  },
+  {
+    "ID": 90003,
+    "SystemIndex": 9,
+    "TriggerType": "",
+    "ResourcePath": "Play_UI_Inlevel_Feverdown",
+    "EventID": 0
+  },
+  {
+    "ID": 90004,
+    "SystemIndex": 9,
+    "TriggerType": "",
+    "ResourcePath": "",
+    "EventID": 0
+  },
+  {
+    "ID": 90005,
+    "SystemIndex": 9,
+    "TriggerType": "",
+    "ResourcePath": "",
+    "EventID": 0
+  },
+  {
+    "ID": 90006,
+    "SystemIndex": 9,
+    "TriggerType": "SP_Reach_Threshold",
+    "ResourcePath": "Play_UI_SP_Hint",
+    "EventID": 0
+  },
+  {
+    "ID": 90007,
+    "SystemIndex": 9,
+    "TriggerType": "HollowToBattle_Connect",
+    "ResourcePath": "Play_UI_Battle_Connect",
+    "EventID": 0
+  },
+  {
+    "ID": 90008,
+    "SystemIndex": 9,
+    "TriggerType": "BattleToHollow_Disconnect",
+    "ResourcePath": "Play_UI_Battle_Disconnect",
+    "EventID": 0
+  },
+  {
+    "ID": 90009,
+    "SystemIndex": 9,
+    "TriggerType": "Surround_BattleCamera_Start",
+    "ResourcePath": "Play_sfx_interact_camera_combatstart",
+    "EventID": 0
+  },
+  {
+    "ID": 100001,
+    "SystemIndex": 10,
+    "TriggerType": "MusicShopOpen",
+    "ResourcePath": "Play_UI_MainCity_Musicshop_Open",
+    "EventID": 0
+  },
+  {
+    "ID": 100002,
+    "SystemIndex": 10,
+    "TriggerType": "MusicShopClose",
+    "ResourcePath": "Play_UI_MainCity_Musicshop_Close",
+    "EventID": 0
+  },
+  {
+    "ID": 100003,
+    "SystemIndex": 10,
+    "TriggerType": "RamenOpen",
+    "ResourcePath": "Play_UI_MainCity_Ramen_Open",
+    "EventID": 0
+  },
+  {
+    "ID": 100004,
+    "SystemIndex": 10,
+    "TriggerType": "RamenPay",
+    "ResourcePath": "Play_UI_MainCity_Ramen_Pay",
+    "EventID": 0
+  },
+  {
+    "ID": 100005,
+    "SystemIndex": 10,
+    "TriggerType": "ShopPay",
+    "ResourcePath": "Play_UI_MainCity_Shop_Pay",
+    "EventID": 0
+  },
+  {
+    "ID": 100006,
+    "SystemIndex": 10,
+    "TriggerType": "ShopRefresh",
+    "ResourcePath": "Play_UI_MainCity_Shop_Refresh",
+    "EventID": 0
+  },
+  {
+    "ID": 100007,
+    "SystemIndex": 10,
+    "TriggerType": "ShopOpen",
+    "ResourcePath": "Play_UI_MainCity_Shop_Open",
+    "EventID": 0
+  },
+  {
+    "ID": 100008,
+    "SystemIndex": 10,
+    "TriggerType": "StudioOpen",
+    "ResourcePath": "Play_UI_MainCity_Studio_Open",
+    "EventID": 0
+  },
+  {
+    "ID": 100009,
+    "SystemIndex": 10,
+    "TriggerType": "StudioClose",
+    "ResourcePath": "Play_UI_MainCity_Studio_Close",
+    "EventID": 0
+  },
+  {
+    "ID": 100010,
+    "SystemIndex": 10,
+    "TriggerType": "Teleport",
+    "ResourcePath": "Play_UI_MainCity_Teleport",
+    "EventID": 0
+  },
+  {
+    "ID": 100011,
+    "SystemIndex": 10,
+    "TriggerType": "RamenClose",
+    "ResourcePath": "Play_UI_MainCity_Ramen_Close",
+    "EventID": 0
+  },
+  {
+    "ID": 100012,
+    "SystemIndex": 10,
+    "TriggerType": "ShopClose",
+    "ResourcePath": "Play_UI_MainCity_Shop_Close",
+    "EventID": 0
+  },
+  {
+    "ID": 100013,
+    "SystemIndex": 10,
+    "TriggerType": "RamenBlack",
+    "ResourcePath": "Play_UI_MainCity_RamenBlack",
+    "EventID": 0
+  },
+  {
+    "ID": 100014,
+    "SystemIndex": 10,
+    "TriggerType": "HollowItemUnlock",
+    "ResourcePath": "Play_UI_MainCity_HollowItemUnlock",
+    "EventID": 0
+  },
+  {
+    "ID": 100015,
+    "SystemIndex": 10,
+    "TriggerType": "HollowItemLevelUp",
+    "ResourcePath": "Play_UI_MainCity_HollowItemLevelup",
+    "EventID": 0
+  },
+  {
+    "ID": 100016,
+    "SystemIndex": 10,
+    "TriggerType": "MainCityQuestRefresh",
+    "ResourcePath": "Play_UI_MainCity_Mission_Refresh",
+    "EventID": 0
+  },
+  {
+    "ID": 100017,
+    "SystemIndex": 10,
+    "TriggerType": "MainCityInteract",
+    "ResourcePath": "Play_UI_MainCity_Interact",
+    "EventID": 0
+  },
+  {
+    "ID": 100018,
+    "SystemIndex": 10,
+    "TriggerType": "BurnNormal",
+    "ResourcePath": "Play_UI_MainCity_Burn_Normal",
+    "EventID": 0
+  },
+  {
+    "ID": 100019,
+    "SystemIndex": 10,
+    "TriggerType": "BurnRare",
+    "ResourcePath": "Play_UI_MainCity_Burn_Rare",
+    "EventID": 0
+  },
+  {
+    "ID": 100020,
+    "SystemIndex": 10,
+    "TriggerType": "BurnBlank",
+    "ResourcePath": "Play_UI_MainCity_Burn_Blank",
+    "EventID": 0
+  },
+  {
+    "ID": 100021,
+    "SystemIndex": 10,
+    "TriggerType": "BurnBreak",
+    "ResourcePath": "Play_UI_MainCity_Burn_Break",
+    "EventID": 0
+  },
+  {
+    "ID": 100022,
+    "SystemIndex": 10,
+    "TriggerType": "VideoShopTapeSelect",
+    "ResourcePath": "Play_UI_MainCity_Tape_Select",
+    "EventID": 0
+  },
+  {
+    "ID": 100023,
+    "SystemIndex": 10,
+    "TriggerType": "VideoShopRefresh",
+    "ResourcePath": "Play_UI_MainCity_Shop_Refresh",
+    "EventID": 0
+  },
+  {
+    "ID": 100024,
+    "SystemIndex": 10,
+    "TriggerType": "GroceryPay",
+    "ResourcePath": "Play_UI_MainCity_Shop_Pay",
+    "EventID": 0
+  },
+  {
+    "ID": 100025,
+    "SystemIndex": 10,
+    "TriggerType": "GroceryLargePay",
+    "ResourcePath": "Play_UI_MainCity_Shop_LargePay",
+    "EventID": 0
+  },
+  {
+    "ID": 100026,
+    "SystemIndex": 6,
+    "TriggerType": "DepositoryRefresh",
+    "ResourcePath": "Play_UI_MainCity_DepositoryRefresh",
+    "EventID": 0
+  },
+  {
+    "ID": 100027,
+    "SystemIndex": 10,
+    "TriggerType": "MainCityTeleport",
+    "ResourcePath": "Play_UI_MainCity_Teleport",
+    "EventID": 0
+  },
+  {
+    "ID": 100028,
+    "SystemIndex": 5,
+    "TriggerType": "DoEquip",
+    "ResourcePath": "Play_UI_Gen_Equip",
+    "EventID": 0
+  },
+  {
+    "ID": 100029,
+    "SystemIndex": 5,
+    "TriggerType": "DoUnEquip",
+    "ResourcePath": "Play_UI_Gen_Unequip",
+    "EventID": 0
+  },
+  {
+    "ID": 100030,
+    "SystemIndex": 5,
+    "TriggerType": "ChTalentUnlock",
+    "ResourcePath": "Play_UI_Star_Upgrade",
+    "EventID": 0
+  },
+  {
+    "ID": 100031,
+    "SystemIndex": 5,
+    "TriggerType": "ChSkillLvUp",
+    "ResourcePath": "Play_UI_Star_Upgrade",
+    "EventID": 0
+  },
+  {
+    "ID": 100032,
+    "SystemIndex": 5,
+    "TriggerType": "ChStarUp",
+    "ResourcePath": "Play_UI_Star_Upgrade",
+    "EventID": 0
+  },
+  {
+    "ID": 100033,
+    "SystemIndex": 5,
+    "TriggerType": "ChLvUp",
+    "ResourcePath": "Play_UI_Star_Upgrade",
+    "EventID": 0
+  },
+  {
+    "ID": 100034,
+    "SystemIndex": 5,
+    "TriggerType": "ChBreakThrough",
+    "ResourcePath": "Play_UI_Star_Upgrade",
+    "EventID": 0
+  },
+  {
+    "ID": 100035,
+    "SystemIndex": 10,
+    "TriggerType": "",
+    "ResourcePath": "Play_VO_Maincity_Musicshop_Enter",
+    "EventID": 0
+  },
+  {
+    "ID": 100036,
+    "SystemIndex": 10,
+    "TriggerType": "",
+    "ResourcePath": "Play_VO_Maincity_Musicshop_Exit",
+    "EventID": 0
+  },
+  {
+    "ID": 100037,
+    "SystemIndex": 10,
+    "TriggerType": "",
+    "ResourcePath": "Play_VO_Maincity_Musicshop_Rare",
+    "EventID": 0
+  },
+  {
+    "ID": 100038,
+    "SystemIndex": 10,
+    "TriggerType": "",
+    "ResourcePath": "Play_VO_Maincity_Ramen_Enter_01",
+    "EventID": 0
+  },
+  {
+    "ID": 100039,
+    "SystemIndex": 10,
+    "TriggerType": "",
+    "ResourcePath": "Play_VO_Maincity_Ramen_Exit",
+    "EventID": 0
+  },
+  {
+    "ID": 100040,
+    "SystemIndex": 10,
+    "TriggerType": "",
+    "ResourcePath": "Play_VO_Maincity_Ramen_Meal",
+    "EventID": 0
+  },
+  {
+    "ID": 100041,
+    "SystemIndex": 10,
+    "TriggerType": "",
+    "ResourcePath": "Play_VO_Maincity_Shop_Enter",
+    "EventID": 0
+  },
+  {
+    "ID": 100042,
+    "SystemIndex": 10,
+    "TriggerType": "",
+    "ResourcePath": "Play_VO_Maincity_Shop_Exit",
+    "EventID": 0
+  },
+  {
+    "ID": 100043,
+    "SystemIndex": 10,
+    "TriggerType": "",
+    "ResourcePath": "Play_VO_Maincity_Shop_Idle",
+    "EventID": 0
+  },
+  {
+    "ID": 100044,
+    "SystemIndex": 10,
+    "TriggerType": "",
+    "ResourcePath": "Play_VO_Maincity_Ramen_Enter_02",
+    "EventID": 0
+  },
+  {
+    "ID": 100045,
+    "SystemIndex": 10,
+    "TriggerType": "",
+    "ResourcePath": "Play_VO_Maincity_Ramen_Enter_03",
+    "EventID": 0
+  },
+  {
+    "ID": 100046,
+    "SystemIndex": 10,
+    "TriggerType": "MainCityOpenDoor",
+    "ResourcePath": "Play_UI_MainCity_Bangboodoor_Open",
+    "EventID": 0
+  },
+  {
+    "ID": 100047,
+    "SystemIndex": 10,
+    "TriggerType": "MainCityMenu",
+    "ResourcePath": "Play_UI_MaincityMenu",
+    "EventID": 0
+  },
+  {
+    "ID": 100048,
+    "SystemIndex": 8,
+    "TriggerType": "HollowResultRewardItem",
+    "ResourcePath": "",
+    "EventID": 0
+  },
+  {
+    "ID": 100049,
+    "SystemIndex": 8,
+    "TriggerType": "HollowResultYorozuyaExpUp",
+    "ResourcePath": "Play_UI_Player_Expup",
+    "EventID": 0
+  },
+  {
+    "ID": 100050,
+    "SystemIndex": 8,
+    "TriggerType": "HollowResultYorozuyaLevelUp",
+    "ResourcePath": "Play_UI_Player_Levelup",
+    "EventID": 0
+  },
+  {
+    "ID": 100051,
+    "SystemIndex": 10,
+    "TriggerType": "",
+    "ResourcePath": "Play_UI_Gen_Window_Close",
+    "EventID": 0
+  },
+  {
+    "ID": 100052,
+    "SystemIndex": 10,
+    "TriggerType": "",
+    "ResourcePath": "Play_UI_Gen_Window_Open",
+    "EventID": 0
+  },
+  {
+    "ID": 100053,
+    "SystemIndex": 10,
+    "TriggerType": "",
+    "ResourcePath": "Play_UI_MainCity_Bangboodoor_Seek",
+    "EventID": 0
+  },
+  {
+    "ID": 200001,
+    "SystemIndex": 0,
+    "TriggerType": "",
+    "ResourcePath": "Play_Galgame_Chapter1_Anbi_41_AF_01",
+    "EventID": 0
+  },
+  {
+    "ID": 200002,
+    "SystemIndex": 0,
+    "TriggerType": "",
+    "ResourcePath": "Play_Galgame_Chapter1_Anbi_41_AF_02",
+    "EventID": 0
+  },
+  {
+    "ID": 200003,
+    "SystemIndex": 0,
+    "TriggerType": "",
+    "ResourcePath": "Play_Galgame_Chapter1_Belle_28_AF",
+    "EventID": 0
+  },
+  {
+    "ID": 200004,
+    "SystemIndex": 0,
+    "TriggerType": "",
+    "ResourcePath": "Play_Galgame_Chapter1_Billy_02_AF",
+    "EventID": 0
+  },
+  {
+    "ID": 200005,
+    "SystemIndex": 0,
+    "TriggerType": "",
+    "ResourcePath": "Play_Galgame_Chapter1_Billy_17_BF",
+    "EventID": 0
+  },
+  {
+    "ID": 200006,
+    "SystemIndex": 0,
+    "TriggerType": "",
+    "ResourcePath": "Play_Galgame_Chapter1_Billy_22_AF",
+    "EventID": 0
+  },
+  {
+    "ID": 200007,
+    "SystemIndex": 0,
+    "TriggerType": "",
+    "ResourcePath": "Play_Galgame_Chapter1_Billy_24_BF",
+    "EventID": 0
+  },
+  {
+    "ID": 200008,
+    "SystemIndex": 0,
+    "TriggerType": "",
+    "ResourcePath": "Play_Galgame_Chapter1_Nekomata_103_AF",
+    "EventID": 0
+  },
+  {
+    "ID": 200009,
+    "SystemIndex": 0,
+    "TriggerType": "",
+    "ResourcePath": "Play_Galgame_Chapter1_Nicole_79_AF",
+    "EventID": 0
+  },
+  {
+    "ID": 200010,
+    "SystemIndex": 0,
+    "TriggerType": "",
+    "ResourcePath": "Play_Galgame_Chapter1_Nicole_116_AF",
+    "EventID": 0
+  },
+  {
+    "ID": 200011,
+    "SystemIndex": 0,
+    "TriggerType": "",
+    "ResourcePath": "Play_Galgame_Chapter1_Billy_64_AF",
+    "EventID": 0
+  },
+  {
+    "ID": 201001,
+    "SystemIndex": 0,
+    "TriggerType": "Galgame_ShowStoryNode",
+    "ResourcePath": "Play_UI_Galgame_Showstory",
+    "EventID": 0
+  },
+  {
+    "ID": 201002,
+    "SystemIndex": 0,
+    "TriggerType": "Galgame_ShowSubNarratorNode",
+    "ResourcePath": "Play_UI_Galgame_Showstory",
+    "EventID": 0
+  },
+  {
+    "ID": 201003,
+    "SystemIndex": 0,
+    "TriggerType": "Galgame_ShowNarratorIconNode",
+    "ResourcePath": "Play_UI_Galgame_Showstory",
+    "EventID": 0
+  },
+  {
+    "ID": 201004,
+    "SystemIndex": 0,
+    "TriggerType": "Galgame_ShowSwitchSceneNode",
+    "ResourcePath": "Play_UI_Galgame_Showstory",
+    "EventID": 0
+  },
+  {
+    "ID": 301001,
+    "SystemIndex": 0,
+    "TriggerType": "Comic_ShowBubble",
+    "ResourcePath": "Play_UI_Comic_Showbubble",
+    "EventID": 0
+  },
+  {
+    "ID": 301002,
+    "SystemIndex": 0,
+    "TriggerType": "Comic_ShowNewChapter",
+    "ResourcePath": "Play_UI_Comic_Shownextpage",
+    "EventID": 0
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "StressPunishID": 1001,
+    "OverloadLevel": 1,
+    "PunishAbility1": "Stress_Punish_RandomDebuff_Normal",
+    "PunishAbility1Desc": "Stress_Punish_RandomBuff_level_1_Des"
+  },
+  {
+    "StressPunishID": 1001,
+    "OverloadLevel": 2,
+    "PunishAbility1": "Stress_Punish_RandomDebuff_Normal",
+    "PunishAbility1Desc": "Stress_Punish_RandomBuff_level_2_Des"
+  },
+  {
+    "StressPunishID": 1001,
+    "OverloadLevel": 3,
+    "PunishAbility1": "Stress_Punish_RandomDebuff_Normal",
+    "PunishAbility1Desc": "Stress_Punish_RandomBuff_level_3_Des"
+  },
+  {
+    "StressPunishID": 1001,
+    "OverloadLevel": 4,
+    "PunishAbility1": "Stress_Punish_RandomDebuff_Normal",
+    "PunishAbility1Desc": "Stress_Punish_RandomBuff_level_3_Des"
+  },
+  {
+    "StressPunishID": 1001,
+    "OverloadLevel": 5,
+    "PunishAbility1": "Stress_Punish_RandomDebuff_Ultra",
+    "PunishAbility1Desc": "Stress_Punish_RandomBuff_level_3_Des"
+  },
+  {
+    "StressPunishID": 1002,
+    "OverloadLevel": 1,
+    "PunishAbility1": "Stress_Punish_RandomDebuff_Normal",
+    "PunishAbility1Desc": "Stress_Punish_RandomBuff_level_1_Des"
+  },
+  {
+    "StressPunishID": 1002,
+    "OverloadLevel": 2,
+    "PunishAbility1": "Stress_Punish_RandomDebuff_Ultra",
+    "PunishAbility1Desc": "Stress_Punish_RandomBuff_level_2_Des"
+  },
+  {
+    "StressPunishID": 1002,
+    "OverloadLevel": 3,
+    "PunishAbility1": "Stress_Punish_RandomDebuff_Normal",
+    "PunishAbility1Desc": ""
+  },
+  {
+    "StressPunishID": 1002,
+    "OverloadLevel": 4,
+    "PunishAbility1": "Stress_Punish_RandomDebuff_Normal",
+    "PunishAbility1Desc": ""
+  },
+  {
+    "StressPunishID": 1002,
+    "OverloadLevel": 5,
+    "PunishAbility1": "Stress_Punish_RandomDebuff_Normal",
+    "PunishAbility1Desc": ""
+  },
+  {
+    "StressPunishID": 1003,
+    "OverloadLevel": 1,
+    "PunishAbility1": "Stress_Punish_Special_20210_level1",
+    "PunishAbility1Desc": "Stress_Punish_RandomBuff_level_1_Des"
+  },
+  {
+    "StressPunishID": 1003,
+    "OverloadLevel": 2,
+    "PunishAbility1": "Stress_Punish_Special_20210_level2",
+    "PunishAbility1Desc": "Stress_Punish_RandomBuff_level_2_Des"
+  },
+  {
+    "StressPunishID": 1003,
+    "OverloadLevel": 3,
+    "PunishAbility1": "Stress_Punish_RandomDebuff_Normal",
+    "PunishAbility1Desc": "Stress_Punish_RandomBuff_level_3_Des"
+  },
+  {
+    "StressPunishID": 1003,
+    "OverloadLevel": 4,
+    "PunishAbility1": "Stress_Punish_RandomDebuff_Normal",
+    "PunishAbility1Desc": "Stress_Punish_RandomBuff_level_3_Des"
+  },
+  {
+    "StressPunishID": 1003,
+    "OverloadLevel": 5,
+    "PunishAbility1": "Stress_Punish_RandomDebuff_Ultra",
+    "PunishAbility1Desc": "Stress_Punish_RandomBuff_level_3_Des"
+  }
+]

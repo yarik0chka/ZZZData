@@ -1,0 +1,122 @@
+[
+  {
+    "ID": 1,
+    "ShopID": 100,
+    "RefreshTime": 1,
+    "Currency": 100,
+    "CurrencyNum": 50,
+    "CurrencyNumElite": 0
+  },
+  {
+    "ID": 2,
+    "ShopID": 100,
+    "RefreshTime": 2,
+    "Currency": 100,
+    "CurrencyNum": 50,
+    "CurrencyNumElite": 50
+  },
+  {
+    "ID": 3,
+    "ShopID": 100,
+    "RefreshTime": 3,
+    "Currency": 100,
+    "CurrencyNum": 100,
+    "CurrencyNumElite": 100
+  },
+  {
+    "ID": 4,
+    "ShopID": 100,
+    "RefreshTime": 4,
+    "Currency": 100,
+    "CurrencyNum": 100,
+    "CurrencyNumElite": 100
+  },
+  {
+    "ID": 5,
+    "ShopID": 100,
+    "RefreshTime": 5,
+    "Currency": 100,
+    "CurrencyNum": 200,
+    "CurrencyNumElite": 200
+  },
+  {
+    "ID": 11,
+    "ShopID": 101,
+    "RefreshTime": 1,
+    "Currency": 100,
+    "CurrencyNum": 50,
+    "CurrencyNumElite": 0
+  },
+  {
+    "ID": 12,
+    "ShopID": 101,
+    "RefreshTime": 2,
+    "Currency": 100,
+    "CurrencyNum": 50,
+    "CurrencyNumElite": 50
+  },
+  {
+    "ID": 13,
+    "ShopID": 101,
+    "RefreshTime": 3,
+    "Currency": 100,
+    "CurrencyNum": 100,
+    "CurrencyNumElite": 100
+  },
+  {
+    "ID": 14,
+    "ShopID": 101,
+    "RefreshTime": 4,
+    "Currency": 100,
+    "CurrencyNum": 100,
+    "CurrencyNumElite": 100
+  },
+  {
+    "ID": 15,
+    "ShopID": 101,
+    "RefreshTime": 5,
+    "Currency": 100,
+    "CurrencyNum": 200,
+    "CurrencyNumElite": 200
+  },
+  {
+    "ID": 21,
+    "ShopID": 102,
+    "RefreshTime": 1,
+    "Currency": 100,
+    "CurrencyNum": 50,
+    "CurrencyNumElite": 0
+  },
+  {
+    "ID": 22,
+    "ShopID": 102,
+    "RefreshTime": 2,
+    "Currency": 100,
+    "CurrencyNum": 50,
+    "CurrencyNumElite": 50
+  },
+  {
+    "ID": 23,
+    "ShopID": 102,
+    "RefreshTime": 3,
+    "Currency": 100,
+    "CurrencyNum": 100,
+    "CurrencyNumElite": 100
+  },
+  {
+    "ID": 24,
+    "ShopID": 102,
+    "RefreshTime": 4,
+    "Currency": 100,
+    "CurrencyNum": 100,
+    "CurrencyNumElite": 100
+  },
+  {
+    "ID": 25,
+    "ShopID": 102,
+    "RefreshTime": 5,
+    "Currency": 100,
+    "CurrencyNum": 200,
+    "CurrencyNumElite": 200
+  }
+]

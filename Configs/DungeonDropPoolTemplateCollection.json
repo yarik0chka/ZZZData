@@ -1,0 +1,169 @@
+[
+  {
+    "DropPoolID": 100,
+    "TagGroup1": "",
+    "TagGroup2": "",
+    "TagGroup3": "",
+    "ExtraAddTargetIDs": [],
+    "ExtraDeleteTargetIDs": [],
+    "DropOption": 0,
+    "DropType": 0,
+    "Param1": "",
+    "Param2": "",
+    "Param3": "",
+    "Param4": ""
+  },
+  {
+    "DropPoolID": 1001001,
+    "TagGroup1": "{Tag=Card}",
+    "TagGroup2": "",
+    "TagGroup3": "",
+    "ExtraAddTargetIDs": [],
+    "ExtraDeleteTargetIDs": [
+      1000806, 1000807, 1001023, 1001024, 1001026, 1000404, 1000408, 1001101,
+      1001102, 1001103, 1001104, 1001105, 1001106, 1001107, 1001108, 1000101,
+      1000102, 1000103, 1000104, 1000105, 1000106, 1000107, 1000108, 1000501,
+      1000502, 1000503, 1000504, 1000505, 1000506, 1000507, 1000508, 1001028,
+      1000403, 1000601
+    ],
+    "DropOption": 2,
+    "DropType": 1,
+    "Param1": "2:73|3:18|4:9",
+    "Param2": "",
+    "Param3": "",
+    "Param4": ""
+  },
+  {
+    "DropPoolID": 1001002,
+    "TagGroup1": "{Tag=Card}",
+    "TagGroup2": "",
+    "TagGroup3": "",
+    "ExtraAddTargetIDs": [],
+    "ExtraDeleteTargetIDs": [
+      1000806, 1000807, 1001023, 1001024, 1001026, 1000404, 1000408, 1001101,
+      1001102, 1001103, 1001104, 1001105, 1001106, 1001107, 1001108, 1000101,
+      1000102, 1000103, 1000104, 1000105, 1000106, 1000107, 1000108, 1000501,
+      1000502, 1000503, 1000504, 1000505, 1000506, 1000507, 1000508, 1001013,
+      1001029, 1001028, 1000403, 1000601
+    ],
+    "DropOption": 2,
+    "DropType": 1,
+    "Param1": "2:73|3:18|4:9",
+    "Param2": "",
+    "Param3": "",
+    "Param4": ""
+  },
+  {
+    "DropPoolID": 1004001,
+    "TagGroup1": "{Tag=Curse}",
+    "TagGroup2": "",
+    "TagGroup3": "",
+    "ExtraAddTargetIDs": [],
+    "ExtraDeleteTargetIDs": [1100005, 1100015, 1100016],
+    "DropOption": 2,
+    "DropType": 1,
+    "Param1": "2:30|3:30|4:40",
+    "Param2": "",
+    "Param3": "",
+    "Param4": ""
+  },
+  {
+    "DropPoolID": 9904101,
+    "TagGroup1": "",
+    "TagGroup2": "",
+    "TagGroup3": "",
+    "ExtraAddTargetIDs": [1100006],
+    "ExtraDeleteTargetIDs": [],
+    "DropOption": 2,
+    "DropType": 1,
+    "Param1": "2:30|3:30|4:40",
+    "Param2": "",
+    "Param3": "",
+    "Param4": ""
+  },
+  {
+    "DropPoolID": 9904102,
+    "TagGroup1": "{Tag=Curse}",
+    "TagGroup2": "",
+    "TagGroup3": "",
+    "ExtraAddTargetIDs": [],
+    "ExtraDeleteTargetIDs": [
+      1100005, 1100015, 1100016, 1100001, 1100011, 1100013, 1100012, 1100017
+    ],
+    "DropOption": 2,
+    "DropType": 1,
+    "Param1": "2:30|3:30|4:40",
+    "Param2": "",
+    "Param3": "",
+    "Param4": ""
+  },
+  {
+    "DropPoolID": 9904103,
+    "TagGroup1": "{Tag=Curse}",
+    "TagGroup2": "",
+    "TagGroup3": "",
+    "ExtraAddTargetIDs": [],
+    "ExtraDeleteTargetIDs": [
+      1100005, 1100015, 1100016, 1100001, 1100011, 1100012, 1100013, 1100014,
+      1100017
+    ],
+    "DropOption": 2,
+    "DropType": 1,
+    "Param1": "2:30|3:30|4:40",
+    "Param2": "",
+    "Param3": "",
+    "Param4": ""
+  },
+  {
+    "DropPoolID": 9901101,
+    "TagGroup1": "{Tag=Card}",
+    "TagGroup2": "",
+    "TagGroup3": "",
+    "ExtraAddTargetIDs": [],
+    "ExtraDeleteTargetIDs": [
+      1000806, 1000807, 1001023, 1001024, 1001026, 1000404, 1000408, 1001101,
+      1001102, 1001103, 1001104, 1001105, 1001106, 1001107, 1001108, 1000101,
+      1000102, 1000103, 1000104, 1000105, 1000106, 1000107, 1000108, 1000501,
+      1000502, 1000503, 1000504, 1000505, 1000506, 1000507, 1000508, 1001013,
+      1001029, 1000702, 1000707, 1000708, 1001028, 1000403, 1000601
+    ],
+    "DropOption": 2,
+    "DropType": 1,
+    "Param1": "2:70|3:20|4:10",
+    "Param2": "",
+    "Param3": "",
+    "Param4": ""
+  },
+  {
+    "DropPoolID": 1104101,
+    "TagGroup1": "{Tag=Curse}",
+    "TagGroup2": "",
+    "TagGroup3": "",
+    "ExtraAddTargetIDs": [],
+    "ExtraDeleteTargetIDs": [
+      1100005, 1100015, 1100016, 1100001, 1100011, 1100014, 1100017
+    ],
+    "DropOption": 2,
+    "DropType": 1,
+    "Param1": "2:30|3:30|4:40",
+    "Param2": "",
+    "Param3": "",
+    "Param4": ""
+  },
+  {
+    "DropPoolID": 1104102,
+    "TagGroup1": "{Tag=Curse}",
+    "TagGroup2": "",
+    "TagGroup3": "",
+    "ExtraAddTargetIDs": [],
+    "ExtraDeleteTargetIDs": [
+      1100005, 1100011, 1100013, 1100014, 1100015, 1100016
+    ],
+    "DropOption": 2,
+    "DropType": 1,
+    "Param1": "2:30|3:30|4:40",
+    "Param2": "",
+    "Param3": "",
+    "Param4": ""
+  }
+]

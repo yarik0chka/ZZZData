@@ -1,0 +1,5 @@
+[
+  { "FunctionID": "Equip", "PreFunctionID": "Empty" },
+  { "FunctionID": "Empty", "PreFunctionID": "Empty" },
+  { "FunctionID": "EquipGacha", "PreFunctionID": "Empty" }
+]

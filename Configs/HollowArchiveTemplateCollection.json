@@ -1,0 +1,35 @@
+[
+  {
+    "ID": 1,
+    "ArchiveName": "Quest_VHSName_001",
+    "ArchiveDesc": "Quest_VHSDesc_001",
+    "ArchivePrefab": "",
+    "Pic1": "UI/Textures/MainStory/Tape/Chapter00/Chapter00Front01.tga",
+    "Pic2": "UI/Textures/MainStory/Tape/Chapter00/Chapter00Front02.tga",
+    "Pic3": "UI/Textures/MainStory/Tape/Chapter00/Chapter00Side.tga",
+    "Pic4": "UI/Textures/MainStory/Tape/Chapter00/Chapter00Back.tga",
+    "CompleteRewardID": ""
+  },
+  {
+    "ID": 2,
+    "ArchiveName": "Quest_VHSName_002",
+    "ArchiveDesc": "Quest_VHSDesc_002",
+    "ArchivePrefab": "",
+    "Pic1": "UI/Textures/MainStory/Tape/Chapter01/Chapter01_1Front01.tga",
+    "Pic2": "UI/Textures/MainStory/Tape/Chapter01/Chapter01_1Front02.tga",
+    "Pic3": "UI/Textures/MainStory/Tape/Chapter01/Chapter01_1Side.tga",
+    "Pic4": "UI/Textures/MainStory/Tape/Chapter01/Chapter01_1Back.tga",
+    "CompleteRewardID": ""
+  },
+  {
+    "ID": 3,
+    "ArchiveName": "Quest_VHSName_003",
+    "ArchiveDesc": "Quest_VHSDesc_003",
+    "ArchivePrefab": "",
+    "Pic1": "UI/Textures/MainStory/Tape/Chapter01/Chapter01_2Front01.tga",
+    "Pic2": "UI/Textures/MainStory/Tape/Chapter01/Chapter01_2Front02.tga",
+    "Pic3": "UI/Textures/MainStory/Tape/Chapter01/Chapter01_2Side.tga",
+    "Pic4": "UI/Textures/MainStory/Tape/Chapter01/Chapter01_2Back.tga",
+    "CompleteRewardID": ""
+  }
+]

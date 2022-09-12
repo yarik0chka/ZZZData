@@ -1,0 +1,42 @@
+[
+  {
+    "ID": 1,
+    "Title": "QuestTipTitle_01",
+    "Background": "",
+    "Desc1": "QuestTipDesc1_01",
+    "Desc2": "QuestTipDesc2_01",
+    "Desc3": "",
+    "LocalVideoPathID": 100000,
+    "SoundID": 10010
+  },
+  {
+    "ID": 2,
+    "Title": "QuestTipTitle_02",
+    "Background": "",
+    "Desc1": "QuestTipDesc1_02",
+    "Desc2": "QuestTipDesc2_02",
+    "Desc3": "",
+    "LocalVideoPathID": 100001,
+    "SoundID": 10010
+  },
+  {
+    "ID": 3,
+    "Title": "QuestTipTitle_03",
+    "Background": "",
+    "Desc1": "QuestTipDesc1_03",
+    "Desc2": "QuestTipDesc2_03",
+    "Desc3": "",
+    "LocalVideoPathID": 0,
+    "SoundID": 0
+  },
+  {
+    "ID": 4,
+    "Title": "QuestTipTitle_04",
+    "Background": "",
+    "Desc1": "QuestTipDesc1_04",
+    "Desc2": "QuestTipDesc2_04",
+    "Desc3": "",
+    "LocalVideoPathID": 0,
+    "SoundID": 0
+  }
+]

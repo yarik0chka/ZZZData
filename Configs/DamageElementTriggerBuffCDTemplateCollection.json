@@ -1,0 +1,98 @@
+[
+  {
+    "ID": 20101,
+    "DamageElementID": 201,
+    "TriggerBuffLevel": 1,
+    "BuffID": 1,
+    "TriggerOdds": 1500,
+    "TriggerOddsCD": 1000
+  },
+  {
+    "ID": 20102,
+    "DamageElementID": 201,
+    "TriggerBuffLevel": 2,
+    "BuffID": 1,
+    "TriggerOdds": 2000,
+    "TriggerOddsCD": 2000
+  },
+  {
+    "ID": 20103,
+    "DamageElementID": 201,
+    "TriggerBuffLevel": 3,
+    "BuffID": 1,
+    "TriggerOdds": 10000,
+    "TriggerOddsCD": 5000
+  },
+  {
+    "ID": 20104,
+    "DamageElementID": 201,
+    "TriggerBuffLevel": 4,
+    "BuffID": 1,
+    "TriggerOdds": 10000,
+    "TriggerOddsCD": 2000
+  },
+  {
+    "ID": 20201,
+    "DamageElementID": 202,
+    "TriggerBuffLevel": 1,
+    "BuffID": 2,
+    "TriggerOdds": 1500,
+    "TriggerOddsCD": 1000
+  },
+  {
+    "ID": 20202,
+    "DamageElementID": 202,
+    "TriggerBuffLevel": 2,
+    "BuffID": 2,
+    "TriggerOdds": 2000,
+    "TriggerOddsCD": 2000
+  },
+  {
+    "ID": 20203,
+    "DamageElementID": 202,
+    "TriggerBuffLevel": 3,
+    "BuffID": 2,
+    "TriggerOdds": 5000,
+    "TriggerOddsCD": 5000
+  },
+  {
+    "ID": 20204,
+    "DamageElementID": 202,
+    "TriggerBuffLevel": 4,
+    "BuffID": 2,
+    "TriggerOdds": 10000,
+    "TriggerOddsCD": 2000
+  },
+  {
+    "ID": 20301,
+    "DamageElementID": 203,
+    "TriggerBuffLevel": 1,
+    "BuffID": 3,
+    "TriggerOdds": 1500,
+    "TriggerOddsCD": 1000
+  },
+  {
+    "ID": 20302,
+    "DamageElementID": 203,
+    "TriggerBuffLevel": 2,
+    "BuffID": 3,
+    "TriggerOdds": 2000,
+    "TriggerOddsCD": 2000
+  },
+  {
+    "ID": 20303,
+    "DamageElementID": 203,
+    "TriggerBuffLevel": 3,
+    "BuffID": 3,
+    "TriggerOdds": 10000,
+    "TriggerOddsCD": 5000
+  },
+  {
+    "ID": 20304,
+    "DamageElementID": 203,
+    "TriggerBuffLevel": 4,
+    "BuffID": 3,
+    "TriggerOdds": 10000,
+    "TriggerOddsCD": 2000
+  }
+]

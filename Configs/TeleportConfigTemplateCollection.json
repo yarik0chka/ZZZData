@@ -1,0 +1,30 @@
+[
+  {
+    "ID": 1,
+    "TeleportName": "TeleportName_01",
+    "IconPath": "UI/Sprite/MainCityMenus/UnPacker/ShopIcon/IconRandom.png",
+    "TeleportSection": 2,
+    "TeleportTransform": "Workshop_Teleport_ToWorkshop"
+  },
+  {
+    "ID": 2,
+    "TeleportName": "TeleportName_02",
+    "IconPath": "UI/Sprite/MainCityMenus/UnPacker/ShopIcon/Icon141.png",
+    "TeleportSection": 1,
+    "TeleportTransform": "Street_Teleport_ToGrocery"
+  },
+  {
+    "ID": 3,
+    "TeleportName": "TeleportName_03",
+    "IconPath": "UI/Sprite/MainCityMenus/UnPacker/ShopIcon/IconNoodle.png",
+    "TeleportSection": 1,
+    "TeleportTransform": "Street_Teleport_ToRamenStore"
+  },
+  {
+    "ID": 4,
+    "TeleportName": "TeleportName_04",
+    "IconPath": "UI/Sprite/MainCityMenus/UnPacker/ShopIcon/IconTipSymuse.png",
+    "TeleportSection": 1,
+    "TeleportTransform": "Street_Teleport_ToAudioVideoStore"
+  }
+]

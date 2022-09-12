@@ -1,0 +1,156 @@
+[
+  {
+    "ID": 10103,
+    "ArchiveID": 1,
+    "Difficulty": 0,
+    "ArchiveStar": 3,
+    "Reward": "100:30|501:15"
+  },
+  {
+    "ID": 10106,
+    "ArchiveID": 1,
+    "Difficulty": 0,
+    "ArchiveStar": 6,
+    "Reward": "100:30|501:15"
+  },
+  {
+    "ID": 10109,
+    "ArchiveID": 1,
+    "Difficulty": 0,
+    "ArchiveStar": 9,
+    "Reward": "100:30|501:15"
+  },
+  {
+    "ID": 10112,
+    "ArchiveID": 1,
+    "Difficulty": 0,
+    "ArchiveStar": 12,
+    "Reward": "100:30|501:15"
+  },
+  {
+    "ID": 10115,
+    "ArchiveID": 1,
+    "Difficulty": 0,
+    "ArchiveStar": 15,
+    "Reward": "100:30|501:15"
+  },
+  {
+    "ID": 10118,
+    "ArchiveID": 1,
+    "Difficulty": 0,
+    "ArchiveStar": 18,
+    "Reward": "100:30|501:15"
+  },
+  {
+    "ID": 10121,
+    "ArchiveID": 1,
+    "Difficulty": 0,
+    "ArchiveStar": 21,
+    "Reward": "100:30|501:15"
+  },
+  {
+    "ID": 10124,
+    "ArchiveID": 1,
+    "Difficulty": 0,
+    "ArchiveStar": 24,
+    "Reward": "100:30|501:15"
+  },
+  {
+    "ID": 10203,
+    "ArchiveID": 2,
+    "Difficulty": 0,
+    "ArchiveStar": 3,
+    "Reward": "100:30|501:15"
+  },
+  {
+    "ID": 10206,
+    "ArchiveID": 2,
+    "Difficulty": 0,
+    "ArchiveStar": 6,
+    "Reward": "100:30|501:15"
+  },
+  {
+    "ID": 10209,
+    "ArchiveID": 2,
+    "Difficulty": 0,
+    "ArchiveStar": 9,
+    "Reward": "100:30|501:15"
+  },
+  {
+    "ID": 10212,
+    "ArchiveID": 2,
+    "Difficulty": 0,
+    "ArchiveStar": 12,
+    "Reward": "100:30|501:15"
+  },
+  {
+    "ID": 10215,
+    "ArchiveID": 2,
+    "Difficulty": 0,
+    "ArchiveStar": 15,
+    "Reward": "100:30|501:15"
+  },
+  {
+    "ID": 10218,
+    "ArchiveID": 2,
+    "Difficulty": 0,
+    "ArchiveStar": 18,
+    "Reward": "100:30|501:15"
+  },
+  {
+    "ID": 10221,
+    "ArchiveID": 2,
+    "Difficulty": 0,
+    "ArchiveStar": 21,
+    "Reward": "100:30|501:15"
+  },
+  {
+    "ID": 10303,
+    "ArchiveID": 3,
+    "Difficulty": 0,
+    "ArchiveStar": 3,
+    "Reward": "100:30|501:15"
+  },
+  {
+    "ID": 10306,
+    "ArchiveID": 3,
+    "Difficulty": 0,
+    "ArchiveStar": 6,
+    "Reward": "100:30|501:15"
+  },
+  {
+    "ID": 10309,
+    "ArchiveID": 3,
+    "Difficulty": 0,
+    "ArchiveStar": 9,
+    "Reward": "100:30|501:15"
+  },
+  {
+    "ID": 10312,
+    "ArchiveID": 3,
+    "Difficulty": 0,
+    "ArchiveStar": 12,
+    "Reward": "100:30|501:15"
+  },
+  {
+    "ID": 10315,
+    "ArchiveID": 3,
+    "Difficulty": 0,
+    "ArchiveStar": 15,
+    "Reward": "100:30|501:15"
+  },
+  {
+    "ID": 10318,
+    "ArchiveID": 3,
+    "Difficulty": 0,
+    "ArchiveStar": 18,
+    "Reward": "100:30|501:15"
+  },
+  {
+    "ID": 10321,
+    "ArchiveID": 3,
+    "Difficulty": 0,
+    "ArchiveStar": 21,
+    "Reward": "100:30|501:15"
+  }
+]

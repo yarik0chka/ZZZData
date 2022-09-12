@@ -1,0 +1,1202 @@
+[
+  {
+    "SkillListID": 1011001,
+    "SkillListTitle": "Anbi_SkillList_1_Title",
+    "ElementType": 200,
+    "DamageType": 101,
+    "SkillListContent": "Anbi_SkillList_1_Content",
+    "AvatarID": 1011
+  },
+  {
+    "SkillListID": 1011002,
+    "SkillListTitle": "Anbi_SkillList_2_Title",
+    "ElementType": 203,
+    "DamageType": 101,
+    "SkillListContent": "Anbi_SkillList_2_Content",
+    "AvatarID": 1011
+  },
+  {
+    "SkillListID": 1011003,
+    "SkillListTitle": "Anbi_SkillList_3_Title",
+    "ElementType": 203,
+    "DamageType": 101,
+    "SkillListContent": "Anbi_SkillList_3_Content",
+    "AvatarID": 1011
+  },
+  {
+    "SkillListID": 1011004,
+    "SkillListTitle": "Anbi_SkillList_4_Title",
+    "ElementType": 200,
+    "DamageType": 101,
+    "SkillListContent": "Anbi_SkillList_4_Content",
+    "AvatarID": 1011
+  },
+  {
+    "SkillListID": 1011005,
+    "SkillListTitle": "Anbi_SkillList_5_Title",
+    "ElementType": 203,
+    "DamageType": 101,
+    "SkillListContent": "Anbi_SkillList_5_Content",
+    "AvatarID": 1011
+  },
+  {
+    "SkillListID": 1011006,
+    "SkillListTitle": "Anbi_SkillList_6_Title",
+    "ElementType": 203,
+    "DamageType": 101,
+    "SkillListContent": "Anbi_SkillList_6_Content",
+    "AvatarID": 1011
+  },
+  {
+    "SkillListID": 1011007,
+    "SkillListTitle": "Anbi_SkillList_7_Title",
+    "ElementType": 203,
+    "DamageType": 101,
+    "SkillListContent": "Anbi_SkillList_7_Content",
+    "AvatarID": 1011
+  },
+  {
+    "SkillListID": 1011008,
+    "SkillListTitle": "Anbi_SkillList_8_Title",
+    "ElementType": 203,
+    "DamageType": 101,
+    "SkillListContent": "Anbi_SkillList_8_Content",
+    "AvatarID": 1011
+  },
+  {
+    "SkillListID": 1011009,
+    "SkillListTitle": "Anbi_SkillList_9_Title",
+    "ElementType": 203,
+    "DamageType": 101,
+    "SkillListContent": "Anbi_SkillList_9_Content",
+    "AvatarID": 1011
+  },
+  {
+    "SkillListID": 1011010,
+    "SkillListTitle": "Anbi_SkillList_10_Title",
+    "ElementType": 203,
+    "DamageType": 102,
+    "SkillListContent": "Anbi_SkillList_10_Content",
+    "AvatarID": 1011
+  },
+  {
+    "SkillListID": 1021001,
+    "SkillListTitle": "Tsubaki_SkillList_1_Title",
+    "ElementType": 200,
+    "DamageType": 101,
+    "SkillListContent": "Tsubaki_SkillList_1_Content",
+    "AvatarID": 1021
+  },
+  {
+    "SkillListID": 1021002,
+    "SkillListTitle": "Tsubaki_SkillList_2_Title",
+    "ElementType": 200,
+    "DamageType": 101,
+    "SkillListContent": "Tsubaki_SkillList_2_Content",
+    "AvatarID": 1021
+  },
+  {
+    "SkillListID": 1021003,
+    "SkillListTitle": "Tsubaki_SkillList_3_Title",
+    "ElementType": 200,
+    "DamageType": 102,
+    "SkillListContent": "Tsubaki_SkillList_3_Content",
+    "AvatarID": 1021
+  },
+  {
+    "SkillListID": 1021004,
+    "SkillListTitle": "Tsubaki_SkillList_4_Title",
+    "ElementType": 200,
+    "DamageType": 101,
+    "SkillListContent": "Tsubaki_SkillList_4_Content",
+    "AvatarID": 1021
+  },
+  {
+    "SkillListID": 1021005,
+    "SkillListTitle": "Tsubaki_SkillList_5_Title",
+    "ElementType": 200,
+    "DamageType": 101,
+    "SkillListContent": "Tsubaki_SkillList_5_Content",
+    "AvatarID": 1021
+  },
+  {
+    "SkillListID": 1021006,
+    "SkillListTitle": "Tsubaki_SkillList_6_Title",
+    "ElementType": 200,
+    "DamageType": 101,
+    "SkillListContent": "Tsubaki_SkillList_6_Content",
+    "AvatarID": 1021
+  },
+  {
+    "SkillListID": 1021007,
+    "SkillListTitle": "Tsubaki_SkillList_7_Title",
+    "ElementType": 200,
+    "DamageType": 101,
+    "SkillListContent": "Tsubaki_SkillList_7_Content",
+    "AvatarID": 1021
+  },
+  {
+    "SkillListID": 1021008,
+    "SkillListTitle": "Tsubaki_SkillList_8_Title",
+    "ElementType": 200,
+    "DamageType": 101,
+    "SkillListContent": "Tsubaki_SkillList_8_Content",
+    "AvatarID": 1021
+  },
+  {
+    "SkillListID": 1021009,
+    "SkillListTitle": "Tsubaki_SkillList_9_Title",
+    "ElementType": 200,
+    "DamageType": 101,
+    "SkillListContent": "Tsubaki_SkillList_9_Content",
+    "AvatarID": 1021
+  },
+  {
+    "SkillListID": 1031001,
+    "SkillListTitle": "Nostradamus_SkillList_1_Title",
+    "ElementType": 200,
+    "DamageType": 102,
+    "SkillListContent": "Nostradamus_SkillList_1_Content",
+    "AvatarID": 1031
+  },
+  {
+    "SkillListID": 1031002,
+    "SkillListTitle": "Nostradamus_SkillList_2_Title",
+    "ElementType": 200,
+    "DamageType": 102,
+    "SkillListContent": "Nostradamus_SkillList_2_Content",
+    "AvatarID": 1031
+  },
+  {
+    "SkillListID": 1031003,
+    "SkillListTitle": "Nostradamus_SkillList_3_Title",
+    "ElementType": 200,
+    "DamageType": 102,
+    "SkillListContent": "Nostradamus_SkillList_3_Content",
+    "AvatarID": 1031
+  },
+  {
+    "SkillListID": 1031004,
+    "SkillListTitle": "Nostradamus_SkillList_4_Title",
+    "ElementType": 200,
+    "DamageType": 102,
+    "SkillListContent": "Nostradamus_SkillList_4_Content",
+    "AvatarID": 1031
+  },
+  {
+    "SkillListID": 1031005,
+    "SkillListTitle": "Nostradamus_SkillList_5_Title",
+    "ElementType": 0,
+    "DamageType": 0,
+    "SkillListContent": "Nostradamus_SkillList_5_Content",
+    "AvatarID": 1031
+  },
+  {
+    "SkillListID": 1031006,
+    "SkillListTitle": "Nostradamus_SkillList_6_Title",
+    "ElementType": 200,
+    "DamageType": 102,
+    "SkillListContent": "Nostradamus_SkillList_6_Content",
+    "AvatarID": 1031
+  },
+  {
+    "SkillListID": 1031007,
+    "SkillListTitle": "Nostradamus_SkillList_7_Title",
+    "ElementType": 200,
+    "DamageType": 102,
+    "SkillListContent": "Nostradamus_SkillList_7_Content",
+    "AvatarID": 1031
+  },
+  {
+    "SkillListID": 1031008,
+    "SkillListTitle": "Nostradamus_SkillList_8_Title",
+    "ElementType": 200,
+    "DamageType": 102,
+    "SkillListContent": "Nostradamus_SkillList_8_Content",
+    "AvatarID": 1031
+  },
+  {
+    "SkillListID": 1031009,
+    "SkillListTitle": "Nostradamus_SkillList_9_Title",
+    "ElementType": 200,
+    "DamageType": 102,
+    "SkillListContent": "Nostradamus_SkillList_9_Content",
+    "AvatarID": 1031
+  },
+  {
+    "SkillListID": 1031010,
+    "SkillListTitle": "Nostradamus_SkillList_10_Title",
+    "ElementType": 200,
+    "DamageType": 102,
+    "SkillListContent": "Nostradamus_SkillList_10_Content",
+    "AvatarID": 1031
+  },
+  {
+    "SkillListID": 1031011,
+    "SkillListTitle": "Nostradamus_SkillList_11_Title",
+    "ElementType": 200,
+    "DamageType": 102,
+    "SkillListContent": "Nostradamus_SkillList_11_Content",
+    "AvatarID": 1031
+  },
+  {
+    "SkillListID": 1041001,
+    "SkillListTitle": "Longinus_SkillList_1_Title",
+    "ElementType": 200,
+    "DamageType": 101,
+    "SkillListContent": "Longinus_SkillList_1_Content",
+    "AvatarID": 1041
+  },
+  {
+    "SkillListID": 1041002,
+    "SkillListTitle": "Longinus_SkillList_2_Title",
+    "ElementType": 201,
+    "DamageType": 101,
+    "SkillListContent": "Longinus_SkillList_2_Content",
+    "AvatarID": 1041
+  },
+  {
+    "SkillListID": 1041003,
+    "SkillListTitle": "Longinus_SkillList_3_Title",
+    "ElementType": 201,
+    "DamageType": 101,
+    "SkillListContent": "Longinus_SkillList_3_Content",
+    "AvatarID": 1041
+  },
+  {
+    "SkillListID": 1041004,
+    "SkillListTitle": "Longinus_SkillList_4_Title",
+    "ElementType": 201,
+    "DamageType": 101,
+    "SkillListContent": "Longinus_SkillList_4_Content",
+    "AvatarID": 1041
+  },
+  {
+    "SkillListID": 1041005,
+    "SkillListTitle": "Longinus_SkillList_5_Title",
+    "ElementType": 201,
+    "DamageType": 101,
+    "SkillListContent": "Longinus_SkillList_5_Content",
+    "AvatarID": 1041
+  },
+  {
+    "SkillListID": 1041006,
+    "SkillListTitle": "Longinus_SkillList_6_Title",
+    "ElementType": 200,
+    "DamageType": 101,
+    "SkillListContent": "Longinus_SkillList_6_Content",
+    "AvatarID": 1041
+  },
+  {
+    "SkillListID": 1041007,
+    "SkillListTitle": "Longinus_SkillList_7_Title",
+    "ElementType": 201,
+    "DamageType": 101,
+    "SkillListContent": "Longinus_SkillList_7_Content",
+    "AvatarID": 1041
+  },
+  {
+    "SkillListID": 1041008,
+    "SkillListTitle": "Longinus_SkillList_8_Title",
+    "ElementType": 201,
+    "DamageType": 101,
+    "SkillListContent": "Longinus_SkillList_8_Content",
+    "AvatarID": 1041
+  },
+  {
+    "SkillListID": 1041009,
+    "SkillListTitle": "Longinus_SkillList_9_Title",
+    "ElementType": 201,
+    "DamageType": 101,
+    "SkillListContent": "Longinus_SkillList_9_Content",
+    "AvatarID": 1041
+  },
+  {
+    "SkillListID": 1041010,
+    "SkillListTitle": "Longinus_SkillList_10_Title",
+    "ElementType": 201,
+    "DamageType": 101,
+    "SkillListContent": "Longinus_SkillList_10_Content",
+    "AvatarID": 1041
+  },
+  {
+    "SkillListID": 1041011,
+    "SkillListTitle": "Longinus_SkillList_11_Title",
+    "ElementType": 201,
+    "DamageType": 101,
+    "SkillListContent": "Longinus_SkillList_11_Content",
+    "AvatarID": 1041
+  },
+  {
+    "SkillListID": 1041012,
+    "SkillListTitle": "Longinus_SkillList_12_Title",
+    "ElementType": 201,
+    "DamageType": 101,
+    "SkillListContent": "Longinus_SkillList_12_Content",
+    "AvatarID": 1041
+  },
+  {
+    "SkillListID": 1051001,
+    "SkillListTitle": "Lucia_SkillList_1_Title",
+    "ElementType": 200,
+    "DamageType": 102,
+    "SkillListContent": "lucia_SkillList_1_Content",
+    "AvatarID": 1051
+  },
+  {
+    "SkillListID": 1051002,
+    "SkillListTitle": "Lucia_SkillList_2_Title",
+    "ElementType": 200,
+    "DamageType": 102,
+    "SkillListContent": "lucia_SkillList_2_Content",
+    "AvatarID": 1051
+  },
+  {
+    "SkillListID": 1051003,
+    "SkillListTitle": "Lucia_SkillList_3_Title",
+    "ElementType": 200,
+    "DamageType": 102,
+    "SkillListContent": "lucia_SkillList_3_Content",
+    "AvatarID": 1051
+  },
+  {
+    "SkillListID": 1051004,
+    "SkillListTitle": "Lucia_SkillList_4_Title",
+    "ElementType": 200,
+    "DamageType": 102,
+    "SkillListContent": "lucia_SkillList_4_Content",
+    "AvatarID": 1051
+  },
+  {
+    "SkillListID": 1051005,
+    "SkillListTitle": "Lucia_SkillList_5_Title",
+    "ElementType": 0,
+    "DamageType": 0,
+    "SkillListContent": "lucia_SkillList_5_Content",
+    "AvatarID": 1051
+  },
+  {
+    "SkillListID": 1051006,
+    "SkillListTitle": "Lucia_SkillList_6_Title",
+    "ElementType": 200,
+    "DamageType": 102,
+    "SkillListContent": "lucia_SkillList_6_Content",
+    "AvatarID": 1051
+  },
+  {
+    "SkillListID": 1051007,
+    "SkillListTitle": "Lucia_SkillList_7_Title",
+    "ElementType": 200,
+    "DamageType": 102,
+    "SkillListContent": "lucia_SkillList_7_Content",
+    "AvatarID": 1051
+  },
+  {
+    "SkillListID": 1051008,
+    "SkillListTitle": "Lucia_SkillList_8_Title",
+    "ElementType": 200,
+    "DamageType": 102,
+    "SkillListContent": "lucia_SkillList_8_Content",
+    "AvatarID": 1051
+  },
+  {
+    "SkillListID": 1051009,
+    "SkillListTitle": "Lucia_SkillList_9_Title",
+    "ElementType": 200,
+    "DamageType": 102,
+    "SkillListContent": "lucia_SkillList_9_Content",
+    "AvatarID": 1051
+  },
+  {
+    "SkillListID": 1051010,
+    "SkillListTitle": "Lucia_SkillList_10_Title",
+    "ElementType": 200,
+    "DamageType": 102,
+    "SkillListContent": "lucia_SkillList_10_Content",
+    "AvatarID": 1051
+  },
+  {
+    "SkillListID": 1061001,
+    "SkillListTitle": "Corin_SkillList_1_Title",
+    "ElementType": 200,
+    "DamageType": 101,
+    "SkillListContent": "Corin_SkillList_1_Content",
+    "AvatarID": 1061
+  },
+  {
+    "SkillListID": 1061002,
+    "SkillListTitle": "Corin_SkillList_2_Title",
+    "ElementType": 200,
+    "DamageType": 101,
+    "SkillListContent": "Corin_SkillList_2_Content",
+    "AvatarID": 1061
+  },
+  {
+    "SkillListID": 1061003,
+    "SkillListTitle": "Corin_SkillList_3_Title",
+    "ElementType": 200,
+    "DamageType": 101,
+    "SkillListContent": "Corin_SkillList_3_Content",
+    "AvatarID": 1061
+  },
+  {
+    "SkillListID": 1061004,
+    "SkillListTitle": "Corin_SkillList_4_Title",
+    "ElementType": 200,
+    "DamageType": 101,
+    "SkillListContent": "Corin_SkillList_4_Content",
+    "AvatarID": 1061
+  },
+  {
+    "SkillListID": 1061005,
+    "SkillListTitle": "Corin_SkillList_5_Title",
+    "ElementType": 200,
+    "DamageType": 101,
+    "SkillListContent": "Corin_SkillList_5_Content",
+    "AvatarID": 1061
+  },
+  {
+    "SkillListID": 1061006,
+    "SkillListTitle": "Corin_SkillList_6_Title",
+    "ElementType": 200,
+    "DamageType": 101,
+    "SkillListContent": "Corin_SkillList_6_Content",
+    "AvatarID": 1061
+  },
+  {
+    "SkillListID": 1061007,
+    "SkillListTitle": "Corin_SkillList_7_Title",
+    "ElementType": 200,
+    "DamageType": 101,
+    "SkillListContent": "Corin_SkillList_7_Content",
+    "AvatarID": 1061
+  },
+  {
+    "SkillListID": 1061008,
+    "SkillListTitle": "Corin_SkillList_8_Title",
+    "ElementType": 200,
+    "DamageType": 101,
+    "SkillListContent": "Corin_SkillList_8_Content",
+    "AvatarID": 1061
+  },
+  {
+    "SkillListID": 1071001,
+    "SkillListTitle": "Caesar_SkillList_1_Title",
+    "ElementType": 200,
+    "DamageType": 101,
+    "SkillListContent": "Caesar_SkillList_1_Content",
+    "AvatarID": 1071
+  },
+  {
+    "SkillListID": 1071002,
+    "SkillListTitle": "Caesar_SkillList_2_Title",
+    "ElementType": 200,
+    "DamageType": 102,
+    "SkillListContent": "Caesar_SkillList_2_Content",
+    "AvatarID": 1071
+  },
+  {
+    "SkillListID": 1071003,
+    "SkillListTitle": "Caesar_SkillList_3_Title",
+    "ElementType": 200,
+    "DamageType": 102,
+    "SkillListContent": "Caesar_SkillList_3_Content",
+    "AvatarID": 1071
+  },
+  {
+    "SkillListID": 1071004,
+    "SkillListTitle": "Caesar_SkillList_4_Title",
+    "ElementType": 200,
+    "DamageType": 102,
+    "SkillListContent": "Caesar_SkillList_4_Content",
+    "AvatarID": 1071
+  },
+  {
+    "SkillListID": 1071005,
+    "SkillListTitle": "Caesar_SkillList_5_Title",
+    "ElementType": 200,
+    "DamageType": 102,
+    "SkillListContent": "Caesar_SkillList_5_Content",
+    "AvatarID": 1071
+  },
+  {
+    "SkillListID": 1071006,
+    "SkillListTitle": "Caesar_SkillList_6_Title",
+    "ElementType": 0,
+    "DamageType": 0,
+    "SkillListContent": "Caesar_SkillList_6_Content",
+    "AvatarID": 1071
+  },
+  {
+    "SkillListID": 1071007,
+    "SkillListTitle": "Caesar_SkillList_7_Title",
+    "ElementType": 200,
+    "DamageType": 102,
+    "SkillListContent": "Caesar_SkillList_7_Content",
+    "AvatarID": 1071
+  },
+  {
+    "SkillListID": 1071008,
+    "SkillListTitle": "Caesar_SkillList_8_Title",
+    "ElementType": 200,
+    "DamageType": 102,
+    "SkillListContent": "Caesar_SkillList_8_Content",
+    "AvatarID": 1071
+  },
+  {
+    "SkillListID": 1071009,
+    "SkillListTitle": "Caesar_SkillList_9_Title",
+    "ElementType": 200,
+    "DamageType": 102,
+    "SkillListContent": "Caesar_SkillList_9_Content",
+    "AvatarID": 1071
+  },
+  {
+    "SkillListID": 1071010,
+    "SkillListTitle": "Caesar_SkillList_10_Title",
+    "ElementType": 200,
+    "DamageType": 102,
+    "SkillListContent": "Caesar_SkillList_10_Content",
+    "AvatarID": 1071
+  },
+  {
+    "SkillListID": 1071011,
+    "SkillListTitle": "Caesar_SkillList_11_Title",
+    "ElementType": 200,
+    "DamageType": 102,
+    "SkillListContent": "Caesar_SkillList_11_Content",
+    "AvatarID": 1071
+  },
+  {
+    "SkillListID": 1081001,
+    "SkillListTitle": "Billy_SkillList_1_Title",
+    "ElementType": 200,
+    "DamageType": 103,
+    "SkillListContent": "Billy_SkillList_1_Content",
+    "AvatarID": 1081
+  },
+  {
+    "SkillListID": 1081002,
+    "SkillListTitle": "Billy_SkillList_2_Title",
+    "ElementType": 200,
+    "DamageType": 103,
+    "SkillListContent": "Billy_SkillList_2_Content",
+    "AvatarID": 1081
+  },
+  {
+    "SkillListID": 1081003,
+    "SkillListTitle": "Billy_SkillList_3_Title",
+    "ElementType": 200,
+    "DamageType": 103,
+    "SkillListContent": "Billy_SkillList_3_Content",
+    "AvatarID": 1081
+  },
+  {
+    "SkillListID": 1081004,
+    "SkillListTitle": "Billy_SkillList_4_Title",
+    "ElementType": 200,
+    "DamageType": 103,
+    "SkillListContent": "Billy_SkillList_4_Content",
+    "AvatarID": 1081
+  },
+  {
+    "SkillListID": 1081005,
+    "SkillListTitle": "Billy_SkillList_5_Title",
+    "ElementType": 200,
+    "DamageType": 103,
+    "SkillListContent": "Billy_SkillList_5_Content",
+    "AvatarID": 1081
+  },
+  {
+    "SkillListID": 1081006,
+    "SkillListTitle": "Billy_SkillList_6_Title",
+    "ElementType": 200,
+    "DamageType": 103,
+    "SkillListContent": "Billy_SkillList_6_Content",
+    "AvatarID": 1081
+  },
+  {
+    "SkillListID": 1081007,
+    "SkillListTitle": "Billy_SkillList_7_Title",
+    "ElementType": 200,
+    "DamageType": 103,
+    "SkillListContent": "Billy_SkillList_7_Content",
+    "AvatarID": 1081
+  },
+  {
+    "SkillListID": 1081008,
+    "SkillListTitle": "Billy_SkillList_8_Title",
+    "ElementType": 200,
+    "DamageType": 103,
+    "SkillListContent": "Billy_SkillList_8_Content",
+    "AvatarID": 1081
+  },
+  {
+    "SkillListID": 1081009,
+    "SkillListTitle": "Billy_SkillList_9_Title",
+    "ElementType": 200,
+    "DamageType": 103,
+    "SkillListContent": "Billy_SkillList_9_Content",
+    "AvatarID": 1081
+  },
+  {
+    "SkillListID": 1091001,
+    "SkillListTitle": "Unagi_SkillList_1_Title",
+    "ElementType": 200,
+    "DamageType": 101,
+    "SkillListContent": "Unagi_SkillList_1_Content",
+    "AvatarID": 1091
+  },
+  {
+    "SkillListID": 1091002,
+    "SkillListTitle": "Unagi_SkillList_2_Title",
+    "ElementType": 202,
+    "DamageType": 101,
+    "SkillListContent": "Unagi_SkillList_2_Content",
+    "AvatarID": 1091
+  },
+  {
+    "SkillListID": 1091003,
+    "SkillListTitle": "Unagi_SkillList_3_Title",
+    "ElementType": 202,
+    "DamageType": 101,
+    "SkillListContent": "Unagi_SkillList_3_Content",
+    "AvatarID": 1091
+  },
+  {
+    "SkillListID": 1091004,
+    "SkillListTitle": "Unagi_SkillList_4_Title",
+    "ElementType": 202,
+    "DamageType": 101,
+    "SkillListContent": "Unagi_SkillList_4_Content",
+    "AvatarID": 1091
+  },
+  {
+    "SkillListID": 1091005,
+    "SkillListTitle": "Unagi_SkillList_5_Title",
+    "ElementType": 202,
+    "DamageType": 101,
+    "SkillListContent": "Unagi_SkillList_5_Content",
+    "AvatarID": 1091
+  },
+  {
+    "SkillListID": 1091006,
+    "SkillListTitle": "Unagi_SkillList_6_Title",
+    "ElementType": 202,
+    "DamageType": 101,
+    "SkillListContent": "Unagi_SkillList_6_Content",
+    "AvatarID": 1091
+  },
+  {
+    "SkillListID": 1091007,
+    "SkillListTitle": "Unagi_SkillList_7_Title",
+    "ElementType": 200,
+    "DamageType": 101,
+    "SkillListContent": "Unagi_SkillList_7_Content",
+    "AvatarID": 1091
+  },
+  {
+    "SkillListID": 1091008,
+    "SkillListTitle": "Unagi_SkillList_8_Title",
+    "ElementType": 202,
+    "DamageType": 101,
+    "SkillListContent": "Unagi_SkillList_8_Content",
+    "AvatarID": 1091
+  },
+  {
+    "SkillListID": 1091009,
+    "SkillListTitle": "Unagi_SkillList_9_Title",
+    "ElementType": 202,
+    "DamageType": 101,
+    "SkillListContent": "Unagi_SkillList_9_Content",
+    "AvatarID": 1091
+  },
+  {
+    "SkillListID": 1091010,
+    "SkillListTitle": "Unagi_SkillList_10_Title",
+    "ElementType": 202,
+    "DamageType": 101,
+    "SkillListContent": "Unagi_SkillList_10_Content",
+    "AvatarID": 1091
+  },
+  {
+    "SkillListID": 1091011,
+    "SkillListTitle": "Unagi_SkillList_11_Title",
+    "ElementType": 202,
+    "DamageType": 101,
+    "SkillListContent": "Unagi_SkillList_11_Content",
+    "AvatarID": 1091
+  },
+  {
+    "SkillListID": 1101001,
+    "SkillListTitle": "OokumaMari_SkillList_1_Title",
+    "ElementType": 200,
+    "DamageType": 102,
+    "SkillListContent": "OokumaMari_SkillList_1_Content",
+    "AvatarID": 1101
+  },
+  {
+    "SkillListID": 1101002,
+    "SkillListTitle": "OokumaMari_SkillList_2_Title",
+    "ElementType": 200,
+    "DamageType": 102,
+    "SkillListContent": "OokumaMari_SkillList_2_Content",
+    "AvatarID": 1101
+  },
+  {
+    "SkillListID": 1101003,
+    "SkillListTitle": "OokumaMari_SkillList_3_Title",
+    "ElementType": 201,
+    "DamageType": 102,
+    "SkillListContent": "OokumaMari_SkillList_3_Content",
+    "AvatarID": 1101
+  },
+  {
+    "SkillListID": 1101004,
+    "SkillListTitle": "OokumaMari_SkillList_4_Title",
+    "ElementType": 201,
+    "DamageType": 102,
+    "SkillListContent": "OokumaMari_SkillList_4_Content",
+    "AvatarID": 1101
+  },
+  {
+    "SkillListID": 1101005,
+    "SkillListTitle": "OokumaMari_SkillList_5_Title",
+    "ElementType": 201,
+    "DamageType": 102,
+    "SkillListContent": "OokumaMari_SkillList_5_Content",
+    "AvatarID": 1101
+  },
+  {
+    "SkillListID": 1101006,
+    "SkillListTitle": "OokumaMari_SkillList_6_Title",
+    "ElementType": 200,
+    "DamageType": 102,
+    "SkillListContent": "OokumaMari_SkillList_6_Content",
+    "AvatarID": 1101
+  },
+  {
+    "SkillListID": 1101007,
+    "SkillListTitle": "OokumaMari_SkillList_7_Title",
+    "ElementType": 200,
+    "DamageType": 102,
+    "SkillListContent": "OokumaMari_SkillList_7_Content",
+    "AvatarID": 1101
+  },
+  {
+    "SkillListID": 1101008,
+    "SkillListTitle": "OokumaMari_SkillList_8_Title",
+    "ElementType": 201,
+    "DamageType": 102,
+    "SkillListContent": "OokumaMari_SkillList_8_Content",
+    "AvatarID": 1101
+  },
+  {
+    "SkillListID": 1101009,
+    "SkillListTitle": "OokumaMari_SkillList_9_Title",
+    "ElementType": 201,
+    "DamageType": 102,
+    "SkillListContent": "OokumaMari_SkillList_9_Content",
+    "AvatarID": 1101
+  },
+  {
+    "SkillListID": 1101010,
+    "SkillListTitle": "OokumaMari_SkillList_10_Title",
+    "ElementType": 200,
+    "DamageType": 102,
+    "SkillListContent": "OokumaMari_SkillList_10_Content",
+    "AvatarID": 1101
+  },
+  {
+    "SkillListID": 1111001,
+    "SkillListTitle": "Anton_SkillList_1_Title",
+    "ElementType": 200,
+    "DamageType": 102,
+    "SkillListContent": "Anton_SkillList_1_Content",
+    "AvatarID": 1111
+  },
+  {
+    "SkillListID": 1111002,
+    "SkillListTitle": "Anton_SkillList_2_Title",
+    "ElementType": 200,
+    "DamageType": 103,
+    "SkillListContent": "Anton_SkillList_2_Content",
+    "AvatarID": 1111
+  },
+  {
+    "SkillListID": 1111003,
+    "SkillListTitle": "Anton_SkillList_3_Title",
+    "ElementType": 200,
+    "DamageType": 103,
+    "SkillListContent": "Anton_SkillList_3_Content",
+    "AvatarID": 1111
+  },
+  {
+    "SkillListID": 1111004,
+    "SkillListTitle": "Anton_SkillList_4_Title",
+    "ElementType": 200,
+    "DamageType": 103,
+    "SkillListContent": "Anton_SkillList_4_Content",
+    "AvatarID": 1111
+  },
+  {
+    "SkillListID": 1111005,
+    "SkillListTitle": "Anton_SkillList_5_Title",
+    "ElementType": 203,
+    "DamageType": 101,
+    "SkillListContent": "Anton_SkillList_5_Content",
+    "AvatarID": 1111
+  },
+  {
+    "SkillListID": 1111006,
+    "SkillListTitle": "Anton_SkillList_6_Title",
+    "ElementType": 203,
+    "DamageType": 103,
+    "SkillListContent": "Anton_SkillList_6_Content",
+    "AvatarID": 1111
+  },
+  {
+    "SkillListID": 1111007,
+    "SkillListTitle": "Anton_SkillList_7_Title",
+    "ElementType": 203,
+    "DamageType": 103,
+    "SkillListContent": "Anton_SkillList_7_Content",
+    "AvatarID": 1111
+  },
+  {
+    "SkillListID": 1111008,
+    "SkillListTitle": "Anton_SkillList_8_Title",
+    "ElementType": 203,
+    "DamageType": 103,
+    "SkillListContent": "Anton_SkillList_8_Content",
+    "AvatarID": 1111
+  },
+  {
+    "SkillListID": 1111009,
+    "SkillListTitle": "Anton_SkillList_9_Title",
+    "ElementType": 203,
+    "DamageType": 103,
+    "SkillListContent": "Anton_SkillList_9_Content",
+    "AvatarID": 1111
+  },
+  {
+    "SkillListID": 1111010,
+    "SkillListTitle": "Anton_SkillList_10_Title",
+    "ElementType": 203,
+    "DamageType": 103,
+    "SkillListContent": "Anton_SkillList_10_Content",
+    "AvatarID": 1111
+  },
+  {
+    "SkillListID": 1111011,
+    "SkillListTitle": "Anton_SkillList_11_Title",
+    "ElementType": 200,
+    "DamageType": 102,
+    "SkillListContent": "Anton_SkillList_11_Content",
+    "AvatarID": 1111
+  },
+  {
+    "SkillListID": 1111012,
+    "SkillListTitle": "Anton_SkillList_12_Title",
+    "ElementType": 200,
+    "DamageType": 102,
+    "SkillListContent": "Anton_SkillList_12_Content",
+    "AvatarID": 1111
+  },
+  {
+    "SkillListID": 1111013,
+    "SkillListTitle": "Anton_SkillList_13_Title",
+    "ElementType": 200,
+    "DamageType": 102,
+    "SkillListContent": "Anton_SkillList_13_Content",
+    "AvatarID": 1111
+  },
+  {
+    "SkillListID": 1111014,
+    "SkillListTitle": "Anton_SkillList_14_Title",
+    "ElementType": 203,
+    "DamageType": 103,
+    "SkillListContent": "Anton_SkillList_14_Content",
+    "AvatarID": 1111
+  },
+  {
+    "SkillListID": 1111015,
+    "SkillListTitle": "Anton_SkillList_15_Title",
+    "ElementType": 203,
+    "DamageType": 103,
+    "SkillListContent": "Anton_SkillList_15_Content",
+    "AvatarID": 1111
+  },
+  {
+    "SkillListID": 1111016,
+    "SkillListTitle": "Anton_SkillList_16_Title",
+    "ElementType": 200,
+    "DamageType": 102,
+    "SkillListContent": "Anton_SkillList_16_Content",
+    "AvatarID": 1111
+  },
+  {
+    "SkillListID": 1121001,
+    "SkillListTitle": "Ben_SkillList_1_Title",
+    "ElementType": 200,
+    "DamageType": 102,
+    "SkillListContent": "Ben_SkillList_1_Content",
+    "AvatarID": 1121
+  },
+  {
+    "SkillListID": 1121002,
+    "SkillListTitle": "Ben_SkillList_2_Title",
+    "ElementType": 200,
+    "DamageType": 102,
+    "SkillListContent": "Ben_SkillList_2_Content",
+    "AvatarID": 1121
+  },
+  {
+    "SkillListID": 1121003,
+    "SkillListTitle": "Ben_SkillList_3_Title",
+    "ElementType": 200,
+    "DamageType": 102,
+    "SkillListContent": "Ben_SkillList_3_Content",
+    "AvatarID": 1121
+  },
+  {
+    "SkillListID": 1121004,
+    "SkillListTitle": "Ben_SkillList_4_Title",
+    "ElementType": 200,
+    "DamageType": 102,
+    "SkillListContent": "Ben_SkillList_4_Content",
+    "AvatarID": 1121
+  },
+  {
+    "SkillListID": 1121005,
+    "SkillListTitle": "Ben_SkillList_5_Title",
+    "ElementType": 200,
+    "DamageType": 102,
+    "SkillListContent": "Ben_SkillList_5_Content",
+    "AvatarID": 1121
+  },
+  {
+    "SkillListID": 1121006,
+    "SkillListTitle": "Ben_SkillList_6_Title",
+    "ElementType": 200,
+    "DamageType": 102,
+    "SkillListContent": "Ben_SkillList_6_Content",
+    "AvatarID": 1121
+  },
+  {
+    "SkillListID": 1121007,
+    "SkillListTitle": "Ben_SkillList_7_Title",
+    "ElementType": 200,
+    "DamageType": 102,
+    "SkillListContent": "Ben_SkillList_7_Content",
+    "AvatarID": 1121
+  },
+  {
+    "SkillListID": 1121008,
+    "SkillListTitle": "Ben_SkillList_8_Title",
+    "ElementType": 200,
+    "DamageType": 102,
+    "SkillListContent": "Ben_SkillList_8_Content",
+    "AvatarID": 1121
+  },
+  {
+    "SkillListID": 1121009,
+    "SkillListTitle": "Ben_SkillList_9_Title",
+    "ElementType": 200,
+    "DamageType": 102,
+    "SkillListContent": "Ben_SkillList_9_Content",
+    "AvatarID": 1121
+  },
+  {
+    "SkillListID": 1121010,
+    "SkillListTitle": "Ben_SkillList_10_Title",
+    "ElementType": 200,
+    "DamageType": 102,
+    "SkillListContent": "Ben_SkillList_10_Content",
+    "AvatarID": 1121
+  },
+  {
+    "SkillListID": 1121011,
+    "SkillListTitle": "Ben_SkillList_11_Title",
+    "ElementType": 200,
+    "DamageType": 102,
+    "SkillListContent": "Ben_SkillList_11_Content",
+    "AvatarID": 1121
+  },
+  {
+    "SkillListID": 1121012,
+    "SkillListTitle": "Ben_SkillList_12_Title",
+    "ElementType": 200,
+    "DamageType": 102,
+    "SkillListContent": "Ben_SkillList_12_Content",
+    "AvatarID": 1121
+  },
+  {
+    "SkillListID": 1121013,
+    "SkillListTitle": "Ben_SkillList_13_Title",
+    "ElementType": 200,
+    "DamageType": 102,
+    "SkillListContent": "Ben_SkillList_13_Content",
+    "AvatarID": 1121
+  },
+  {
+    "SkillListID": 1121014,
+    "SkillListTitle": "Ben_SkillList_14_Title",
+    "ElementType": 200,
+    "DamageType": 102,
+    "SkillListContent": "Ben_SkillList_14_Content",
+    "AvatarID": 1121
+  },
+  {
+    "SkillListID": 1131001,
+    "SkillListTitle": "Aokaku_SkillList_1_Title",
+    "ElementType": 200,
+    "DamageType": 101,
+    "SkillListContent": "Aokaku_SkillList_1_Content",
+    "AvatarID": 1131
+  },
+  {
+    "SkillListID": 1131002,
+    "SkillListTitle": "Aokaku_SkillList_2_Title",
+    "ElementType": 200,
+    "DamageType": 101,
+    "SkillListContent": "Aokaku_SkillList_2_Content",
+    "AvatarID": 1131
+  },
+  {
+    "SkillListID": 1131003,
+    "SkillListTitle": "Aokaku_SkillList_3_Title",
+    "ElementType": 204,
+    "DamageType": 102,
+    "SkillListContent": "Aokaku_SkillList_3_Content",
+    "AvatarID": 1131
+  },
+  {
+    "SkillListID": 1131004,
+    "SkillListTitle": "Aokaku_SkillList_4_Title",
+    "ElementType": 204,
+    "DamageType": 102,
+    "SkillListContent": "Aokaku_SkillList_4_Content",
+    "AvatarID": 1131
+  },
+  {
+    "SkillListID": 1131005,
+    "SkillListTitle": "Aokaku_SkillList_5_Title",
+    "ElementType": 204,
+    "DamageType": 102,
+    "SkillListContent": "Aokaku_SkillList_5_Content",
+    "AvatarID": 1131
+  },
+  {
+    "SkillListID": 1131006,
+    "SkillListTitle": "Aokaku_SkillList_6_Title",
+    "ElementType": 200,
+    "DamageType": 101,
+    "SkillListContent": "Aokaku_SkillList_6_Content",
+    "AvatarID": 1131
+  },
+  {
+    "SkillListID": 1131007,
+    "SkillListTitle": "Aokaku_SkillList_7_Title",
+    "ElementType": 204,
+    "DamageType": 101,
+    "SkillListContent": "Aokaku_SkillList_7_Content",
+    "AvatarID": 1131
+  },
+  {
+    "SkillListID": 1131008,
+    "SkillListTitle": "Aokaku_SkillList_8_Title",
+    "ElementType": 204,
+    "DamageType": 102,
+    "SkillListContent": "Aokaku_SkillList_8_Content",
+    "AvatarID": 1131
+  },
+  {
+    "SkillListID": 1131009,
+    "SkillListTitle": "Aokaku_SkillList_9_Title",
+    "ElementType": 204,
+    "DamageType": 102,
+    "SkillListContent": "Aokaku_SkillList_9_Content",
+    "AvatarID": 1131
+  },
+  {
+    "SkillListID": 1131010,
+    "SkillListTitle": "Aokaku_SkillList_10_Title",
+    "ElementType": 204,
+    "DamageType": 101,
+    "SkillListContent": "Aokaku_SkillList_10_Content",
+    "AvatarID": 1131
+  },
+  {
+    "SkillListID": 1141001,
+    "SkillListTitle": "Lycaon_SkillList_1_Title",
+    "ElementType": 200,
+    "DamageType": 102,
+    "SkillListContent": "Lycaon_SkillList_1_Content",
+    "AvatarID": 1141
+  },
+  {
+    "SkillListID": 1141002,
+    "SkillListTitle": "Lycaon_SkillList_2_Title",
+    "ElementType": 202,
+    "DamageType": 102,
+    "SkillListContent": "Lycaon_SkillList_1_Content",
+    "AvatarID": 1141
+  },
+  {
+    "SkillListID": 1141003,
+    "SkillListTitle": "Lycaon_SkillList_3_Title",
+    "ElementType": 202,
+    "DamageType": 102,
+    "SkillListContent": "Lycaon_SkillList_2_Content",
+    "AvatarID": 1141
+  },
+  {
+    "SkillListID": 1141004,
+    "SkillListTitle": "Lycaon_SkillList_4_Title",
+    "ElementType": 202,
+    "DamageType": 102,
+    "SkillListContent": "Lycaon_SkillList_3_Content",
+    "AvatarID": 1141
+  },
+  {
+    "SkillListID": 1141005,
+    "SkillListTitle": "Lycaon_SkillList_5_Title",
+    "ElementType": 200,
+    "DamageType": 102,
+    "SkillListContent": "Lycaon_SkillList_4_Content",
+    "AvatarID": 1141
+  },
+  {
+    "SkillListID": 1141006,
+    "SkillListTitle": "Lycaon_SkillList_6_Title",
+    "ElementType": 202,
+    "DamageType": 102,
+    "SkillListContent": "Lycaon_SkillList_5_Content",
+    "AvatarID": 1141
+  },
+  {
+    "SkillListID": 1141007,
+    "SkillListTitle": "Lycaon_SkillList_7_Title",
+    "ElementType": 202,
+    "DamageType": 102,
+    "SkillListContent": "Lycaon_SkillList_6_Content",
+    "AvatarID": 1141
+  },
+  {
+    "SkillListID": 1141008,
+    "SkillListTitle": "Lycaon_SkillList_8_Title",
+    "ElementType": 202,
+    "DamageType": 102,
+    "SkillListContent": "Lycaon_SkillList_7_Content",
+    "AvatarID": 1141
+  },
+  {
+    "SkillListID": 1141009,
+    "SkillListTitle": "Lycaon_SkillList_9_Title",
+    "ElementType": 202,
+    "DamageType": 102,
+    "SkillListContent": "Lycaon_SkillList_8_Content",
+    "AvatarID": 1141
+  }
+]

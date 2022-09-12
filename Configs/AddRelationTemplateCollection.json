@@ -1,0 +1,57 @@
+[
+  {
+    "AddRelationID": 121001,
+    "TargetIDs": [1000808],
+    "Achieve": 0,
+    "AddType": 1,
+    "AddIDs": [1000806, 1000807]
+  },
+  {
+    "AddRelationID": 121002,
+    "TargetIDs": [1000401],
+    "Achieve": 1,
+    "AddType": 1,
+    "AddIDs": [1000404]
+  },
+  {
+    "AddRelationID": 121003,
+    "TargetIDs": [1001108],
+    "Achieve": 1,
+    "AddType": 1,
+    "AddIDs": [1001104]
+  },
+  {
+    "AddRelationID": 121004,
+    "TargetIDs": [
+      1000602, 1000603, 1000604, 1000605, 1000606, 1000607, 1000608
+    ],
+    "Achieve": 2,
+    "AddType": 1,
+    "AddIDs": [1000601]
+  },
+  {
+    "AddRelationID": 111001,
+    "TargetIDs": [1091, 1141],
+    "Achieve": 1,
+    "AddType": 1,
+    "AddIDs": [1001101, 1001102, 1001103, 1001105, 1001106, 1001107, 1001108]
+  },
+  {
+    "AddRelationID": 111002,
+    "TargetIDs": [1041, 1101],
+    "Achieve": 1,
+    "AddType": 1,
+    "AddIDs": [
+      1000101, 1000102, 1000103, 1000104, 1000105, 1000106, 1000107, 1000108
+    ]
+  },
+  {
+    "AddRelationID": 111003,
+    "TargetIDs": [1011, 1111],
+    "Achieve": 1,
+    "AddType": 1,
+    "AddIDs": [
+      1000501, 1000502, 1000503, 1000504, 1000505, 1000506, 1000507, 1000508
+    ]
+  }
+]

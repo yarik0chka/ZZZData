@@ -1,0 +1,32 @@
+[
+  {
+    "TagID": 10000,
+    "DefaultInteractIDs": [101],
+    "InteractShape": 1,
+    "InteractScale": "1,0,0"
+  },
+  {
+    "TagID": 10001,
+    "DefaultInteractIDs": [101],
+    "InteractShape": 1,
+    "InteractScale": "1,0,0"
+  },
+  {
+    "TagID": 10002,
+    "DefaultInteractIDs": [101],
+    "InteractShape": 1,
+    "InteractScale": "1,0,0"
+  },
+  {
+    "TagID": 10003,
+    "DefaultInteractIDs": [101],
+    "InteractShape": 1,
+    "InteractScale": "1,0,0"
+  },
+  {
+    "TagID": 10004,
+    "DefaultInteractIDs": [101],
+    "InteractShape": 1,
+    "InteractScale": "1,0,0"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "Rank": 1,
+    "MaxLevel": 14,
+    "VeryImportantQuest": 1990001,
+    "HollowQuestLevel": "5:14",
+    "HollowRewardList": "",
+    "RewardPreviews": []
+  },
+  {
+    "Rank": 2,
+    "MaxLevel": 24,
+    "VeryImportantQuest": 1990002,
+    "HollowQuestLevel": "15:24",
+    "HollowRewardList": "",
+    "RewardPreviews": []
+  },
+  {
+    "Rank": 3,
+    "MaxLevel": 34,
+    "VeryImportantQuest": 1990003,
+    "HollowQuestLevel": "25:34",
+    "HollowRewardList": "",
+    "RewardPreviews": []
+  },
+  {
+    "Rank": 4,
+    "MaxLevel": 44,
+    "VeryImportantQuest": 1990004,
+    "HollowQuestLevel": "35:44",
+    "HollowRewardList": "",
+    "RewardPreviews": []
+  },
+  {
+    "Rank": 5,
+    "MaxLevel": 54,
+    "VeryImportantQuest": 0,
+    "HollowQuestLevel": "45:54",
+    "HollowRewardList": "",
+    "RewardPreviews": []
+  }
+]

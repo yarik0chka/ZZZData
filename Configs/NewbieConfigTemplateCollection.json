@@ -1,0 +1,344 @@
+[
+  {
+    "ID": 1,
+    "GroupID": 1,
+    "ActionOrder": 0,
+    "ActionType": 1,
+    "Param1": "",
+    "Param2": "",
+    "Param3": ""
+  },
+  {
+    "ID": 2,
+    "GroupID": 1,
+    "ActionOrder": 0,
+    "ActionType": 0,
+    "Param1": "UIRootProxy/UICanvas/AdaptRoot/SafeArea/LineupSelectPage(Clone)/Bottom/TogglePanel/Toggle01/GeneralToggle",
+    "Param2": "",
+    "Param3": ""
+  },
+  {
+    "ID": 3,
+    "GroupID": 1,
+    "ActionOrder": 0,
+    "ActionType": 2,
+    "Param1": "200001",
+    "Param2": "300",
+    "Param3": "500"
+  },
+  {
+    "ID": 4,
+    "GroupID": 1,
+    "ActionOrder": 1,
+    "ActionType": 1,
+    "Param1": "",
+    "Param2": "",
+    "Param3": ""
+  },
+  {
+    "ID": 5,
+    "GroupID": 1,
+    "ActionOrder": 1,
+    "ActionType": 0,
+    "Param1": "UIRootProxy/UICanvas/AdaptRoot/SafeArea/LineupSelectPage(Clone)/Bottom/TogglePanel/Toggle01/GeneralToggle",
+    "Param2": "",
+    "Param3": ""
+  },
+  {
+    "ID": 6,
+    "GroupID": 1,
+    "ActionOrder": 1,
+    "ActionType": 2,
+    "Param1": "200002",
+    "Param2": "300",
+    "Param3": "500"
+  },
+  {
+    "ID": 7,
+    "GroupID": 1,
+    "ActionOrder": 2,
+    "ActionType": 1,
+    "Param1": "",
+    "Param2": "",
+    "Param3": ""
+  },
+  {
+    "ID": 8,
+    "GroupID": 1,
+    "ActionOrder": 2,
+    "ActionType": 0,
+    "Param1": "UIRootProxy/UICanvas/AdaptRoot/SafeArea/LineupSelectPage(Clone)/Bottom/TogglePanel/Toggle01/GeneralToggle",
+    "Param2": "",
+    "Param3": ""
+  },
+  {
+    "ID": 9,
+    "GroupID": 1,
+    "ActionOrder": 2,
+    "ActionType": 2,
+    "Param1": "200003",
+    "Param2": "300",
+    "Param3": "500"
+  },
+  {
+    "ID": 10,
+    "GroupID": 1,
+    "ActionOrder": 3,
+    "ActionType": 1,
+    "Param1": "",
+    "Param2": "",
+    "Param3": ""
+  },
+  {
+    "ID": 11,
+    "GroupID": 1,
+    "ActionOrder": 3,
+    "ActionType": 0,
+    "Param1": "UIRootProxy/UICanvas/AdaptRoot/SafeArea/LineupSelectPage(Clone)/Bottom/TogglePanel/Toggle01/GeneralToggle",
+    "Param2": "",
+    "Param3": ""
+  },
+  {
+    "ID": 12,
+    "GroupID": 1,
+    "ActionOrder": 3,
+    "ActionType": 2,
+    "Param1": "200004",
+    "Param2": "300",
+    "Param3": "500"
+  },
+  {
+    "ID": 13,
+    "GroupID": 2,
+    "ActionOrder": 0,
+    "ActionType": 1,
+    "Param1": "",
+    "Param2": "",
+    "Param3": ""
+  },
+  {
+    "ID": 14,
+    "GroupID": 2,
+    "ActionOrder": 0,
+    "ActionType": 2,
+    "Param1": "200005",
+    "Param2": "300",
+    "Param3": "500"
+  },
+  {
+    "ID": 15,
+    "GroupID": 2,
+    "ActionOrder": 1,
+    "ActionType": 1,
+    "Param1": "",
+    "Param2": "",
+    "Param3": ""
+  },
+  {
+    "ID": 16,
+    "GroupID": 2,
+    "ActionOrder": 1,
+    "ActionType": 0,
+    "Param1": "UIRootProxy/UICanvas/AdaptRoot/SafeArea/LineupSelectPage(Clone)/Centre/RoleSelect/SelectBtn/Select0/NewbieAdd",
+    "Param2": "",
+    "Param3": ""
+  },
+  {
+    "ID": 17,
+    "GroupID": 2,
+    "ActionOrder": 1,
+    "ActionType": 2,
+    "Param1": "200006",
+    "Param2": "300",
+    "Param3": "500"
+  },
+  {
+    "ID": 18,
+    "GroupID": 2,
+    "ActionOrder": 2,
+    "ActionType": 1,
+    "Param1": "",
+    "Param2": "",
+    "Param3": ""
+  },
+  {
+    "ID": 19,
+    "GroupID": 2,
+    "ActionOrder": 2,
+    "ActionType": 0,
+    "Param1": "UIRootProxy/UICanvas/AdaptRoot/SafeArea/LineupSelectPage(Clone)/Centre/RoleSelect/SelectBtn/Select0/NewbieAdd",
+    "Param2": "",
+    "Param3": ""
+  },
+  {
+    "ID": 20,
+    "GroupID": 2,
+    "ActionOrder": 2,
+    "ActionType": 2,
+    "Param1": "200007",
+    "Param2": "300",
+    "Param3": "500"
+  },
+  {
+    "ID": 21,
+    "GroupID": 2,
+    "ActionOrder": 3,
+    "ActionType": 1,
+    "Param1": "",
+    "Param2": "",
+    "Param3": ""
+  },
+  {
+    "ID": 22,
+    "GroupID": 2,
+    "ActionOrder": 3,
+    "ActionType": 0,
+    "Param1": "UIRootProxy/UICanvas/AdaptRoot/SafeArea/LineupSelectPage(Clone)/Centre/RoleSelect/SelectBtn/Select0/NewbieAdd",
+    "Param2": "",
+    "Param3": ""
+  },
+  {
+    "ID": 23,
+    "GroupID": 2,
+    "ActionOrder": 3,
+    "ActionType": 2,
+    "Param1": "200008",
+    "Param2": "300",
+    "Param3": "500"
+  },
+  {
+    "ID": 24,
+    "GroupID": 2,
+    "ActionOrder": 4,
+    "ActionType": 1,
+    "Param1": "",
+    "Param2": "",
+    "Param3": ""
+  },
+  {
+    "ID": 25,
+    "GroupID": 2,
+    "ActionOrder": 4,
+    "ActionType": 0,
+    "Param1": "UIRootProxy/UICanvas/AdaptRoot/SafeArea/LineupSelectPage(Clone)/Centre/RoleSelect/SelectBtn/Select0/NewbieAdd",
+    "Param2": "",
+    "Param3": ""
+  },
+  {
+    "ID": 26,
+    "GroupID": 2,
+    "ActionOrder": 4,
+    "ActionType": 2,
+    "Param1": "200009",
+    "Param2": "300",
+    "Param3": "500"
+  },
+  {
+    "ID": 27,
+    "GroupID": 3,
+    "ActionOrder": 0,
+    "ActionType": 1,
+    "Param1": "",
+    "Param2": "",
+    "Param3": ""
+  },
+  {
+    "ID": 28,
+    "GroupID": 3,
+    "ActionOrder": 0,
+    "ActionType": 0,
+    "Param1": "UIRootProxy/UICanvas/AdaptRoot/SafeArea/LineupSelectPage(Clone)/Bottom/TogglePanel/Toggle02/GeneralToggle",
+    "Param2": "",
+    "Param3": ""
+  },
+  {
+    "ID": 29,
+    "GroupID": 3,
+    "ActionOrder": 0,
+    "ActionType": 2,
+    "Param1": "200010",
+    "Param2": "300",
+    "Param3": "500"
+  },
+  {
+    "ID": 30,
+    "GroupID": 3,
+    "ActionOrder": 1,
+    "ActionType": 1,
+    "Param1": "",
+    "Param2": "",
+    "Param3": ""
+  },
+  {
+    "ID": 31,
+    "GroupID": 3,
+    "ActionOrder": 1,
+    "ActionType": 0,
+    "Param1": "UIRootProxy/UICanvas/AdaptRoot/SafeArea/LineupSelectPage(Clone)/Bottom/TogglePanel/Toggle02/GeneralToggle",
+    "Param2": "",
+    "Param3": ""
+  },
+  {
+    "ID": 32,
+    "GroupID": 3,
+    "ActionOrder": 1,
+    "ActionType": 2,
+    "Param1": "200011",
+    "Param2": "300",
+    "Param3": "500"
+  },
+  {
+    "ID": 33,
+    "GroupID": 3,
+    "ActionOrder": 2,
+    "ActionType": 1,
+    "Param1": "",
+    "Param2": "",
+    "Param3": ""
+  },
+  {
+    "ID": 34,
+    "GroupID": 3,
+    "ActionOrder": 2,
+    "ActionType": 0,
+    "Param1": "UIRootProxy/UICanvas/AdaptRoot/SafeArea/LineupSelectPage(Clone)/Bottom/TogglePanel/Toggle02/GeneralToggle",
+    "Param2": "",
+    "Param3": ""
+  },
+  {
+    "ID": 35,
+    "GroupID": 3,
+    "ActionOrder": 2,
+    "ActionType": 2,
+    "Param1": "200012",
+    "Param2": "300",
+    "Param3": "500"
+  },
+  {
+    "ID": 36,
+    "GroupID": 3,
+    "ActionOrder": 3,
+    "ActionType": 1,
+    "Param1": "",
+    "Param2": "",
+    "Param3": ""
+  },
+  {
+    "ID": 37,
+    "GroupID": 3,
+    "ActionOrder": 3,
+    "ActionType": 0,
+    "Param1": "UIRootProxy/UICanvas/AdaptRoot/SafeArea/LineupSelectPage(Clone)/Bottom/TogglePanel/Toggle02/GeneralToggle",
+    "Param2": "",
+    "Param3": ""
+  },
+  {
+    "ID": 38,
+    "GroupID": 3,
+    "ActionOrder": 3,
+    "ActionType": 2,
+    "Param1": "200013",
+    "Param2": "300",
+    "Param3": "500"
+  }
+]

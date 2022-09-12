@@ -1,0 +1,7502 @@
+[
+  {
+    "ID": 101100000,
+    "AvatarID": 1011,
+    "TextType": 0,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "Anbi_Skill_Normal_Title",
+    "Text": "Anbi_Skill_Normal_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 101100100,
+    "AvatarID": 1011,
+    "TextType": 0,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "Anbi_Skill_Branch_Title",
+    "Text": "Anbi_Skill_Branch_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 101101000,
+    "AvatarID": 1011,
+    "TextType": 0,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "Anbi_Skill_Special_Title",
+    "Text": "Anbi_Skill_Special_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 101101100,
+    "AvatarID": 1011,
+    "TextType": 0,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "Anbi_Skill_ExSpecial_Title",
+    "Text": "Anbi_Skill_ExSpecial_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 101102000,
+    "AvatarID": 1011,
+    "TextType": 0,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "Anbi_Skill_Evade_Title",
+    "Text": "Anbi_Skill_Evade_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 101102100,
+    "AvatarID": 1011,
+    "TextType": 0,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "Anbi_Skill_Rush_Title",
+    "Text": "Anbi_Skill_Rush_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 101102200,
+    "AvatarID": 1011,
+    "TextType": 0,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "Anbi_Skill_Counter_Title",
+    "Text": "Anbi_Skill_Counter_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 101103000,
+    "AvatarID": 1011,
+    "TextType": 0,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "Anbi_Skill_QTE_Title",
+    "Text": "Anbi_Skill_QTE_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 101103100,
+    "AvatarID": 1011,
+    "TextType": 0,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "Anbi_Skill_ExQTE_Title",
+    "Text": "Anbi_Skill_ExQTE_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 101103200,
+    "AvatarID": 1011,
+    "TextType": 0,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "Anbi_Skill_AidAttack_Title",
+    "Text": "Anbi_Skill_AidAttack_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 101110010,
+    "AvatarID": 1011,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Anbi_Skill_Normal_Title",
+    "Value": ""
+  },
+  {
+    "ID": 101110011,
+    "AvatarID": 1011,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Dmg_01",
+    "Value": "{Skill:1011001, Prop:1001}"
+  },
+  {
+    "ID": 101110012,
+    "AvatarID": 1011,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Dmg_02",
+    "Value": "{Skill:1011002, Prop:1001}"
+  },
+  {
+    "ID": 101110013,
+    "AvatarID": 1011,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Dmg_03",
+    "Value": "{Skill:1011003, Prop:1001}"
+  },
+  {
+    "ID": 101110014,
+    "AvatarID": 1011,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Dmg_04",
+    "Value": "{Skill:1011004, Prop:1001}"
+  },
+  {
+    "ID": 101110021,
+    "AvatarID": 1011,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Stun_01",
+    "Value": "{Skill:1011001, Prop:1002}"
+  },
+  {
+    "ID": 101110022,
+    "AvatarID": 1011,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Stun_02",
+    "Value": "{Skill:1011002, Prop:1002}"
+  },
+  {
+    "ID": 101110023,
+    "AvatarID": 1011,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Stun_03",
+    "Value": "{Skill:1011003, Prop:1002}"
+  },
+  {
+    "ID": 101110024,
+    "AvatarID": 1011,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Stun_04",
+    "Value": "{Skill:1011004, Prop:1002}"
+  },
+  {
+    "ID": 101110031,
+    "AvatarID": 1011,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Sp_01",
+    "Value": "{Skill:1011001, Prop:1003}"
+  },
+  {
+    "ID": 101110032,
+    "AvatarID": 1011,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Sp_02",
+    "Value": "{Skill:1011002, Prop:1003}"
+  },
+  {
+    "ID": 101110033,
+    "AvatarID": 1011,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Sp_03",
+    "Value": "{Skill:1011003, Prop:1003}"
+  },
+  {
+    "ID": 101110034,
+    "AvatarID": 1011,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Sp_04",
+    "Value": "{Skill:1011004, Prop:1003}"
+  },
+  {
+    "ID": 101110110,
+    "AvatarID": 1011,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Anbi_Skill_Branch_Title",
+    "Value": ""
+  },
+  {
+    "ID": 101110111,
+    "AvatarID": 1011,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_DamageRatio",
+    "Value": "{Skill:1011005, Prop:1001}"
+  },
+  {
+    "ID": 101110121,
+    "AvatarID": 1011,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_BreakStunRatio",
+    "Value": "{Skill:1011005, Prop:1002}"
+  },
+  {
+    "ID": 101110131,
+    "AvatarID": 1011,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_SpRecovery",
+    "Value": "{Skill:1011005, Prop:1003}"
+  },
+  {
+    "ID": 101111010,
+    "AvatarID": 1011,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Anbi_Skill_Special_Title",
+    "Value": ""
+  },
+  {
+    "ID": 101111011,
+    "AvatarID": 1011,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_DamageRatio",
+    "Value": "{Skill:1011006, Prop:1001}"
+  },
+  {
+    "ID": 101111021,
+    "AvatarID": 1011,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_BreakStunRatio",
+    "Value": "{Skill:1011006, Prop:1002}"
+  },
+  {
+    "ID": 101111110,
+    "AvatarID": 1011,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Anbi_Skill_ExSpecial_Title",
+    "Value": ""
+  },
+  {
+    "ID": 101111111,
+    "AvatarID": 1011,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_DamageRatio",
+    "Value": "{Skill:1011007, Prop:1001}"
+  },
+  {
+    "ID": 101111121,
+    "AvatarID": 1011,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_BreakStunRatio",
+    "Value": "{Skill:1011007, Prop:1002}"
+  },
+  {
+    "ID": 101111141,
+    "AvatarID": 1011,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_SpConsume",
+    "Value": "Anbi_Property_ExSpecial_SpCostValue_01"
+  },
+  {
+    "ID": 101112010,
+    "AvatarID": 1011,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Anbi_Skill_Rush_Title",
+    "Value": ""
+  },
+  {
+    "ID": 101112011,
+    "AvatarID": 1011,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_DamageRatio",
+    "Value": "{Skill:1011008, Prop:1001}"
+  },
+  {
+    "ID": 101112021,
+    "AvatarID": 1011,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_BreakStunRatio",
+    "Value": "{Skill:1011008, Prop:1002}"
+  },
+  {
+    "ID": 101112031,
+    "AvatarID": 1011,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_SpRecovery",
+    "Value": "{Skill:1011008, Prop:1003}"
+  },
+  {
+    "ID": 101112110,
+    "AvatarID": 1011,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Anbi_Skill_Counter_Title",
+    "Value": ""
+  },
+  {
+    "ID": 101112111,
+    "AvatarID": 1011,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_DamageRatio",
+    "Value": "{Skill:1011009, Prop:1001}"
+  },
+  {
+    "ID": 101112121,
+    "AvatarID": 1011,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_BreakStunRatio",
+    "Value": "{Skill:1011009, Prop:1002}"
+  },
+  {
+    "ID": 101112131,
+    "AvatarID": 1011,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_SpRecovery",
+    "Value": "{Skill:1011009, Prop:1003}"
+  },
+  {
+    "ID": 101113010,
+    "AvatarID": 1011,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Anbi_Skill_QTE_Title",
+    "Value": ""
+  },
+  {
+    "ID": 101113011,
+    "AvatarID": 1011,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_DamageRatio",
+    "Value": "{Skill:1011010, Prop:1001}"
+  },
+  {
+    "ID": 101113021,
+    "AvatarID": 1011,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_BreakStunRatio",
+    "Value": "{Skill:1011010, Prop:1002}"
+  },
+  {
+    "ID": 101113110,
+    "AvatarID": 1011,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Anbi_Skill_ExQTE_Title",
+    "Value": ""
+  },
+  {
+    "ID": 101113111,
+    "AvatarID": 1011,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_DamageRatio",
+    "Value": "{Skill:1011011, Prop:1001}"
+  },
+  {
+    "ID": 101113121,
+    "AvatarID": 1011,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_BreakStunRatio",
+    "Value": "{Skill:1011011, Prop:1002}"
+  },
+  {
+    "ID": 101113210,
+    "AvatarID": 1011,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Anbi_Skill_AidAttack_Title",
+    "Value": ""
+  },
+  {
+    "ID": 101113211,
+    "AvatarID": 1011,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_DamageRatio",
+    "Value": "{Skill:1011009, Prop:1001}"
+  },
+  {
+    "ID": 101113221,
+    "AvatarID": 1011,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_BreakStunRatio",
+    "Value": "{Skill:1011009, Prop:1002}"
+  },
+  {
+    "ID": 101113231,
+    "AvatarID": 1011,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_SpRecovery",
+    "Value": "{Skill:1011009, Prop:1003}"
+  },
+  {
+    "ID": 102100000,
+    "AvatarID": 1021,
+    "TextType": 0,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "Tsubaki_Skill_Normal_Title",
+    "Text": "Tsubaki_Skill_Normal_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 102100100,
+    "AvatarID": 1021,
+    "TextType": 0,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "Tsubaki_Skill_Branch_Title",
+    "Text": "Tsubaki_Skill_Branch_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 102101000,
+    "AvatarID": 1021,
+    "TextType": 0,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "Tsubaki_Skill_Special_Title",
+    "Text": "Tsubaki_Skill_Special_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 102101100,
+    "AvatarID": 1021,
+    "TextType": 0,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "Tsubaki_Skill_ExSpecial_Title",
+    "Text": "Tsubaki_Skill_ExSpecial_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 102102000,
+    "AvatarID": 1021,
+    "TextType": 0,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "Tsubaki_Skill_Evade_Title",
+    "Text": "Tsubaki_Skill_Evade_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 102102100,
+    "AvatarID": 1021,
+    "TextType": 0,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "Tsubaki_Skill_Rush_Title",
+    "Text": "Tsubaki_Skill_Rush_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 102102200,
+    "AvatarID": 1021,
+    "TextType": 0,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "Tsubaki_Skill_Counter_Title",
+    "Text": "Tsubaki_Skill_Counter_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 102103000,
+    "AvatarID": 1021,
+    "TextType": 0,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "Tsubaki_Skill_QTE_Title",
+    "Text": "Tsubaki_Skill_QTE_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 102103100,
+    "AvatarID": 1021,
+    "TextType": 0,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "Tsubaki_Skill_ExQTE_Title",
+    "Text": "Tsubaki_Skill_ExQTE_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 102103200,
+    "AvatarID": 1021,
+    "TextType": 0,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "Tsubaki_Skill_AidAttack_Title",
+    "Text": "Tsubaki_Skill_AidAttack_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 102110010,
+    "AvatarID": 1021,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Tsubaki_Skill_Normal_Title",
+    "Value": ""
+  },
+  {
+    "ID": 102110011,
+    "AvatarID": 1021,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Dmg_01",
+    "Value": "{Skill:1021001, Prop:1001}"
+  },
+  {
+    "ID": 102110012,
+    "AvatarID": 1021,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Dmg_02",
+    "Value": "{Skill:1021002, Prop:1001}"
+  },
+  {
+    "ID": 102110013,
+    "AvatarID": 1021,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Dmg_03",
+    "Value": "{Skill:1021003, Prop:1001}"
+  },
+  {
+    "ID": 102110014,
+    "AvatarID": 1021,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Dmg_04",
+    "Value": "{Skill:1021004, Prop:1001}"
+  },
+  {
+    "ID": 102110015,
+    "AvatarID": 1021,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Dmg_05",
+    "Value": "{Skill:1021005, Prop:1001}"
+  },
+  {
+    "ID": 102110021,
+    "AvatarID": 1021,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Stun_01",
+    "Value": "{Skill:1021001, Prop:1002}"
+  },
+  {
+    "ID": 102110022,
+    "AvatarID": 1021,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Stun_02",
+    "Value": "{Skill:1021002, Prop:1002}"
+  },
+  {
+    "ID": 102110023,
+    "AvatarID": 1021,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Stun_03",
+    "Value": "{Skill:1021003, Prop:1002}"
+  },
+  {
+    "ID": 102110024,
+    "AvatarID": 1021,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Stun_04",
+    "Value": "{Skill:1021004, Prop:1002}"
+  },
+  {
+    "ID": 102110025,
+    "AvatarID": 1021,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Stun_05",
+    "Value": "{Skill:1021005, Prop:1002}"
+  },
+  {
+    "ID": 102110031,
+    "AvatarID": 1021,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Sp_01",
+    "Value": "{Skill:1021001, Prop:1003}"
+  },
+  {
+    "ID": 102110032,
+    "AvatarID": 1021,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Sp_02",
+    "Value": "{Skill:1021002, Prop:1003}"
+  },
+  {
+    "ID": 102110033,
+    "AvatarID": 1021,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Sp_03",
+    "Value": "{Skill:1021003, Prop:1003}"
+  },
+  {
+    "ID": 102110034,
+    "AvatarID": 1021,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Sp_04",
+    "Value": "{Skill:1021004, Prop:1003}"
+  },
+  {
+    "ID": 102110035,
+    "AvatarID": 1021,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Sp_05",
+    "Value": "{Skill:1021005, Prop:1003}"
+  },
+  {
+    "ID": 102110110,
+    "AvatarID": 1021,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Tsubaki_Skill_Branch_Title",
+    "Value": ""
+  },
+  {
+    "ID": 102110111,
+    "AvatarID": 1021,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_DamageRatio",
+    "Value": "{Skill:1021006, Prop:1001}"
+  },
+  {
+    "ID": 102110121,
+    "AvatarID": 1021,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_BreakStunRatio",
+    "Value": "{Skill:1021006, Prop:1002}"
+  },
+  {
+    "ID": 102110131,
+    "AvatarID": 1021,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_SpRecovery",
+    "Value": "{Skill:1021006, Prop:1003}"
+  },
+  {
+    "ID": 102111010,
+    "AvatarID": 1021,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Tsubaki_Skill_Special_Title",
+    "Value": ""
+  },
+  {
+    "ID": 102111011,
+    "AvatarID": 1021,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_DamageRatio",
+    "Value": "{Skill:1021007, Prop:1001}"
+  },
+  {
+    "ID": 102111021,
+    "AvatarID": 1021,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_BreakStunRatio",
+    "Value": "{Skill:1021007, Prop:1002}"
+  },
+  {
+    "ID": 102111110,
+    "AvatarID": 1021,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Tsubaki_Skill_ExSpecial_Title",
+    "Value": ""
+  },
+  {
+    "ID": 102111111,
+    "AvatarID": 1021,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_DamageRatio",
+    "Value": "{Skill:1021008, Prop:1001}"
+  },
+  {
+    "ID": 102111121,
+    "AvatarID": 1021,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_BreakStunRatio",
+    "Value": "{Skill:1021008, Prop:1002}"
+  },
+  {
+    "ID": 102111141,
+    "AvatarID": 1021,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_SpConsume",
+    "Value": "Tsubaki_Property_ExSpecial_SpCostValue_01"
+  },
+  {
+    "ID": 102112010,
+    "AvatarID": 1021,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Tsubaki_Skill_Rush_Title",
+    "Value": ""
+  },
+  {
+    "ID": 102112011,
+    "AvatarID": 1021,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_DamageRatio",
+    "Value": "{Skill:1021009, Prop:1001}"
+  },
+  {
+    "ID": 102112021,
+    "AvatarID": 1021,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_BreakStunRatio",
+    "Value": "{Skill:1021009, Prop:1002}"
+  },
+  {
+    "ID": 102112031,
+    "AvatarID": 1021,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_SpRecovery",
+    "Value": "{Skill:1021009, Prop:1003}"
+  },
+  {
+    "ID": 102112110,
+    "AvatarID": 1021,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Tsubaki_Skill_Counter_Title",
+    "Value": ""
+  },
+  {
+    "ID": 102112111,
+    "AvatarID": 1021,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_DamageRatio",
+    "Value": "{Skill:1021010, Prop:1001}"
+  },
+  {
+    "ID": 102112121,
+    "AvatarID": 1021,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_BreakStunRatio",
+    "Value": "{Skill:1021010, Prop:1002}"
+  },
+  {
+    "ID": 102112131,
+    "AvatarID": 1021,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_SpRecovery",
+    "Value": "{Skill:1021010, Prop:1003}"
+  },
+  {
+    "ID": 102113010,
+    "AvatarID": 1021,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Tsubaki_Skill_QTE_Title",
+    "Value": ""
+  },
+  {
+    "ID": 102113011,
+    "AvatarID": 1021,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_DamageRatio",
+    "Value": "{Skill:1021011, Prop:1001}"
+  },
+  {
+    "ID": 102113021,
+    "AvatarID": 1021,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_BreakStunRatio",
+    "Value": "{Skill:1021011, Prop:1002}"
+  },
+  {
+    "ID": 102113110,
+    "AvatarID": 1021,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Tsubaki_Skill_ExQTE_Title",
+    "Value": ""
+  },
+  {
+    "ID": 102113111,
+    "AvatarID": 1021,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_DamageRatio",
+    "Value": "{Skill:1021012, Prop:1001}"
+  },
+  {
+    "ID": 102113121,
+    "AvatarID": 1021,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_BreakStunRatio",
+    "Value": "{Skill:1021012, Prop:1002}"
+  },
+  {
+    "ID": 102113210,
+    "AvatarID": 1021,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Tsubaki_Skill_AidAttack_Title",
+    "Value": ""
+  },
+  {
+    "ID": 102113211,
+    "AvatarID": 1021,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_DamageRatio",
+    "Value": "{Skill:1021010, Prop:1001}"
+  },
+  {
+    "ID": 102113221,
+    "AvatarID": 1021,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_BreakStunRatio",
+    "Value": "{Skill:1021010, Prop:1002}"
+  },
+  {
+    "ID": 102113231,
+    "AvatarID": 1021,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_SpRecovery",
+    "Value": "{Skill:1021010, Prop:1003}"
+  },
+  {
+    "ID": 103100000,
+    "AvatarID": 1031,
+    "TextType": 0,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "Nostradamus_Skill_Normal_Title",
+    "Text": "Nostradamus_Skill_Normal_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 103100100,
+    "AvatarID": 1031,
+    "TextType": 0,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "Nostradamus_Skill_Branch_Title",
+    "Text": "Nostradamus_Skill_Branch_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 103101000,
+    "AvatarID": 1031,
+    "TextType": 0,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "Nostradamus_Skill_Special_Title",
+    "Text": "Nostradamus_Skill_Special_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 103101100,
+    "AvatarID": 1031,
+    "TextType": 0,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "Nostradamus_Skill_ExSpecial_Title",
+    "Text": "Nostradamus_Skill_ExSpecial_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 103102000,
+    "AvatarID": 1031,
+    "TextType": 0,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "Nostradamus_Skill_Evade_Title",
+    "Text": "Nostradamus_Skill_Evade_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 103102100,
+    "AvatarID": 1031,
+    "TextType": 0,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "Nostradamus_Skill_Rush_Title",
+    "Text": "Nostradamus_Skill_Rush_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 103102200,
+    "AvatarID": 1031,
+    "TextType": 0,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "Nostradamus_Skill_Counter_Title",
+    "Text": "Nostradamus_Skill_Counter_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 103103000,
+    "AvatarID": 1031,
+    "TextType": 0,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "Nostradamus_Skill_QTE_Title",
+    "Text": "Nostradamus_Skill_QTE_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 103103100,
+    "AvatarID": 1031,
+    "TextType": 0,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "Nostradamus_Skill_ExQTE_Title",
+    "Text": "Nostradamus_Skill_ExQTE_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 103103200,
+    "AvatarID": 1031,
+    "TextType": 0,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "Nostradamus_Skill_AidAttack_Title",
+    "Text": "Nostradamus_Skill_AidAttack_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 103110010,
+    "AvatarID": 1031,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Nostradamus_Skill_Normal_Title",
+    "Value": ""
+  },
+  {
+    "ID": 103110011,
+    "AvatarID": 1031,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Dmg_01",
+    "Value": "{Skill:1031001, Prop:1001}"
+  },
+  {
+    "ID": 103110012,
+    "AvatarID": 1031,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Dmg_02",
+    "Value": "{Skill:1031003, Prop:1001}"
+  },
+  {
+    "ID": 103110013,
+    "AvatarID": 1031,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Dmg_03",
+    "Value": "{Skill:1031005, Prop:1001}"
+  },
+  {
+    "ID": 103110021,
+    "AvatarID": 1031,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Stun_01",
+    "Value": "{Skill:1031001, Prop:1002}"
+  },
+  {
+    "ID": 103110022,
+    "AvatarID": 1031,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Stun_02",
+    "Value": "{Skill:1031003, Prop:1002}"
+  },
+  {
+    "ID": 103110023,
+    "AvatarID": 1031,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Stun_03",
+    "Value": "{Skill:1031005, Prop:1002}"
+  },
+  {
+    "ID": 103110031,
+    "AvatarID": 1031,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Sp_01",
+    "Value": "{Skill:1031001, Prop:1003}"
+  },
+  {
+    "ID": 103110032,
+    "AvatarID": 1031,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Sp_02",
+    "Value": "{Skill:1031003, Prop:1003}"
+  },
+  {
+    "ID": 103110033,
+    "AvatarID": 1031,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Sp_03",
+    "Value": "{Skill:1031005, Prop:1003}"
+  },
+  {
+    "ID": 103110110,
+    "AvatarID": 1031,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Nostradamus_Skill_Branch_Title",
+    "Value": ""
+  },
+  {
+    "ID": 103110111,
+    "AvatarID": 1031,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Dmg_01",
+    "Value": "{{Skill:1031002, Prop:1001}/3}*3"
+  },
+  {
+    "ID": 103110112,
+    "AvatarID": 1031,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Dmg_02",
+    "Value": "{{Skill:1031004, Prop:1001}/4}*4"
+  },
+  {
+    "ID": 103110113,
+    "AvatarID": 1031,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Dmg_03",
+    "Value": "{{Skill:1031006, Prop:1001}/20}*20"
+  },
+  {
+    "ID": 103110121,
+    "AvatarID": 1031,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Stun_01",
+    "Value": "{{Skill:1031002, Prop:1002}/3}*3"
+  },
+  {
+    "ID": 103110122,
+    "AvatarID": 1031,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Stun_02",
+    "Value": "{{Skill:1031004, Prop:1002}/4}*4"
+  },
+  {
+    "ID": 103110123,
+    "AvatarID": 1031,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Stun_03",
+    "Value": "{{Skill:1031006, Prop:1002}/20}*20"
+  },
+  {
+    "ID": 103110131,
+    "AvatarID": 1031,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Sp_01",
+    "Value": "{{Skill:1031002, Prop:1003}/3}*3"
+  },
+  {
+    "ID": 103110132,
+    "AvatarID": 1031,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Sp_02",
+    "Value": "{{Skill:1031004, Prop:1003}/4}*4"
+  },
+  {
+    "ID": 103110133,
+    "AvatarID": 1031,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Sp_03",
+    "Value": "{{Skill:1031006, Prop:1003}/20}*20"
+  },
+  {
+    "ID": 103111010,
+    "AvatarID": 1031,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Nostradamus_Skill_Special_Title",
+    "Value": ""
+  },
+  {
+    "ID": 103111011,
+    "AvatarID": 1031,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_DamageRatio",
+    "Value": "{{Skill:1031007, Prop:1001}+{Skill:1031008, Prop:1001}}"
+  },
+  {
+    "ID": 103111021,
+    "AvatarID": 1031,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_BreakStunRatio",
+    "Value": "{{Skill:1031007, Prop:1002}+{Skill:1031008, Prop:1002}}"
+  },
+  {
+    "ID": 103111110,
+    "AvatarID": 1031,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Nostradamus_Skill_ExSpecial_Title",
+    "Value": ""
+  },
+  {
+    "ID": 103111111,
+    "AvatarID": 1031,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Nostradamus_Property_ExSpecial_Desc_Dmg_01",
+    "Value": "{Skill:1031009, Prop:1001}"
+  },
+  {
+    "ID": 103111112,
+    "AvatarID": 1031,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Nostradamus_Property_ExSpecial_Desc_Dmg_02",
+    "Value": "{{Skill:1031010, Prop:1001}+{Skill:1031011, Prop:1001}}"
+  },
+  {
+    "ID": 103111114,
+    "AvatarID": 1031,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Nostradamus_Property_ExSpecial_Desc_Dmg_04",
+    "Value": "{Skill:1031012, Prop:1001}"
+  },
+  {
+    "ID": 103111121,
+    "AvatarID": 1031,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Nostradamus_Property_ExSpecial_Desc_Stun_01",
+    "Value": "{Skill:1031009, Prop:1002}"
+  },
+  {
+    "ID": 103111122,
+    "AvatarID": 1031,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Nostradamus_Property_ExSpecial_Desc_Stun_02",
+    "Value": "{{Skill:1031010, Prop:1002}+{Skill:1031011, Prop:1002}}"
+  },
+  {
+    "ID": 103111124,
+    "AvatarID": 1031,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Nostradamus_Property_ExSpecial_Desc_Stun_04",
+    "Value": "{Skill:1031012, Prop:1002}"
+  },
+  {
+    "ID": 103111141,
+    "AvatarID": 1031,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Nostradamus_Property_ExSpecial_Desc_SpCost_01",
+    "Value": "Nostradamus_Property_ExSpecial_SpCostValue_01"
+  },
+  {
+    "ID": 103111142,
+    "AvatarID": 1031,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Nostradamus_Property_ExSpecial_Desc_SpCost_02",
+    "Value": "Nostradamus_Property_ExSpecial_SpCostValue_02"
+  },
+  {
+    "ID": 103112010,
+    "AvatarID": 1031,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Nostradamus_Skill_Rush_Title",
+    "Value": ""
+  },
+  {
+    "ID": 103112011,
+    "AvatarID": 1031,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Nostradamus_Property_Rush_Desc_Dmg_01",
+    "Value": "{Skill:1031020, Prop:1001}+{{Skill:1031021, Prop:1001}/13}*13"
+  },
+  {
+    "ID": 103112013,
+    "AvatarID": 1031,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Nostradamus_Property_Rush_Desc_Dmg_03",
+    "Value": "{Skill:1031022, Prop:1001}"
+  },
+  {
+    "ID": 103112021,
+    "AvatarID": 1031,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Nostradamus_Property_Rush_Desc_Stun_01",
+    "Value": "{Skill:1031020, Prop:1002}+{{Skill:1031021, Prop:1002}/13}*13"
+  },
+  {
+    "ID": 103112023,
+    "AvatarID": 1031,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Nostradamus_Property_Rush_Desc_Stun_03",
+    "Value": "{Skill:1031022, Prop:1002}"
+  },
+  {
+    "ID": 103112031,
+    "AvatarID": 1031,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Nostradamus_Property_Rush_Desc_Sp_01",
+    "Value": "{Skill:1031020, Prop:1003}+{{Skill:1031021, Prop:1003}/13}*13"
+  },
+  {
+    "ID": 103112033,
+    "AvatarID": 1031,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Nostradamus_Property_Rush_Desc_Sp_03",
+    "Value": "{Skill:1031022, Prop:1003}"
+  },
+  {
+    "ID": 103112110,
+    "AvatarID": 1031,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Nostradamus_Skill_Counter_Title",
+    "Value": ""
+  },
+  {
+    "ID": 103112111,
+    "AvatarID": 1031,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_DamageRatio",
+    "Value": "{{Skill:1031023, Prop:1001}+{Skill:1031024, Prop:1001}}"
+  },
+  {
+    "ID": 103112121,
+    "AvatarID": 1031,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_BreakStunRatio",
+    "Value": "{{Skill:1031023, Prop:1002}+{Skill:1031024, Prop:1002}}"
+  },
+  {
+    "ID": 103112131,
+    "AvatarID": 1031,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_SpRecovery",
+    "Value": "{{Skill:1031023, Prop:1003}+{Skill:1031024, Prop:1003}}"
+  },
+  {
+    "ID": 103113010,
+    "AvatarID": 1031,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Nostradamus_Skill_QTE_Title",
+    "Value": ""
+  },
+  {
+    "ID": 103113011,
+    "AvatarID": 1031,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Nostradamus_Property_QTE_Desc_Dmg_01",
+    "Value": "{{Skill:1031025, Prop:1001}+{Skill:1031026, Prop:1001}}"
+  },
+  {
+    "ID": 103113013,
+    "AvatarID": 1031,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Nostradamus_Property_QTE_Desc_Dmg_03",
+    "Value": "{Skill:1031027, Prop:1001}"
+  },
+  {
+    "ID": 103113021,
+    "AvatarID": 1031,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Nostradamus_Property_QTE_Desc_Stun_01",
+    "Value": "{{Skill:1031025, Prop:1002}+{Skill:1031026, Prop:1002}}"
+  },
+  {
+    "ID": 103113023,
+    "AvatarID": 1031,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Nostradamus_Property_QTE_Desc_Stun_03",
+    "Value": "{Skill:1031027, Prop:1002}"
+  },
+  {
+    "ID": 103113110,
+    "AvatarID": 1031,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Nostradamus_Skill_ExQTE_Title",
+    "Value": ""
+  },
+  {
+    "ID": 103113111,
+    "AvatarID": 1031,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Nostradamus_Property_ExQTE_Desc_Dmg_01",
+    "Value": "{{Skill:1031028, Prop:1001}+{Skill:1031029, Prop:1001}}"
+  },
+  {
+    "ID": 103113113,
+    "AvatarID": 1031,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Nostradamus_Property_ExQTE_Desc_Dmg_03",
+    "Value": "{Skill:1031030, Prop:1001}"
+  },
+  {
+    "ID": 103113121,
+    "AvatarID": 1031,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Nostradamus_Property_ExQTE_Desc_Stun_01",
+    "Value": "{{Skill:1031028, Prop:1002}+{Skill:1031029, Prop:1002}}"
+  },
+  {
+    "ID": 103113123,
+    "AvatarID": 1031,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Nostradamus_Property_ExQTE_Desc_Stun_03",
+    "Value": "{Skill:1031030, Prop:1002}"
+  },
+  {
+    "ID": 103113210,
+    "AvatarID": 1031,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Nostradamus_Skill_AidAttack_Title",
+    "Value": ""
+  },
+  {
+    "ID": 103113211,
+    "AvatarID": 1031,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_DamageRatio",
+    "Value": "{{Skill:1031023, Prop:1001}+{Skill:1031024, Prop:1001}}"
+  },
+  {
+    "ID": 103113221,
+    "AvatarID": 1031,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_BreakStunRatio",
+    "Value": "{{Skill:1031023, Prop:1002}+{Skill:1031024, Prop:1002}}"
+  },
+  {
+    "ID": 103113231,
+    "AvatarID": 1031,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_SpRecovery",
+    "Value": "{{Skill:1031023, Prop:1003}+{Skill:1031024, Prop:1003}}"
+  },
+  {
+    "ID": 104100000,
+    "AvatarID": 1041,
+    "TextType": 0,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "Longinus_Skill_Normal_Title",
+    "Text": "Longinus_Skill_Normal_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 104100100,
+    "AvatarID": 1041,
+    "TextType": 0,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "Longinus_Skill_Branch_Title",
+    "Text": "Longinus_Skill_Branch_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 104101000,
+    "AvatarID": 1041,
+    "TextType": 0,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "Longinus_Skill_Special_Title",
+    "Text": "Longinus_Skill_Special_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 104101100,
+    "AvatarID": 1041,
+    "TextType": 0,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "Longinus_Skill_ExSpecial_Title",
+    "Text": "Longinus_Skill_ExSpecial_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 104102000,
+    "AvatarID": 1041,
+    "TextType": 0,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "Longinus_Skill_Evade_Title",
+    "Text": "Longinus_Skill_Evade_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 104102100,
+    "AvatarID": 1041,
+    "TextType": 0,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "Longinus_Skill_Rush_Title",
+    "Text": "Longinus_Skill_Rush_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 104102200,
+    "AvatarID": 1041,
+    "TextType": 0,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "Longinus_Skill_Counter_Title",
+    "Text": "Longinus_Skill_Counter_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 104103000,
+    "AvatarID": 1041,
+    "TextType": 0,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "Longinus_Skill_QTE_Title",
+    "Text": "Longinus_Skill_QTE_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 104103100,
+    "AvatarID": 1041,
+    "TextType": 0,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "Longinus_Skill_ExQTE_Title",
+    "Text": "Longinus_Skill_ExQTE_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 104103200,
+    "AvatarID": 1041,
+    "TextType": 0,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "Longinus_Skill_AidAttack_Title",
+    "Text": "Longinus_Skill_AidAttack_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 104110010,
+    "AvatarID": 1041,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Longinus_Skill_Normal_Title",
+    "Value": ""
+  },
+  {
+    "ID": 104110011,
+    "AvatarID": 1041,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Dmg_01",
+    "Value": "{Skill:1041001, Prop:1001}"
+  },
+  {
+    "ID": 104110012,
+    "AvatarID": 1041,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Dmg_02",
+    "Value": "{Skill:1041003, Prop:1001}"
+  },
+  {
+    "ID": 104110013,
+    "AvatarID": 1041,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Dmg_03",
+    "Value": "{Skill:1041005, Prop:1001}"
+  },
+  {
+    "ID": 104110014,
+    "AvatarID": 1041,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Dmg_04",
+    "Value": "{Skill:1041007, Prop:1001}"
+  },
+  {
+    "ID": 104110021,
+    "AvatarID": 1041,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Stun_01",
+    "Value": "{Skill:1041001, Prop:1002}"
+  },
+  {
+    "ID": 104110022,
+    "AvatarID": 1041,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Stun_02",
+    "Value": "{Skill:1041003, Prop:1002}"
+  },
+  {
+    "ID": 104110023,
+    "AvatarID": 1041,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Stun_03",
+    "Value": "{Skill:1041005, Prop:1002}"
+  },
+  {
+    "ID": 104110024,
+    "AvatarID": 1041,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Stun_04",
+    "Value": "{Skill:1041007, Prop:1002}"
+  },
+  {
+    "ID": 104110031,
+    "AvatarID": 1041,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Sp_01",
+    "Value": "{Skill:1041001, Prop:1003}"
+  },
+  {
+    "ID": 104110032,
+    "AvatarID": 1041,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Sp_02",
+    "Value": "{Skill:1041003, Prop:1003}"
+  },
+  {
+    "ID": 104110033,
+    "AvatarID": 1041,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Sp_03",
+    "Value": "{Skill:1041005, Prop:1003}"
+  },
+  {
+    "ID": 104110034,
+    "AvatarID": 1041,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Sp_04",
+    "Value": "{Skill:1041007, Prop:1003}"
+  },
+  {
+    "ID": 104110110,
+    "AvatarID": 1041,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Longinus_Skill_Branch_Title",
+    "Value": ""
+  },
+  {
+    "ID": 104110111,
+    "AvatarID": 1041,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Dmg_01",
+    "Value": "{Skill:1041002, Prop:1001}"
+  },
+  {
+    "ID": 104110112,
+    "AvatarID": 1041,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Dmg_02",
+    "Value": "{Skill:1041004, Prop:1001}"
+  },
+  {
+    "ID": 104110113,
+    "AvatarID": 1041,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Dmg_03",
+    "Value": "{Skill:1041006, Prop:1001}"
+  },
+  {
+    "ID": 104110114,
+    "AvatarID": 1041,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Dmg_04",
+    "Value": "{Skill:1041008, Prop:1001}"
+  },
+  {
+    "ID": 104110121,
+    "AvatarID": 1041,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Stun_01",
+    "Value": "{Skill:1041002, Prop:1002}"
+  },
+  {
+    "ID": 104110122,
+    "AvatarID": 1041,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Stun_02",
+    "Value": "{Skill:1041004, Prop:1002}"
+  },
+  {
+    "ID": 104110123,
+    "AvatarID": 1041,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Stun_03",
+    "Value": "{Skill:1041006, Prop:1002}"
+  },
+  {
+    "ID": 104110124,
+    "AvatarID": 1041,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Stun_04",
+    "Value": "{Skill:1041008, Prop:1002}"
+  },
+  {
+    "ID": 104110131,
+    "AvatarID": 1041,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Sp_01",
+    "Value": "{Skill:1041002, Prop:1003}"
+  },
+  {
+    "ID": 104110132,
+    "AvatarID": 1041,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Sp_02",
+    "Value": "{Skill:1041004, Prop:1003}"
+  },
+  {
+    "ID": 104110133,
+    "AvatarID": 1041,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Sp_03",
+    "Value": "{Skill:1041006, Prop:1003}"
+  },
+  {
+    "ID": 104110134,
+    "AvatarID": 1041,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Sp_04",
+    "Value": "{Skill:1041008, Prop:1003}"
+  },
+  {
+    "ID": 104111010,
+    "AvatarID": 1041,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Longinus_Skill_Special_Title",
+    "Value": ""
+  },
+  {
+    "ID": 104111012,
+    "AvatarID": 1041,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_DamageRatio",
+    "Value": "{Skill:1041010, Prop:1001}"
+  },
+  {
+    "ID": 104111022,
+    "AvatarID": 1041,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_BreakStunRatio",
+    "Value": "{Skill:1041010, Prop:1002}"
+  },
+  {
+    "ID": 104111110,
+    "AvatarID": 1041,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Longinus_Skill_ExSpecial_Title",
+    "Value": ""
+  },
+  {
+    "ID": 104111111,
+    "AvatarID": 1041,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_DamageRatio",
+    "Value": "{Skill:1041011, Prop:1001}"
+  },
+  {
+    "ID": 104111121,
+    "AvatarID": 1041,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_BreakStunRatio",
+    "Value": "{Skill:1041011, Prop:1002}"
+  },
+  {
+    "ID": 104111141,
+    "AvatarID": 1041,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_SpConsume",
+    "Value": "Longinus_Property_ExSpecial_SpCostValue_01"
+  },
+  {
+    "ID": 104112010,
+    "AvatarID": 1041,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Longinus_Skill_Rush_Title",
+    "Value": ""
+  },
+  {
+    "ID": 104112011,
+    "AvatarID": 1041,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_DamageRatio",
+    "Value": "{Skill:1041012, Prop:1001}"
+  },
+  {
+    "ID": 104112021,
+    "AvatarID": 1041,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_BreakStunRatio",
+    "Value": "{Skill:1041012, Prop:1002}"
+  },
+  {
+    "ID": 104112031,
+    "AvatarID": 1041,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_SpRecovery",
+    "Value": "{Skill:1041012, Prop:1003}"
+  },
+  {
+    "ID": 104112110,
+    "AvatarID": 1041,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Longinus_Skill_Branch_Title",
+    "Value": ""
+  },
+  {
+    "ID": 104112111,
+    "AvatarID": 1041,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_DamageRatio",
+    "Value": "{Skill:1041013, Prop:1001}"
+  },
+  {
+    "ID": 104112121,
+    "AvatarID": 1041,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_BreakStunRatio",
+    "Value": "{Skill:1041013, Prop:1002}"
+  },
+  {
+    "ID": 104112131,
+    "AvatarID": 1041,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_SpRecovery",
+    "Value": "{Skill:1041013, Prop:1003}"
+  },
+  {
+    "ID": 104112210,
+    "AvatarID": 1041,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Longinus_Skill_Counter_Title",
+    "Value": ""
+  },
+  {
+    "ID": 104112211,
+    "AvatarID": 1041,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_DamageRatio",
+    "Value": "{Skill:1041015, Prop:1001}"
+  },
+  {
+    "ID": 104112221,
+    "AvatarID": 1041,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_BreakStunRatio",
+    "Value": "{Skill:1041015, Prop:1002}"
+  },
+  {
+    "ID": 104112231,
+    "AvatarID": 1041,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_SpRecovery",
+    "Value": "{Skill:1041015, Prop:1003}"
+  },
+  {
+    "ID": 104113010,
+    "AvatarID": 1041,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Longinus_Skill_QTE_Title",
+    "Value": ""
+  },
+  {
+    "ID": 104113011,
+    "AvatarID": 1041,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_DamageRatio",
+    "Value": "{Skill:1041016, Prop:1001}"
+  },
+  {
+    "ID": 104113021,
+    "AvatarID": 1041,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_BreakStunRatio",
+    "Value": "{Skill:1041016, Prop:1002}"
+  },
+  {
+    "ID": 104113110,
+    "AvatarID": 1041,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Longinus_Skill_ExQTE_Title",
+    "Value": ""
+  },
+  {
+    "ID": 104113111,
+    "AvatarID": 1041,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_DamageRatio",
+    "Value": "{Skill:1041017, Prop:1001}"
+  },
+  {
+    "ID": 104113121,
+    "AvatarID": 1041,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_BreakStunRatio",
+    "Value": "{Skill:1041017, Prop:1002}"
+  },
+  {
+    "ID": 104113210,
+    "AvatarID": 1041,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Longinus_Skill_AidAttack_Title",
+    "Value": ""
+  },
+  {
+    "ID": 104113211,
+    "AvatarID": 1041,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_DamageRatio",
+    "Value": "{Skill:1041015, Prop:1001}"
+  },
+  {
+    "ID": 104113221,
+    "AvatarID": 1041,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_BreakStunRatio",
+    "Value": "{Skill:1041015, Prop:1002}"
+  },
+  {
+    "ID": 104113231,
+    "AvatarID": 1041,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_SpRecovery",
+    "Value": "{Skill:1041015, Prop:1003}"
+  },
+  {
+    "ID": 106100000,
+    "AvatarID": 1061,
+    "TextType": 0,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "Corin_Skill_Normal_Title",
+    "Text": "Corin_Skill_Normal_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 106101000,
+    "AvatarID": 1061,
+    "TextType": 0,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "Corin_Skill_Special_Title",
+    "Text": "Corin_Skill_Special_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 106101100,
+    "AvatarID": 1061,
+    "TextType": 0,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "Corin_Skill_ExSpecial_Title",
+    "Text": "Corin_Skill_ExSpecial_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 106102000,
+    "AvatarID": 1061,
+    "TextType": 0,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "Corin_Skill_Evade_Title",
+    "Text": "Corin_Skill_Evade_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 106102100,
+    "AvatarID": 1061,
+    "TextType": 0,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "Corin_Skill_Rush_Title",
+    "Text": "Corin_Skill_Rush_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 106102200,
+    "AvatarID": 1061,
+    "TextType": 0,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "Corin_Skill_Counter_Title",
+    "Text": "Corin_Skill_Counter_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 106103000,
+    "AvatarID": 1061,
+    "TextType": 0,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "Corin_Skill_QTE_Title",
+    "Text": "Corin_Skill_QTE_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 106103100,
+    "AvatarID": 1061,
+    "TextType": 0,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "Corin_Skill_ExQTE_Title",
+    "Text": "Corin_Skill_ExQTE_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 106103200,
+    "AvatarID": 1061,
+    "TextType": 0,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "Corin_Skill_AidAttack_Title",
+    "Text": "Corin_Skill_AidAttack_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 106110010,
+    "AvatarID": 1061,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Corin_Skill_Normal_Title",
+    "Value": ""
+  },
+  {
+    "ID": 106110011,
+    "AvatarID": 1061,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Dmg_01",
+    "Value": "{Skill:1061001, Prop:1001}"
+  },
+  {
+    "ID": 106110012,
+    "AvatarID": 1061,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Dmg_02",
+    "Value": "{Skill:1061002, Prop:1001}"
+  },
+  {
+    "ID": 106110013,
+    "AvatarID": 1061,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Dmg_03",
+    "Value": "{Skill:1061003, Prop:1001}"
+  },
+  {
+    "ID": 106110014,
+    "AvatarID": 1061,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Dmg_04",
+    "Value": "{Skill:1061004, Prop:1001}"
+  },
+  {
+    "ID": 106110015,
+    "AvatarID": 1061,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Dmg_05",
+    "Value": "{Skill:1061006, Prop:1001}"
+  },
+  {
+    "ID": 106110021,
+    "AvatarID": 1061,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Stun_01",
+    "Value": "{Skill:1061001, Prop:1002}"
+  },
+  {
+    "ID": 106110022,
+    "AvatarID": 1061,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Stun_02",
+    "Value": "{Skill:1061002, Prop:1002}"
+  },
+  {
+    "ID": 106110023,
+    "AvatarID": 1061,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Stun_03",
+    "Value": "{Skill:1061003, Prop:1002}"
+  },
+  {
+    "ID": 106110024,
+    "AvatarID": 1061,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Stun_04",
+    "Value": "{Skill:1061004, Prop:1002}"
+  },
+  {
+    "ID": 106110025,
+    "AvatarID": 1061,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Stun_05",
+    "Value": "{Skill:1061006, Prop:1002}"
+  },
+  {
+    "ID": 106110031,
+    "AvatarID": 1061,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Sp_01",
+    "Value": "{Skill:1061001, Prop:1003}"
+  },
+  {
+    "ID": 106110032,
+    "AvatarID": 1061,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Sp_02",
+    "Value": "{Skill:1061002, Prop:1003}"
+  },
+  {
+    "ID": 106110033,
+    "AvatarID": 1061,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Sp_03",
+    "Value": "{Skill:1061003, Prop:1003}"
+  },
+  {
+    "ID": 106110034,
+    "AvatarID": 1061,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Sp_04",
+    "Value": "{Skill:1061004, Prop:1003}"
+  },
+  {
+    "ID": 106110035,
+    "AvatarID": 1061,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Sp_05",
+    "Value": "{Skill:1061006, Prop:1003}"
+  },
+  {
+    "ID": 106111010,
+    "AvatarID": 1061,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Corin_Skill_Special_Title",
+    "Value": ""
+  },
+  {
+    "ID": 106111011,
+    "AvatarID": 1061,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Corin_Property_Special_Desc_Dmg_01",
+    "Value": "{Skill:1061008, Prop:1001}"
+  },
+  {
+    "ID": 106111012,
+    "AvatarID": 1061,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Corin_Property_Special_Desc_Dmg_02",
+    "Value": "{Skill:1061009, Prop:1001}"
+  },
+  {
+    "ID": 106111013,
+    "AvatarID": 1061,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Corin_Property_Special_Desc_Dmg_03",
+    "Value": "{Skill:1061010, Prop:1001}"
+  },
+  {
+    "ID": 106111021,
+    "AvatarID": 1061,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Corin_Property_Special_Desc_Stun_01",
+    "Value": "{Skill:1061008, Prop:1002}"
+  },
+  {
+    "ID": 106111022,
+    "AvatarID": 1061,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Corin_Property_Special_Desc_Stun_02",
+    "Value": "{Skill:1061009, Prop:1002}"
+  },
+  {
+    "ID": 106111023,
+    "AvatarID": 1061,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Corin_Property_Special_Desc_Stun_03",
+    "Value": "{Skill:1061010, Prop:1002}"
+  },
+  {
+    "ID": 106111110,
+    "AvatarID": 1061,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Corin_Skill_ExSpecial_Title",
+    "Value": ""
+  },
+  {
+    "ID": 106111111,
+    "AvatarID": 1061,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Corin_Property_ExSpecial_Desc_Dmg_01",
+    "Value": "{Skill:1061011, Prop:1001}"
+  },
+  {
+    "ID": 106111112,
+    "AvatarID": 1061,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Corin_Property_ExSpecial_Desc_Dmg_02",
+    "Value": "{Skill:1061012, Prop:1001}"
+  },
+  {
+    "ID": 106111113,
+    "AvatarID": 1061,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Corin_Property_ExSpecial_Desc_Dmg_03",
+    "Value": "{Skill:1061013, Prop:1001}"
+  },
+  {
+    "ID": 106111121,
+    "AvatarID": 1061,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Corin_Property_ExSpecial_Desc_Stun_01",
+    "Value": "{Skill:1061011, Prop:1002}"
+  },
+  {
+    "ID": 106111122,
+    "AvatarID": 1061,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Corin_Property_ExSpecial_Desc_Stun_02",
+    "Value": "{Skill:1061012, Prop:1002}"
+  },
+  {
+    "ID": 106111123,
+    "AvatarID": 1061,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Corin_Property_ExSpecial_Desc_Stun_03",
+    "Value": "{Skill:1061013, Prop:1002}"
+  },
+  {
+    "ID": 106111141,
+    "AvatarID": 1061,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Corin_Property_ExSpecial_Desc_SpCost_01",
+    "Value": "Corin_Property_ExSpecial_SpCostValue_01"
+  },
+  {
+    "ID": 106111142,
+    "AvatarID": 1061,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Corin_Property_ExSpecial_Desc_SpCost_02",
+    "Value": "Corin_Property_ExSpecial_SpCostValue_02"
+  },
+  {
+    "ID": 106111143,
+    "AvatarID": 1061,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Corin_Property_ExSpecial_Desc_SpCost_03",
+    "Value": "Corin_Property_ExSpecial_SpCostValue_03"
+  },
+  {
+    "ID": 106112010,
+    "AvatarID": 1061,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Corin_Skill_Rush_Title",
+    "Value": ""
+  },
+  {
+    "ID": 106112011,
+    "AvatarID": 1061,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_DamageRatio",
+    "Value": "{Skill:1061014, Prop:1001}"
+  },
+  {
+    "ID": 106112021,
+    "AvatarID": 1061,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_BreakStunRatio",
+    "Value": "{Skill:1061014, Prop:1002}"
+  },
+  {
+    "ID": 106112031,
+    "AvatarID": 1061,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_SpRecovery",
+    "Value": "{Skill:1061014, Prop:1003}"
+  },
+  {
+    "ID": 106112110,
+    "AvatarID": 1061,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Corin_Skill_Counter_Title",
+    "Value": ""
+  },
+  {
+    "ID": 106112111,
+    "AvatarID": 1061,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_DamageRatio",
+    "Value": "{{Skill:1061015, Prop:1001}+{Skill:1061016, Prop:1001}}"
+  },
+  {
+    "ID": 106112121,
+    "AvatarID": 1061,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_BreakStunRatio",
+    "Value": "{{Skill:1061015, Prop:1002}+{Skill:1061016, Prop:1002}}"
+  },
+  {
+    "ID": 106112131,
+    "AvatarID": 1061,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_SpRecovery",
+    "Value": "{{Skill:1061015, Prop:1003}+{Skill:1061016, Prop:1003}}"
+  },
+  {
+    "ID": 106113010,
+    "AvatarID": 1061,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Corin_Skill_QTE_Title",
+    "Value": ""
+  },
+  {
+    "ID": 106113011,
+    "AvatarID": 1061,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_DamageRatio",
+    "Value": "{Skill:1061017, Prop:1001}"
+  },
+  {
+    "ID": 106113021,
+    "AvatarID": 1061,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_BreakStunRatio",
+    "Value": "{Skill:1061017, Prop:1002}"
+  },
+  {
+    "ID": 106113110,
+    "AvatarID": 1061,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Corin_Skill_ExQTE_Title",
+    "Value": ""
+  },
+  {
+    "ID": 106113111,
+    "AvatarID": 1061,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_DamageRatio",
+    "Value": "{Skill:1061018, Prop:1001}"
+  },
+  {
+    "ID": 106113121,
+    "AvatarID": 1061,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_BreakStunRatio",
+    "Value": "{Skill:1061018, Prop:1002}"
+  },
+  {
+    "ID": 106113210,
+    "AvatarID": 1061,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Corin_Skill_AidAttack_Title",
+    "Value": ""
+  },
+  {
+    "ID": 106113211,
+    "AvatarID": 1061,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_DamageRatio",
+    "Value": "{{Skill:1061015, Prop:1001}+{Skill:1061016, Prop:1001}}"
+  },
+  {
+    "ID": 106113221,
+    "AvatarID": 1061,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_BreakStunRatio",
+    "Value": "{{Skill:1061015, Prop:1002}+{Skill:1061016, Prop:1002}}"
+  },
+  {
+    "ID": 106113231,
+    "AvatarID": 1061,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_SpRecovery",
+    "Value": "{{Skill:1061015, Prop:1003}+{Skill:1061016, Prop:1003}}"
+  },
+  {
+    "ID": 108100000,
+    "AvatarID": 1081,
+    "TextType": 0,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "Billy_Skill_Normal_Title",
+    "Text": "Billy_Skill_Normal_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 108101000,
+    "AvatarID": 1081,
+    "TextType": 0,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "Billy_Skill_Special_Title",
+    "Text": "Billy_Skill_Special_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 108101100,
+    "AvatarID": 1081,
+    "TextType": 0,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "Billy_Skill_ExSpecial_Title",
+    "Text": "Billy_Skill_ExSpecial_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 108102000,
+    "AvatarID": 1081,
+    "TextType": 0,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "Billy_Skill_Evade_Title",
+    "Text": "Billy_Skill_Evade_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 108102100,
+    "AvatarID": 1081,
+    "TextType": 0,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "Billy_Skill_Rush_Title",
+    "Text": "Billy_Skill_Rush_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 108102200,
+    "AvatarID": 1081,
+    "TextType": 0,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "Billy_Skill_Counter_Title",
+    "Text": "Billy_Skill_Counter_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 108103000,
+    "AvatarID": 1081,
+    "TextType": 0,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "Billy_Skill_QTE_Title",
+    "Text": "Billy_Skill_QTE_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 108103100,
+    "AvatarID": 1081,
+    "TextType": 0,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "Billy_Skill_ExQTE_Title",
+    "Text": "Billy_Skill_ExQTE_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 108103200,
+    "AvatarID": 1081,
+    "TextType": 0,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "Billy_Skill_AidAttack_Title",
+    "Text": "Billy_Skill_AidAttack_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 108110010,
+    "AvatarID": 1081,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Billy_Skill_Normal_Title",
+    "Value": ""
+  },
+  {
+    "ID": 108110011,
+    "AvatarID": 1081,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Billy_Property_Normal_Desc_Dmg_01",
+    "Value": "{{Skill:1081002, Prop:1001}+{Skill:1081003, Prop:1001}*6}"
+  },
+  {
+    "ID": 108110012,
+    "AvatarID": 1081,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Billy_Property_Normal_Desc_Dmg_02",
+    "Value": "{{Skill:1081004, Prop:1001}+{Skill:1081007, Prop:1001}*5}"
+  },
+  {
+    "ID": 108110013,
+    "AvatarID": 1081,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Billy_Property_Normal_Desc_Dmg_03",
+    "Value": "{{Skill:1081007, Prop:1001}*6}"
+  },
+  {
+    "ID": 108110021,
+    "AvatarID": 1081,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Billy_Property_Normal_Desc_Stun_01",
+    "Value": "{{Skill:1081002, Prop:1002}+{Skill:1081003, Prop:1002}*6}"
+  },
+  {
+    "ID": 108110022,
+    "AvatarID": 1081,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Billy_Property_Normal_Desc_Stun_02",
+    "Value": "{{Skill:1081004, Prop:1002}+{Skill:1081007, Prop:1002}*5}"
+  },
+  {
+    "ID": 108110023,
+    "AvatarID": 1081,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Billy_Property_Normal_Desc_Stun_03",
+    "Value": "{{Skill:1081007, Prop:1002}*6}"
+  },
+  {
+    "ID": 108110031,
+    "AvatarID": 1081,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Billy_Property_Normal_Desc_Sp_01",
+    "Value": "{{Skill:1081002, Prop:1003}+{Skill:1081003, Prop:1003}*6}"
+  },
+  {
+    "ID": 108110032,
+    "AvatarID": 1081,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Billy_Property_Normal_Desc_Sp_02",
+    "Value": "{{Skill:1081004, Prop:1003}+{Skill:1081007, Prop:1003}*5}"
+  },
+  {
+    "ID": 108110033,
+    "AvatarID": 1081,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Billy_Property_Normal_Desc_Sp_03",
+    "Value": "{{Skill:1081007, Prop:1003}*6}"
+  },
+  {
+    "ID": 108111010,
+    "AvatarID": 1081,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Billy_Skill_Special_Title",
+    "Value": ""
+  },
+  {
+    "ID": 108111011,
+    "AvatarID": 1081,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Dmg_01",
+    "Value": "{Skill:1081010, Prop:1001}"
+  },
+  {
+    "ID": 108111012,
+    "AvatarID": 1081,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Dmg_02",
+    "Value": "{Skill:1081011, Prop:1001}"
+  },
+  {
+    "ID": 108111013,
+    "AvatarID": 1081,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Dmg_03",
+    "Value": "{Skill:1081012, Prop:1001}"
+  },
+  {
+    "ID": 108111021,
+    "AvatarID": 1081,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Stun_01",
+    "Value": "{Skill:1081010, Prop:1002}"
+  },
+  {
+    "ID": 108111022,
+    "AvatarID": 1081,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Stun_02",
+    "Value": "{Skill:1081011, Prop:1002}"
+  },
+  {
+    "ID": 108111023,
+    "AvatarID": 1081,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Stun_03",
+    "Value": "{Skill:1081012, Prop:1002}"
+  },
+  {
+    "ID": 108111110,
+    "AvatarID": 1081,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Billy_Skill_ExSpecial_Title",
+    "Value": ""
+  },
+  {
+    "ID": 108111111,
+    "AvatarID": 1081,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_DamageRatio",
+    "Value": "{Skill:1081013, Prop:1001}"
+  },
+  {
+    "ID": 108111121,
+    "AvatarID": 1081,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_BreakStunRatio",
+    "Value": "{Skill:1081013, Prop:1002}"
+  },
+  {
+    "ID": 108111141,
+    "AvatarID": 1081,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_SpConsume",
+    "Value": "Billy_Property_ExSpecial_SpCostValue_01"
+  },
+  {
+    "ID": 108112010,
+    "AvatarID": 1081,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Billy_Skill_Rush_Title",
+    "Value": ""
+  },
+  {
+    "ID": 108112011,
+    "AvatarID": 1081,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Billy_Property_Rush_Desc_Dmg_01",
+    "Value": "{Skill:1081016, Prop:1001}"
+  },
+  {
+    "ID": 108112012,
+    "AvatarID": 1081,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Billy_Property_Rush_Desc_Dmg_02",
+    "Value": "{Skill:1081014, Prop:1001}"
+  },
+  {
+    "ID": 108112021,
+    "AvatarID": 1081,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Billy_Property_Rush_Desc_Stun_01",
+    "Value": "{Skill:1081016, Prop:1002}"
+  },
+  {
+    "ID": 108112022,
+    "AvatarID": 1081,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Billy_Property_Rush_Desc_Stun_02",
+    "Value": "{Skill:1081014, Prop:1002}"
+  },
+  {
+    "ID": 108112031,
+    "AvatarID": 1081,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Billy_Property_Rush_Desc_Sp_01",
+    "Value": "{Skill:1081016, Prop:1003}"
+  },
+  {
+    "ID": 108112032,
+    "AvatarID": 1081,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Billy_Property_Rush_Desc_Sp_02",
+    "Value": "{Skill:1081014, Prop:1003}"
+  },
+  {
+    "ID": 108112110,
+    "AvatarID": 1081,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Billy_Skill_Counter_Title",
+    "Value": ""
+  },
+  {
+    "ID": 108112111,
+    "AvatarID": 1081,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_DamageRatio",
+    "Value": "{Skill:1081017, Prop:1001}"
+  },
+  {
+    "ID": 108112121,
+    "AvatarID": 1081,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_BreakStunRatio",
+    "Value": "{Skill:1081017, Prop:1002}"
+  },
+  {
+    "ID": 108112131,
+    "AvatarID": 1081,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_SpRecovery",
+    "Value": "{Skill:1081017, Prop:1003}"
+  },
+  {
+    "ID": 108113010,
+    "AvatarID": 1081,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Billy_Skill_QTE_Title",
+    "Value": ""
+  },
+  {
+    "ID": 108113011,
+    "AvatarID": 1081,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_DamageRatio",
+    "Value": "{Skill:1081018, Prop:1001}"
+  },
+  {
+    "ID": 108113021,
+    "AvatarID": 1081,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_BreakStunRatio",
+    "Value": "{Skill:1081018, Prop:1002}"
+  },
+  {
+    "ID": 108113110,
+    "AvatarID": 1081,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Billy_Skill_ExQTE_Title",
+    "Value": ""
+  },
+  {
+    "ID": 108113111,
+    "AvatarID": 1081,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_DamageRatio",
+    "Value": "{Skill:1081019, Prop:1001}"
+  },
+  {
+    "ID": 108113121,
+    "AvatarID": 1081,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_BreakStunRatio",
+    "Value": "{Skill:1081019, Prop:1002}"
+  },
+  {
+    "ID": 108113210,
+    "AvatarID": 1081,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Billy_Skill_AidAttack_Title",
+    "Value": ""
+  },
+  {
+    "ID": 108113211,
+    "AvatarID": 1081,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_DamageRatio",
+    "Value": "{Skill:1081017, Prop:1001}"
+  },
+  {
+    "ID": 108113221,
+    "AvatarID": 1081,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_BreakStunRatio",
+    "Value": "{Skill:1081017, Prop:1002}"
+  },
+  {
+    "ID": 108113231,
+    "AvatarID": 1081,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_SpRecovery",
+    "Value": "{Skill:1081017, Prop:1003}"
+  },
+  {
+    "ID": 109100000,
+    "AvatarID": 1091,
+    "TextType": 0,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "Unagi_Skill_Normal_Title",
+    "Text": "Unagi_Skill_Normal_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 109100100,
+    "AvatarID": 1091,
+    "TextType": 0,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "Unagi_Skill_Branch_Title",
+    "Text": "Unagi_Skill_Branch_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 109101000,
+    "AvatarID": 1091,
+    "TextType": 0,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "Unagi_Skill_Special_Title",
+    "Text": "Unagi_Skill_Special_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 109101100,
+    "AvatarID": 1091,
+    "TextType": 0,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "Unagi_Skill_ExSpecial_Title",
+    "Text": "Unagi_Skill_ExSpecial_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 109102000,
+    "AvatarID": 1091,
+    "TextType": 0,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "Unagi_Skill_Evade_Title",
+    "Text": "Unagi_Skill_Evade_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 109102100,
+    "AvatarID": 1091,
+    "TextType": 0,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "Unagi_Skill_Rush_Title",
+    "Text": "Unagi_Skill_Rush_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 109102200,
+    "AvatarID": 1091,
+    "TextType": 0,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "Unagi_Skill_Counter_Title",
+    "Text": "Unagi_Skill_Counter_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 109103000,
+    "AvatarID": 1091,
+    "TextType": 0,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "Unagi_Skill_QTE_Title",
+    "Text": "Unagi_Skill_QTE_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 109103100,
+    "AvatarID": 1091,
+    "TextType": 0,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "Unagi_Skill_ExQTE_Title",
+    "Text": "Unagi_Skill_ExQTE_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 109103200,
+    "AvatarID": 1091,
+    "TextType": 0,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "Unagi_Skill_AidAttack_Title",
+    "Text": "Unagi_Skill_AidAttack_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 109110010,
+    "AvatarID": 1091,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Unagi_Skill_Normal_Title",
+    "Value": ""
+  },
+  {
+    "ID": 109110011,
+    "AvatarID": 1091,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Dmg_01",
+    "Value": "{Skill:1091001, Prop:1001}"
+  },
+  {
+    "ID": 109110012,
+    "AvatarID": 1091,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Dmg_02",
+    "Value": "{Skill:1091002, Prop:1001}"
+  },
+  {
+    "ID": 109110013,
+    "AvatarID": 1091,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Dmg_03",
+    "Value": "{Skill:1091003, Prop:1001}"
+  },
+  {
+    "ID": 109110014,
+    "AvatarID": 1091,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Dmg_04",
+    "Value": "{Skill:1091004, Prop:1001}"
+  },
+  {
+    "ID": 109110015,
+    "AvatarID": 1091,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Dmg_05",
+    "Value": "{Skill:1091005, Prop:1001}"
+  },
+  {
+    "ID": 109110021,
+    "AvatarID": 1091,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Stun_01",
+    "Value": "{Skill:1091001, Prop:1002}"
+  },
+  {
+    "ID": 109110022,
+    "AvatarID": 1091,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Stun_02",
+    "Value": "{Skill:1091002, Prop:1002}"
+  },
+  {
+    "ID": 109110023,
+    "AvatarID": 1091,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Stun_03",
+    "Value": "{Skill:1091003, Prop:1002}"
+  },
+  {
+    "ID": 109110024,
+    "AvatarID": 1091,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Stun_04",
+    "Value": "{Skill:1091004, Prop:1002}"
+  },
+  {
+    "ID": 109110025,
+    "AvatarID": 1091,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Stun_05",
+    "Value": "{Skill:1091005, Prop:1002}"
+  },
+  {
+    "ID": 109110031,
+    "AvatarID": 1091,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Sp_01",
+    "Value": "{Skill:1091001, Prop:1003}"
+  },
+  {
+    "ID": 109110032,
+    "AvatarID": 1091,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Sp_02",
+    "Value": "{Skill:1091002, Prop:1003}"
+  },
+  {
+    "ID": 109110033,
+    "AvatarID": 1091,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Sp_03",
+    "Value": "{Skill:1091003, Prop:1003}"
+  },
+  {
+    "ID": 109110034,
+    "AvatarID": 1091,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Sp_04",
+    "Value": "{Skill:1091004, Prop:1003}"
+  },
+  {
+    "ID": 109110035,
+    "AvatarID": 1091,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Sp_05",
+    "Value": "{Skill:1091005, Prop:1003}"
+  },
+  {
+    "ID": 109110110,
+    "AvatarID": 1091,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Unagi_Skill_Branch_Title",
+    "Value": ""
+  },
+  {
+    "ID": 109110111,
+    "AvatarID": 1091,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_DamageRatio",
+    "Value": "{Skill:1091007, Prop:1001}"
+  },
+  {
+    "ID": 109110121,
+    "AvatarID": 1091,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_BreakStunRatio",
+    "Value": "{Skill:1091007, Prop:1002}"
+  },
+  {
+    "ID": 109110131,
+    "AvatarID": 1091,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_SpRecovery",
+    "Value": "{Skill:1091007, Prop:1003}"
+  },
+  {
+    "ID": 109111010,
+    "AvatarID": 1091,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Unagi_Skill_Special_Title",
+    "Value": ""
+  },
+  {
+    "ID": 109111011,
+    "AvatarID": 1091,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_DamageRatio",
+    "Value": "{Skill:1091008, Prop:1001}"
+  },
+  {
+    "ID": 109111021,
+    "AvatarID": 1091,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_BreakStunRatio",
+    "Value": "{Skill:1091008, Prop:1002}"
+  },
+  {
+    "ID": 109111110,
+    "AvatarID": 1091,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Unagi_Skill_ExSpecial_Title",
+    "Value": ""
+  },
+  {
+    "ID": 109111111,
+    "AvatarID": 1091,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Unagi_Property_ExSpecial_Desc_Dmg_01",
+    "Value": "{{Skill:1091009, Prop:1001}+{Skill:1091010, Prop:1001}}"
+  },
+  {
+    "ID": 109111112,
+    "AvatarID": 1091,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Unagi_Property_ExSpecial_Desc_Dmg_02",
+    "Value": "{{Skill:1091011, Prop:1001}+{Skill:1091012, Prop:1001}}"
+  },
+  {
+    "ID": 109111121,
+    "AvatarID": 1091,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Unagi_Property_ExSpecial_Desc_Stun_01",
+    "Value": "{{Skill:1091009, Prop:1002}+{Skill:1091010, Prop:1002}}"
+  },
+  {
+    "ID": 109111122,
+    "AvatarID": 1091,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Unagi_Property_ExSpecial_Desc_Stun_02",
+    "Value": "{{Skill:1091011, Prop:1002}+{Skill:1091012, Prop:1002}}"
+  },
+  {
+    "ID": 109111131,
+    "AvatarID": 1091,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Unagi_Property_ExSpecial_Desc_SpCost_01",
+    "Value": "Unagi_Property_ExSpecial_SpCostValue_01"
+  },
+  {
+    "ID": 109111132,
+    "AvatarID": 1091,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Unagi_Property_ExSpecial_Desc_SpCost_02",
+    "Value": "Unagi_Property_ExSpecial_SpCostValue_02"
+  },
+  {
+    "ID": 109112010,
+    "AvatarID": 1091,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Unagi_Skill_Rush_Title",
+    "Value": ""
+  },
+  {
+    "ID": 109112011,
+    "AvatarID": 1091,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_DamageRatio",
+    "Value": "{Skill:1091013, Prop:1001}"
+  },
+  {
+    "ID": 109112021,
+    "AvatarID": 1091,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_BreakStunRatio",
+    "Value": "{Skill:1091013, Prop:1002}"
+  },
+  {
+    "ID": 109112031,
+    "AvatarID": 1091,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_SpRecovery",
+    "Value": "{Skill:1091013, Prop:1003}"
+  },
+  {
+    "ID": 109112110,
+    "AvatarID": 1091,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Unagi_Skill_Counter_Title",
+    "Value": ""
+  },
+  {
+    "ID": 109112111,
+    "AvatarID": 1091,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_DamageRatio",
+    "Value": "{Skill:1091014, Prop:1001}"
+  },
+  {
+    "ID": 109112121,
+    "AvatarID": 1091,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_BreakStunRatio",
+    "Value": "{Skill:1091014, Prop:1002}"
+  },
+  {
+    "ID": 109112131,
+    "AvatarID": 1091,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_SpRecovery",
+    "Value": "{Skill:1091014, Prop:1003}"
+  },
+  {
+    "ID": 109113010,
+    "AvatarID": 1091,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Unagi_Skill_QTE_Title",
+    "Value": ""
+  },
+  {
+    "ID": 109113011,
+    "AvatarID": 1091,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_DamageRatio",
+    "Value": "{{Skill:1091015, Prop:1001}+{Skill:1091016, Prop:1001}}+{Skill:1091017, Prop:1001}"
+  },
+  {
+    "ID": 109113021,
+    "AvatarID": 1091,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_BreakStunRatio",
+    "Value": "{{Skill:1091015, Prop:1002}+{Skill:1091016, Prop:1002}}+{Skill:1091017, Prop:1002}"
+  },
+  {
+    "ID": 109113110,
+    "AvatarID": 1091,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Unagi_Skill_ExQTE_Title",
+    "Value": ""
+  },
+  {
+    "ID": 109113111,
+    "AvatarID": 1091,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_DamageRatio",
+    "Value": "{{Skill:1091018, Prop:1001}+{Skill:1091019, Prop:1001}}+{Skill:1091020, Prop:1001}"
+  },
+  {
+    "ID": 109113121,
+    "AvatarID": 1091,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_BreakStunRatio",
+    "Value": "{{Skill:1091018, Prop:1002}+{Skill:1091019, Prop:1002}}+{Skill:1091020, Prop:1002}"
+  },
+  {
+    "ID": 109113210,
+    "AvatarID": 1091,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Unagi_Skill_AidAttack_Title",
+    "Value": ""
+  },
+  {
+    "ID": 109113211,
+    "AvatarID": 1091,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_DamageRatio",
+    "Value": "{Skill:1091014, Prop:1001}"
+  },
+  {
+    "ID": 109113221,
+    "AvatarID": 1091,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_BreakStunRatio",
+    "Value": "{Skill:1091014, Prop:1002}"
+  },
+  {
+    "ID": 109113231,
+    "AvatarID": 1091,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_SpRecovery",
+    "Value": "{Skill:1091014, Prop:1003}"
+  },
+  {
+    "ID": 110100000,
+    "AvatarID": 1101,
+    "TextType": 0,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "OokumaMari_Skill_Normal_Title",
+    "Text": "OokumaMari_Skill_Normal_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 110101000,
+    "AvatarID": 1101,
+    "TextType": 0,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "OokumaMari_Skill_Special_Title",
+    "Text": "OokumaMari_Skill_Special_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 110101100,
+    "AvatarID": 1101,
+    "TextType": 0,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "OokumaMari_Skill_ExSpecial_Title",
+    "Text": "OokumaMari_Skill_ExSpecial_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 110102000,
+    "AvatarID": 1101,
+    "TextType": 0,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "OokumaMari_Skill_Evade_Title",
+    "Text": "OokumaMari_Skill_Evade_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 110102100,
+    "AvatarID": 1101,
+    "TextType": 0,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "OokumaMari_Skill_Rush_Title",
+    "Text": "OokumaMari_Skill_Rush_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 110102200,
+    "AvatarID": 1101,
+    "TextType": 0,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "OokumaMari_Skill_Counter_Title",
+    "Text": "OokumaMari_Skill_Counter_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 110103000,
+    "AvatarID": 1101,
+    "TextType": 0,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "OokumaMari_Skill_QTE_Title",
+    "Text": "OokumaMari_Skill_QTE_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 110103100,
+    "AvatarID": 1101,
+    "TextType": 0,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "OokumaMari_Skill_ExQTE_Title",
+    "Text": "OokumaMari_Skill_ExQTE_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 110103200,
+    "AvatarID": 1101,
+    "TextType": 0,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "OokumaMari_Skill_AidAttack_Title",
+    "Text": "OokumaMari_Skill_AidAttack_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 110110010,
+    "AvatarID": 1101,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "OokumaMari_Skill_Normal_Title",
+    "Value": ""
+  },
+  {
+    "ID": 110110011,
+    "AvatarID": 1101,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Dmg_01",
+    "Value": "{Skill:1101001, Prop:1001}"
+  },
+  {
+    "ID": 110110012,
+    "AvatarID": 1101,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Dmg_02",
+    "Value": "{Skill:1101002, Prop:1001}"
+  },
+  {
+    "ID": 110110013,
+    "AvatarID": 1101,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Dmg_03",
+    "Value": "{Skill:1101003, Prop:1001}"
+  },
+  {
+    "ID": 110110014,
+    "AvatarID": 1101,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Dmg_04",
+    "Value": "{Skill:1101004, Prop:1001}"
+  },
+  {
+    "ID": 110110021,
+    "AvatarID": 1101,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Stun_01",
+    "Value": "{Skill:1101001, Prop:1002}"
+  },
+  {
+    "ID": 110110022,
+    "AvatarID": 1101,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Stun_02",
+    "Value": "{Skill:1101002, Prop:1002}"
+  },
+  {
+    "ID": 110110023,
+    "AvatarID": 1101,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Stun_03",
+    "Value": "{Skill:1101003, Prop:1002}"
+  },
+  {
+    "ID": 110110024,
+    "AvatarID": 1101,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Stun_04",
+    "Value": "{Skill:1101004, Prop:1002}"
+  },
+  {
+    "ID": 110110031,
+    "AvatarID": 1101,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Sp_01",
+    "Value": "{Skill:1101001, Prop:1003}"
+  },
+  {
+    "ID": 110110032,
+    "AvatarID": 1101,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Sp_02",
+    "Value": "{Skill:1101002, Prop:1003}"
+  },
+  {
+    "ID": 110110033,
+    "AvatarID": 1101,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Sp_03",
+    "Value": "{Skill:1101003, Prop:1003}"
+  },
+  {
+    "ID": 110110034,
+    "AvatarID": 1101,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Sp_04",
+    "Value": "{Skill:1101004, Prop:1003}"
+  },
+  {
+    "ID": 110111010,
+    "AvatarID": 1101,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "OokumaMari_Skill_Special_Title",
+    "Value": ""
+  },
+  {
+    "ID": 110111011,
+    "AvatarID": 1101,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "OokumaMari_Property_Special_Desc_Dmg_01",
+    "Value": "{Skill:1101101, Prop:1001}"
+  },
+  {
+    "ID": 110111012,
+    "AvatarID": 1101,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "OokumaMari_Property_Special_Desc_Dmg_02",
+    "Value": "{Skill:1101105, Prop:1001}"
+  },
+  {
+    "ID": 110111013,
+    "AvatarID": 1101,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "OokumaMari_Property_Special_Desc_Dmg_03",
+    "Value": "{Skill:1101108, Prop:1001}"
+  },
+  {
+    "ID": 110111014,
+    "AvatarID": 1101,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "OokumaMari_Property_Special_Desc_Dmg_04",
+    "Value": "{Skill:1101104, Prop:1001}"
+  },
+  {
+    "ID": 110111021,
+    "AvatarID": 1101,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "OokumaMari_Property_Special_Desc_Stun_01",
+    "Value": "{Skill:1101101, Prop:1002}"
+  },
+  {
+    "ID": 110111022,
+    "AvatarID": 1101,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "OokumaMari_Property_Special_Desc_Stun_02",
+    "Value": "{Skill:1101105, Prop:1002}"
+  },
+  {
+    "ID": 110111023,
+    "AvatarID": 1101,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "OokumaMari_Property_Special_Desc_Stun_03",
+    "Value": "{Skill:1101108, Prop:1002}"
+  },
+  {
+    "ID": 110111024,
+    "AvatarID": 1101,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "OokumaMari_Property_Special_Desc_Stun_04",
+    "Value": "{Skill:1101104, Prop:1002}"
+  },
+  {
+    "ID": 110111110,
+    "AvatarID": 1101,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "OokumaMari_Skill_ExSpecial_Title",
+    "Value": ""
+  },
+  {
+    "ID": 110111111,
+    "AvatarID": 1101,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "OokumaMari_Property_ExSpecial_Desc_Dmg_01",
+    "Value": "{Skill:1101102, Prop:1001}"
+  },
+  {
+    "ID": 110111112,
+    "AvatarID": 1101,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "OokumaMari_Property_ExSpecial_Desc_Dmg_02",
+    "Value": "{Skill:1101103, Prop:1001}"
+  },
+  {
+    "ID": 110111113,
+    "AvatarID": 1101,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "OokumaMari_Property_ExSpecial_Desc_Dmg_03",
+    "Value": "{Skill:1101106, Prop:1001}"
+  },
+  {
+    "ID": 110111114,
+    "AvatarID": 1101,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "OokumaMari_Property_ExSpecial_Desc_Dmg_04",
+    "Value": "{Skill:1101107, Prop:1001}"
+  },
+  {
+    "ID": 110111115,
+    "AvatarID": 1101,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "OokumaMari_Property_ExSpecial_Desc_Dmg_05",
+    "Value": "{Skill:1101109, Prop:1001}"
+  },
+  {
+    "ID": 110111116,
+    "AvatarID": 1101,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "OokumaMari_Property_ExSpecial_Desc_Dmg_06",
+    "Value": "{Skill:1101110, Prop:1001}"
+  },
+  {
+    "ID": 110111121,
+    "AvatarID": 1101,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "OokumaMari_Property_ExSpecial_Desc_Stun_01",
+    "Value": "{Skill:1101102, Prop:1002}"
+  },
+  {
+    "ID": 110111122,
+    "AvatarID": 1101,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "OokumaMari_Property_ExSpecial_Desc_Stun_02",
+    "Value": "{Skill:1101103, Prop:1002}"
+  },
+  {
+    "ID": 110111123,
+    "AvatarID": 1101,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "OokumaMari_Property_ExSpecial_Desc_Stun_03",
+    "Value": "{Skill:1101106, Prop:1002}"
+  },
+  {
+    "ID": 110111124,
+    "AvatarID": 1101,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "OokumaMari_Property_ExSpecial_Desc_Stun_04",
+    "Value": "{Skill:1101107, Prop:1002}"
+  },
+  {
+    "ID": 110111125,
+    "AvatarID": 1101,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "OokumaMari_Property_ExSpecial_Desc_Stun_05",
+    "Value": "{Skill:1101109, Prop:1002}"
+  },
+  {
+    "ID": 110111126,
+    "AvatarID": 1101,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "OokumaMari_Property_ExSpecial_Desc_Stun_06",
+    "Value": "{Skill:1101110, Prop:1002}"
+  },
+  {
+    "ID": 110111141,
+    "AvatarID": 1101,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "OokumaMari_Property_ExSpecial_Desc_SpCost_01",
+    "Value": "OokumaMari_Property_ExSpecial_SpCostValue_01"
+  },
+  {
+    "ID": 110112010,
+    "AvatarID": 1101,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "OokumaMari_Skill_Rush_Title",
+    "Value": ""
+  },
+  {
+    "ID": 110112011,
+    "AvatarID": 1101,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_DamageRatio",
+    "Value": "{Skill:1101201, Prop:1001}"
+  },
+  {
+    "ID": 110112021,
+    "AvatarID": 1101,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_BreakStunRatio",
+    "Value": "{Skill:1101201, Prop:1002}"
+  },
+  {
+    "ID": 110112031,
+    "AvatarID": 1101,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_SpRecovery",
+    "Value": "{Skill:1101201, Prop:1003}"
+  },
+  {
+    "ID": 110112110,
+    "AvatarID": 1101,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "OokumaMari_Skill_Counter_Title",
+    "Value": ""
+  },
+  {
+    "ID": 110112111,
+    "AvatarID": 1101,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_DamageRatio",
+    "Value": "{Skill:1101202, Prop:1001}"
+  },
+  {
+    "ID": 110112121,
+    "AvatarID": 1101,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_BreakStunRatio",
+    "Value": "{Skill:1101202, Prop:1002}"
+  },
+  {
+    "ID": 110112131,
+    "AvatarID": 1101,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_SpRecovery",
+    "Value": "{Skill:1101202, Prop:1003}"
+  },
+  {
+    "ID": 110113010,
+    "AvatarID": 1101,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "OokumaMari_Skill_QTE_Title",
+    "Value": ""
+  },
+  {
+    "ID": 110113011,
+    "AvatarID": 1101,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_DamageRatio",
+    "Value": "{Skill:1101301, Prop:1001}"
+  },
+  {
+    "ID": 110113021,
+    "AvatarID": 1101,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_BreakStunRatio",
+    "Value": "{Skill:1101301, Prop:1002}"
+  },
+  {
+    "ID": 110113110,
+    "AvatarID": 1101,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "OokumaMari_Skill_ExQTE_Title",
+    "Value": ""
+  },
+  {
+    "ID": 110113111,
+    "AvatarID": 1101,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_DamageRatio",
+    "Value": "{Skill:1101401, Prop:1001}"
+  },
+  {
+    "ID": 110113121,
+    "AvatarID": 1101,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_BreakStunRatio",
+    "Value": "{Skill:1101401, Prop:1002}"
+  },
+  {
+    "ID": 110113210,
+    "AvatarID": 1101,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "OokumaMari_Skill_AidAttack_Title",
+    "Value": ""
+  },
+  {
+    "ID": 110113211,
+    "AvatarID": 1101,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_DamageRatio",
+    "Value": "{Skill:1101202, Prop:1001}"
+  },
+  {
+    "ID": 110113221,
+    "AvatarID": 1101,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_BreakStunRatio",
+    "Value": "{Skill:1101202, Prop:1002}"
+  },
+  {
+    "ID": 110113231,
+    "AvatarID": 1101,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_SpRecovery",
+    "Value": "{Skill:1101202, Prop:1003}"
+  },
+  {
+    "ID": 112100000,
+    "AvatarID": 1121,
+    "TextType": 0,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "Ben_Skill_Normal_Title",
+    "Text": "Ben_Skill_Normal_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 112101000,
+    "AvatarID": 1121,
+    "TextType": 0,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "Ben_Skill_Special_Title",
+    "Text": "Ben_Skill_Special_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 112101100,
+    "AvatarID": 1121,
+    "TextType": 0,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "Ben_Skill_ExSpecial_Title",
+    "Text": "Ben_Skill_ExSpecial_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 112101200,
+    "AvatarID": 1121,
+    "TextType": 0,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "Ben_Skill_Weapon_Title",
+    "Text": "Ben_Skill_Weapon_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 112102000,
+    "AvatarID": 1121,
+    "TextType": 0,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "Ben_Skill_Evade_Title",
+    "Text": "Ben_Skill_Evade_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 112102100,
+    "AvatarID": 1121,
+    "TextType": 0,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "Ben_Skill_Rush_Title",
+    "Text": "Ben_Skill_Rush_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 112102200,
+    "AvatarID": 1121,
+    "TextType": 0,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "Ben_Skill_Counter_Title",
+    "Text": "Ben_Skill_Counter_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 112103000,
+    "AvatarID": 1121,
+    "TextType": 0,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "Ben_Skill_QTE_Title",
+    "Text": "Ben_Skill_QTE_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 112103100,
+    "AvatarID": 1121,
+    "TextType": 0,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "Ben_Skill_ExQTE_Title",
+    "Text": "Ben_Skill_ExQTE_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 112103200,
+    "AvatarID": 1121,
+    "TextType": 0,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "Ben_Skill_AidAttack_Title",
+    "Text": "Ben_Skill_AidAttack_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 112110010,
+    "AvatarID": 1121,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Ben_Skill_Normal_Title",
+    "Value": ""
+  },
+  {
+    "ID": 112110011,
+    "AvatarID": 1121,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Dmg_01",
+    "Value": "{Skill:1121001, Prop:1001}"
+  },
+  {
+    "ID": 112110012,
+    "AvatarID": 1121,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Dmg_02",
+    "Value": "{Skill:1121002, Prop:1001}"
+  },
+  {
+    "ID": 112110013,
+    "AvatarID": 1121,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Dmg_03",
+    "Value": "{Skill:1121003, Prop:1001}"
+  },
+  {
+    "ID": 112110021,
+    "AvatarID": 1121,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Stun_01",
+    "Value": "{Skill:1121001, Prop:1002}"
+  },
+  {
+    "ID": 112110022,
+    "AvatarID": 1121,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Stun_02",
+    "Value": "{Skill:1121002, Prop:1002}"
+  },
+  {
+    "ID": 112110023,
+    "AvatarID": 1121,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Stun_03",
+    "Value": "{Skill:1121003, Prop:1002}"
+  },
+  {
+    "ID": 112110031,
+    "AvatarID": 1121,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Sp_01",
+    "Value": "{Skill:1121001, Prop:1003}"
+  },
+  {
+    "ID": 112110032,
+    "AvatarID": 1121,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Sp_02",
+    "Value": "{Skill:1121002, Prop:1003}"
+  },
+  {
+    "ID": 112110033,
+    "AvatarID": 1121,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Sp_03",
+    "Value": "{Skill:1121003, Prop:1003}"
+  },
+  {
+    "ID": 112111010,
+    "AvatarID": 1121,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Ben_Skill_Special_Title",
+    "Value": ""
+  },
+  {
+    "ID": 112111011,
+    "AvatarID": 1121,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Ben_Property_Special_Desc_Dmg_01",
+    "Value": "{Skill:1121006, Prop:1001}"
+  },
+  {
+    "ID": 112111012,
+    "AvatarID": 1121,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Ben_Property_Special_Desc_Dmg_02",
+    "Value": "{Skill:1121005, Prop:1001}"
+  },
+  {
+    "ID": 112111021,
+    "AvatarID": 1121,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Ben_Property_Special_Desc_Stun_01",
+    "Value": "{Skill:1121006, Prop:1002}"
+  },
+  {
+    "ID": 112111022,
+    "AvatarID": 1121,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Ben_Property_Special_Desc_Stun_02",
+    "Value": "{Skill:1121005, Prop:1002}"
+  },
+  {
+    "ID": 112111110,
+    "AvatarID": 1121,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Ben_Skill_ExSpecial_Title",
+    "Value": ""
+  },
+  {
+    "ID": 112111111,
+    "AvatarID": 1121,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Ben_Property_ExSpecial_Desc_Dmg_01",
+    "Value": "{Skill:1121009, Prop:1001}"
+  },
+  {
+    "ID": 112111112,
+    "AvatarID": 1121,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Ben_Property_ExSpecial_Desc_Dmg_02",
+    "Value": "{Skill:1121008, Prop:1001}"
+  },
+  {
+    "ID": 112111113,
+    "AvatarID": 1121,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Ben_Property_ExSpecial_Desc_Dmg_03",
+    "Value": "{Skill:1121011, Prop:1001}"
+  },
+  {
+    "ID": 112111121,
+    "AvatarID": 1121,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Ben_Property_ExSpecial_Desc_Stun_01",
+    "Value": "{Skill:1121009, Prop:1002}"
+  },
+  {
+    "ID": 112111122,
+    "AvatarID": 1121,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Ben_Property_ExSpecial_Desc_Stun_02",
+    "Value": "{Skill:1121008, Prop:1002}"
+  },
+  {
+    "ID": 112111123,
+    "AvatarID": 1121,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Ben_Property_ExSpecial_Desc_Stun_03",
+    "Value": "{Skill:1121011, Prop:1002}"
+  },
+  {
+    "ID": 112111141,
+    "AvatarID": 1121,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Ben_Property_ExSpecial_Desc_SpCost_01",
+    "Value": "Ben_Property_ExSpecial_SpCostValue_01"
+  },
+  {
+    "ID": 112111210,
+    "AvatarID": 1121,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Ben_Skill_Weapon_Title",
+    "Value": ""
+  },
+  {
+    "ID": 112111211,
+    "AvatarID": 1121,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Ben_Property_Weapon_Desc_Dmg_01",
+    "Value": "{Skill:1121010, Prop:1001}"
+  },
+  {
+    "ID": 112111212,
+    "AvatarID": 1121,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Ben_Property_Weapon_Desc_Dmg_02",
+    "Value": "{Skill:1121012, Prop:1001}"
+  },
+  {
+    "ID": 112111221,
+    "AvatarID": 1121,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Ben_Property_Weapon_Desc_Stun_01",
+    "Value": "{Skill:1121010, Prop:1002}"
+  },
+  {
+    "ID": 112111222,
+    "AvatarID": 1121,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Ben_Property_Weapon_Desc_Stun_02",
+    "Value": "{Skill:1121012, Prop:1002}"
+  },
+  {
+    "ID": 112112010,
+    "AvatarID": 1121,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Ben_Skill_Rush_Title",
+    "Value": ""
+  },
+  {
+    "ID": 112112011,
+    "AvatarID": 1121,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_DamageRatio",
+    "Value": "{Skill:1121013, Prop:1001}"
+  },
+  {
+    "ID": 112112021,
+    "AvatarID": 1121,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_BreakStunRatio",
+    "Value": "{Skill:1121013, Prop:1002}"
+  },
+  {
+    "ID": 112112031,
+    "AvatarID": 1121,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_SpRecovery",
+    "Value": "{Skill:1121013, Prop:1003}"
+  },
+  {
+    "ID": 112112110,
+    "AvatarID": 1121,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Ben_Skill_Counter_Title",
+    "Value": ""
+  },
+  {
+    "ID": 112112111,
+    "AvatarID": 1121,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_DamageRatio",
+    "Value": "{Skill:1121014, Prop:1001}"
+  },
+  {
+    "ID": 112112121,
+    "AvatarID": 1121,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_BreakStunRatio",
+    "Value": "{Skill:1121014, Prop:1002}"
+  },
+  {
+    "ID": 112112131,
+    "AvatarID": 1121,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_SpRecovery",
+    "Value": "{Skill:1121014, Prop:1003}"
+  },
+  {
+    "ID": 112113010,
+    "AvatarID": 1121,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Ben_Skill_QTE_Title",
+    "Value": ""
+  },
+  {
+    "ID": 112113011,
+    "AvatarID": 1121,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_DamageRatio",
+    "Value": "{Skill:1121015, Prop:1001}"
+  },
+  {
+    "ID": 112113021,
+    "AvatarID": 1121,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_BreakStunRatio",
+    "Value": "{Skill:1121015, Prop:1002}"
+  },
+  {
+    "ID": 112113110,
+    "AvatarID": 1121,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Ben_Skill_ExQTE_Title",
+    "Value": ""
+  },
+  {
+    "ID": 112113111,
+    "AvatarID": 1121,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_DamageRatio",
+    "Value": "{Skill:1121016, Prop:1001}"
+  },
+  {
+    "ID": 112113121,
+    "AvatarID": 1121,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_BreakStunRatio",
+    "Value": "{Skill:1121016, Prop:1002}"
+  },
+  {
+    "ID": 112113210,
+    "AvatarID": 1121,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Ben_Skill_AidAttack_Title",
+    "Value": ""
+  },
+  {
+    "ID": 112113211,
+    "AvatarID": 1121,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_DamageRatio",
+    "Value": "{Skill:1121014, Prop:1001}"
+  },
+  {
+    "ID": 112113221,
+    "AvatarID": 1121,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_BreakStunRatio",
+    "Value": "{Skill:1121014, Prop:1002}"
+  },
+  {
+    "ID": 112113231,
+    "AvatarID": 1121,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_SpRecovery",
+    "Value": "{Skill:1121014, Prop:1003}"
+  },
+  {
+    "ID": 111100000,
+    "AvatarID": 1111,
+    "TextType": 0,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "Anton_Skill_NormalMode_Normal_Title",
+    "Text": "Anton_Skill_NormalMode_Normal_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 111100100,
+    "AvatarID": 1111,
+    "TextType": 0,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "Anton_Skill_ExMode_Normal_Title",
+    "Text": "Anton_Skill_ExMode_Normal_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 111101000,
+    "AvatarID": 1111,
+    "TextType": 0,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "Anton_Skill_Special_Title",
+    "Text": "Anton_Skill_Special_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 111101100,
+    "AvatarID": 1111,
+    "TextType": 0,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "Anton_Skill_ExSpecial_Title",
+    "Text": "Anton_Skill_ExSpecial_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 111101200,
+    "AvatarID": 1111,
+    "TextType": 0,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "Anton_Skill_ExMode_Special_Title",
+    "Text": "Anton_Skill_ExMode_Special_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 111101300,
+    "AvatarID": 1111,
+    "TextType": 0,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "Anton_Skill_ExMode_ExSpecial_Title",
+    "Text": "Anton_Skill_ExMode_ExSpecial_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 111102000,
+    "AvatarID": 1111,
+    "TextType": 0,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "Anton_Skill_Evade_Title",
+    "Text": "Anton_Skill_Evade_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 111102100,
+    "AvatarID": 1111,
+    "TextType": 0,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "Anton_NormalMode_Skill_Rush_Title",
+    "Text": "Anton_Skill_NormalMode_Rush_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 111102200,
+    "AvatarID": 1111,
+    "TextType": 0,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "Anton_ExMode_Skill_Rush_Title",
+    "Text": "Anton_Skill_ExMode_Rush_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 111102300,
+    "AvatarID": 1111,
+    "TextType": 0,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "Anton_Skill_Counter_Title",
+    "Text": "Anton_Skill_Counter_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 111103000,
+    "AvatarID": 1111,
+    "TextType": 0,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "Anton_Skill_QTE_Title",
+    "Text": "Anton_Skill_QTE_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 111103100,
+    "AvatarID": 1111,
+    "TextType": 0,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "Anton_Skill_ExQTE_Title",
+    "Text": "Anton_Skill_ExQTE_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 111103200,
+    "AvatarID": 1111,
+    "TextType": 0,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "Anton_Skill_AidAttack_Title",
+    "Text": "Anton_Skill_AidAttack_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 111110010,
+    "AvatarID": 1111,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Anton_Skill_NormalMode_Normal_Title",
+    "Value": ""
+  },
+  {
+    "ID": 111110011,
+    "AvatarID": 1111,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Dmg_01",
+    "Value": "{Skill:1111001, Prop:1001}"
+  },
+  {
+    "ID": 111110012,
+    "AvatarID": 1111,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Dmg_02",
+    "Value": "{Skill:1111002, Prop:1001}"
+  },
+  {
+    "ID": 111110013,
+    "AvatarID": 1111,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Dmg_03",
+    "Value": "{Skill:1111003, Prop:1001}"
+  },
+  {
+    "ID": 111110014,
+    "AvatarID": 1111,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Dmg_04",
+    "Value": "{Skill:1111004, Prop:1001}"
+  },
+  {
+    "ID": 111110021,
+    "AvatarID": 1111,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Stun_01",
+    "Value": "{Skill:1111001, Prop:1002}"
+  },
+  {
+    "ID": 111110022,
+    "AvatarID": 1111,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Stun_02",
+    "Value": "{Skill:1111002, Prop:1002}"
+  },
+  {
+    "ID": 111110023,
+    "AvatarID": 1111,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Stun_03",
+    "Value": "{Skill:1111003, Prop:1002}"
+  },
+  {
+    "ID": 111110024,
+    "AvatarID": 1111,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Stun_04",
+    "Value": "{Skill:1111004, Prop:1002}"
+  },
+  {
+    "ID": 111110031,
+    "AvatarID": 1111,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Sp_01",
+    "Value": "{Skill:1111001, Prop:1003}"
+  },
+  {
+    "ID": 111110032,
+    "AvatarID": 1111,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Sp_02",
+    "Value": "{Skill:1111002, Prop:1003}"
+  },
+  {
+    "ID": 111110033,
+    "AvatarID": 1111,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Sp_03",
+    "Value": "{Skill:1111003, Prop:1003}"
+  },
+  {
+    "ID": 111110034,
+    "AvatarID": 1111,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Sp_04",
+    "Value": "{Skill:1111004, Prop:1003}"
+  },
+  {
+    "ID": 111110110,
+    "AvatarID": 1111,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Anton_Skill_ExMode_Normal_Title",
+    "Value": ""
+  },
+  {
+    "ID": 111110111,
+    "AvatarID": 1111,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Anton_Property_ExMode_Normal_Desc_Dmg_01",
+    "Value": "{Skill:1111005, Prop:1001}"
+  },
+  {
+    "ID": 111110112,
+    "AvatarID": 1111,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Anton_Property_ExMode_Normal_Desc_Dmg_02",
+    "Value": "{Skill:1111006, Prop:1001}"
+  },
+  {
+    "ID": 111110113,
+    "AvatarID": 1111,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Anton_Property_ExMode_Normal_Desc_Dmg_03_Punch",
+    "Value": "{Skill:1111007, Prop:1001}"
+  },
+  {
+    "ID": 111110114,
+    "AvatarID": 1111,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Anton_Property_ExMode_Normal_Desc_Dmg_03_Drill",
+    "Value": "{Skill:1111008, Prop:1001}"
+  },
+  {
+    "ID": 111110115,
+    "AvatarID": 1111,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Anton_Property_ExMode_Normal_Desc_Dmg_04_Driver",
+    "Value": "{Skill:1111009, Prop:1001}"
+  },
+  {
+    "ID": 111110116,
+    "AvatarID": 1111,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Anton_Property_ExMode_Normal_Desc_Dmg_04_Brust",
+    "Value": "{Skill:1111010, Prop:1001}"
+  },
+  {
+    "ID": 111110121,
+    "AvatarID": 1111,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Anton_Property_ExMode_Normal_Desc_Stun_01",
+    "Value": "{Skill:1111005, Prop:1002}"
+  },
+  {
+    "ID": 111110122,
+    "AvatarID": 1111,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Anton_Property_ExMode_Normal_Desc_Stun_02",
+    "Value": "{Skill:1111006, Prop:1002}"
+  },
+  {
+    "ID": 111110123,
+    "AvatarID": 1111,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Anton_Property_ExMode_Normal_Desc_Stun_03_Punch",
+    "Value": "{Skill:1111007, Prop:1002}"
+  },
+  {
+    "ID": 111110124,
+    "AvatarID": 1111,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Anton_Property_ExMode_Normal_Desc_Stun_03_Drill",
+    "Value": "{Skill:1111008, Prop:1002}"
+  },
+  {
+    "ID": 111110125,
+    "AvatarID": 1111,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Anton_Property_ExMode_Normal_Desc_Stun_04_Driver",
+    "Value": "{Skill:1111009, Prop:1002}"
+  },
+  {
+    "ID": 111110126,
+    "AvatarID": 1111,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Anton_Property_ExMode_Normal_Desc_Stun_04_Brust",
+    "Value": "{Skill:1111010, Prop:1002}"
+  },
+  {
+    "ID": 111111010,
+    "AvatarID": 1111,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Anton_Skill_Special_Title",
+    "Value": ""
+  },
+  {
+    "ID": 111111011,
+    "AvatarID": 1111,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_DamageRatio",
+    "Value": "{Skill:1111011, Prop:1001}"
+  },
+  {
+    "ID": 111111021,
+    "AvatarID": 1111,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_BreakStunRatio",
+    "Value": "{Skill:1111011, Prop:1002}"
+  },
+  {
+    "ID": 111111110,
+    "AvatarID": 1111,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Anton_Skill_ExSpecial_Title",
+    "Value": ""
+  },
+  {
+    "ID": 111111111,
+    "AvatarID": 1111,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_DamageRatio",
+    "Value": "{Skill:1111012, Prop:1001}"
+  },
+  {
+    "ID": 111111121,
+    "AvatarID": 1111,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_BreakStunRatio",
+    "Value": "{Skill:1111012, Prop:1002}"
+  },
+  {
+    "ID": 111111141,
+    "AvatarID": 1111,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Anton_Property_Speical_Desc_SpConsume_01",
+    "Value": "Anton_Property_ExSpecial_SpCostValue_01"
+  },
+  {
+    "ID": 111111143,
+    "AvatarID": 1111,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Anton_Property_Desc_ExMode_SpConsume",
+    "Value": "Anton_Property_ExMode_SpCostValue_01"
+  },
+  {
+    "ID": 111112010,
+    "AvatarID": 1111,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Anton_Skill_NormalMode_Rush_Title",
+    "Value": ""
+  },
+  {
+    "ID": 111112011,
+    "AvatarID": 1111,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_DamageRatio",
+    "Value": "{Skill:1111015, Prop:1001}"
+  },
+  {
+    "ID": 111112021,
+    "AvatarID": 1111,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_BreakStunRatio",
+    "Value": "{Skill:1111015, Prop:1002}"
+  },
+  {
+    "ID": 111112031,
+    "AvatarID": 1111,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_SpRecovery",
+    "Value": "{Skill:1111015, Prop:1003}"
+  },
+  {
+    "ID": 111112110,
+    "AvatarID": 1111,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Anton_Skill_ExMode_Rush_Title",
+    "Value": ""
+  },
+  {
+    "ID": 111112111,
+    "AvatarID": 1111,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_DamageRatio",
+    "Value": "{Skill:1111016, Prop:1001}"
+  },
+  {
+    "ID": 111112121,
+    "AvatarID": 1111,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_BreakStunRatio",
+    "Value": "{Skill:1111016, Prop:1002}"
+  },
+  {
+    "ID": 111112210,
+    "AvatarID": 1111,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Anton_Skill_Counter_Title",
+    "Value": ""
+  },
+  {
+    "ID": 111112211,
+    "AvatarID": 1111,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_DamageRatio",
+    "Value": "{Skill:1111017, Prop:1001}"
+  },
+  {
+    "ID": 111112221,
+    "AvatarID": 1111,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_BreakStunRatio",
+    "Value": "{Skill:1111017, Prop:1002}"
+  },
+  {
+    "ID": 111112231,
+    "AvatarID": 1111,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_SpRecovery",
+    "Value": "{Skill:1111017, Prop:1003}"
+  },
+  {
+    "ID": 111113010,
+    "AvatarID": 1111,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Anton_Skill_QTE_Title",
+    "Value": ""
+  },
+  {
+    "ID": 111113011,
+    "AvatarID": 1111,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Anton_Property_QTE_Desc_Dmg_01",
+    "Value": "{{Skill:1111018, Prop:1001}*3/10}"
+  },
+  {
+    "ID": 111113021,
+    "AvatarID": 1111,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Anton_Property_QTE_Desc_Stun_01",
+    "Value": "{{Skill:1111018, Prop:1002}*3/10}"
+  },
+  {
+    "ID": 111113051,
+    "AvatarID": 1111,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Anton_Property_QTE_Desc_Combo",
+    "Value": "Anton_Property_QTE_Desc_Combo_Value"
+  },
+  {
+    "ID": 111113012,
+    "AvatarID": 1111,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Anton_Property_QTE_Desc_Dmg_02",
+    "Value": "{{Skill:1111018, Prop:1001}*4/10}"
+  },
+  {
+    "ID": 111113022,
+    "AvatarID": 1111,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Anton_Property_QTE_Desc_Stun_02",
+    "Value": "{{Skill:1111018, Prop:1002}*4/10}"
+  },
+  {
+    "ID": 111113110,
+    "AvatarID": 1111,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Anton_Skill_ExQTE_Title",
+    "Value": ""
+  },
+  {
+    "ID": 111113111,
+    "AvatarID": 1111,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Anton_Property_QTE_Desc_Dmg_01",
+    "Value": "{{Skill:1111019, Prop:1001}*175/1000}"
+  },
+  {
+    "ID": 111113121,
+    "AvatarID": 1111,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Anton_Property_QTE_Desc_Stun_01",
+    "Value": "{{Skill:1111019, Prop:1002}*175/1000}"
+  },
+  {
+    "ID": 111113151,
+    "AvatarID": 1111,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Anton_Property_QTE_Desc_Combo",
+    "Value": "Anton_Property_ExQTE_Desc_Combo_Value"
+  },
+  {
+    "ID": 111113112,
+    "AvatarID": 1111,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Anton_Property_QTE_Desc_Dmg_02",
+    "Value": "{{Skill:1111019, Prop:1001}*3/10}"
+  },
+  {
+    "ID": 111113122,
+    "AvatarID": 1111,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Anton_Property_QTE_Desc_Stun_02",
+    "Value": "{{Skill:1111019, Prop:1002}*3/10}"
+  },
+  {
+    "ID": 111113210,
+    "AvatarID": 1111,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Anton_Skill_AidAttack_Title",
+    "Value": ""
+  },
+  {
+    "ID": 111113211,
+    "AvatarID": 1111,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_DamageRatio",
+    "Value": "{Skill:1111017, Prop:1001}"
+  },
+  {
+    "ID": 111113221,
+    "AvatarID": 1111,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_BreakStunRatio",
+    "Value": "{Skill:1111017, Prop:1002}"
+  },
+  {
+    "ID": 111113231,
+    "AvatarID": 1111,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_SpRecovery",
+    "Value": "{Skill:1111017, Prop:1003}"
+  },
+  {
+    "ID": 111111210,
+    "AvatarID": 1111,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Anton_Skill_ExMode_Special_Title",
+    "Value": ""
+  },
+  {
+    "ID": 111111211,
+    "AvatarID": 1111,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_DamageRatio",
+    "Value": "{Skill:1111013, Prop:1001}"
+  },
+  {
+    "ID": 111111221,
+    "AvatarID": 1111,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_BreakStunRatio",
+    "Value": "{Skill:1111013, Prop:1002}"
+  },
+  {
+    "ID": 111111310,
+    "AvatarID": 1111,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Anton_Skill_ExMode_ExSpecial_Title",
+    "Value": ""
+  },
+  {
+    "ID": 111111311,
+    "AvatarID": 1111,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_DamageRatio",
+    "Value": "{Skill:1111014, Prop:1001}"
+  },
+  {
+    "ID": 111111321,
+    "AvatarID": 1111,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_BreakStunRatio",
+    "Value": "{Skill:1111014, Prop:1002}"
+  },
+  {
+    "ID": 111111341,
+    "AvatarID": 1111,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Anton_Property_ExMode_Speical_Desc_SpConsume_01",
+    "Value": "Anton_Property_ExMode_Speical_SpCostValue_01"
+  },
+  {
+    "ID": 111111342,
+    "AvatarID": 1111,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Anton_Property_ExMode_Speical_Desc_SpConsume_02",
+    "Value": "Anton_Property_ExMode_Speical_SpCostValue_02"
+  },
+  {
+    "ID": 113100000,
+    "AvatarID": 1131,
+    "TextType": 0,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "Aokaku_Skill_Normal_Title",
+    "Text": "Aokaku_Skill_Normal_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 113100100,
+    "AvatarID": 1131,
+    "TextType": 0,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "Aokaku_Skill_Normal_Enhance_Title",
+    "Text": "Aokaku_Skill_Normal_Enhance_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 113101000,
+    "AvatarID": 1131,
+    "TextType": 0,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "Aokaku_Skill_Special_Title",
+    "Text": "Aokaku_Skill_Special_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 113101100,
+    "AvatarID": 1131,
+    "TextType": 0,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "Aokaku_Skill_ExSpecial_Title",
+    "Text": "Aokaku_Skill_ExSpecial_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 113101200,
+    "AvatarID": 1131,
+    "TextType": 0,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "Aokaku_Skill_Special_Flag_Title",
+    "Text": "Aokaku_Skill_Special_Flag_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 113102000,
+    "AvatarID": 1131,
+    "TextType": 0,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "Aokaku_Skill_Evade_Title",
+    "Text": "Aokaku_Skill_Evade_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 113102100,
+    "AvatarID": 1131,
+    "TextType": 0,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "Aokaku_Skill_Rush_Title",
+    "Text": "Aokaku_Skill_Rush_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 113102200,
+    "AvatarID": 1131,
+    "TextType": 0,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "Aokaku_Skill_Counter_Title",
+    "Text": "Aokaku_Skill_Counter_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 113103000,
+    "AvatarID": 1131,
+    "TextType": 0,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "Aokaku_Skill_QTE_Title",
+    "Text": "Aokaku_Skill_QTE_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 113103100,
+    "AvatarID": 1131,
+    "TextType": 0,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "Aokaku_Skill_ExQTE_Title",
+    "Text": "Aokaku_Skill_ExQTE_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 113103200,
+    "AvatarID": 1131,
+    "TextType": 0,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "Aokaku_Skill_AidAttack_Title",
+    "Text": "Aokaku_Skill_AidAttack_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 113110010,
+    "AvatarID": 1131,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Aokaku_Skill_Normal_Title",
+    "Value": ""
+  },
+  {
+    "ID": 113110011,
+    "AvatarID": 1131,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Dmg_01",
+    "Value": "{Skill:1131001, Prop:1001}"
+  },
+  {
+    "ID": 113110012,
+    "AvatarID": 1131,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Dmg_02",
+    "Value": "{Skill:1131002, Prop:1001}"
+  },
+  {
+    "ID": 113110013,
+    "AvatarID": 1131,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Dmg_03",
+    "Value": "{Skill:1131003, Prop:1001}"
+  },
+  {
+    "ID": 113110021,
+    "AvatarID": 1131,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Stun_01",
+    "Value": "{Skill:1131001, Prop:1002}"
+  },
+  {
+    "ID": 113110022,
+    "AvatarID": 1131,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Stun_02",
+    "Value": "{Skill:1131002, Prop:1002}"
+  },
+  {
+    "ID": 113110023,
+    "AvatarID": 1131,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Stun_03",
+    "Value": "{Skill:1131003, Prop:1002}"
+  },
+  {
+    "ID": 113110031,
+    "AvatarID": 1131,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Sp_01",
+    "Value": "{Skill:1131001, Prop:1003}"
+  },
+  {
+    "ID": 113110032,
+    "AvatarID": 1131,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Sp_02",
+    "Value": "{Skill:1131002, Prop:1003}"
+  },
+  {
+    "ID": 113110033,
+    "AvatarID": 1131,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Sp_03",
+    "Value": "{Skill:1131003, Prop:1003}"
+  },
+  {
+    "ID": 113110110,
+    "AvatarID": 1131,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Aokaku_Skill_Normal_Enhance_Title",
+    "Value": ""
+  },
+  {
+    "ID": 113110111,
+    "AvatarID": 1131,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Dmg_01",
+    "Value": "{Skill:1131004, Prop:1001}"
+  },
+  {
+    "ID": 113110112,
+    "AvatarID": 1131,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Dmg_02",
+    "Value": "{Skill:1131005, Prop:1001}"
+  },
+  {
+    "ID": 113110113,
+    "AvatarID": 1131,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Dmg_03",
+    "Value": "{Skill:1131006, Prop:1001}"
+  },
+  {
+    "ID": 113110121,
+    "AvatarID": 1131,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Stun_01",
+    "Value": "{Skill:1131004, Prop:1002}"
+  },
+  {
+    "ID": 113110122,
+    "AvatarID": 1131,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Stun_02",
+    "Value": "{Skill:1131005, Prop:1002}"
+  },
+  {
+    "ID": 113110123,
+    "AvatarID": 1131,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Stun_03",
+    "Value": "{Skill:1131006, Prop:1002}"
+  },
+  {
+    "ID": 113110131,
+    "AvatarID": 1131,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Sp_01",
+    "Value": "{Skill:1131004, Prop:1003}"
+  },
+  {
+    "ID": 113110132,
+    "AvatarID": 1131,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Sp_02",
+    "Value": "{Skill:1131005, Prop:1003}"
+  },
+  {
+    "ID": 113110133,
+    "AvatarID": 1131,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Sp_03",
+    "Value": "{Skill:1131006, Prop:1003}"
+  },
+  {
+    "ID": 113111010,
+    "AvatarID": 1131,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Aokaku_Skill_Special_Title",
+    "Value": ""
+  },
+  {
+    "ID": 113111011,
+    "AvatarID": 1131,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Dmg_01",
+    "Value": "{Skill:1131008, Prop:1001}"
+  },
+  {
+    "ID": 113111012,
+    "AvatarID": 1131,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Aokaku_Property_Special_Desc_Dmg_01",
+    "Value": "{Skill:1131009, Prop:1001}"
+  },
+  {
+    "ID": 113111021,
+    "AvatarID": 1131,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Stun_01",
+    "Value": "{Skill:1131008, Prop:1002}"
+  },
+  {
+    "ID": 113111022,
+    "AvatarID": 1131,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Aokaku_Property_Special_Desc_Stun_01",
+    "Value": "{Skill:1131009, Prop:1002}"
+  },
+  {
+    "ID": 113111110,
+    "AvatarID": 1131,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Aokaku_Skill_ExSpecial_Title",
+    "Value": ""
+  },
+  {
+    "ID": 113111111,
+    "AvatarID": 1131,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Aokaku_Property_ExSpecial_Desc_Dmg_01",
+    "Value": "{Skill:1131011, Prop:1001}"
+  },
+  {
+    "ID": 113111112,
+    "AvatarID": 1131,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Aokaku_Property_ExSpecial_Desc_Dmg_02",
+    "Value": "{Skill:1131010, Prop:1001}"
+  },
+  {
+    "ID": 113111121,
+    "AvatarID": 1131,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Aokaku_Property_ExSpecial_Desc_Stun_01",
+    "Value": "{Skill:1131011, Prop:1002}"
+  },
+  {
+    "ID": 113111122,
+    "AvatarID": 1131,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Aokaku_Property_ExSpecial_Desc_Stun_02",
+    "Value": "{Skill:1131010, Prop:1002}"
+  },
+  {
+    "ID": 113111141,
+    "AvatarID": 1131,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Aokaku_Property_ExSpecial_Desc_SpConsume_01",
+    "Value": "Aokaku_Property_ExSpecial_SpCostValue_01"
+  },
+  {
+    "ID": 113111142,
+    "AvatarID": 1131,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Aokaku_Property_ExSpecial_Desc_SpConsume_02",
+    "Value": "Aokaku_Property_ExSpecial_SpCostValue_02"
+  },
+  {
+    "ID": 113111210,
+    "AvatarID": 1131,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Aokaku_Skill_Special_Flag_Title",
+    "Value": ""
+  },
+  {
+    "ID": 113111211,
+    "AvatarID": 1131,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Aokaku_Property_Special_Flag_Desc_Dmg_01",
+    "Value": "{Skill:1131013, Prop:1001}"
+  },
+  {
+    "ID": 113111212,
+    "AvatarID": 1131,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Aokaku_Property_Special_Flag_Desc_Dmg_02",
+    "Value": "{Skill:1131014, Prop:1001}"
+  },
+  {
+    "ID": 113111213,
+    "AvatarID": 1131,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Aokaku_Property_Special_Flag_Desc_Dmg_03",
+    "Value": "{Skill:1131015, Prop:1001}"
+  },
+  {
+    "ID": 113111221,
+    "AvatarID": 1131,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Aokaku_Property_Special_Flag_Desc_Stun_01",
+    "Value": "{Skill:1131013, Prop:1002}"
+  },
+  {
+    "ID": 113111222,
+    "AvatarID": 1131,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Aokaku_Property_Special_Flag_Desc_Stun_02",
+    "Value": "{Skill:1131014, Prop:1002}"
+  },
+  {
+    "ID": 113111223,
+    "AvatarID": 1131,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Aokaku_Property_Special_Flag_Desc_Stun_03",
+    "Value": "{Skill:1131015, Prop:1002}"
+  },
+  {
+    "ID": 113111251,
+    "AvatarID": 1131,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Aokaku_Property_Special_Flag_Desc_BuffRatioBase",
+    "Value": "Aokaku_Property_Special_Flag_Value_BuffRatioBase"
+  },
+  {
+    "ID": 113112010,
+    "AvatarID": 1131,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Aokaku_Skill_Rush_Title",
+    "Value": ""
+  },
+  {
+    "ID": 113112011,
+    "AvatarID": 1131,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_DamageRatio",
+    "Value": "{Skill:1131016, Prop:1001}"
+  },
+  {
+    "ID": 113112021,
+    "AvatarID": 1131,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_BreakStunRatio",
+    "Value": "{Skill:1131016, Prop:1002}"
+  },
+  {
+    "ID": 113112031,
+    "AvatarID": 1131,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_SpRecovery",
+    "Value": "{Skill:1131016, Prop:1003}"
+  },
+  {
+    "ID": 113112110,
+    "AvatarID": 1131,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Aokaku_Skill_Counter_Title",
+    "Value": ""
+  },
+  {
+    "ID": 113112111,
+    "AvatarID": 1131,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_DamageRatio",
+    "Value": "{Skill:1131017, Prop:1001}"
+  },
+  {
+    "ID": 113112121,
+    "AvatarID": 1131,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_BreakStunRatio",
+    "Value": "{Skill:1131017, Prop:1002}"
+  },
+  {
+    "ID": 113112131,
+    "AvatarID": 1131,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_SpRecovery",
+    "Value": "{Skill:1131017, Prop:1003}"
+  },
+  {
+    "ID": 113113010,
+    "AvatarID": 1131,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Aokaku_Skill_QTE_Title",
+    "Value": ""
+  },
+  {
+    "ID": 113113011,
+    "AvatarID": 1131,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_DamageRatio",
+    "Value": "{Skill:1131018, Prop:1001}"
+  },
+  {
+    "ID": 113113021,
+    "AvatarID": 1131,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_BreakStunRatio",
+    "Value": "{Skill:1131018, Prop:1002}"
+  },
+  {
+    "ID": 113113110,
+    "AvatarID": 1131,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Aokaku_Skill_ExQTE_Title",
+    "Value": ""
+  },
+  {
+    "ID": 113113111,
+    "AvatarID": 1131,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_DamageRatio",
+    "Value": "{Skill:1131019, Prop:1001}"
+  },
+  {
+    "ID": 113113121,
+    "AvatarID": 1131,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_BreakStunRatio",
+    "Value": "{Skill:1131019, Prop:1002}"
+  },
+  {
+    "ID": 113113210,
+    "AvatarID": 1131,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Aokaku_Skill_AidAttack_Title",
+    "Value": ""
+  },
+  {
+    "ID": 113113211,
+    "AvatarID": 1131,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_DamageRatio",
+    "Value": "{Skill:1131017, Prop:1001}"
+  },
+  {
+    "ID": 113113221,
+    "AvatarID": 1131,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_BreakStunRatio",
+    "Value": "{Skill:1131017, Prop:1002}"
+  },
+  {
+    "ID": 113113231,
+    "AvatarID": 1131,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_SpRecovery",
+    "Value": "{Skill:1131017, Prop:1003}"
+  },
+  {
+    "ID": 114100000,
+    "AvatarID": 1141,
+    "TextType": 0,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "Lycaon_Skill_Normal_Title",
+    "Text": "Lycaon_Skill_Normal_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 114101000,
+    "AvatarID": 1141,
+    "TextType": 0,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "Lycaon_Skill_Special_Title",
+    "Text": "Lycaon_Skill_Special_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 114101100,
+    "AvatarID": 1141,
+    "TextType": 0,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "Lycaon_Skill_ExSpecial_Title",
+    "Text": "Lycaon_Skill_ExSpecial_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 114102000,
+    "AvatarID": 1141,
+    "TextType": 0,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "Lycaon_Skill_Evade_Title",
+    "Text": "Lycaon_Skill_Evade_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 114102100,
+    "AvatarID": 1141,
+    "TextType": 0,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "Lycaon_Skill_Rush_Title",
+    "Text": "Lycaon_Skill_Rush_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 114102200,
+    "AvatarID": 1141,
+    "TextType": 0,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "Lycaon_Skill_Counter_Title",
+    "Text": "Lycaon_Skill_Counter_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 114103000,
+    "AvatarID": 1141,
+    "TextType": 0,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "Lycaon_Skill_QTE_Title",
+    "Text": "Lycaon_Skill_QTE_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 114103100,
+    "AvatarID": 1141,
+    "TextType": 0,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "Lycaon_Skill_ExQTE_Title",
+    "Text": "Lycaon_Skill_ExQTE_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 114103200,
+    "AvatarID": 1141,
+    "TextType": 0,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "Lycaon_Skill_AidAttack_Title",
+    "Text": "Lycaon_Skill_AidAttack_Desc",
+    "Value": ""
+  },
+  {
+    "ID": 114110010,
+    "AvatarID": 1141,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Lycaon_Skill_Normal_Title",
+    "Value": ""
+  },
+  {
+    "ID": 114110011,
+    "AvatarID": 1141,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Dmg_01",
+    "Value": "{Skill:1141001, Prop:1001}"
+  },
+  {
+    "ID": 114110012,
+    "AvatarID": 1141,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Lycaon_Property_Normal_Desc_Dmg_01",
+    "Value": "{Skill:1141002, Prop:1001}"
+  },
+  {
+    "ID": 114110013,
+    "AvatarID": 1141,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Dmg_02",
+    "Value": "{Skill:1141003, Prop:1001}"
+  },
+  {
+    "ID": 114110014,
+    "AvatarID": 1141,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Lycaon_Property_Normal_Desc_Dmg_02",
+    "Value": "{Skill:1141004, Prop:1001}"
+  },
+  {
+    "ID": 114110015,
+    "AvatarID": 1141,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Dmg_03",
+    "Value": "{Skill:1141005, Prop:1001}"
+  },
+  {
+    "ID": 114110016,
+    "AvatarID": 1141,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Lycaon_Property_Normal_Desc_Dmg_03",
+    "Value": "{Skill:1141006, Prop:1001}"
+  },
+  {
+    "ID": 114110017,
+    "AvatarID": 1141,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Dmg_04",
+    "Value": "{Skill:1141007, Prop:1001}"
+  },
+  {
+    "ID": 114110018,
+    "AvatarID": 1141,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Lycaon_Property_Normal_Desc_Dmg_04",
+    "Value": "{Skill:1141008, Prop:1001}"
+  },
+  {
+    "ID": 114110019,
+    "AvatarID": 1141,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Dmg_05",
+    "Value": "{Skill:1141009, Prop:1001}"
+  },
+  {
+    "ID": 114110020,
+    "AvatarID": 1141,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Lycaon_Property_Normal_Desc_Dmg_05_01",
+    "Value": "{Skill:1141010, Prop:1001}"
+  },
+  {
+    "ID": 114110021,
+    "AvatarID": 1141,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Lycaon_Property_Normal_Desc_Dmg_05_02",
+    "Value": "{Skill:1141011, Prop:1001}"
+  },
+  {
+    "ID": 114110022,
+    "AvatarID": 1141,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Stun_01",
+    "Value": "{Skill:1141001, Prop:1002}"
+  },
+  {
+    "ID": 114110023,
+    "AvatarID": 1141,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Lycaon_Property_Normal_Desc_Stun_01",
+    "Value": "{Skill:1141002, Prop:1002}"
+  },
+  {
+    "ID": 114110024,
+    "AvatarID": 1141,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Stun_02",
+    "Value": "{Skill:1141003, Prop:1002}"
+  },
+  {
+    "ID": 114110025,
+    "AvatarID": 1141,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Lycaon_Property_Normal_Desc_Stun_02",
+    "Value": "{Skill:1141004, Prop:1002}"
+  },
+  {
+    "ID": 114110026,
+    "AvatarID": 1141,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Stun_03",
+    "Value": "{Skill:1141005, Prop:1002}"
+  },
+  {
+    "ID": 114110027,
+    "AvatarID": 1141,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Lycaon_Property_Normal_Desc_Stun_03",
+    "Value": "{Skill:1141006, Prop:1002}"
+  },
+  {
+    "ID": 114110028,
+    "AvatarID": 1141,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Stun_04",
+    "Value": "{Skill:1141007, Prop:1002}"
+  },
+  {
+    "ID": 114110029,
+    "AvatarID": 1141,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Lycaon_Property_Normal_Desc_Stun_04",
+    "Value": "{Skill:1141008, Prop:1002}"
+  },
+  {
+    "ID": 114110030,
+    "AvatarID": 1141,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Stun_05",
+    "Value": "{Skill:1141009, Prop:1002}"
+  },
+  {
+    "ID": 114110031,
+    "AvatarID": 1141,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Lycaon_Property_Normal_Desc_Stun_05_01",
+    "Value": "{Skill:1141010, Prop:1002}"
+  },
+  {
+    "ID": 114110032,
+    "AvatarID": 1141,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Lycaon_Property_Normal_Desc_Stun_05_02",
+    "Value": "{Skill:1141011, Prop:1002}"
+  },
+  {
+    "ID": 114110033,
+    "AvatarID": 1141,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Sp_01",
+    "Value": "{Skill:1141001, Prop:1003}"
+  },
+  {
+    "ID": 114110034,
+    "AvatarID": 1141,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Lycaon_Property_Normal_Desc_Sp_01",
+    "Value": "{Skill:1141002, Prop:1003}"
+  },
+  {
+    "ID": 114110035,
+    "AvatarID": 1141,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Sp_02",
+    "Value": "{Skill:1141003, Prop:1003}"
+  },
+  {
+    "ID": 114110036,
+    "AvatarID": 1141,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Lycaon_Property_Normal_Desc_Sp_02",
+    "Value": "{Skill:1141004, Prop:1003}"
+  },
+  {
+    "ID": 114110037,
+    "AvatarID": 1141,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Sp_03",
+    "Value": "{Skill:1141005, Prop:1003}"
+  },
+  {
+    "ID": 114110038,
+    "AvatarID": 1141,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Lycaon_Property_Normal_Desc_Sp_03",
+    "Value": "{Skill:1141006, Prop:1003}"
+  },
+  {
+    "ID": 114110039,
+    "AvatarID": 1141,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Sp_04",
+    "Value": "{Skill:1141007, Prop:1003}"
+  },
+  {
+    "ID": 114110040,
+    "AvatarID": 1141,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Lycaon_Property_Normal_Desc_Sp_04",
+    "Value": "{Skill:1141008, Prop:1003}"
+  },
+  {
+    "ID": 114110041,
+    "AvatarID": 1141,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Normal_Desc_Sp_05",
+    "Value": "{Skill:1141009, Prop:1003}"
+  },
+  {
+    "ID": 114110042,
+    "AvatarID": 1141,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Lycaon_Property_Normal_Desc_Sp_05_01",
+    "Value": "{Skill:1141010, Prop:1003}"
+  },
+  {
+    "ID": 114110043,
+    "AvatarID": 1141,
+    "TextType": 1,
+    "SkillType": 0,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Lycaon_Property_Normal_Desc_Sp_05_02",
+    "Value": "{Skill:1141011, Prop:1003}"
+  },
+  {
+    "ID": 114110044,
+    "AvatarID": 1141,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Lycaon_Skill_Special_Title",
+    "Value": ""
+  },
+  {
+    "ID": 114110045,
+    "AvatarID": 1141,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_DamageRatio",
+    "Value": "{{Skill:1141012, Prop:1001}+{Skill:1141013, Prop:1001}}"
+  },
+  {
+    "ID": 114110046,
+    "AvatarID": 1141,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Lycaon_Property_Special_Desc_Dmg_01",
+    "Value": "{{Skill:1141012, Prop:1001}+{Skill:1141014, Prop:1001}}"
+  },
+  {
+    "ID": 114110047,
+    "AvatarID": 1141,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_BreakStunRatio",
+    "Value": "{{Skill:1141012, Prop:1002}+{Skill:1141013, Prop:1002}}"
+  },
+  {
+    "ID": 114110048,
+    "AvatarID": 1141,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Lycaon_Property_Special_Desc_Stun_01",
+    "Value": "{{Skill:1141012, Prop:1002}+{Skill:1141014, Prop:1002}}"
+  },
+  {
+    "ID": 114110049,
+    "AvatarID": 1141,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Lycaon_Skill_ExSpecial_Title",
+    "Value": ""
+  },
+  {
+    "ID": 114110050,
+    "AvatarID": 1141,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_DamageRatio",
+    "Value": "{{Skill:1141015, Prop:1001}+{Skill:1141016, Prop:1001}}"
+  },
+  {
+    "ID": 114110051,
+    "AvatarID": 1141,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Lycaon_Property_ExSpecial_Desc_Dmg_01",
+    "Value": "{{Skill:1141015, Prop:1001}+{Skill:1141017, Prop:1001}}"
+  },
+  {
+    "ID": 114110052,
+    "AvatarID": 1141,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_BreakStunRatio",
+    "Value": "{{Skill:1141015, Prop:1002}+{Skill:1141016, Prop:1002}}"
+  },
+  {
+    "ID": 114110053,
+    "AvatarID": 1141,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Lycaon_Property_ExSpecial_Desc_Stun_01",
+    "Value": "{{Skill:1141015, Prop:1002}+{Skill:1141017, Prop:1002}}"
+  },
+  {
+    "ID": 114110054,
+    "AvatarID": 1141,
+    "TextType": 1,
+    "SkillType": 1,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_SpConsume",
+    "Value": "Lycaon_Property_ExSpecial_SpCostValue_01"
+  },
+  {
+    "ID": 114110055,
+    "AvatarID": 1141,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Lycaon_Skill_Rush_Title",
+    "Value": ""
+  },
+  {
+    "ID": 114110056,
+    "AvatarID": 1141,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_DamageRatio",
+    "Value": "{Skill:1141018, Prop:1001}"
+  },
+  {
+    "ID": 114110057,
+    "AvatarID": 1141,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_BreakStunRatio",
+    "Value": "{Skill:1141018, Prop:1002}"
+  },
+  {
+    "ID": 114110058,
+    "AvatarID": 1141,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_SpRecovery",
+    "Value": "{Skill:1141018, Prop:1003}"
+  },
+  {
+    "ID": 114110059,
+    "AvatarID": 1141,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Lycaon_Skill_Counter_Title",
+    "Value": ""
+  },
+  {
+    "ID": 114110060,
+    "AvatarID": 1141,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_DamageRatio",
+    "Value": "{Skill:1141019, Prop:1001}"
+  },
+  {
+    "ID": 114110061,
+    "AvatarID": 1141,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_BreakStunRatio",
+    "Value": "{Skill:1141019, Prop:1002}"
+  },
+  {
+    "ID": 114110062,
+    "AvatarID": 1141,
+    "TextType": 1,
+    "SkillType": 2,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_SpRecovery",
+    "Value": "{Skill:1141019, Prop:1003}"
+  },
+  {
+    "ID": 114110063,
+    "AvatarID": 1141,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Lycaon_Skill_QTE_Title",
+    "Value": ""
+  },
+  {
+    "ID": 114110064,
+    "AvatarID": 1141,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_DamageRatio",
+    "Value": "{Skill:1141020, Prop:1001}"
+  },
+  {
+    "ID": 114110065,
+    "AvatarID": 1141,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_BreakStunRatio",
+    "Value": "{Skill:1141020, Prop:1002}"
+  },
+  {
+    "ID": 114110066,
+    "AvatarID": 1141,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Lycaon_Skill_ExQTE_Title",
+    "Value": ""
+  },
+  {
+    "ID": 114110067,
+    "AvatarID": 1141,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_DamageRatio",
+    "Value": "{Skill:1141021, Prop:1001}"
+  },
+  {
+    "ID": 114110068,
+    "AvatarID": 1141,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_BreakStunRatio",
+    "Value": "{Skill:1141021, Prop:1002}"
+  },
+  {
+    "ID": 114110069,
+    "AvatarID": 1141,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 0,
+    "TextTitle": "",
+    "Text": "Lycaon_Skill_AidAttack_Title",
+    "Value": ""
+  },
+  {
+    "ID": 114110070,
+    "AvatarID": 1141,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_DamageRatio",
+    "Value": "{Skill:1141019, Prop:1001}"
+  },
+  {
+    "ID": 114110071,
+    "AvatarID": 1141,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_BreakStunRatio",
+    "Value": "{Skill:1141019, Prop:1002}"
+  },
+  {
+    "ID": 114110072,
+    "AvatarID": 1141,
+    "TextType": 1,
+    "SkillType": 3,
+    "DescType": 1,
+    "TextTitle": "",
+    "Text": "Common_Property_Desc_SpRecovery",
+    "Value": "{Skill:1141019, Prop:1003}"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "ID": 1,
+    "ChapterName": "第一章",
+    "ChapterDesc": "ChapterDesc_1",
+    "ChapterIcon": "UI/Sprite/A1DynamicLoad/GameModeMap/Cover/Small/UnPacker/GameModeCoverSmall01.png",
+    "ChapterBackground": "UI/Sprite/A1DynamicLoad/GameModeMap/Cover/FullScreen/UnPacker/GameModeCover01.png",
+    "ChapterBackground2": "Assets/NapResources/UI/Sprite/A1DynamicLoad/GameModeMap/Cover/Vague/UnPacker/GameModeCoverVague01.png"
+  },
+  {
+    "ID": 2,
+    "ChapterName": "第二章",
+    "ChapterDesc": "ChapterDesc_2",
+    "ChapterIcon": "UI/Sprite/A1DynamicLoad/GameModeMap/Cover/Small/UnPacker/GameModeCoverSmall02.png",
+    "ChapterBackground": "UI/Sprite/A1DynamicLoad/GameModeMap/Cover/FullScreen/UnPacker/GameModeCover02.png",
+    "ChapterBackground2": "Assets/NapResources/UI/Sprite/A1DynamicLoad/GameModeMap/Cover/Vague/UnPacker/GameModeCoverVague02.png"
+  },
+  {
+    "ID": 99,
+    "ChapterName": "模板库",
+    "ChapterDesc": "ChapterDesc_99",
+    "ChapterIcon": "UI/Sprite/A1DynamicLoad/GameModeMap/Cover/Small/UnPacker/GameModeCoverSmall01.png",
+    "ChapterBackground": "UI/Sprite/A1DynamicLoad/GameModeMap/Cover/FullScreen/UnPacker/GameModeCover01.png",
+    "ChapterBackground2": "Assets/NapResources/UI/Sprite/A1DynamicLoad/GameModeMap/Cover/Vague/UnPacker/GameModeCoverVague01.png"
+  },
+  {
+    "ID": 100,
+    "ChapterName": "废弃关卡",
+    "ChapterDesc": "ChapterDesc_100",
+    "ChapterIcon": "UI/Sprite/A1DynamicLoad/GameModeMap/Cover/Small/UnPacker/GameModeCoverSmall02.png",
+    "ChapterBackground": "UI/Sprite/A1DynamicLoad/GameModeMap/Cover/FullScreen/UnPacker/GameModeCover01.png",
+    "ChapterBackground2": "Assets/NapResources/UI/Sprite/A1DynamicLoad/GameModeMap/Cover/Vague/UnPacker/GameModeCoverVague01.png"
+  },
+  {
+    "ID": 101,
+    "ChapterName": "测试关卡",
+    "ChapterDesc": "ChapterDesc_101",
+    "ChapterIcon": "UI/Sprite/A1DynamicLoad/GameModeMap/Cover/Small/UnPacker/GameModeCoverSmall02.png",
+    "ChapterBackground": "UI/Sprite/A1DynamicLoad/GameModeMap/Cover/FullScreen/UnPacker/GameModeCover01.png",
+    "ChapterBackground2": "Assets/NapResources/UI/Sprite/A1DynamicLoad/GameModeMap/Cover/Vague/UnPacker/GameModeCoverVague01.png"
+  }
+]

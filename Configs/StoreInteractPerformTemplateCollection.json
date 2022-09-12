@@ -1,0 +1,154 @@
+[
+  {
+    "ID": 1001,
+    "TriggerType": "Ramen_Enter",
+    "NPC": 2019,
+    "AnimatorParam": 200302,
+    "ItemStateParam": "noodle:false",
+    "VoiceKey": 100044
+  },
+  {
+    "ID": 1002,
+    "TriggerType": "Ramen_Exit",
+    "NPC": 2019,
+    "AnimatorParam": 200301,
+    "ItemStateParam": "noodle:true",
+    "VoiceKey": 100039
+  },
+  {
+    "ID": 1003,
+    "TriggerType": "Ramen_Meal",
+    "NPC": 2019,
+    "AnimatorParam": 0,
+    "ItemStateParam": "",
+    "VoiceKey": 100040
+  },
+  {
+    "ID": 1004,
+    "TriggerType": "Ramen_Order",
+    "NPC": 2019,
+    "AnimatorParam": 0,
+    "ItemStateParam": "",
+    "VoiceKey": 0
+  },
+  {
+    "ID": 1005,
+    "TriggerType": "Ramen_Enter",
+    "NPC": 2019,
+    "AnimatorParam": 200304,
+    "ItemStateParam": "noodle:false",
+    "VoiceKey": 100045
+  },
+  {
+    "ID": 1006,
+    "TriggerType": "Ramen_Enter",
+    "NPC": 2019,
+    "AnimatorParam": 200305,
+    "ItemStateParam": "noodle:false",
+    "VoiceKey": 100038
+  },
+  {
+    "ID": 1007,
+    "TriggerType": "Grocery_Enter",
+    "NPC": 2016,
+    "AnimatorParam": 300102,
+    "ItemStateParam": "",
+    "VoiceKey": 100041
+  },
+  {
+    "ID": 1008,
+    "TriggerType": "Grocery_Exit",
+    "NPC": 2016,
+    "AnimatorParam": 300101,
+    "ItemStateParam": "",
+    "VoiceKey": 100042
+  },
+  {
+    "ID": 1009,
+    "TriggerType": "Grocery_Buy",
+    "NPC": 2016,
+    "AnimatorParam": 300104,
+    "ItemStateParam": "",
+    "VoiceKey": 0
+  },
+  {
+    "ID": 1010,
+    "TriggerType": "Grocery_Expand",
+    "NPC": 2017,
+    "AnimatorParam": 300105,
+    "ItemStateParam": "",
+    "VoiceKey": 0
+  },
+  {
+    "ID": 1011,
+    "TriggerType": "Grocery_Expand",
+    "NPC": 2018,
+    "AnimatorParam": 300106,
+    "ItemStateParam": "",
+    "VoiceKey": 0
+  },
+  {
+    "ID": 1012,
+    "TriggerType": "VHS_Enter",
+    "NPC": 2028,
+    "AnimatorParam": 0,
+    "ItemStateParam": "",
+    "VoiceKey": 0
+  },
+  {
+    "ID": 1013,
+    "TriggerType": "VHS_Exit",
+    "NPC": 2028,
+    "AnimatorParam": 0,
+    "ItemStateParam": "",
+    "VoiceKey": 0
+  },
+  {
+    "ID": 1014,
+    "TriggerType": "VHS_Stacking",
+    "NPC": 2028,
+    "AnimatorParam": 0,
+    "ItemStateParam": "",
+    "VoiceKey": 0
+  },
+  {
+    "ID": 1015,
+    "TriggerType": "VHS_Click",
+    "NPC": 2028,
+    "AnimatorParam": 0,
+    "ItemStateParam": "",
+    "VoiceKey": 0
+  },
+  {
+    "ID": 1016,
+    "TriggerType": "Video_Enter",
+    "NPC": 0,
+    "AnimatorParam": 0,
+    "ItemStateParam": "",
+    "VoiceKey": 100035
+  },
+  {
+    "ID": 1017,
+    "TriggerType": "Video_Exit",
+    "NPC": 0,
+    "AnimatorParam": 0,
+    "ItemStateParam": "",
+    "VoiceKey": 100036
+  },
+  {
+    "ID": 1018,
+    "TriggerType": "Video_Craft",
+    "NPC": 0,
+    "AnimatorParam": 0,
+    "ItemStateParam": "",
+    "VoiceKey": 0
+  },
+  {
+    "ID": 1019,
+    "TriggerType": "Video_Craft10",
+    "NPC": 0,
+    "AnimatorParam": 0,
+    "ItemStateParam": "",
+    "VoiceKey": 100037
+  }
+]

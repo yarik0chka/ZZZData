@@ -1,0 +1,72 @@
+[
+  {
+    "ID": 5001201,
+    "DamagePercentage": 10000,
+    "DamagePercentageGrowth": 0,
+    "StunRatio": 10000,
+    "StunRatioGrowth": 0
+  },
+  {
+    "ID": 5001202,
+    "DamagePercentage": 10000,
+    "DamagePercentageGrowth": 0,
+    "StunRatio": 10000,
+    "StunRatioGrowth": 0
+  },
+  {
+    "ID": 5001203,
+    "DamagePercentage": 10000,
+    "DamagePercentageGrowth": 0,
+    "StunRatio": 10000,
+    "StunRatioGrowth": 0
+  },
+  {
+    "ID": 5001204,
+    "DamagePercentage": 10000,
+    "DamagePercentageGrowth": 0,
+    "StunRatio": 10000,
+    "StunRatioGrowth": 0
+  },
+  {
+    "ID": 5001205,
+    "DamagePercentage": 10000,
+    "DamagePercentageGrowth": 0,
+    "StunRatio": 10000,
+    "StunRatioGrowth": 0
+  },
+  {
+    "ID": 5001301,
+    "DamagePercentage": 10000,
+    "DamagePercentageGrowth": 0,
+    "StunRatio": 10000,
+    "StunRatioGrowth": 0
+  },
+  {
+    "ID": 5001302,
+    "DamagePercentage": 10000,
+    "DamagePercentageGrowth": 0,
+    "StunRatio": 10000,
+    "StunRatioGrowth": 0
+  },
+  {
+    "ID": 5001303,
+    "DamagePercentage": 10000,
+    "DamagePercentageGrowth": 0,
+    "StunRatio": 10000,
+    "StunRatioGrowth": 0
+  },
+  {
+    "ID": 5001304,
+    "DamagePercentage": 10000,
+    "DamagePercentageGrowth": 0,
+    "StunRatio": 10000,
+    "StunRatioGrowth": 0
+  },
+  {
+    "ID": 5001305,
+    "DamagePercentage": 10000,
+    "DamagePercentageGrowth": 0,
+    "StunRatio": 10000,
+    "StunRatioGrowth": 0
+  }
+]
